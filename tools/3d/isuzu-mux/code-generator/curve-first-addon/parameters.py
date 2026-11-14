@@ -1,0 +1,20 @@
+import bpy
+from bpy.props import FloatProperty,EnumProperty,BoolProperty
+# Family-scale guidance supplied in brief, not newly verified official dimensions.
+BASE={'length':4.825,'width':1.860,'height':1.860,'wheelbase':2.845,'track':1.570,'tire_diameter':.764,'ground_clearance':.23,'bonnet_length':1.20,'bonnet_height':1.13,'roof_crown':.055,'greenhouse_width':1.49,'belt_height':1.19,'rear_taper':.08,'fender_bulge':.025,'arch_clearance':.07,'windscreen_run':.50}
+class MUXParameters(bpy.types.PropertyGroup):
+ quality:EnumProperty(name='Mode',items=[('PREVIEW','Preview','Low-density iteration'),('QUALITY','Quality','Higher wheel sampling and bevel segments')],default='PREVIEW')
+for key,value in BASE.items():
+ MUXParameters.__annotations__[key]=FloatProperty(name=key.replace('_',' ').title(),default=value,min=value*.65,max=value*1.35,precision=3)
+def values(scene):return {k:getattr(scene.toli_mux,k) for k in BASE}|{'quality':scene.toli_mux.quality}
+
+# Lazy callbacks avoid importing Blender UI operators while defining parameters.
+def construction_visibility(self,context):
+ from .curve_ui import visibility
+ visibility(self,context)
+def reference_visibility(self,context):
+ from .curve_ui import references
+ references(self,context)
+MUXParameters.__annotations__['show_construction_curves']=BoolProperty(name='Show Construction Curves',default=True,update=construction_visibility)
+for key in ['front','side','rear','threequarter']:
+ MUXParameters.__annotations__['reference_'+key]=BoolProperty(name=key.title()+' reference',default=False,update=reference_visibility)

@@ -1,0 +1,80 @@
+[
+  {
+    "image": 1,
+    "role": "DETAIL ONLY",
+    "core": false,
+    "reason": "sparse static anchors and open-panel occlusion; project for diagnosis, not trusted core pose validation"
+  },
+  {
+    "image": 2,
+    "role": "CALIBRATION ONLY",
+    "core": false,
+    "reason": "external structural validation/pose candidates; not used to fit shared landmark geometry; detail remains available qualitatively"
+  },
+  {
+    "image": 3,
+    "role": "DETAIL ONLY",
+    "core": false,
+    "reason": "sparse static anchors and open-panel occlusion; project for diagnosis, not trusted core pose validation"
+  },
+  {
+    "image": 4,
+    "role": "CALIBRATION ONLY",
+    "core": false,
+    "reason": "external structural validation/pose candidates; not used to fit shared landmark geometry; detail remains available qualitatively"
+  },
+  {
+    "image": 5,
+    "role": "EXCLUDED",
+    "core": false,
+    "reason": "interior panorama does not share stable exterior anchors"
+  },
+  {
+    "image": 6,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 7,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 8,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 9,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 10,
+    "role": "CALIBRATION ONLY",
+    "core": false,
+    "reason": "external structural validation/pose candidates; not used to fit shared landmark geometry; detail remains available qualitatively"
+  },
+  {
+    "image": 11,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 12,
+    "role": "CALIBRATION + DETAIL",
+    "core": true,
+    "reason": "one selected closed view for required front/left/right/rear/front-quarter/rear-quarter constraints"
+  },
+  {
+    "image": 13,
+    "role": "CALIBRATION ONLY",
+    "core": false,
+    "reason": "external structural validation/pose candidates; not used to fit shared landmark geometry; detail remains available qualitatively"
+  }
+]

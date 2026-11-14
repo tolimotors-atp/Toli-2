@@ -1,0 +1,19 @@
+{
+  "result": {
+    "images": [
+      {
+        "alt": "Isuzu MU-X — front three-quarter view",
+        "loaded": true,
+        "src": "http://127.0.0.1:8207/Toli-2/assets/mux-front-640-h3RCvy4o.avif"
+      },
+      {
+        "alt": "Isuzu MU-X — rear three-quarter view",
+        "loaded": true,
+        "src": "http://127.0.0.1:8207/Toli-2/assets/mux-rear-640-C0rSMYtZ.avif"
+      }
+    ],
+    "overflow": false,
+    "targetCanvases": 0
+  },
+  "console": []
+}

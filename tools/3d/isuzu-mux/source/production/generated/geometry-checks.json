@@ -1,0 +1,17 @@
+{
+  "base_vertices": 8670,
+  "evaluated_vertices": 25193,
+  "evaluated_triangles": 48582,
+  "mesh_and_curve_objects": 241,
+  "materials": 12,
+  "texture_images": 0,
+  "external_paid_assets": "NONE",
+  "fresh_authored_geometry": true,
+  "tire_ground_heights": {
+    "WHEEL_FL": 0.0,
+    "WHEEL_FR": 0.0,
+    "WHEEL_RL": 0.0,
+    "WHEEL_RR": 0.0
+  },
+  "vehicle_parts_bounds_include_mirrors_steps": true
+}

@@ -1,0 +1,74 @@
+{
+  "regions": {
+    "front": {
+      "primary": "18-17-10",
+      "secondary": [
+        "18-17-25",
+        "18-17-27"
+      ]
+    },
+    "side_fenders": {
+      "primary": "18-17-14",
+      "secondary": [
+        "18-17-25",
+        "18-09-40"
+      ]
+    },
+    "rear_cabin": {
+      "primary": "18-17-35",
+      "secondary": [
+        "18-17-18",
+        "18-17-14"
+      ]
+    },
+    "rear": {
+      "primary": "18-17-18",
+      "secondary": [
+        "18-17-35",
+        "18-17-31"
+      ]
+    },
+    "surface_character": {
+      "primary": "18-17-25",
+      "secondary": [
+        "18-17-35",
+        "18-17-14"
+      ]
+    }
+  },
+  "normalized_measurements": {
+    "front": {
+      "body_width_pixels": 330,
+      "front_height_pixels": 350,
+      "grille_width_ratio": 0.6060606060606061,
+      "headlight_outer_span_ratio": 0.896969696969697,
+      "headlight_height_front_height": 0.15714285714285714,
+      "grille_height_front_height": 0.18,
+      "bonnet_leading_height_from_ground_ratio": 0.49714285714285716,
+      "lower_opening_width_ratio": 0.49393939393939396,
+      "reference_bounds": [
+        375,
+        130,
+        705,
+        480
+      ]
+    },
+    "rear": {
+      "body_width_pixels": 346,
+      "rear_height_pixels": 336,
+      "glass_width_ratio": 0.8439306358381503,
+      "glass_height_ratio": 0.23511904761904762,
+      "lamp_outer_span_ratio": 0.9566473988439307,
+      "lamp_height_ratio": 0.12797619047619047,
+      "tailgate_width_ratio": 0.8815028901734104,
+      "bumper_height_ratio": 0.13095238095238096,
+      "reference_bounds": [
+        354,
+        142,
+        700,
+        478
+      ]
+    },
+    "method": "Manual visible-envelope estimates from primary photos, approximately \u00b15 px / ratios \u00b10.02. Front/rear height means roof-to-tire-ground image span. No photogrammetric registration or inference of real millimetres from photo pixels."
+  }
+}

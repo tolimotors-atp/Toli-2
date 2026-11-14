@@ -1,0 +1,257 @@
+{
+  "source": "Manually consolidated from the 28 browser result outputs; screenshots captured for each row.",
+  "checks": [
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "theme": "dark",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "theme": "dark",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "theme": "light",
+      "section": "03",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "theme": "light",
+      "section": "05",
+      "canvasVisible": true,
+      "frameFits": true,
+      "horizontalOverflow": false
+    }
+  ]
+}

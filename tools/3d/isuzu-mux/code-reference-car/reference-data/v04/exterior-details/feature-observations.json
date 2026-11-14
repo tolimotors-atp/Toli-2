@@ -1,0 +1,58 @@
+{
+  "accuracy": "Approximate manual observations; uncalibrated photos, not factory/CAD dimensions",
+  "mirror": {
+    "primaryFront34": "Screenshot From 2026-11-06 18-17-27.png",
+    "front34Bounds": [
+      485,
+      205,
+      584,
+      265
+    ],
+    "side": "Screenshot From 2026-11-06 18-17-14.png",
+    "sideBounds": [
+      385,
+      215,
+      464,
+      274
+    ],
+    "estimatedHousingMetres": [
+      0.19,
+      0.24,
+      0.15
+    ],
+    "indicator": "Not added: the bright lower strip cannot be confidently distinguished from chrome/reflection in the supplied images."
+  },
+  "handles": {
+    "source": "Screenshot From 2026-11-06 18-17-14.png",
+    "approximatePixelCentres": {
+      "front": [
+        555,
+        280
+      ],
+      "rear": [
+        720,
+        274
+      ]
+    },
+    "authoredLengthMetres": 0.2,
+    "relation": "Front grip ends just before B-pillar; rear grip ends before rear-door termination."
+  },
+  "doors": {
+    "source": "Screenshot From 2026-11-06 18-17-14.png",
+    "cutWidthMetres": 0.003,
+    "method": "Closed, rounded surface-following ribbons, 2.5mm outboard of the evaluated skin; no holes or deep trenches; not opening doors."
+  },
+  "plates": {
+    "sources": [
+      "Screenshot From 2026-11-06 18-17-10.png",
+      "Screenshot From 2026-11-06 18-17-18.png"
+    ],
+    "literal": "TOLI MOTORS",
+    "authoredMetres": [
+      0.46,
+      0.115,
+      0.006
+    ],
+    "referenceTreatment": "Use mounting relationship, not the photographed Carwale lettering or registration."
+  }
+}

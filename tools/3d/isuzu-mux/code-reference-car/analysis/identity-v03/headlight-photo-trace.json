@@ -1,0 +1,102 @@
+{
+  "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-08-46.png",
+  "originalSize": [
+    622,
+    450
+  ],
+  "traces": {
+    "H1": [
+      [
+        480,
+        180
+      ],
+      [
+        495,
+        173
+      ],
+      [
+        508,
+        165
+      ]
+    ],
+    "H2": [
+      [
+        454,
+        190
+      ],
+      [
+        465,
+        186
+      ],
+      [
+        480,
+        180
+      ]
+    ],
+    "H3": [
+      [
+        452,
+        217
+      ],
+      [
+        470,
+        223
+      ],
+      [
+        498,
+        220
+      ],
+      [
+        515,
+        217
+      ]
+    ],
+    "H4": [
+      [
+        508,
+        165
+      ],
+      [
+        514,
+        176
+      ],
+      [
+        516,
+        198
+      ],
+      [
+        515,
+        217
+      ]
+    ],
+    "H5": [
+      [
+        454,
+        190
+      ],
+      [
+        454,
+        200
+      ],
+      [
+        452,
+        217
+      ]
+    ],
+    "H8": [
+      [
+        508,
+        165
+      ],
+      [
+        514,
+        154
+      ],
+      [
+        517,
+        147
+      ]
+    ]
+  },
+  "note": "approximate observed 2D contour polylines; H6/H7 depth/crown authored from multiple views, not measured from a single photograph"
+}

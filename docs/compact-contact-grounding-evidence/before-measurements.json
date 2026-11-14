@@ -1,0 +1,338 @@
+[
+  {
+    "cars": {
+      "bottom": 561.671875,
+      "height": 100,
+      "left": 16,
+      "right": 294,
+      "top": 461.671875,
+      "width": 278,
+      "x": 16,
+      "y": 461.671875
+    },
+    "height": 568,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 239.796875,
+      "height": 98,
+      "left": 155.09375,
+      "right": 302,
+      "top": 141.796875,
+      "width": 146.90625,
+      "x": 155.09375,
+      "y": 141.796875
+    },
+    "right": 8,
+    "theme": "dark",
+    "width": 320
+  },
+  {
+    "cars": {
+      "bottom": 564.671875,
+      "height": 100,
+      "left": 16,
+      "right": 364,
+      "top": 464.671875,
+      "width": 348,
+      "x": 16,
+      "y": 464.671875
+    },
+    "height": 844,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 239.796875,
+      "height": 98,
+      "left": 225.09375,
+      "right": 372,
+      "top": 141.796875,
+      "width": 146.90625,
+      "x": 225.09375,
+      "y": 141.796875
+    },
+    "right": 8,
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "cars": {
+      "bottom": 584.0625,
+      "height": 107.5,
+      "left": 17.1875,
+      "right": 402.8125,
+      "top": 476.5625,
+      "width": 385.625,
+      "x": 17.1875,
+      "y": 476.5625
+    },
+    "height": 932,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 239.796875,
+      "height": 98,
+      "left": 265.09375,
+      "right": 412,
+      "top": 141.796875,
+      "width": 146.90625,
+      "x": 265.09375,
+      "y": 141.796875
+    },
+    "right": 8,
+    "theme": "dark",
+    "width": 430
+  },
+  {
+    "cars": {
+      "bottom": 602.21875,
+      "height": 210,
+      "left": 25.59375,
+      "right": 604.40625,
+      "top": 392.21875,
+      "width": 578.8125,
+      "x": 25.59375,
+      "y": 392.21875
+    },
+    "height": 960,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 142,
+      "height": 74,
+      "left": 461.5,
+      "right": 604.40625,
+      "top": 68,
+      "width": 142.90625,
+      "x": 461.5,
+      "y": 68
+    },
+    "right": 25.59375,
+    "theme": "dark",
+    "width": 640
+  },
+  {
+    "cars": {
+      "bottom": 602.21875,
+      "height": 210,
+      "left": 28,
+      "right": 730,
+      "top": 392.21875,
+      "width": 702,
+      "x": 28,
+      "y": 392.21875
+    },
+    "height": 1024,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 142,
+      "height": 74,
+      "left": 587.09375,
+      "right": 730,
+      "top": 68,
+      "width": 142.90625,
+      "x": 587.09375,
+      "y": 68
+    },
+    "right": 28,
+    "theme": "dark",
+    "width": 768
+  },
+  {
+    "cars": {
+      "bottom": 565.46875,
+      "height": 260,
+      "left": 205.296875,
+      "right": 808.703125,
+      "top": 305.46875,
+      "width": 603.40625,
+      "x": 205.296875,
+      "y": 305.46875
+    },
+    "height": 768,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 160,
+      "height": 74,
+      "left": 797.09375,
+      "right": 938,
+      "top": 86,
+      "width": 140.90625,
+      "x": 797.09375,
+      "y": 86
+    },
+    "right": 76,
+    "theme": "dark",
+    "width": 1024
+  },
+  {
+    "cars": {
+      "bottom": 606.40625,
+      "height": 281.59375,
+      "left": 253.203125,
+      "right": 1016.796875,
+      "top": 324.8125,
+      "width": 763.59375,
+      "x": 253.203125,
+      "y": 324.8125
+    },
+    "height": 720,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 1097.3125,
+      "right": 1269,
+      "top": 86,
+      "width": 171.6875,
+      "x": 1097.3125,
+      "y": 86
+    },
+    "right": 1,
+    "theme": "dark",
+    "width": 1280
+  },
+  {
+    "cars": {
+      "bottom": 628.578125,
+      "height": 300.515625,
+      "left": 270.3125,
+      "right": 1085.6875,
+      "top": 328.0625,
+      "width": 815.375,
+      "x": 270.3125,
+      "y": 328.0625
+    },
+    "height": 768,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 1183.21875,
+      "right": 1355.015625,
+      "top": 86,
+      "width": 171.796875,
+      "x": 1183.21875,
+      "y": 86
+    },
+    "right": 0.984375,
+    "theme": "dark",
+    "width": 1366
+  },
+  {
+    "cars": {
+      "bottom": 647.65625,
+      "height": 316.796875,
+      "left": 285.046875,
+      "right": 1144.953125,
+      "top": 330.859375,
+      "width": 859.90625,
+      "x": 285.046875,
+      "y": 330.859375
+    },
+    "height": 900,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 1251.703125,
+      "right": 1429,
+      "top": 86,
+      "width": 177.296875,
+      "x": 1251.703125,
+      "y": 86
+    },
+    "right": 1,
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "cars": {
+      "bottom": 684.984375,
+      "height": 352,
+      "left": 316.890625,
+      "right": 1273.109375,
+      "top": 332.984375,
+      "width": 956.21875,
+      "x": 316.890625,
+      "y": 332.984375
+    },
+    "height": 900,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 1399.734375,
+      "right": 1589,
+      "top": 86,
+      "width": 189.265625,
+      "x": 1399.734375,
+      "y": 86
+    },
+    "right": 1,
+    "theme": "dark",
+    "width": 1600
+  },
+  {
+    "cars": {
+      "bottom": 755.375,
+      "height": 422.390625,
+      "left": 437,
+      "right": 1473,
+      "top": 332.984375,
+      "width": 1036,
+      "x": 437,
+      "y": 332.984375
+    },
+    "height": 1080,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 1716.984375,
+      "right": 1909.015625,
+      "top": 86,
+      "width": 192.03125,
+      "x": 1716.984375,
+      "y": 86
+    },
+    "right": 0.984375,
+    "theme": "dark",
+    "width": 1920
+  },
+  {
+    "cars": {
+      "bottom": 896.171875,
+      "height": 563.1875,
+      "left": 757,
+      "right": 1793,
+      "top": 332.984375,
+      "width": 1036,
+      "x": 757,
+      "y": 332.984375
+    },
+    "height": 1440,
+    "loaded": true,
+    "overflow": false,
+    "phone": {
+      "bottom": 168,
+      "height": 82,
+      "left": 2356.96875,
+      "right": 2549,
+      "top": 86,
+      "width": 192.03125,
+      "x": 2356.96875,
+      "y": 86
+    },
+    "right": 1,
+    "theme": "dark",
+    "width": 2560
+  }
+]

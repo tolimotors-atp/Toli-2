@@ -1,0 +1,134 @@
+{
+  "audit_date": "2026-11-09",
+  "candidate": "2018 Isuzu MU-X",
+  "visible_uploader": "Ghøst",
+  "underlying_geometry_creator": "UNVERIFIED",
+  "exact_browser_page_title": "2018 Isuzu MU X - Model - 3D Warehouse",
+  "source": "https://3dwarehouse.sketchup.com/model/9eceae96-0797-456b-aa14-50812f84f5e6/2018-Isuzu-MU-X",
+  "viewer_access": "PARTIAL — static preview accessible; interactive viewer requires sign-in",
+  "kind": "PUBLIC STATIC PREVIEW SCREENSHOT; not downloaded geometry or locally rendered model",
+  "captured_views": {
+    "front": false,
+    "front_left_three_quarter": true,
+    "left_side": false,
+    "rear_left_three_quarter": false,
+    "rear": false,
+    "rear_right_three_quarter": false,
+    "right_side": false,
+    "front_right_three_quarter": false,
+    "overhead": false,
+    "low_front_three_quarter": false
+  },
+  "capture_count_distinct_angles": 1,
+  "access_gate_text": "Oops! You need to be signed in to view the model in 3D. We’ll bring you right back!",
+  "interaction_log": [
+    "Confirmed page title/uploader",
+    "Selected public 3D Preview tab and View In 3D",
+    "Observed Sign In gate; no sign-in attempted",
+    "Closed gate and returned to Ambient Occlusion static preview",
+    "Clicking static main image did not open enlarged view",
+    "Saved browser screenshots; cropped only visible preview pixels"
+  ],
+  "crop_pixels": [
+    212,
+    333,
+    633,
+    566
+  ],
+  "source_screen_pixels": [
+    1030,
+    712
+  ],
+  "image_processing": "Crop and aspect-preserving layout resizing only; no brightness change, new detail or synthetic view",
+  "visual_scores": [
+    {
+      "region": "Overall proportions",
+      "status": "NEEDS WORK",
+      "reason": "Only one oblique image; full body relationship not validated."
+    },
+    {
+      "region": "Bonnet",
+      "status": "NEEDS WORK",
+      "reason": "Silhouette plausible; dark shading prevents crown/compound-surface inspection."
+    },
+    {
+      "region": "Front fenders",
+      "status": "PASS — preview only",
+      "reason": "Visible arch mass and front-corner envelope are more specific than Manual Overlay V01."
+    },
+    {
+      "region": "Front fascia envelope",
+      "status": "PASS — preview only",
+      "reason": "Angular light/grille/bumper envelope resembles the canonical facelift references; lettering ignored."
+    },
+    {
+      "region": "Windscreen",
+      "status": "NEEDS WORK",
+      "reason": "Width/rake appear plausible, but glass is nearly black and section depth unverified."
+    },
+    {
+      "region": "Greenhouse",
+      "status": "PASS — preview only",
+      "reason": "Older upright cabin/roof/side opening family appears compatible."
+    },
+    {
+      "region": "Window shapes",
+      "status": "NEEDS WORK",
+      "reason": "Dark glazing hides fine boundaries and surrounds."
+    },
+    {
+      "region": "Quarter glass",
+      "status": "NEEDS WORK",
+      "reason": "Only oblique dark side silhouette; cannot confirm boundary/depth."
+    },
+    {
+      "region": "D-pillar",
+      "status": "NEEDS WORK",
+      "reason": "Rear-three-quarter and rear views unavailable."
+    },
+    {
+      "region": "Wheel arches",
+      "status": "PASS — preview only",
+      "reason": "Visible front and side arch envelope is plausible; no dimensional validation."
+    },
+    {
+      "region": "Side body",
+      "status": "NEEDS WORK",
+      "reason": "Only foreshortened dark side; character-line/surface finish not resolved."
+    },
+    {
+      "region": "Rear quarter",
+      "status": "NEEDS WORK",
+      "reason": "Side portion visible, full compound rear wrap unavailable."
+    },
+    {
+      "region": "Rear glass",
+      "status": "NOT ASSESSABLE",
+      "reason": "Required rear angle not captured."
+    },
+    {
+      "region": "Tailgate",
+      "status": "NOT ASSESSABLE",
+      "reason": "Required rear angle not captured."
+    },
+    {
+      "region": "Rear bumper",
+      "status": "NOT ASSESSABLE",
+      "reason": "Required rear angle not captured."
+    }
+  ],
+  "badgeless_recognition": "NEEDS WORK — full multi-view identity cannot be confirmed; front3Q appearance clearly closer than rejected generic cage",
+  "comparison_with_manual_overlay": "BETTER in the accessible front3Q preview only; no mesh/surface or unseen-view superiority established",
+  "visual_decision": "VISUAL-B — provisional promising lead; extent of corrections cannot be determined from one dark angle",
+  "continue_license_investigation": "YES — limited provenance/rights investigation is worth pursuing, not acquisition/integration approval",
+  "license_status": "NOT CLEARED FOR USE; L2 / M3 provisional / BASE-X unchanged",
+  "model_downloaded": false,
+  "technical_geometry": "NOT TESTED; no count/topology/UV/dimension claims from screenshots",
+  "screenshot_sha256": {
+    "viewer-sign-in-gate.jpg": "9b0740380b9f4f3eb8ce25f1c464b209bd0c595acc1e800b262cc1768b9b7d08",
+    "candidate-front-left-34.jpg": "3445ec4c9d529b2b36e5557a06d4524765ef7a2e1defdbb3a96b50c9e200bb1c",
+    "public-preview-screen.jpg": "9651db6358f3e08f5bd04506ce90caf756c4394c83fe1d9a18ea9c3a556fccdf",
+    "source-page.jpg": "5f01bbd80510a0c8ec20f60d14cb347ea22871d79a9b125f22f21e50280a9689",
+    "candidate-front-left-34-screen.jpg": "aabfcd2e3965607a3dfc0decba38a18a4e8f548aec17938a6997f1a10ccc01bd"
+  }
+}

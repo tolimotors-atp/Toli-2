@@ -1,0 +1,39 @@
+{
+  "close": {
+    "bottom": 50,
+    "height": 44,
+    "left": 627,
+    "right": 671,
+    "top": 6,
+    "width": 44,
+    "x": 627,
+    "y": 6
+  },
+  "contentScrolls": true,
+  "dialog": {
+    "bottom": 384,
+    "height": 384,
+    "left": 0,
+    "right": 683,
+    "top": 0,
+    "width": 683,
+    "x": 0,
+    "y": 0
+  },
+  "method": "200%-equivalent CSS viewport: half of 1366x768; native shortcut did not change browser scale",
+  "next": {
+    "bottom": 376,
+    "height": 52,
+    "left": 12,
+    "right": 671,
+    "top": 324,
+    "width": 659,
+    "x": 12,
+    "y": 324
+  },
+  "overflow": false,
+  "viewport": [
+    683,
+    384
+  ]
+}

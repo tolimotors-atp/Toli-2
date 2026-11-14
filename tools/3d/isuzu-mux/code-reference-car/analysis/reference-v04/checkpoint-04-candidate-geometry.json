@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "length": 4.792485952377319,
+    "width": 1.8600000143051147,
+    "height": 1.860000013589859,
+    "groundZ": 7.152557435219364e-10,
+    "wheelbase": 2.845,
+    "tireDiameter": 0.7639999985694885,
+    "vertices": 114237,
+    "triangles": 99758,
+    "meshInstances": 60,
+    "materials": 5,
+    "degenerateTriangles": 0,
+    "degenerateByMesh": {},
+    "invalidCoordinates": 0,
+    "symmetryUnpairedVertices": 0,
+    "symmetryToleranceMetres": 0.00001,
+    "symmetryScope": "body, glazing and broad front/rear surfaces; excludes wheel spoke pattern"
+  },
+  "firstHash": "1b955f1afa87bb6fbd1f9603b2c5383e3a60cc1924219d9227181a5cf5bbc892",
+  "secondHash": "1b955f1afa87bb6fbd1f9603b2c5383e3a60cc1924219d9227181a5cf5bbc892",
+  "deterministic": true
+}

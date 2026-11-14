@@ -1,0 +1,13 @@
+{
+  "body_signature": "da56dca35dd014f580af7e4c1112bcb31351e93a902bee75367a04d7a3ddb3fc",
+  "rig_update_kept_body_identical": true,
+  "reference_collections": [
+    "REF_FRONT",
+    "REF_LEFT",
+    "REF_RIGHT",
+    "REF_REAR",
+    "REF_FRONT_3Q",
+    "REF_REAR_3Q",
+    "REF_OPEN_PANELS"
+  ]
+}

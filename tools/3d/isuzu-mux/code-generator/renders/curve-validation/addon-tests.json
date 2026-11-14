@@ -1,0 +1,10 @@
+{
+  "UI_operator": "PASS",
+  "show_curves_toggle": "PASS",
+  "reference_toggle_unpacked_original": "PASS",
+  "delete_and_regenerate_including_handles": "PASS",
+  "quality_preserves_design": "PASS",
+  "parameter_changes_curve": "PASS",
+  "surfaces": "NOT GENERATED: curve gate not accepted",
+  "surface_reproducibility": "NOT REACHED"
+}

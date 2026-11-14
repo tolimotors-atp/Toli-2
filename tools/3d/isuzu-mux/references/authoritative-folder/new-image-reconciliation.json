@@ -1,0 +1,97 @@
+{
+  "decision": "B \u2014 USEFUL NEW REFERENCES, BUT GEOMETRY REMAINS UNDERCONSTRAINED",
+  "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X",
+  "historical_inventory_preserved": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/references/authoritative-folder/inventory.json",
+  "counts": {
+    "previous_known": 18,
+    "current_total_files": 43,
+    "readable_images": 43,
+    "new_files_discovered": 25,
+    "new_unique_visual_images": 21,
+    "exact_duplicate_extra_files": 0,
+    "decoded_duplicate_extra_files": 0,
+    "near_duplicate_extra_files": 4,
+    "near_duplicate_groups": 3,
+    "unreadable": 0,
+    "current_byte_unique_images": 43,
+    "current_unique_visual_images": 39,
+    "geometric_classes_all_files": {
+      "G3": 0,
+      "G2": 31,
+      "G1": 8,
+      "G0": 4
+    }
+  },
+  "new_image_ids": [
+    "MUX-019",
+    "MUX-020",
+    "MUX-021",
+    "MUX-022",
+    "MUX-023",
+    "MUX-024",
+    "MUX-025",
+    "MUX-026",
+    "MUX-027",
+    "MUX-028",
+    "MUX-029",
+    "MUX-030",
+    "MUX-031",
+    "MUX-032",
+    "MUX-033",
+    "MUX-034",
+    "MUX-035",
+    "MUX-036",
+    "MUX-037",
+    "MUX-038",
+    "MUX-039",
+    "MUX-040",
+    "MUX-041",
+    "MUX-042",
+    "MUX-043"
+  ],
+  "new_unique_image_ids": [
+    "MUX-019",
+    "MUX-020",
+    "MUX-021",
+    "MUX-022",
+    "MUX-023",
+    "MUX-024",
+    "MUX-025",
+    "MUX-026",
+    "MUX-027",
+    "MUX-028",
+    "MUX-029",
+    "MUX-030",
+    "MUX-031",
+    "MUX-034",
+    "MUX-035",
+    "MUX-036",
+    "MUX-037",
+    "MUX-038",
+    "MUX-039",
+    "MUX-040",
+    "MUX-043"
+  ],
+  "exact_duplicate_groups": [],
+  "near_duplicate_groups": [
+    [
+      "MUX-020",
+      "MUX-041",
+      "MUX-042"
+    ],
+    [
+      "MUX-026",
+      "MUX-033"
+    ],
+    [
+      "MUX-023",
+      "MUX-032"
+    ]
+  ],
+  "duplicate_method": "Whole-file and decoded RGB hashes; red-envelope crop/scale SIFT homography checks; visual review. First two groups have identical normalized vehicle pixels, third aligned RGB mean absolute difference ~0.60/255 and 97.85% homography inliers. Other similar neighboring poses are not collapsed.",
+  "same_vehicle": "UNCERTAIN physically; likely same depicted asset within red viewer group.",
+  "new_image_type": "MIXED \u2014 consistent viewer-style sequence plus independent general references; no controlled physical capture verified.",
+  "registration_test": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/logs/registration-result.json",
+  "modeling": "NOT STARTED",
+  "limitations": "No EXIF, unknown source projection/lens, variable screenshots/crops; blank backdrop/viewer floor. No inference from the old failed bodies."
+}

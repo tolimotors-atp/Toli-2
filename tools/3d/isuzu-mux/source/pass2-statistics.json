@@ -1,0 +1,15 @@
+{
+  "vertices": 15149,
+  "triangles": 29312,
+  "vehicle_meshes": 9,
+  "body_control": {
+    "BODY_PASS2_CONTINUOUS": {
+      "components": 1,
+      "boundary_edges": 242,
+      "vertices": 1676
+    }
+  },
+  "symmetry": "Mirror Y, welded centerline",
+  "production_textures": 0,
+  "functional_panels": false
+}

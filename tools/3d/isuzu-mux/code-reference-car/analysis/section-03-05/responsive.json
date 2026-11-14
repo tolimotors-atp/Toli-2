@@ -1,0 +1,230 @@
+[
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 568,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 335.359375,
+      "height": 102.546875,
+      "left": 21,
+      "right": 289,
+      "top": 232.8125,
+      "width": 268,
+      "x": 21,
+      "y": 232.8125
+    },
+    "state": "ready",
+    "width": 320
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 568,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 366.15625,
+      "height": 164,
+      "left": 20,
+      "right": 290,
+      "top": 202.15625,
+      "width": 270,
+      "x": 20,
+      "y": 202.15625
+    },
+    "state": "ready",
+    "width": 320
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 800,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 499.8125,
+      "height": 200,
+      "left": 21,
+      "right": 329,
+      "top": 299.8125,
+      "width": 308,
+      "x": 21,
+      "y": 299.8125
+    },
+    "state": "ready",
+    "width": 360
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 800,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 481.453125,
+      "height": 164,
+      "left": 20,
+      "right": 330,
+      "top": 317.453125,
+      "width": 310,
+      "x": 20,
+      "y": 317.453125
+    },
+    "state": "ready",
+    "width": 360
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 844,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 524.09375,
+      "height": 204,
+      "left": 21,
+      "right": 359,
+      "top": 320.09375,
+      "width": 338,
+      "x": 21,
+      "y": 320.09375
+    },
+    "state": "ready",
+    "width": 390
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 844,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 504.703125,
+      "height": 164,
+      "left": 20,
+      "right": 360,
+      "top": 340.703125,
+      "width": 340,
+      "x": 20,
+      "y": 340.703125
+    },
+    "state": "ready",
+    "width": 390
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 915,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 559.609375,
+      "height": 204,
+      "left": 21,
+      "right": 381,
+      "top": 355.609375,
+      "width": 360,
+      "x": 21,
+      "y": 355.609375
+    },
+    "state": "ready",
+    "width": 412
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 915,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 538.6875,
+      "height": 164,
+      "left": 20,
+      "right": 382,
+      "top": 374.6875,
+      "width": 362,
+      "x": 20,
+      "y": 374.6875
+    },
+    "state": "ready",
+    "width": 412
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 1024,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 614.3125,
+      "height": 204,
+      "left": 31,
+      "right": 727,
+      "top": 410.3125,
+      "width": 696,
+      "x": 31,
+      "y": 410.3125
+    },
+    "state": "ready",
+    "width": 768
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 1024,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 619.53125,
+      "height": 214,
+      "left": 30,
+      "right": 728,
+      "top": 405.53125,
+      "width": 698,
+      "x": 30,
+      "y": 405.53125
+    },
+    "state": "ready",
+    "width": 768
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 900,
+    "id": "process",
+    "overflow": false,
+    "stage": {
+      "bottom": 621.578125,
+      "height": 344,
+      "left": 116.1875,
+      "right": 730.03125,
+      "top": 277.578125,
+      "width": 613.84375,
+      "x": 116.1875,
+      "y": 277.578125
+    },
+    "state": "ready",
+    "width": 1440
+  },
+  {
+    "canvasInTarget": true,
+    "controlsOverlap": false,
+    "height": 900,
+    "id": "booking",
+    "overflow": false,
+    "stage": {
+      "bottom": 601.9375,
+      "height": 304,
+      "left": 115.1875,
+      "right": 722.609375,
+      "top": 297.9375,
+      "width": 607.421875,
+      "x": 115.1875,
+      "y": 297.9375
+    },
+    "state": "ready",
+    "width": 1440
+  }
+]

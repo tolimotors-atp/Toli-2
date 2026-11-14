@@ -1,0 +1,20 @@
+{
+  "canvas": 0,
+  "cars": [
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:8208/Toli-2/assets/isuzu-mux-red-front-3q-640-Cym53JGP.webp"
+    },
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:8208/Toli-2/assets/isuzu-mux-red-front-3q-640-Cym53JGP.webp"
+    },
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:8208/Toli-2/assets/isuzu-mux-red-front-3q-640-Cym53JGP.webp"
+    }
+  ],
+  "lightCss": true,
+  "overflow": false,
+  "theme": "light"
+}

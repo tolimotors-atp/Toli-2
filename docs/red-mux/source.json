@@ -1,0 +1,10 @@
+{
+  "source": "/home/thunder/Downloads/Glossy Red Isuzu MU-X Studio Shot.png",
+  "copy": "src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.png",
+  "sha256": "fc6520b1c31e5a35be0cd125af899d90d5d8857626a0dc1dae13f3bc304693b3",
+  "renderPaths": {
+    "components": "Index \u2192 ComponentExperience \u2192 VehicleComponentView \u2192 JourneyDock(services) \u2192 MuxPhotography",
+    "process": "Index \u2192 HowItWorks \u2192 JourneyDock(process) \u2192 MuxPhotography",
+    "booking": "Index \u2192 CtaBanner \u2192 JourneyDock(completion) \u2192 MuxPhotography"
+  }
+}

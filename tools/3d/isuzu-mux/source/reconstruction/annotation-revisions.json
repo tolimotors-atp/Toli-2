@@ -1,0 +1,249 @@
+[
+  {
+    "image": 7,
+    "landmark": "ws_base_L",
+    "initial": [
+      419,
+      221
+    ],
+    "revised": [
+      374,
+      231
+    ],
+    "reason": "Original pick was side-window/A-pillar foot, not windshield glass"
+  },
+  {
+    "image": 7,
+    "landmark": "ws_top_L",
+    "initial": [
+      487,
+      154
+    ],
+    "revised": [
+      474,
+      163
+    ],
+    "reason": "Use outer windshield border, not side roof trim"
+  },
+  {
+    "image": 9,
+    "landmark": "ws_base_R",
+    "initial": [
+      664,
+      224
+    ],
+    "revised": [
+      686,
+      234
+    ],
+    "reason": "Original pick was side-window foot, not windshield glass"
+  },
+  {
+    "image": 9,
+    "landmark": "ws_top_R",
+    "initial": [
+      562,
+      155
+    ],
+    "revised": [
+      578,
+      165
+    ],
+    "reason": "Use windshield border, not side roof trim"
+  },
+  {
+    "image": 10,
+    "landmark": "ws_top_L",
+    "initial": [
+      650,
+      160
+    ],
+    "revised": [
+      633,
+      165
+    ],
+    "reason": "Far windshield corner was placed on outer silver A-pillar"
+  },
+  {
+    "image": 11,
+    "landmark": "ws_top_L",
+    "initial": [
+      535,
+      163
+    ],
+    "revised": [
+      532,
+      169
+    ],
+    "reason": "Outer windshield border at roof"
+  },
+  {
+    "image": 11,
+    "landmark": "ws_top_R",
+    "initial": [
+      421,
+      158
+    ],
+    "revised": [
+      424,
+      165
+    ],
+    "reason": "Outer windshield border at roof"
+  },
+  {
+    "image": 8,
+    "landmark": "rw_top_L",
+    "initial": [
+      408,
+      183
+    ],
+    "revised": [
+      397,
+      179
+    ],
+    "reason": "Consistent outer black glazing border, not transparent inner area"
+  },
+  {
+    "image": 8,
+    "landmark": "rw_top_R",
+    "initial": [
+      626,
+      181
+    ],
+    "revised": [
+      642,
+      178
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 8,
+    "landmark": "rw_base_L",
+    "initial": [
+      380,
+      249
+    ],
+    "revised": [
+      378,
+      250
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 8,
+    "landmark": "rw_base_R",
+    "initial": [
+      653,
+      250
+    ],
+    "revised": [
+      668,
+      251
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 12,
+    "landmark": "rw_top_L",
+    "initial": [
+      644,
+      181
+    ],
+    "revised": [
+      609,
+      176
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 12,
+    "landmark": "rw_base_L",
+    "initial": [
+      611,
+      253
+    ],
+    "revised": [
+      593,
+      241
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 12,
+    "landmark": "rw_top_R",
+    "initial": [
+      785,
+      176
+    ],
+    "revised": [
+      824,
+      166
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 12,
+    "landmark": "rw_base_R",
+    "initial": [
+      848,
+      246
+    ],
+    "revised": [
+      850,
+      237
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 13,
+    "landmark": "rw_top_R",
+    "initial": [
+      342,
+      183
+    ],
+    "revised": [
+      380,
+      176
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 13,
+    "landmark": "rw_base_R",
+    "initial": [
+      377,
+      253
+    ],
+    "revised": [
+      377,
+      245
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 13,
+    "landmark": "rw_top_L",
+    "initial": [
+      219,
+      181
+    ],
+    "revised": [
+      217,
+      166
+    ],
+    "reason": "Consistent outer black glazing border"
+  },
+  {
+    "image": 13,
+    "landmark": "rw_base_L",
+    "initial": [
+      159,
+      247
+    ],
+    "revised": [
+      159,
+      233
+    ],
+    "reason": "Consistent outer black glazing border"
+  }
+]

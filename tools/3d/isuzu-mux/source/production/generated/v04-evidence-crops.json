@@ -1,0 +1,74 @@
+{
+  "reference_files_by_view": {
+    "front": "18-17-10",
+    "front_34": "18-17-27",
+    "side": "18-17-14",
+    "rear_34": "18-17-35",
+    "rear": "18-17-18"
+  },
+  "reference_crop_pixels": {
+    "front": [
+      335,
+      100,
+      740,
+      500
+    ],
+    "front_34": [
+      125,
+      100,
+      900,
+      505
+    ],
+    "side": [
+      125,
+      105,
+      950,
+      475
+    ],
+    "rear_34": [
+      105,
+      110,
+      920,
+      510
+    ],
+    "rear": [
+      325,
+      115,
+      730,
+      495
+    ]
+  },
+  "same_crop_for_all_model_versions": {
+    "front": [
+      190,
+      40,
+      775,
+      625
+    ],
+    "rear": [
+      190,
+      40,
+      775,
+      625
+    ],
+    "side": [
+      70,
+      155,
+      890,
+      495
+    ],
+    "front_34": [
+      100,
+      140,
+      865,
+      570
+    ],
+    "rear_34": [
+      100,
+      140,
+      865,
+      570
+    ]
+  },
+  "method": "Manual vehicle-framing crops, aspect ratio preserved with contain. Same fixed camera pixels for V02/V03/V04; photos approximately framed/scaled for visual comparison only. Not photogrammetric registration."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mirrors",
+    "on": "87",
+    "off": "77"
+  },
+  {
+    "name": "Headlights",
+    "on": "87",
+    "off": "85"
+  },
+  {
+    "name": "Rear lights",
+    "on": "87",
+    "off": "85"
+  },
+  {
+    "name": "Door cuts",
+    "on": "87",
+    "off": "83"
+  },
+  {
+    "name": "Door handles",
+    "on": "87",
+    "off": "83"
+  },
+  {
+    "name": "Number plates / branding",
+    "on": "87",
+    "off": "79"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "belowNavbar": true,
+    "doc": 310,
+    "h": 568,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 44,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 44,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 320
+  },
+  {
+    "belowNavbar": true,
+    "doc": 350,
+    "h": 640,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 44,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 44,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 360
+  },
+  {
+    "belowNavbar": true,
+    "doc": 380,
+    "h": 844,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 44,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 44,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 390
+  },
+  {
+    "belowNavbar": true,
+    "doc": 420,
+    "h": 932,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 44,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 44,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 430
+  },
+  {
+    "belowNavbar": true,
+    "doc": 758,
+    "h": 1024,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 44,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 44,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 768
+  },
+  {
+    "belowNavbar": true,
+    "doc": 1430,
+    "h": 900,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 32,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 32,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 1440
+  },
+  {
+    "belowNavbar": true,
+    "doc": 1910,
+    "h": 1080,
+    "logoOverlap": false,
+    "phoneTargets": [
+      {
+        "h": 32,
+        "href": "tel:+919908303888"
+      },
+      {
+        "h": 32,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "dark",
+    "w": 1920
+  },
+  {
+    "belowNavbar": true,
+    "doc": 310,
+    "h": 568,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 320
+  },
+  {
+    "belowNavbar": true,
+    "doc": 350,
+    "h": 640,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 360
+  },
+  {
+    "belowNavbar": true,
+    "doc": 380,
+    "h": 844,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 390
+  },
+  {
+    "belowNavbar": true,
+    "doc": 420,
+    "h": 932,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 430
+  },
+  {
+    "belowNavbar": true,
+    "doc": 758,
+    "h": 1024,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 768
+  },
+  {
+    "belowNavbar": true,
+    "doc": 1430,
+    "h": 900,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 1440
+  },
+  {
+    "belowNavbar": true,
+    "doc": 1910,
+    "h": 1080,
+    "logoOverlap": false,
+    "pillOverlap": false,
+    "pillsInBounds": true,
+    "theme": "light",
+    "w": 1920
+  }
+]

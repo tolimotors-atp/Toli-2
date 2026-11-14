@@ -1,0 +1,13 @@
+{
+  "fresh_scene": true,
+  "previous_body_imported": false,
+  "V02_geometry_imported": false,
+  "wheelbase_normalized": 1,
+  "tire_radius_estimated": 0.137,
+  "track_estimated": 0.572,
+  "physical_scale_verified": false,
+  "four_tires_grounded": true,
+  "body_beyond_greenhouse": false,
+  "GLB": false,
+  "gate": "FAIL \u2014 greenhouse continuity, glass curvature and depth not validated"
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "theme": "dark",
+    "selector": ".chapter-heading .system-label",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".service-node:not([data-active=true]) .node-index",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".service-node[data-active=true]>span:last-child",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".editorial-photo-number",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".editorial-counter",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".journey-footer h3",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".toli-ai-panel header span",
+    "ratio": 8.97
+  },
+  {
+    "theme": "dark",
+    "selector": ".toli-ai-message:not(.user)>span",
+    "ratio": 8.97
+  },
+  {
+    "theme": "light",
+    "selector": ".chapter-heading .system-label",
+    "ratio": 11.0
+  },
+  {
+    "theme": "light",
+    "selector": ".service-node:not([data-active=true]) .node-index",
+    "ratio": 8.97
+  },
+  {
+    "theme": "light",
+    "selector": ".service-node[data-active=true] .node-index",
+    "ratio": 8.97
+  },
+  {
+    "theme": "light",
+    "selector": ".service-node[data-active=true]>span:last-child",
+    "ratio": 8.97
+  },
+  {
+    "theme": "light",
+    "selector": ".editorial-photo-number",
+    "ratio": 8.97
+  },
+  {
+    "theme": "light",
+    "selector": ".editorial-counter",
+    "ratio": 11.0
+  },
+  {
+    "theme": "light",
+    "selector": ".journey-footer h3",
+    "ratio": 11.0
+  },
+  {
+    "theme": "light",
+    "selector": ".toli-ai-panel header span",
+    "ratio": 11.0
+  },
+  {
+    "theme": "light",
+    "selector": ".toli-ai-message:not(.user)>span",
+    "ratio": 11.0
+  },
+  {
+    "selector": "Inactive rail",
+    "ratio": 4.77
+  },
+  {
+    "selector": "Completed step minimum gradient stop",
+    "ratio": 5.32
+  },
+  {
+    "selector": "Current step badge",
+    "ratio": 8.97
+  }
+]

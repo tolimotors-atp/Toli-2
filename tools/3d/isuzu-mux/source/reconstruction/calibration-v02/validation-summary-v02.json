@@ -1,0 +1,349 @@
+{
+  "observation_confidence_counts": {
+    "A": 88,
+    "B": 60,
+    "C": 50
+  },
+  "observation_status_counts": {
+    "EXTERNAL VALIDATION": 12,
+    "CORE HELD-OUT": 8,
+    "CORE TRAINING": 60,
+    "EXTERNAL POSE ANCHOR": 16,
+    "REJECTED FIXED-POINT OBSERVATION": 50,
+    "DETAIL/VALIDATION REFERENCE ONLY": 52
+  },
+  "active_core_landmarks": 20,
+  "all_v01_landmarks_audited": 48,
+  "data_only_normalized_rank": 69,
+  "unknowns": 69,
+  "normalized_smallest_singular": 0.0028184892886411314,
+  "normalized_condition_number": 705.7771342578445,
+  "fold9_landmark_motion": [
+    {
+      "landmark": "tl_top_L",
+      "delta_wheelbase_units": 0.14198365261629958,
+      "full": [
+        -0.6421887031634169,
+        0.29463133645320394,
+        0.4498509393581175
+      ],
+      "without_image9": [
+        -0.7833465465123761,
+        0.28169902075525527,
+        0.4580103561280416
+      ]
+    },
+    {
+      "landmark": "tl_top_R",
+      "delta_wheelbase_units": 0.14198365261629958,
+      "full": [
+        -0.6421887031634169,
+        -0.29463133645320394,
+        0.4498509393581175
+      ],
+      "without_image9": [
+        -0.7833465465123761,
+        -0.28169902075525527,
+        0.4580103561280416
+      ]
+    },
+    {
+      "landmark": "tl_low_L",
+      "delta_wheelbase_units": 0.007983401524188012,
+      "full": [
+        -0.6999103755550816,
+        0.2900142484871057,
+        0.3695120435463224
+      ],
+      "without_image9": [
+        -0.6942619942300466,
+        0.2868753376388613,
+        0.3648240026985719
+      ]
+    },
+    {
+      "landmark": "tl_low_R",
+      "delta_wheelbase_units": 0.007983401524188012,
+      "full": [
+        -0.6999103755550816,
+        -0.2900142484871057,
+        0.3695120435463224
+      ],
+      "without_image9": [
+        -0.6942619942300466,
+        -0.2868753376388613,
+        0.3648240026985719
+      ]
+    },
+    {
+      "landmark": "ws_top_L",
+      "delta_wheelbase_units": 0.007959934394943342,
+      "full": [
+        0.11625591603756877,
+        0.20438926119610265,
+        0.5973601255736772
+      ],
+      "without_image9": [
+        0.12402683572476468,
+        0.20390644056931428,
+        0.5957047564217052
+      ]
+    },
+    {
+      "landmark": "ws_top_R",
+      "delta_wheelbase_units": 0.007959934394943342,
+      "full": [
+        0.11625591603756877,
+        -0.20438926119610265,
+        0.5973601255736772
+      ],
+      "without_image9": [
+        0.12402683572476468,
+        -0.20390644056931428,
+        0.5957047564217052
+      ]
+    },
+    {
+      "landmark": "h_in_L",
+      "delta_wheelbase_units": 0.007597112129400768,
+      "full": [
+        0.7739288055187787,
+        0.1663926814798313,
+        0.30718018380436
+      ],
+      "without_image9": [
+        0.7692141188886791,
+        0.16390677226748054,
+        0.301766488386755
+      ]
+    },
+    {
+      "landmark": "h_in_R",
+      "delta_wheelbase_units": 0.007597112129400768,
+      "full": [
+        0.7739288055187787,
+        -0.1663926814798313,
+        0.30718018380436
+      ],
+      "without_image9": [
+        0.7692141188886791,
+        -0.16390677226748054,
+        0.301766488386755
+      ]
+    },
+    {
+      "landmark": "ws_base_L",
+      "delta_wheelbase_units": 0.006694398058204613,
+      "full": [
+        0.33414675667067273,
+        0.25191698913373844,
+        0.4522735614917151
+      ],
+      "without_image9": [
+        0.34005953434964403,
+        0.25112067515551345,
+        0.4492371310991594
+      ]
+    },
+    {
+      "landmark": "ws_base_R",
+      "delta_wheelbase_units": 0.006694398058204613,
+      "full": [
+        0.33414675667067273,
+        -0.25191698913373844,
+        0.4522735614917151
+      ],
+      "without_image9": [
+        0.34005953434964403,
+        -0.25112067515551345,
+        0.4492371310991594
+      ]
+    },
+    {
+      "landmark": "h_out_L",
+      "delta_wheelbase_units": 0.005373110489791161,
+      "full": [
+        0.6309709730455505,
+        0.27236623846721264,
+        0.3908721503485829
+      ],
+      "without_image9": [
+        0.6299985999106499,
+        0.2694944382728432,
+        0.38643620958413993
+      ]
+    },
+    {
+      "landmark": "h_out_R",
+      "delta_wheelbase_units": 0.005373110489791161,
+      "full": [
+        0.6309709730455505,
+        -0.27236623846721264,
+        0.3908721503485829
+      ],
+      "without_image9": [
+        0.6299985999106499,
+        -0.2694944382728432,
+        0.38643620958413993
+      ]
+    },
+    {
+      "landmark": "wc_F_L",
+      "delta_wheelbase_units": 0.0022862681901170113,
+      "full": [
+        0.5,
+        0.2881826962219184,
+        0.1327712923460451
+      ],
+      "without_image9": [
+        0.5,
+        0.286102683084336,
+        0.13182230995177974
+      ]
+    },
+    {
+      "landmark": "wc_F_R",
+      "delta_wheelbase_units": 0.0022862681901170113,
+      "full": [
+        0.5,
+        -0.2881826962219184,
+        0.1327712923460451
+      ],
+      "without_image9": [
+        0.5,
+        -0.286102683084336,
+        0.13182230995177974
+      ]
+    },
+    {
+      "landmark": "wc_R_L",
+      "delta_wheelbase_units": 0.0022862681901170113,
+      "full": [
+        -0.5,
+        0.2881826962219184,
+        0.1327712923460451
+      ],
+      "without_image9": [
+        -0.5,
+        0.286102683084336,
+        0.13182230995177974
+      ]
+    },
+    {
+      "landmark": "wc_R_R",
+      "delta_wheelbase_units": 0.0022862681901170113,
+      "full": [
+        -0.5,
+        -0.2881826962219184,
+        0.1327712923460451
+      ],
+      "without_image9": [
+        -0.5,
+        -0.286102683084336,
+        0.13182230995177974
+      ]
+    },
+    {
+      "landmark": "contact_F_L",
+      "delta_wheelbase_units": 0.0020800131375823816,
+      "full": [
+        0.5,
+        0.2881826962219184,
+        0.0
+      ],
+      "without_image9": [
+        0.5,
+        0.286102683084336,
+        0.0
+      ]
+    },
+    {
+      "landmark": "contact_F_R",
+      "delta_wheelbase_units": 0.0020800131375823816,
+      "full": [
+        0.5,
+        -0.2881826962219184,
+        0.0
+      ],
+      "without_image9": [
+        0.5,
+        -0.286102683084336,
+        0.0
+      ]
+    },
+    {
+      "landmark": "contact_R_L",
+      "delta_wheelbase_units": 0.0020800131375823816,
+      "full": [
+        -0.5,
+        0.2881826962219184,
+        0.0
+      ],
+      "without_image9": [
+        -0.5,
+        0.286102683084336,
+        0.0
+      ]
+    },
+    {
+      "landmark": "contact_R_R",
+      "delta_wheelbase_units": 0.0020800131375823816,
+      "full": [
+        -0.5,
+        -0.2881826962219184,
+        0.0
+      ],
+      "without_image9": [
+        -0.5,
+        -0.286102683084336,
+        0.0
+      ]
+    }
+  ],
+  "all_core_residual_rms": 3.8744187268498687,
+  "all_core_median": 1.7010632986040646,
+  "core_worst": {
+    "camera": 13,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      414,
+      254
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      416.7457887873306,
+      255.84450095271563
+    ],
+    "error_pixels": 3.3077998472095063,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.745788787330582,
+    "dy": 1.8445009527156344,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible",
+    "selected_core_camera": true,
+    "v02_status": "CORE HELD-OUT",
+    "v02_prediction": [
+      432.62779794903133,
+      253.46248915522636
+    ],
+    "v02_dx": 18.627797949031333,
+    "v02_dy": -0.5375108447736352,
+    "v02_residual": 18.635551355894602
+  },
+  "open_panel_moving_observations_in_active_core": 0,
+  "rejected_classC_count": 50,
+  "failure_classification": "CALIBRATION FAILED \u2014 CAMERA PARAMETERS UNDERCONSTRAINED",
+  "qualification": "Practical pose/depth recovery is not stable to view withholding; full local numerical rank is not proof of predictive geometric accuracy. Remaining manual annotation error is not excluded; incompatible trim or a need for new photos is not demonstrated.",
+  "gate": "FAIL"
+}

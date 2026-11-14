@@ -1,0 +1,581 @@
+[
+  {
+    "id": "O01",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-21.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "C",
+      "F",
+      "G",
+      "I"
+    ],
+    "evidence": "Front, bonnet and four doors open; engine bay partial",
+    "calibration": "not core; open panels/interior excluded",
+    "width": 819,
+    "height": 595,
+    "sha256": "3f0a4ae9c9ff0a8dbc7e6a7aa48a61afc75d8d830d807ee9d767cb69fc367858",
+    "exif": {},
+    "archived_path": "references/complete-library/O01.png"
+  },
+  {
+    "id": "O02",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-40.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "D",
+      "G"
+    ],
+    "evidence": "Left profile, doors/bonnet/tailgate open",
+    "calibration": "not core; open panels/interior excluded",
+    "width": 1060,
+    "height": 522,
+    "sha256": "21e13728297eaf983009793c734a76e7b5a1e842275bfced3a174c858cfddec3",
+    "exif": {},
+    "archived_path": "references/complete-library/O02.png"
+  },
+  {
+    "id": "O03",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-48.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "E",
+      "G"
+    ],
+    "evidence": "Rear, tailgate and rear doors open; cargo aperture",
+    "calibration": "not core; open panels/interior excluded",
+    "width": 1060,
+    "height": 522,
+    "sha256": "960abe650ed9fb9c75206188d86dd51b70382e9b55ed59bfaa91936bd9c2da6c",
+    "exif": {},
+    "archived_path": "references/complete-library/O03.png"
+  },
+  {
+    "id": "O04",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-10-06.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "D",
+      "G"
+    ],
+    "evidence": "Right profile, doors/bonnet/tailgate open",
+    "calibration": "not core; open panels/interior excluded",
+    "width": 1148,
+    "height": 492,
+    "sha256": "b8065460bec7f8fcdb85c84c7ee1d4a8bc1162fe880c9f3d7d9361f48b616fc4",
+    "exif": {},
+    "archived_path": "references/complete-library/O04.png"
+  },
+  {
+    "id": "O05",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-11-39.png",
+    "group": "G1",
+    "roles": [
+      "H"
+    ],
+    "evidence": "Right-hand-drive dashboard, steering, front cabin and door cards",
+    "calibration": "not core; open panels/interior excluded",
+    "width": 1038,
+    "height": 587,
+    "sha256": "0a58c4373aae04ac52d9a02ad4a52bc32209694a479d401815116f2a2a0a05f5",
+    "exif": {},
+    "archived_path": "references/complete-library/O05.png"
+  },
+  {
+    "id": "O06",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-10.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "evidence": "Closed front",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "6485be87263758431a50b62dcbaef77d24d1a946293cad14ddedcac423217a65",
+    "exif": {},
+    "archived_path": "references/complete-library/O06.png"
+  },
+  {
+    "id": "O07",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-14.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "D",
+      "F"
+    ],
+    "evidence": "Closed left profile",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "de0c96f58b8b6704f3eadda2b1bf5b5b948e04e54ff036062d20943f06378039",
+    "exif": {},
+    "archived_path": "references/complete-library/O07.png"
+  },
+  {
+    "id": "O08",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-18.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "E",
+      "F"
+    ],
+    "evidence": "Closed rear",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "d22e00620155aaf6cafeda75a48ad8d92df283fed54548c99ea0f1439a0ff7b7",
+    "exif": {},
+    "archived_path": "references/complete-library/O08.png"
+  },
+  {
+    "id": "O09",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-21.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "D",
+      "F"
+    ],
+    "evidence": "Closed right profile",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "6b055a6000032490a824efa8f20ec2083e727ed473f30a97a129ecb6b085e60c",
+    "exif": {},
+    "archived_path": "references/complete-library/O09.png"
+  },
+  {
+    "id": "O10",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-25.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "Closed front three-quarter, right side",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "f110d89c4c19dfa961e45bf5554267d51097a6860a25b8b39637ea70d7b351a2",
+    "exif": {},
+    "archived_path": "references/complete-library/O10.png"
+  },
+  {
+    "id": "O11",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-27.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "Closed front three-quarter, left side",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "c8cfb7e69d3d57e40f2b4abf6ec61bf5dc066580f24a4f028565d78ae5279606",
+    "exif": {},
+    "archived_path": "references/complete-library/O11.png"
+  },
+  {
+    "id": "O12",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-31.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "evidence": "Closed rear three-quarter, left side",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "662314059dfea3308409b32a1db892ced256b97b98e47028b7958496dd0c753a",
+    "exif": {},
+    "archived_path": "references/complete-library/O12.png"
+  },
+  {
+    "id": "O13",
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-35.png",
+    "group": "G1",
+    "roles": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "evidence": "Closed rear three-quarter, right side",
+    "calibration": "previous V02 failed; A is candidate only",
+    "width": 1038,
+    "height": 587,
+    "sha256": "1aedc56a65533e16eb34d8103f2d160e9b729b47e716e9d1c5f676da4e2b2f5d",
+    "exif": {},
+    "archived_path": "references/complete-library/O13.png"
+  },
+  {
+    "id": "S01",
+    "path": "/tmp/codex-clipboard-b65b3083-5e04-4d26-8f09-30b410e5d0ac.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "red low front 3Q; compatible broad body; fascia detail must follow canonical",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 704,
+    "height": 435,
+    "sha256": "99eaa7aee238137b27c947cbd1c0970e072f8839b6a966ad24da261117d88d2d",
+    "exif": {},
+    "archived_path": "references/complete-library/S01.png"
+  },
+  {
+    "id": "S02",
+    "path": "/tmp/codex-clipboard-eb770959-5a5d-4917-b791-7b28b7ae053e.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different narrow lamps, large grille and side glazing",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 678,
+    "height": 452,
+    "sha256": "3f27a5cec15085d7e657c795fd373fd12d38b77843721d097542e6323e84bfbd",
+    "exif": {},
+    "archived_path": "references/complete-library/S02.png"
+  },
+  {
+    "id": "S03",
+    "path": "/tmp/codex-clipboard-262d8435-ac6e-405f-be6c-eb056302fa9c.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "D"
+    ],
+    "evidence": "red side promotional; useful silhouette, composited context not metric",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 700,
+    "height": 438,
+    "sha256": "0a3bce9e2353add858b78f953a9177ccbb91c1015b518745f466b1566d43592d",
+    "exif": {},
+    "archived_path": "references/complete-library/S03.png"
+  },
+  {
+    "id": "S04",
+    "path": "/tmp/codex-clipboard-47fad10d-4c4d-41f8-840d-669d25d118d5.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different rear lamps/tailgate and glazing",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 479,
+    "sha256": "0ec0c70cf43a00a62ba4bdf655cb27381a619277decccbfdb87aee27a5bbdfc8",
+    "exif": {},
+    "archived_path": "references/complete-library/S04.png"
+  },
+  {
+    "id": "S05",
+    "path": "/tmp/codex-clipboard-4ff6375f-1e77-4de5-a9a0-2810f944e62e.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "large honeycomb grille and narrow lamp envelope",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 678,
+    "height": 452,
+    "sha256": "62f6e9c65eb158d346f9d2bbe8ac56ba6bb5d047a8c7f0b8bd4589e5a7222dab",
+    "exif": {},
+    "archived_path": "references/complete-library/S05.png"
+  },
+  {
+    "id": "S06",
+    "path": "/tmp/codex-clipboard-d37c315e-22ba-4a8d-9e69-e5cb2623d9bb.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different tapered quarter glazing and shoulder",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 738,
+    "height": 414,
+    "sha256": "d74d3695006637d9df8e4fd83423d2590c670828edf8cf1d99306a74795ac094",
+    "exif": {},
+    "archived_path": "references/complete-library/S06.png"
+  },
+  {
+    "id": "S07",
+    "path": "/tmp/codex-clipboard-a1cd8e26-2f79-4bda-9ab7-9c459f4b7808.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different tapered quarter glazing; low resolution",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 414,
+    "height": 226,
+    "sha256": "8299336ed8a270e5394b4f0e5ccdb6fb621de9e6b6d83754f0ce16f70da3a823",
+    "exif": {},
+    "archived_path": "references/complete-library/S07.png"
+  },
+  {
+    "id": "S08",
+    "path": "/tmp/codex-clipboard-135897af-e0f7-4d37-b936-46d4014ed563.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different slim rear lamps/tailgate",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 516,
+    "height": 387,
+    "sha256": "62a314fce967da8845fca8a7c5b4bfc412e6ee0ef47ece6ee5bae3c8890bfb22",
+    "exif": {},
+    "archived_path": "references/complete-library/S08.png"
+  },
+  {
+    "id": "S09",
+    "path": "/tmp/codex-clipboard-9873b885-65c2-41fa-ba55-8e4f1e3898db.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different rear quarter/tailgate",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 515,
+    "height": 388,
+    "sha256": "f53365784efe848e17df631d14ff58ce81764021dcf51a733e9f652092593fdc",
+    "exif": {},
+    "archived_path": "references/complete-library/S09.png"
+  },
+  {
+    "id": "S10",
+    "path": "/tmp/codex-clipboard-67974e05-8625-4ea4-a334-ef1efaf6e2d2.png",
+    "group": "G3",
+    "roles": [
+      "J"
+    ],
+    "evidence": "different quarter glazing and slim rear lamps",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 738,
+    "height": 414,
+    "sha256": "fa951b92d2801d9dc64f9b2a13e5ee1247b17ff93f132eab8cab17c2033b504b",
+    "exif": {},
+    "archived_path": "references/complete-library/S10.png"
+  },
+  {
+    "id": "S11",
+    "path": "/tmp/codex-clipboard-b3fecc4f-2f32-489d-aabc-2f5bef1e1126.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "red front 3Q; chrome double-bar grille and angular projector envelope",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 678,
+    "height": 452,
+    "sha256": "6468e858930c92fd9e6a1224f375288b6ec7f4eafdcf6aecbf82ddbdd0898388",
+    "exif": {},
+    "archived_path": "references/complete-library/S11.png"
+  },
+  {
+    "id": "S12",
+    "path": "/tmp/codex-clipboard-627d1be1-ea2b-451d-951b-659d058b1d7d.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "blue front 3Q; same broad body; promotional perspective not calibrated",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 738,
+    "height": 414,
+    "sha256": "f519612f2cc977985ace684cc07c92478a106123be01d942675568ca73e93ff7",
+    "exif": {},
+    "archived_path": "references/complete-library/S12.png"
+  },
+  {
+    "id": "S13",
+    "path": "/tmp/codex-clipboard-f04704f9-5980-4afa-8725-a690ab8220c1.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "silver studio front 3Q; matching headlight/grille/window family",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "bb0eb6534fd2c92792d8ffb2a40aa31289ae8b4620b2c57f88d39b8d1df3698f",
+    "exif": {},
+    "archived_path": "references/complete-library/S13.png"
+  },
+  {
+    "id": "S14",
+    "path": "/tmp/codex-clipboard-2af16533-75c8-4aa9-bf6c-bc7f60733e45.png",
+    "group": "G2",
+    "roles": [
+      "B",
+      "C",
+      "D",
+      "F"
+    ],
+    "evidence": "silver field front 3Q; fog surround/bumper finish varies; body compatible",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "5e515dcbbeaed5d750c6feb83b3e3f748e7e72cb75955af193b7546f543c3ee1",
+    "exif": {},
+    "archived_path": "references/complete-library/S14.png"
+  },
+  {
+    "id": "S15",
+    "path": "/tmp/codex-clipboard-97691812-37dc-4d20-9e8b-5b98616910f8.png",
+    "group": "G2",
+    "roles": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "evidence": "silver field rear 3Q; same plate as field front; compatible rear family",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "c9df9028d319c5898d20039efd6f445ce35d7c65f0dc1757c05ae131262ae03a",
+    "exif": {},
+    "archived_path": "references/complete-library/S15.png"
+  },
+  {
+    "id": "S16",
+    "path": "/tmp/codex-clipboard-71cd8861-a4ae-43e3-8088-f4bca1f76452.png",
+    "group": "G2",
+    "roles": [
+      "B",
+      "C",
+      "F"
+    ],
+    "evidence": "field straight front; roof cropped, bumper finish differs",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "0f85912b276157cee96a623959ac1e7e585aa6faa225c0a7ada87343691921bf",
+    "exif": {},
+    "archived_path": "references/complete-library/S16.png"
+  },
+  {
+    "id": "S17",
+    "path": "/tmp/codex-clipboard-ad35c87e-b0b7-4e3a-a9df-2efca2e2634f.png",
+    "group": "G2",
+    "roles": [
+      "D",
+      "F"
+    ],
+    "evidence": "field wheel/arch closeup; no scale or exact tire specification",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "fd5287e76af3e97b7a37e5e8c9813503374754a8202434da9e41dff2a850d240",
+    "exif": {},
+    "archived_path": "references/complete-library/S17.png"
+  },
+  {
+    "id": "S18",
+    "path": "/tmp/codex-clipboard-d4330e6b-dde5-46ae-b383-759ed05c2b30.png",
+    "group": "G2",
+    "roles": [
+      "C",
+      "F"
+    ],
+    "evidence": "field lamp/grille closeup; trim only where canonical agrees",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 427,
+    "sha256": "21354b6add17d859a5700d0a268d529831087e3341fc8167bf6b165da8ed7148",
+    "exif": {},
+    "archived_path": "references/complete-library/S18.png"
+  },
+  {
+    "id": "S19",
+    "path": "/tmp/codex-clipboard-155deef8-6bfb-4d72-bdd8-c83b13d2c6c2.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "E",
+      "F"
+    ],
+    "evidence": "red straight rear; matches broad tail lamps, chrome bar and hatch family",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 424,
+    "sha256": "dfe1716c62ad5e19aef88a55f8f0539208d8539d4b772d28bb8151207b2755eb",
+    "exif": {},
+    "archived_path": "references/complete-library/S19.png"
+  },
+  {
+    "id": "S20",
+    "path": "/tmp/codex-clipboard-1edf7552-f56a-4f60-be92-c76ef2b39ebe.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "evidence": "red rear 3Q promotional; silhouette only, background not calibration",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 424,
+    "sha256": "866fb754a250eea8bbf17604d2362fe95193a35a680d8946c43d43dd50d4c285",
+    "exif": {},
+    "archived_path": "references/complete-library/S20.png"
+  },
+  {
+    "id": "S21",
+    "path": "/tmp/codex-clipboard-17a77953-eff7-4042-acad-06cf4d8dd764.png",
+    "group": "G1",
+    "roles": [
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "evidence": "red rear 3Q studio; useful quarter glass and rear envelope",
+    "calibration": "not accepted: unrelated source/pose/intrinsics; no new solved set",
+    "width": 640,
+    "height": 424,
+    "sha256": "718d69d743cbd93f11519ec812d371352eeec316a2c5ea5358d26c17b235a502",
+    "exif": {},
+    "archived_path": "references/complete-library/S21.png"
+  }
+]

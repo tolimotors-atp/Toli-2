@@ -1,0 +1,12 @@
+{
+  "side_guide": "PASS",
+  "five_view_silhouette": "PASS",
+  "silhouette_scope": "Broad blockout envelope only: fixed wheels, overhangs, roof/cowl/rear trajectory and transverse taper plausible against canonical references after two volume iterations. Identity and surface continuity are NOT passed; cap/shoulder shading still requires later work.",
+  "greenhouse": "PASS",
+  "identity": "NEEDS WORK",
+  "greenhouse_scope": "Coherent blockout layout reviewed from all five fixed cameras: windshield/cowl, roof header, side window rhythm, upright front quarter-glass edge and rear glass agree on the same new shell. Opaque study regions only; transparency, seals and surface finishing not approved.",
+  "recognition_without_badges": "NEEDS WORK",
+  "surface_quality": "NOT REACHED",
+  "final_decision": "C \u2014 NOT BETTER THAN V02; STOP BEFORE DETAILING",
+  "decision_reason": "Coherent shell and glazing are local improvements, but front, side and rear identity are not clearly better across the required regions. No production surface pass, panel separation or detailing authorized by this gate."
+}

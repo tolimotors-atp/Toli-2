@@ -1,0 +1,2133 @@
+[
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 230,
+      "height": 73.015625,
+      "left": 110.265625,
+      "right": 1160.265625,
+      "top": 156.984375,
+      "width": 1050,
+      "x": 110.265625,
+      "y": 156.984375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 736.609375,
+      "height": 358,
+      "left": 110.265625,
+      "right": 731.703125,
+      "top": 378.609375,
+      "width": 621.4375,
+      "x": 110.265625,
+      "y": 378.609375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 737.9375,
+      "height": 398,
+      "left": 110.265625,
+      "right": 690.859375,
+      "top": 339.9375,
+      "width": 580.59375,
+      "x": 110.265625,
+      "y": 339.9375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 327.46875,
+      "height": 146.03125,
+      "left": 110.265625,
+      "right": 1160.265625,
+      "top": 181.4375,
+      "width": 1050,
+      "x": 110.265625,
+      "y": 181.4375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 217.546875,
+      "height": 45.078125,
+      "left": 78,
+      "right": 467.78125,
+      "top": 172.46875,
+      "width": 389.78125,
+      "x": 78,
+      "y": 172.46875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 757.046875,
+      "height": 358,
+      "left": 109.265625,
+      "right": 684.125,
+      "top": 399.046875,
+      "width": 574.859375,
+      "x": 109.265625,
+      "y": 399.046875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 275.046875,
+      "height": 76,
+      "left": 166,
+      "right": 1190,
+      "top": 199.046875,
+      "width": 1024,
+      "x": 166,
+      "y": 199.046875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 737.921875,
+      "height": 36,
+      "left": 415.625,
+      "right": 511,
+      "top": 701.921875,
+      "width": 95.375,
+      "x": 415.625,
+      "y": 701.921875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 371.96875,
+      "height": 57.1875,
+      "left": 16,
+      "right": 294,
+      "top": 314.78125,
+      "width": 278,
+      "x": 16,
+      "y": 314.78125
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 226.390625,
+      "height": 64.78125,
+      "left": 21,
+      "right": 289,
+      "top": 161.609375,
+      "width": 268,
+      "x": 21,
+      "y": 161.609375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 538.25,
+      "height": 218,
+      "left": 21,
+      "right": 289,
+      "top": 320.25,
+      "width": 268,
+      "x": 21,
+      "y": 320.25
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 512.359375,
+      "height": 156.546875,
+      "left": 21,
+      "right": 289,
+      "top": 355.8125,
+      "width": 268,
+      "x": 21,
+      "y": 355.8125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 261.078125,
+      "height": 64.78125,
+      "left": 21,
+      "right": 289,
+      "top": 196.296875,
+      "width": 268,
+      "x": 21,
+      "y": 196.296875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 234.09375,
+      "height": 30.796875,
+      "left": 16,
+      "right": 282.40625,
+      "top": 203.296875,
+      "width": 266.40625,
+      "x": 16,
+      "y": 203.296875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 538.4375,
+      "height": 218,
+      "left": 20,
+      "right": 290,
+      "top": 320.4375,
+      "width": 270,
+      "x": 20,
+      "y": 320.4375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 320.109375,
+      "height": 49,
+      "left": 16,
+      "right": 294,
+      "top": 271.109375,
+      "width": 278,
+      "x": 16,
+      "y": 271.109375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 537.90625,
+      "height": 36,
+      "left": 20,
+      "right": 102.65625,
+      "top": 501.90625,
+      "width": 82.65625,
+      "x": 20,
+      "y": 501.90625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      320,
+      568
+    ],
+    "requested": [
+      320,
+      568
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 298.5625,
+      "height": 57.1875,
+      "left": 16,
+      "right": 334,
+      "top": 241.375,
+      "width": 318,
+      "x": 16,
+      "y": 241.375
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 180.390625,
+      "height": 32.390625,
+      "left": 21,
+      "right": 329,
+      "top": 148,
+      "width": 308,
+      "x": 21,
+      "y": 148
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 770.25,
+      "height": 218,
+      "left": 21,
+      "right": 329,
+      "top": 552.25,
+      "width": 308,
+      "x": 21,
+      "y": 552.25
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 669.8125,
+      "height": 254,
+      "left": 21,
+      "right": 329,
+      "top": 415.8125,
+      "width": 308,
+      "x": 21,
+      "y": 415.8125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 290.53125,
+      "height": 64.78125,
+      "left": 21,
+      "right": 329,
+      "top": 225.75,
+      "width": 308,
+      "x": 21,
+      "y": 225.75
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 494.859375,
+      "height": 30.796875,
+      "left": 16,
+      "right": 282.40625,
+      "top": 464.0625,
+      "width": 266.40625,
+      "x": 16,
+      "y": 464.0625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 690.78125,
+      "height": 218,
+      "left": 20,
+      "right": 330,
+      "top": 472.78125,
+      "width": 310,
+      "x": 20,
+      "y": 472.78125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 289.953125,
+      "height": 49,
+      "left": 16,
+      "right": 334,
+      "top": 240.953125,
+      "width": 318,
+      "x": 16,
+      "y": 240.953125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 769.75,
+      "height": 36,
+      "left": 20,
+      "right": 102.65625,
+      "top": 733.75,
+      "width": 82.65625,
+      "x": 20,
+      "y": 733.75
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      360,
+      800
+    ],
+    "requested": [
+      360,
+      800
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 305.375,
+      "height": 58.3125,
+      "left": 16,
+      "right": 364,
+      "top": 247.0625,
+      "width": 348,
+      "x": 16,
+      "y": 247.0625
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 185.921875,
+      "height": 32.390625,
+      "left": 21,
+      "right": 359,
+      "top": 153.53125,
+      "width": 338,
+      "x": 21,
+      "y": 153.53125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 813.53125,
+      "height": 218,
+      "left": 21,
+      "right": 359,
+      "top": 595.53125,
+      "width": 338,
+      "x": 21,
+      "y": 595.53125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 698.09375,
+      "height": 258,
+      "left": 21,
+      "right": 359,
+      "top": 440.09375,
+      "width": 338,
+      "x": 21,
+      "y": 440.09375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 295.8125,
+      "height": 64.78125,
+      "left": 21,
+      "right": 359,
+      "top": 231.03125,
+      "width": 338,
+      "x": 21,
+      "y": 231.03125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 533.984375,
+      "height": 30.796875,
+      "left": 16,
+      "right": 282.40625,
+      "top": 503.1875,
+      "width": 266.40625,
+      "x": 16,
+      "y": 503.1875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 577.0625,
+      "height": 218,
+      "left": 20,
+      "right": 360,
+      "top": 359.0625,
+      "width": 340,
+      "x": 20,
+      "y": 359.0625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 345.84375,
+      "height": 49,
+      "left": 16,
+      "right": 364,
+      "top": 296.84375,
+      "width": 348,
+      "x": 16,
+      "y": 296.84375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 813.890625,
+      "height": 36,
+      "left": 20,
+      "right": 102.65625,
+      "top": 777.890625,
+      "width": 82.65625,
+      "x": 20,
+      "y": 777.890625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      390,
+      844
+    ],
+    "requested": [
+      390,
+      844
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 309.078125,
+      "height": 61.625,
+      "left": 16.46875,
+      "right": 385.53125,
+      "top": 247.453125,
+      "width": 369.0625,
+      "x": 16.46875,
+      "y": 247.453125
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 186.5,
+      "height": 32.390625,
+      "left": 21,
+      "right": 381,
+      "top": 154.109375,
+      "width": 360,
+      "x": 21,
+      "y": 154.109375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 884.84375,
+      "height": 218,
+      "left": 21,
+      "right": 381,
+      "top": 666.84375,
+      "width": 360,
+      "x": 21,
+      "y": 666.84375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 662.609375,
+      "height": 258,
+      "left": 21,
+      "right": 381,
+      "top": 404.609375,
+      "width": 360,
+      "x": 21,
+      "y": 404.609375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 314.328125,
+      "height": 64.78125,
+      "left": 21,
+      "right": 381,
+      "top": 249.546875,
+      "width": 360,
+      "x": 21,
+      "y": 249.546875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 569.203125,
+      "height": 30.796875,
+      "left": 16,
+      "right": 282.40625,
+      "top": 538.40625,
+      "width": 266.40625,
+      "x": 16,
+      "y": 538.40625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 799.078125,
+      "height": 218,
+      "left": 20,
+      "right": 382,
+      "top": 581.078125,
+      "width": 362,
+      "x": 20,
+      "y": 581.078125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 300.359375,
+      "height": 49,
+      "left": 16.46875,
+      "right": 385.53125,
+      "top": 251.359375,
+      "width": 369.0625,
+      "x": 16.46875,
+      "y": 251.359375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 885.40625,
+      "height": 36,
+      "left": 20,
+      "right": 102.65625,
+      "top": 849.40625,
+      "width": 82.65625,
+      "x": 20,
+      "y": 849.40625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      412,
+      915
+    ],
+    "requested": [
+      412,
+      915
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 315.03125,
+      "height": 74.78125,
+      "left": 28,
+      "right": 730,
+      "top": 240.25,
+      "width": 702,
+      "x": 28,
+      "y": 240.25
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 221.453125,
+      "height": 43.1875,
+      "left": 31,
+      "right": 727,
+      "top": 178.265625,
+      "width": 696,
+      "x": 31,
+      "y": 178.265625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 993.9375,
+      "height": 358,
+      "left": 31,
+      "right": 404.03125,
+      "top": 635.9375,
+      "width": 373.03125,
+      "x": 31,
+      "y": 635.9375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 704.3125,
+      "height": 258,
+      "left": 31,
+      "right": 727,
+      "top": 446.3125,
+      "width": 696,
+      "x": 31,
+      "y": 446.3125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 344.6875,
+      "height": 86.375,
+      "left": 31,
+      "right": 727,
+      "top": 258.3125,
+      "width": 696,
+      "x": 31,
+      "y": 258.3125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 452.1875,
+      "height": 44,
+      "left": 78,
+      "right": 458.578125,
+      "top": 408.1875,
+      "width": 380.578125,
+      "x": 78,
+      "y": 408.1875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 666.53125,
+      "height": 268,
+      "left": 30,
+      "right": 728,
+      "top": 398.53125,
+      "width": 698,
+      "x": 30,
+      "y": 398.53125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 415.3125,
+      "height": 60,
+      "left": 28,
+      "right": 730,
+      "top": 355.3125,
+      "width": 702,
+      "x": 28,
+      "y": 355.3125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 994.3125,
+      "height": 36,
+      "left": 233.578125,
+      "right": 328.953125,
+      "top": 958.3125,
+      "width": 95.375,
+      "x": 233.578125,
+      "y": 958.3125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      768,
+      1024
+    ],
+    "requested": [
+      768,
+      1024
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 287.40625,
+      "height": 33.03125,
+      "left": 95.609375,
+      "right": 1260.390625,
+      "top": 254.375,
+      "width": 1164.78125,
+      "x": 95.609375,
+      "y": 254.375
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 229,
+      "height": 73.015625,
+      "left": 110.265625,
+      "right": 1160.265625,
+      "top": 155.984375,
+      "width": 1050,
+      "x": 110.265625,
+      "y": 155.984375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 736.609375,
+      "height": 358,
+      "left": 110.265625,
+      "right": 731.703125,
+      "top": 378.609375,
+      "width": 621.4375,
+      "x": 110.265625,
+      "y": 378.609375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 737.9375,
+      "height": 398,
+      "left": 110.265625,
+      "right": 690.859375,
+      "top": 339.9375,
+      "width": 580.59375,
+      "x": 110.265625,
+      "y": 339.9375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 327.46875,
+      "height": 146.03125,
+      "left": 110.265625,
+      "right": 1160.265625,
+      "top": 181.4375,
+      "width": 1050,
+      "x": 110.265625,
+      "y": 181.4375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 225.546875,
+      "height": 45.078125,
+      "left": 78,
+      "right": 467.78125,
+      "top": 180.46875,
+      "width": 389.78125,
+      "x": 78,
+      "y": 180.46875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 757.046875,
+      "height": 358,
+      "left": 109.265625,
+      "right": 684.125,
+      "top": 399.046875,
+      "width": 574.859375,
+      "x": 109.265625,
+      "y": 399.046875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 276.046875,
+      "height": 76,
+      "left": 166,
+      "right": 1190,
+      "top": 200.046875,
+      "width": 1024,
+      "x": 166,
+      "y": 200.046875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 737.921875,
+      "height": 36,
+      "left": 415.625,
+      "right": 511,
+      "top": 701.921875,
+      "width": 95.375,
+      "x": 415.625,
+      "y": 701.921875
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1366,
+      768
+    ],
+    "requested": [
+      1366,
+      768
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 170.109375,
+      "height": 36.71875,
+      "left": 215,
+      "right": 1695,
+      "top": 133.390625,
+      "width": 1480,
+      "x": 215,
+      "y": 133.390625
+    },
+    "canvasCount": 0,
+    "color": "rgb(23, 24, 28)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "hero",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 242.25,
+      "height": 85.125,
+      "left": 305,
+      "right": 1355,
+      "top": 157.125,
+      "width": 1050,
+      "x": 305,
+      "y": 157.125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "services",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 1050.09375,
+      "height": 408,
+      "left": 151,
+      "right": 1039.515625,
+      "top": 642.09375,
+      "width": 888.515625,
+      "x": 151,
+      "y": 642.09375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "components",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(225deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 864.640625,
+      "height": 398,
+      "left": 255,
+      "right": 977.078125,
+      "top": 466.640625,
+      "width": 722.078125,
+      "x": 255,
+      "y": 466.640625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "process",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(115deg, rgb(250, 249, 246), rgb(244, 243, 240) 60%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 352.390625,
+      "height": 170.25,
+      "left": 305,
+      "right": 1355,
+      "top": 182.140625,
+      "width": 1050,
+      "x": 305,
+      "y": 182.140625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "trust",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 214.03125,
+      "height": 50.59375,
+      "left": 105.59375,
+      "right": 543.265625,
+      "top": 163.4375,
+      "width": 437.671875,
+      "x": 105.59375,
+      "y": 163.4375
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "gallery",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "box": {
+      "bottom": 783.28125,
+      "height": 358,
+      "left": 255,
+      "right": 967.375,
+      "top": 425.28125,
+      "width": 712.375,
+      "x": 255,
+      "y": 425.28125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": {
+      "loaded": true,
+      "src": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp"
+    },
+    "inside": true,
+    "overflow": false,
+    "section": "booking",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "none",
+    "box": {
+      "bottom": 275.03125,
+      "height": 76,
+      "left": 443,
+      "right": 1467,
+      "top": 199.03125,
+      "width": 1024,
+      "x": 443,
+      "y": 199.03125
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "contact",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "background": "linear-gradient(rgb(229, 229, 226), rgb(216, 219, 221))",
+    "box": {
+      "bottom": 1049.90625,
+      "height": 36,
+      "left": 657,
+      "right": 752.375,
+      "top": 1013.90625,
+      "width": 95.375,
+      "x": 657,
+      "y": 1013.90625
+    },
+    "canvasCount": 0,
+    "color": "rgb(36, 39, 43)",
+    "image": null,
+    "inside": true,
+    "overflow": false,
+    "section": "footer",
+    "theme": "light",
+    "unoccluded": true,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "requested": [
+      1920,
+      1080
+    ]
+  }
+]

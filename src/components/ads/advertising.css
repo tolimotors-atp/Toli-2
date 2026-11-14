@@ -1,0 +1,7 @@
+/* Only development simulations currently render. No Google creative is cropped or altered. */
+.ad-layout-region {position:relative;isolation:isolate;box-sizing:border-box;width:100%;max-width:1100px;margin:64px auto;padding:24px max(16px,env(safe-area-inset-right)) 24px max(16px,env(safe-area-inset-left));border-block:1px solid var(--border-subtle);background:var(--bg-secondary);color:var(--text-primary);}
+.ad-layout-label {font:600 11px/1.5 Inter,sans-serif;letter-spacing:.08em;text-align:center;margin:0 0 16px;overflow-wrap:anywhere;}
+.ad-layout-placeholder {display:grid;place-items:center;min-height:250px;text-align:center;border:1px dashed currentColor;padding:16px;box-sizing:border-box;font:500 14px/1.6 Inter,sans-serif;overflow-wrap:anywhere;}
+.ad-layout-small .ad-layout-placeholder {min-height:100px;}
+.ad-layout-large .ad-layout-placeholder,.ad-layout-slow .ad-layout-placeholder,.ad-layout-multiple .ad-layout-placeholder {min-height:280px;}
+@media(max-width:600px){.ad-layout-region {margin-block:48px;}.ad-layout-large .ad-layout-placeholder,.ad-layout-slow .ad-layout-placeholder,.ad-layout-multiple .ad-layout-placeholder{min-height:320px;}}

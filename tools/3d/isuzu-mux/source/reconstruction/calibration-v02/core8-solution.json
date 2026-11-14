@@ -1,0 +1,4705 @@
+{
+  "name": "core8",
+  "core_cameras": [
+    6,
+    7,
+    9,
+    8,
+    10,
+    11,
+    12,
+    13
+  ],
+  "training": {
+    "n": 60,
+    "rms": 2.2911700971155144,
+    "median": 1.5594487444178964,
+    "max": 6.778485732825121
+  },
+  "heldout": {
+    "n": 8,
+    "rms": 9.39274032957527,
+    "median": 5.381261140851878,
+    "max": 18.635551355894602
+  },
+  "all": {
+    "n": 68,
+    "rms": 3.8744187268498687,
+    "median": 1.7010632986040646,
+    "max": 18.635551355894602
+  },
+  "focal_36mm": 78.62916681225117,
+  "stages": [
+    {
+      "stage": "A vehicle-frame ratios; gauge ground/axles fixed",
+      "active_unknowns": 2,
+      "fit_observations": 28,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 39.81484810265145,
+        "median": 23.145676601021087,
+        "max": 111.38899701552096
+      },
+      "common_focal_36mm": 70.0,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "B camera orientations, A landmarks only",
+      "active_unknowns": 24,
+      "fit_observations": 52,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 33.167479188044744,
+        "median": 22.041456234024174,
+        "max": 91.39976673616971
+      },
+      "common_focal_36mm": 70.0,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "C camera positions, A landmarks only",
+      "active_unknowns": 24,
+      "fit_observations": 52,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 20.87590356526617,
+        "median": 14.283947609781812,
+        "max": 54.472404880183625
+      },
+      "common_focal_36mm": 70.0,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "B2 orientation stabilization",
+      "active_unknowns": 24,
+      "fit_observations": 52,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 21.6347429249539,
+        "median": 14.117290707183038,
+        "max": 68.04694404419031
+      },
+      "common_focal_36mm": 70.0,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "C2 position stabilization",
+      "active_unknowns": 24,
+      "fit_observations": 52,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 21.672142743740764,
+        "median": 14.15361384842803,
+        "max": 68.08957763720605
+      },
+      "common_focal_36mm": 70.0,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "D constrained single shared focal; no free principal shifts",
+      "active_unknowns": 1,
+      "fit_observations": 52,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 21.676769840414305,
+        "median": 14.1974948455599,
+        "max": 68.11618953879653
+      },
+      "common_focal_36mm": 70.0215086659126,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "E shared landmark depths; stable B windshield ties admitted",
+      "active_unknowns": 18,
+      "fit_observations": 60,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 17.165375073423924,
+        "median": 9.963912308522428,
+        "max": 48.58545507697007
+      },
+      "common_focal_36mm": 70.0215086659126,
+      "half_track": 0.2946023874478254,
+      "radius": 0.1665669642005014
+    },
+    {
+      "stage": "F robust joint structural bundle",
+      "active_unknowns": 69,
+      "fit_observations": 60,
+      "all_structural_train": {
+        "n": 60,
+        "rms": 2.2911700971155144,
+        "median": 1.5594487444178964,
+        "max": 6.778485732825121
+      },
+      "common_focal_36mm": 78.62916681225117,
+      "half_track": 0.2881826962219184,
+      "radius": 0.1327712923460451
+    }
+  ],
+  "per_camera": {
+    "6": {
+      "status": "CORE",
+      "observations": 10,
+      "training": {
+        "n": 9,
+        "rms": 1.4766299020919604,
+        "median": 1.493064551588466,
+        "max": 2.127372503705854
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 4.142959586348257,
+        "median": 4.142959586348257,
+        "max": 4.142959586348257
+      },
+      "all": {
+        "n": 10,
+        "rms": 1.9180207752754905,
+        "median": 1.5829043303429704,
+        "max": 4.142959586348257
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        -0.07772294098888023,
+        0.10996068597724595,
+        -0.0015395043528629462
+      ],
+      "position": [
+        4.942779288696416,
+        -0.39150393645302284,
+        0.8587446756641277
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "7": {
+      "status": "CORE",
+      "observations": 10,
+      "training": {
+        "n": 9,
+        "rms": 2.6115876132263827,
+        "median": 1.5822012949690345,
+        "max": 6.69021273134915
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 6.619562695355498,
+        "median": 6.619562695355498,
+        "max": 6.619562695355498
+      },
+      "all": {
+        "n": 10,
+        "rms": 3.2434876141548528,
+        "median": 1.6446048300314278,
+        "max": 6.69021273134915
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        1.5259007304163754,
+        0.08460451949925162,
+        -0.014695419058588052
+      ],
+      "position": [
+        0.2414807960897204,
+        4.9264209602665625,
+        0.7269953609936465
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "9": {
+      "status": "CORE",
+      "observations": 10,
+      "training": {
+        "n": 9,
+        "rms": 2.084141696651458,
+        "median": 1.3677330952573854,
+        "max": 3.320724446818466
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 3.680374576055549,
+        "median": 3.680374576055549,
+        "max": 3.680374576055549
+      },
+      "all": {
+        "n": 10,
+        "rms": 2.2942967664530025,
+        "median": 1.4522146445620718,
+        "max": 3.680374576055549
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        -1.6437368075722156,
+        0.009319269682559087,
+        -0.0017041330865978795
+      ],
+      "position": [
+        -0.3538390320437028,
+        -4.876793643367956,
+        0.37165809178272113
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "8": {
+      "status": "CORE",
+      "observations": 6,
+      "training": {
+        "n": 5,
+        "rms": 0.8908175054170264,
+        "median": 0.735083653973608,
+        "max": 1.3559981795155207
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 2.6876353879170876,
+        "median": 2.6876353879170876,
+        "max": 2.6876353879170876
+      },
+      "all": {
+        "n": 6,
+        "rms": 1.3657210011669845,
+        "median": 0.8914650428072606,
+        "max": 2.6876353879170876
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        3.135001965799253,
+        0.09631168237547064,
+        -0.004793244204373827
+      ],
+      "position": [
+        -4.857695919309146,
+        0.03763123374236347,
+        0.7785218493696793
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "10": {
+      "status": "CORE",
+      "observations": 10,
+      "training": {
+        "n": 9,
+        "rms": 3.489269936694338,
+        "median": 2.58701456361577,
+        "max": 6.778485732825121
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 3.8667804849502088,
+        "median": 3.8667804849502088,
+        "max": 3.8667804849502088
+      },
+      "all": {
+        "n": 10,
+        "rms": 3.5288388109810565,
+        "median": 2.949799305881366,
+        "max": 6.778485732825121
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        -0.6979022112334069,
+        0.09091340885857718,
+        0.039066591213460726
+      ],
+      "position": [
+        3.7450093225467964,
+        -3.1385296221158723,
+        0.7586036053520224
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "11": {
+      "status": "CORE",
+      "observations": 10,
+      "training": {
+        "n": 9,
+        "rms": 2.46137845584236,
+        "median": 2.550953308804716,
+        "max": 3.597959299866492
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 7.642295084300989,
+        "median": 7.642295084300989,
+        "max": 7.642295084300989
+      },
+      "all": {
+        "n": 10,
+        "rms": 3.360507837834861,
+        "median": 2.6289010601791514,
+        "max": 7.642295084300989
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        0.8990664053985364,
+        0.10102535194895058,
+        -0.03388145720976942
+      ],
+      "position": [
+        3.099386416966407,
+        3.8746723278078816,
+        0.811502142809855
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "12": {
+      "status": "CORE",
+      "observations": 6,
+      "training": {
+        "n": 5,
+        "rms": 1.4318768945491327,
+        "median": 1.4459599490324497,
+        "max": 2.031105032138952
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 14.261727173376045,
+        "median": 14.261727173376045,
+        "max": 14.261727173376045
+      },
+      "all": {
+        "n": 6,
+        "rms": 5.9672469807208275,
+        "median": 1.6470160543255243,
+        "max": 14.261727173376045
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        2.637727853096724,
+        0.0913097550707475,
+        0.037320770801470046
+      ],
+      "position": [
+        -4.206713248679774,
+        2.3329402491692592,
+        0.7489530583517057
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    },
+    "13": {
+      "status": "CORE",
+      "observations": 6,
+      "training": {
+        "n": 5,
+        "rms": 1.8192163188671062,
+        "median": 1.847958395065152,
+        "max": 2.7937034534264513
+      },
+      "heldout": {
+        "n": 1,
+        "rms": 18.635551355894602,
+        "median": 18.635551355894602,
+        "max": 18.635551355894602
+      },
+      "all": {
+        "n": 6,
+        "rms": 7.787078125676612,
+        "median": 1.9184722824350704,
+        "max": 18.635551355894602
+      },
+      "focal_36mm": 78.62916681225117,
+      "focal_pixels": 2267.140976419909,
+      "principal_point": [
+        519.0,
+        293.5
+      ],
+      "yaw_pitch_roll": [
+        -2.437909509024424,
+        0.15268291362120323,
+        0.03141199410921437
+      ],
+      "position": [
+        -3.6684075930368447,
+        -3.0725962952899644,
+        1.0125333946682344
+      ],
+      "confidence": "UNVALIDATED until visual/LOVO gate",
+      "included": true
+    }
+  },
+  "points": {
+    "h_out_L": [
+      0.6309709730455505,
+      0.27236623846721264,
+      0.3908721503485829
+    ],
+    "h_out_R": [
+      0.6309709730455505,
+      -0.27236623846721264,
+      0.3908721503485829
+    ],
+    "h_in_L": [
+      0.7739288055187787,
+      0.1663926814798313,
+      0.30718018380436
+    ],
+    "h_in_R": [
+      0.7739288055187787,
+      -0.1663926814798313,
+      0.30718018380436
+    ],
+    "ws_base_L": [
+      0.33414675667067273,
+      0.25191698913373844,
+      0.4522735614917151
+    ],
+    "ws_base_R": [
+      0.33414675667067273,
+      -0.25191698913373844,
+      0.4522735614917151
+    ],
+    "ws_top_L": [
+      0.11625591603756877,
+      0.20438926119610265,
+      0.5973601255736772
+    ],
+    "ws_top_R": [
+      0.11625591603756877,
+      -0.20438926119610265,
+      0.5973601255736772
+    ],
+    "tl_top_L": [
+      -0.6421887031634169,
+      0.29463133645320394,
+      0.4498509393581175
+    ],
+    "tl_top_R": [
+      -0.6421887031634169,
+      -0.29463133645320394,
+      0.4498509393581175
+    ],
+    "tl_low_L": [
+      -0.6999103755550816,
+      0.2900142484871057,
+      0.3695120435463224
+    ],
+    "tl_low_R": [
+      -0.6999103755550816,
+      -0.2900142484871057,
+      0.3695120435463224
+    ],
+    "wc_F_L": [
+      0.5,
+      0.2881826962219184,
+      0.1327712923460451
+    ],
+    "contact_F_L": [
+      0.5,
+      0.2881826962219184,
+      0.0
+    ],
+    "wc_F_R": [
+      0.5,
+      -0.2881826962219184,
+      0.1327712923460451
+    ],
+    "contact_F_R": [
+      0.5,
+      -0.2881826962219184,
+      0.0
+    ],
+    "wc_R_L": [
+      -0.5,
+      0.2881826962219184,
+      0.1327712923460451
+    ],
+    "contact_R_L": [
+      -0.5,
+      0.2881826962219184,
+      0.0
+    ],
+    "wc_R_R": [
+      -0.5,
+      -0.2881826962219184,
+      0.1327712923460451
+    ],
+    "contact_R_R": [
+      -0.5,
+      -0.2881826962219184,
+      0.0
+    ]
+  },
+  "frame_focal": [
+    0.2881826962219184,
+    0.1327712923460451,
+    0.7812237711825275
+  ],
+  "rows": [
+    {
+      "camera": 6,
+      "landmark": "contact_F_L",
+      "base": "contact_F",
+      "side": "L",
+      "xy": [
+        683,
+        474
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        685.9196487230556,
+        472.44268451504126
+      ],
+      "error_pixels": 3.3090149872329904,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.919648723055616,
+      "dy": -1.5573154849587354,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        685.0660676922096,
+        473.49297134131143
+      ],
+      "dx_v02": 2.0660676922095718,
+      "dy_v02": -0.5070286586885686,
+      "error_v02": 2.127372503705854,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "contact_F_R",
+      "base": "contact_F",
+      "side": "R",
+      "xy": [
+        399,
+        478
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        393.72275388588014,
+        476.00073006121954
+      ],
+      "error_pixels": 5.643262074111426,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -5.277246114119862,
+      "dy": -1.9992699387804578,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        397.518695531631,
+        478.1870262740904
+      ],
+      "dx_v02": -1.4813044683689895,
+      "dy_v02": 0.1870262740903854,
+      "error_v02": 1.493064551588466,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "h_in_L",
+      "base": "h_in",
+      "side": "L",
+      "xy": [
+        644,
+        340
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        638.8151536685824,
+        341.2315150614093
+      ],
+      "error_pixels": 5.329095685657409,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -5.184846331417589,
+      "dy": 1.2315150614093113,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        643.5569399272987,
+        340.0855582977647
+      ],
+      "dx_v02": -0.4430600727013143,
+      "dy_v02": 0.08555829776469182,
+      "error_v02": 0.45124544356534574,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "h_in_R",
+      "base": "h_in",
+      "side": "R",
+      "xy": [
+        466,
+        341
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        468.68103728480304,
+        342.51230279989034
+      ],
+      "error_pixels": 3.078152153656509,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.6810372848030397,
+      "dy": 1.5123027998903353,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        465.611485497947,
+        342.1722582211548
+      ],
+      "dx_v02": -0.388514502052999,
+      "dy_v02": 1.1722582211547774,
+      "error_v02": 1.2349626939185057,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "h_out_L",
+      "base": "h_out",
+      "side": "L",
+      "xy": [
+        692,
+        289
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        687.6529516407704,
+        290.6828594081289
+      ],
+      "error_pixels": 4.661420944841649,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": -4.347048359229575,
+      "dy": 1.682859408128877,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        688.4666143928507,
+        286.8368309623829
+      ],
+      "dx_v02": -3.5333856071492846,
+      "dy_v02": -2.163169037617081,
+      "error_v02": 4.142959586348257,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "h_out_R",
+      "base": "h_out",
+      "side": "R",
+      "xy": [
+        405,
+        291
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        406.4871409095071,
+        292.30093852528637
+      ],
+      "error_pixels": 1.9758616174479153,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.4871409095071044,
+      "dy": 1.3009385252863694,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        405.98074004981186,
+        289.6379541612794
+      ],
+      "dx_v02": 0.9807400498118568,
+      "dy_v02": -1.3620458387205758,
+      "error_v02": 1.6783980195653831,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "ws_base_L",
+      "base": "ws_base",
+      "side": "L",
+      "xy": [
+        659,
+        242
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        656.7343443555644,
+        243.9999507196099
+      ],
+      "error_pixels": 3.0220851046969157,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -2.265655644435583,
+      "dy": 1.999950719609899,
+      "category": "ws_base",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        656.8794405530754,
+        241.88331168275198
+      ],
+      "dx_v02": -2.1205594469246307,
+      "dy_v02": -0.11668831724801976,
+      "error_v02": 2.123767532316913,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "ws_base_R",
+      "base": "ws_base",
+      "side": "R",
+      "xy": [
+        410,
+        244
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        412.01674945997115,
+        245.00349076455544
+      ],
+      "error_pixels": 2.2526145029369733,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.0167494599711517,
+      "dy": 1.003490764555437,
+      "category": "ws_base",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        411.6714415038165,
+        243.93399883455572
+      ],
+      "dx_v02": 1.6714415038164816,
+      "dy_v02": -0.06600116544427692,
+      "error_v02": 1.6727441090974748,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "ws_top_L",
+      "base": "ws_top",
+      "side": "L",
+      "xy": [
+        621,
+        165
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        619.8006058007692,
+        166.6123520865359
+      ],
+      "error_pixels": 2.0095337011618497,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.1993941992308237,
+      "dy": 1.612352086535907,
+      "category": "ws_top",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        621.174822545992,
+        165.7722148489604
+      ],
+      "dx_v02": 0.17482254599201497,
+      "dy_v02": 0.7722148489604024,
+      "error_v02": 0.7917567148702102,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 6,
+      "landmark": "ws_top_R",
+      "base": "ws_top",
+      "side": "R",
+      "xy": [
+        431,
+        167
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        432.59884018924186,
+        166.86833456062774
+      ],
+      "error_pixels": 1.6042523924432903,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.5988401892418551,
+      "dy": -0.13166543937225583,
+      "category": "ws_top",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        430.3913168378608,
+        166.86825481417642
+      ],
+      "dx_v02": -0.6086831621391866,
+      "dy_v02": -0.13174518582357564,
+      "error_v02": 0.6227776375717482,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "contact_F_L",
+      "base": "contact_F",
+      "side": "L",
+      "xy": [
+        293,
+        458
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        295.3626757219161,
+        458.9514995222622
+      ],
+      "error_pixels": 2.5470743820699524,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.362675721916105,
+      "dy": 0.9514995222622247,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        294.82029755810015,
+        458.98158477682256
+      ],
+      "dx_v02": 1.820297558100151,
+      "dy_v02": 0.9815847768225581,
+      "error_v02": 2.068088942505898,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "contact_R_L",
+      "base": "contact_R",
+      "side": "L",
+      "xy": [
+        778,
+        447
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        776.8837350925044,
+        449.27945894846005
+      ],
+      "error_pixels": 2.5381056797187966,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.1162649074956335,
+      "dy": 2.2794589484600465,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        777.5689837322816,
+        448.52236195261304
+      ],
+      "dx_v02": -0.4310162677184053,
+      "dy_v02": 1.5223619526130392,
+      "error_v02": 1.5822012949690345,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "h_in_L",
+      "base": "h_in",
+      "side": "L",
+      "xy": [
+        164,
+        308
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        165.02016620000433,
+        305.3698235865933
+      ],
+      "error_pixels": 2.821093235125712,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": 1.0201662000043257,
+      "dy": -2.630176413406673,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        163.31696656436992,
+        307.55769320572455
+      ],
+      "dx_v02": -0.6830334356300796,
+      "dy_v02": -0.44230679427545283,
+      "error_v02": 0.813738271467465,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "h_out_L",
+      "base": "h_out",
+      "side": "L",
+      "xy": [
+        227,
+        271
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        223.8770198854238,
+        272.4777709737199
+      ],
+      "error_pixels": 3.4549691528011297,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -3.122980114576194,
+      "dy": 1.4777709737198848,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        226.6854461618821,
+        270.21363000670476
+      ],
+      "dx_v02": -0.31455383811788806,
+      "dy_v02": -0.7863699932952386,
+      "error_v02": 0.8469485718919704,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "tl_low_L",
+      "base": "tl_low",
+      "side": "L",
+      "xy": [
+        872,
+        271
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        880.5759188397968,
+        269.3574566864433
+      ],
+      "error_pixels": 8.731800071216243,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 8.575918839796827,
+      "dy": -1.6425433135567005,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        872.8981008904319,
+        269.548348406433
+      ],
+      "dx_v02": 0.8981008904319197,
+      "dy_v02": -1.4516515935670213,
+      "error_v02": 1.707008365093821,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "tl_top_L",
+      "base": "tl_top",
+      "side": "L",
+      "xy": [
+        852,
+        230
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        854.370579464447,
+        229.61504230509718
+      ],
+      "error_pixels": 2.4016326580313674,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.370579464447019,
+      "dy": -0.3849576949028233,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        845.5200635220945,
+        231.35241765740147
+      ],
+      "dx_v02": -6.4799364779055395,
+      "dy_v02": 1.3524176574014746,
+      "error_v02": 6.619562695355498,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "wc_F_L",
+      "base": "wc_F",
+      "side": "L",
+      "xy": [
+        293,
+        396
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        293.9122046889088,
+        394.75903353137613
+      ],
+      "error_pixels": 1.54016725413702,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.9122046889087869,
+      "dy": -1.240966468623867,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        293.3333444743647,
+        394.9634759736548
+      ],
+      "dx_v02": 0.3333444743647078,
+      "dy_v02": -1.0365240263452051,
+      "error_v02": 1.0888069598328065,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "wc_R_L",
+      "base": "wc_R",
+      "side": "L",
+      "xy": [
+        778,
+        385
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        776.9728689371185,
+        385.7027373925701
+      ],
+      "error_pixels": 1.2445232272851685,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.0271310628814945,
+      "dy": 0.7027373925700999,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        777.2484871408535,
+        385.0883653409748
+      ],
+      "dx_v02": -0.7515128591464872,
+      "dy_v02": 0.08836534097480353,
+      "error_v02": 0.7566901683966306,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "ws_base_L",
+      "base": "ws_base",
+      "side": "L",
+      "xy": [
+        374,
+        231
+      ],
+      "sigma": 7,
+      "heldout": true,
+      "projected": [
+        367.4852949566298,
+        238.69060811837196
+      ],
+      "error_pixels": 10.079029468777334,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": -6.514705043370213,
+      "dy": 7.690608118371955,
+      "category": "ws_base",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        371.43462300060435,
+        237.17881762489216
+      ],
+      "dx_v02": -2.565376999395653,
+      "dy_v02": 6.178817624892162,
+      "error_v02": 6.69021273134915,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 7,
+      "landmark": "ws_top_L",
+      "base": "ws_top",
+      "side": "L",
+      "xy": [
+        474,
+        163
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        471.9042215026283,
+        164.3869247779403
+      ],
+      "error_pixels": 2.513135063961032,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -2.0957784973717253,
+      "dy": 1.386924777940294,
+      "category": "ws_top",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        475.3650603434891,
+        164.38901756177452
+      ],
+      "dx_v02": 1.3650603434891195,
+      "dy_v02": 1.3890175617745228,
+      "error_v02": 1.9475008416646893,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "contact_R_L",
+      "base": "contact_R",
+      "side": "L",
+      "xy": [
+        377,
+        478
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        378.52676475395026,
+        476.09052157185806
+      ],
+      "error_pixels": 2.4448146108537974,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.5267647539502605,
+      "dy": -1.909478428141938,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        376.3311477402797,
+        477.1933905536323
+      ],
+      "dx_v02": -0.6688522597203246,
+      "dy_v02": -0.8066094463677018,
+      "error_v02": 1.0478464316409133,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "contact_R_R",
+      "base": "contact_R",
+      "side": "R",
+      "xy": [
+        672,
+        475
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        672.7228884000111,
+        475.44005962202345
+      ],
+      "error_pixels": 0.8462978847935734,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.7228884000111293,
+      "dy": 0.4400596220234547,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        672.4509122098876,
+        475.42964996151886
+      ],
+      "dx_v02": 0.45091220988763325,
+      "dy_v02": 0.42964996151886226,
+      "error_v02": 0.62283297155731,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "tl_low_L",
+      "base": "tl_low",
+      "side": "L",
+      "xy": [
+        367,
+        299
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        363.0366737478653,
+        300.51301814269857
+      ],
+      "error_pixels": 4.242308202028146,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -3.9633262521347206,
+      "dy": 1.51301814269857,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        367.13295941904266,
+        298.27704096158425
+      ],
+      "dx_v02": 0.13295941904266328,
+      "dy_v02": -0.7229590384157518,
+      "error_v02": 0.735083653973608,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "tl_low_R",
+      "base": "tl_low",
+      "side": "R",
+      "xy": [
+        683,
+        299
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        683.428402343412,
+        299.48464432532256
+      ],
+      "error_pixels": 0.6468451823336634,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.4284023434120172,
+      "dy": 0.48464432532256296,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        681.8615686034474,
+        296.56538341135047
+      ],
+      "dx_v02": -1.138431396552619,
+      "dy_v02": -2.434616588649533,
+      "error_v02": 2.6876353879170876,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "tl_top_L",
+      "base": "tl_top",
+      "side": "L",
+      "xy": [
+        366,
+        251
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        373.2629801735791,
+        256.0298340981063
+      ],
+      "error_pixels": 8.83459744732466,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": 7.262980173579081,
+      "dy": 5.029834098106278,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        366.01798908753244,
+        252.35587884989005
+      ],
+      "dx_v02": 0.017989087532441772,
+      "dy_v02": 1.355878849890047,
+      "error_v02": 1.3559981795155207,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 8,
+      "landmark": "tl_top_R",
+      "base": "tl_top",
+      "side": "R",
+      "xy": [
+        682,
+        251
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        673.5590077959849,
+        254.99005093493167
+      ],
+      "error_pixels": 9.336533395837673,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -8.44099220401506,
+      "dy": 3.9900509349316735,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        681.99676622881,
+        250.67939652752838
+      ],
+      "dx_v02": -0.0032337711900254362,
+      "dy_v02": -0.3206034724716176,
+      "error_v02": 0.3206197807948984,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "contact_F_R",
+      "base": "contact_F",
+      "side": "R",
+      "xy": [
+        772,
+        455
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        771.8849985322615,
+        455.0353222118674
+      ],
+      "error_pixels": 0.1203037664963514,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.11500146773846609,
+      "dy": 0.0353222118674239,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        771.8630863453799,
+        453.4694151956121
+      ],
+      "dx_v02": -0.13691365462011618,
+      "dy_v02": -1.5305848043878996,
+      "error_v02": 1.5366961938667583,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "contact_R_R",
+      "base": "contact_R",
+      "side": "R",
+      "xy": [
+        282,
+        458
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        283.5003832479722,
+        455.7266085748047
+      ],
+      "error_pixels": 2.7238682903083205,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.500383247972195,
+      "dy": -2.273391425195314,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        281.01861201330263,
+        457.20113900965055
+      ],
+      "dx_v02": -0.9813879866973707,
+      "dy_v02": -0.7988609903494535,
+      "error_v02": 1.2654253286290853,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "h_in_R",
+      "base": "h_in",
+      "side": "R",
+      "xy": [
+        890,
+        301
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        888.0102210358923,
+        303.74504904323743
+      ],
+      "error_pixels": 3.390356113417031,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": -1.9897789641076997,
+      "dy": 2.7450490432374295,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        889.6410301306511,
+        302.3197857601755
+      ],
+      "dx_v02": -0.3589698693489254,
+      "dy_v02": 1.3197857601754777,
+      "error_v02": 1.3677330952573854,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "h_out_R",
+      "base": "h_out",
+      "side": "R",
+      "xy": [
+        836,
+        265
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        837.0855246845103,
+        266.26486421737144
+      ],
+      "error_pixels": 1.6668069261519016,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.0855246845103466,
+      "dy": 1.2648642173714393,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        833.3041156302901,
+        262.494533080396
+      ],
+      "dx_v02": -2.6958843697099155,
+      "dy_v02": -2.5054669196039754,
+      "error_v02": 3.680374576055549,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "tl_low_R",
+      "base": "tl_low",
+      "side": "R",
+      "xy": [
+        179,
+        271
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        177.50809679637814,
+        272.3253893464506
+      ],
+      "error_pixels": 1.9956031891791346,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.4919032036218596,
+      "dy": 1.3253893464506064,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        180.37099162177134,
+        274.01788573627175
+      ],
+      "dx_v02": 1.3709916217713385,
+      "dy_v02": 3.017885736271751,
+      "error_v02": 3.314702451828775,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "tl_top_R",
+      "base": "tl_top",
+      "side": "R",
+      "xy": [
+        209,
+        235
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        204.61957176233517,
+        232.41075575057948
+      ],
+      "error_pixels": 5.088451368391825,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -4.38042823766483,
+      "dy": -2.589244249420517,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        209.08207026980546,
+        233.91948407962948
+      ],
+      "dx_v02": 0.08207026980545606,
+      "dy_v02": -1.080515920370516,
+      "error_v02": 1.0836282496133456,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "wc_F_R",
+      "base": "wc_F",
+      "side": "R",
+      "xy": [
+        772,
+        389
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        771.9013534427397,
+        389.64024979129516
+      ],
+      "error_pixels": 0.6478047070783015,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.09864655726028104,
+      "dy": 0.6402497912951617,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        771.8199739856184,
+        388.6510778530626
+      ],
+      "dx_v02": -0.18002601438161037,
+      "dy_v02": -0.3489221469374115,
+      "error_v02": 0.3926270883135044,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "wc_R_R",
+      "base": "wc_R",
+      "side": "R",
+      "xy": [
+        282,
+        391
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        283.4133859709728,
+        390.18371861053964
+      ],
+      "error_pixels": 1.6321688667910708,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.4133859709727972,
+      "dy": -0.8162813894603573,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        280.8418528052976,
+        391.34972639351554
+      ],
+      "dx_v02": -1.1581471947023942,
+      "dy_v02": 0.3497263935155388,
+      "error_v02": 1.209798939873238,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "ws_base_R",
+      "base": "ws_base",
+      "side": "R",
+      "xy": [
+        686,
+        234
+      ],
+      "sigma": 7,
+      "heldout": true,
+      "projected": [
+        693.2279847772409,
+        235.99528777773753
+      ],
+      "error_pixels": 7.498328964243595,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": 7.227984777240863,
+      "dy": 1.9952877777375306,
+      "category": "ws_base",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        688.6808541188716,
+        232.87486554591743
+      ],
+      "dx_v02": 2.6808541188715935,
+      "dy_v02": -1.1251344540825698,
+      "error_v02": 2.9073882345559685,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 9,
+      "landmark": "ws_top_R",
+      "base": "ws_top",
+      "side": "R",
+      "xy": [
+        578,
+        165
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        586.607289356619,
+        166.90152625532096
+      ],
+      "error_pixels": 8.81483024046649,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 8.607289356619049,
+      "dy": 1.9015262553209595,
+      "category": "ws_top",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        580.7917604777872,
+        163.20186644368022
+      ],
+      "dx_v02": 2.791760477787193,
+      "dy_v02": -1.798133556319783,
+      "error_v02": 3.320724446818466,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "contact_F_R",
+      "base": "contact_F",
+      "side": "R",
+      "xy": [
+        562,
+        484
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        562.0508563926699,
+        484.30748752891975
+      ],
+      "error_pixels": 0.3116648089158692,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.05085639266985709,
+      "dy": 0.30748752891975073,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        562.7762327479046,
+        483.95467534452746
+      ],
+      "dx_v02": 0.7762327479046007,
+      "dy_v02": -0.04532465547254105,
+      "error_v02": 0.7775548876531045,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "contact_R_R",
+      "base": "contact_R",
+      "side": "R",
+      "xy": [
+        275,
+        412
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        274.75680903930174,
+        415.5667773208673
+      ],
+      "error_pixels": 3.575058363162561,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.24319096069825719,
+      "dy": 3.5667773208672884,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        273.8025271814092,
+        413.8444194532092
+      ],
+      "dx_v02": -1.1974728185908248,
+      "dy_v02": 1.8444194532091842,
+      "error_v02": 2.199050765816997,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "h_in_R",
+      "base": "h_in",
+      "side": "R",
+      "xy": [
+        716,
+        338
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        716.5492645466787,
+        335.92816677843325
+      ],
+      "error_pixels": 2.143404870813221,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.549264546678728,
+      "dy": -2.0718332215667488,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        715.5452234674525,
+        338.6306746775691
+      ],
+      "dx_v02": -0.4547765325474984,
+      "dy_v02": 0.6306746775691181,
+      "error_v02": 0.7775424383805921,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "h_out_R",
+      "base": "h_out",
+      "side": "R",
+      "xy": [
+        626,
+        288
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        624.0507734634768,
+        289.8510877815061
+      ],
+      "error_pixels": 2.6881238932622358,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.949226536523156,
+      "dy": 1.8510877815061235,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        623.4179955242529,
+        288.16092619296427
+      ],
+      "dx_v02": -2.5820044757471123,
+      "dy_v02": 0.16092619296426847,
+      "error_v02": 2.58701456361577,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "wc_F_R",
+      "base": "wc_F",
+      "side": "R",
+      "xy": [
+        562,
+        416
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        563.4072808387733,
+        415.3770410073151
+      ],
+      "error_pixels": 1.5389987867914436,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.4072808387733176,
+      "dy": -0.6229589926849144,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        565.584530995956,
+        415.73184045662856
+      ],
+      "dx_v02": 3.5845309959560154,
+      "dy_v02": -0.2681595433714392,
+      "error_v02": 3.5945475378231686,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "wc_R_R",
+      "base": "wc_R",
+      "side": "R",
+      "xy": [
+        275,
+        357
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        275.0815516811554,
+        357.37657015341557
+      ],
+      "error_pixels": 0.38529956805413307,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.08155168115541755,
+      "dy": 0.376570153415571,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        275.5119698834885,
+        355.6237328072063
+      ],
+      "dx_v02": 0.5119698834885185,
+      "dy_v02": -1.376267192793705,
+      "error_v02": 1.4684088489107903,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "ws_base_L",
+      "base": "ws_base",
+      "side": "L",
+      "xy": [
+        708,
+        235
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        712.4981010163976,
+        235.94035315947178
+      ],
+      "error_pixels": 4.595342948926234,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 4.498101016397641,
+      "dy": 0.9403531594717833,
+      "category": "ws_base",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        712.9484317978773,
+        239.63259015798616
+      ],
+      "dx_v02": 4.948431797877333,
+      "dy_v02": 4.632590157986158,
+      "error_v02": 6.778485732825121,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "ws_base_R",
+      "base": "ws_base",
+      "side": "R",
+      "xy": [
+        535,
+        246
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        530.7264320343085,
+        244.55030283384687
+      ],
+      "error_pixels": 4.512760245230999,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -4.273567965691541,
+      "dy": -1.449697166153129,
+      "category": "ws_base",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        531.0266128169769,
+        242.99142465796848
+      ],
+      "dx_v02": -3.9733871830230783,
+      "dy_v02": -3.00857534203152,
+      "error_v02": 4.983907231770285,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "ws_top_L",
+      "base": "ws_top",
+      "side": "L",
+      "xy": [
+        633,
+        165
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        626.4392476442534,
+        162.8608580679225
+      ],
+      "error_pixels": 6.900681102543887,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -6.560752355746558,
+      "dy": -2.139141932077507,
+      "category": "ws_top",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        629.7442928328115,
+        165.6112151156143
+      ],
+      "dx_v02": -3.2557071671884614,
+      "dy_v02": 0.6112151156143,
+      "error_v02": 3.3125840481469626,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 10,
+      "landmark": "ws_top_R",
+      "base": "ws_top",
+      "side": "R",
+      "xy": [
+        487,
+        163
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        482.4800186314057,
+        165.05594414858092
+      ],
+      "error_pixels": 4.965595423967174,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -4.519981368594301,
+      "dy": 2.0559441485809202,
+      "category": "ws_top",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        483.2855873191061,
+        164.07476962871425
+      ],
+      "dx_v02": -3.714412680893872,
+      "dy_v02": 1.0747696287142503,
+      "error_v02": 3.8667804849502088,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "contact_F_L",
+      "base": "contact_F",
+      "side": "L",
+      "xy": [
+        423,
+        480
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        425.55123552445696,
+        477.81576092597624
+      ],
+      "error_pixels": 3.3585269142502567,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.5512355244569562,
+      "dy": -2.1842390740237647,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        425.46155538204505,
+        479.3305913917294
+      ],
+      "dx_v02": 2.4615553820450486,
+      "dy_v02": -0.6694086082706008,
+      "error_v02": 2.550953308804716,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "contact_R_L",
+      "base": "contact_R",
+      "side": "L",
+      "xy": [
+        783,
+        416
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        782.4933659550563,
+        418.0989358901429
+      ],
+      "error_pixels": 2.1592151181450165,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.5066340449436666,
+      "dy": 2.0989358901429114,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        783.3896099780502,
+        417.1393325061759
+      ],
+      "dx_v02": 0.3896099780502027,
+      "dy_v02": 1.13933250617589,
+      "error_v02": 1.204107343481184,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "h_in_L",
+      "base": "h_in",
+      "side": "L",
+      "xy": [
+        268,
+        338
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        268.8098407653794,
+        332.27128459659224
+      ],
+      "error_pixels": 5.785673879377551,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.8098407653794197,
+      "dy": -5.728715403407762,
+      "category": "h_in",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        267.7946151040235,
+        334.6797369398463
+      ],
+      "dx_v02": -0.20538489597652188,
+      "dy_v02": -3.3202630601537066,
+      "error_v02": 3.3266093464842763,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "h_out_L",
+      "base": "h_out",
+      "side": "L",
+      "xy": [
+        360,
+        286
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        356.61002461529563,
+        290.3360700473912
+      ],
+      "error_pixels": 5.503947362101569,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -3.389975384704371,
+      "dy": 4.3360700473912175,
+      "category": "h_out",
+      "confidence": "A",
+      "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        358.26904702520227,
+        288.15456824906886
+      ],
+      "dx_v02": -1.7309529747977308,
+      "dy_v02": 2.154568249068859,
+      "error_v02": 2.763758770380795,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "wc_F_L",
+      "base": "wc_F",
+      "side": "L",
+      "xy": [
+        423,
+        411
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        423.96246638474906,
+        411.4970276554808
+      ],
+      "error_pixels": 1.0832257530564282,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.9624663847490638,
+      "dy": 0.4970276554807924,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        422.91234512836667,
+        412.9422138806782
+      ],
+      "dx_v02": -0.08765487163333319,
+      "dy_v02": 1.942213880678196,
+      "error_v02": 1.9441908689272547,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "wc_R_L",
+      "base": "wc_R",
+      "side": "L",
+      "xy": [
+        783,
+        359
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        782.1365900542442,
+        359.4414309161208
+      ],
+      "error_pixels": 0.9697102598907363,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.8634099457558477,
+      "dy": 0.4414309161207939,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        782.0920928338921,
+        358.6629768960106
+      ],
+      "dx_v02": -0.9079071661078615,
+      "dy_v02": -0.33702310398939517,
+      "error_v02": 0.9684420451904464,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "ws_base_L",
+      "base": "ws_base",
+      "side": "L",
+      "xy": [
+        472,
+        247
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        470.1145695876183,
+        246.37063136114972
+      ],
+      "error_pixels": 1.987700360593144,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.8854304123817087,
+      "dy": -0.6293686388502806,
+      "category": "ws_base",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        472.603044244614,
+        244.36118054280954
+      ],
+      "dx_v02": 0.6030442446140114,
+      "dy_v02": -2.638819457190465,
+      "error_v02": 2.7068488115535865,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "ws_base_R",
+      "base": "ws_base",
+      "side": "R",
+      "xy": [
+        329,
+        234
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        331.0030906167058,
+        232.11967507665605
+      ],
+      "error_pixels": 2.7473612496508637,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.0030906167057765,
+      "dy": -1.8803249233439487,
+      "category": "ws_base",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        332.4736895956832,
+        234.93743891339014
+      ],
+      "dx_v02": 3.4736895956831972,
+      "dy_v02": 0.9374389133901389,
+      "error_v02": 3.597959299866492,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "ws_top_L",
+      "base": "ws_top",
+      "side": "L",
+      "xy": [
+        532,
+        169
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        536.7727027167916,
+        167.54689677327235
+      ],
+      "error_pixels": 4.989007938498042,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 4.772702716791628,
+      "dy": -1.4531032267276487,
+      "category": "ws_top",
+      "confidence": "A",
+      "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+      "visibility": "closed glass structural border",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        539.0946960651123,
+        166.15923216379605
+      ],
+      "dx_v02": 7.094696065112316,
+      "dy_v02": -2.840767836203952,
+      "error_v02": 7.642295084300989,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 11,
+      "landmark": "ws_top_R",
+      "base": "ws_top",
+      "side": "R",
+      "xy": [
+        424,
+        165
+      ],
+      "sigma": 7,
+      "heldout": false,
+      "projected": [
+        423.4232338222673,
+        161.1719499678631
+      ],
+      "error_pixels": 3.8712564203782325,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.5767661777326794,
+      "dy": -3.8280500321369004,
+      "category": "ws_top",
+      "confidence": "B",
+      "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+      "visibility": "partial/grazing static glass",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": false,
+      "decision": "validation only in initial structural solve",
+      "predicted_v02": [
+        423.0836919058043,
+        163.5738845427674
+      ],
+      "dx_v02": -0.9163080941956991,
+      "dy_v02": -1.426115457232612,
+      "error_v02": 1.695118232114308,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "contact_F_L",
+      "base": "contact_F",
+      "side": "L",
+      "xy": [
+        304,
+        408
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        304.04470987729815,
+        407.66351316504336
+      ],
+      "error_pixels": 0.33944419751581517,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.04470987729814624,
+      "dy": -0.336486834956645,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        302.69262720707,
+        408.6177188312755
+      ],
+      "dx_v02": -1.307372792929982,
+      "dy_v02": 0.6177188312755106,
+      "error_v02": 1.4459599490324497,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "contact_R_L",
+      "base": "contact_R",
+      "side": "L",
+      "xy": [
+        513,
+        484
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        514.5846168220879,
+        485.655890609666
+      ],
+      "error_pixels": 2.2919389573075724,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.5846168220879235,
+      "dy": 1.6558906096660166,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        512.4181855130385,
+        483.81489234501487
+      ],
+      "dx_v02": -0.581814486961548,
+      "dy_v02": -0.18510765498513138,
+      "error_v02": 0.6105513419626754,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "tl_low_L",
+      "base": "tl_low",
+      "side": "L",
+      "xy": [
+        574,
+        300
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        571.4465699940486,
+        300.75776726596433
+      ],
+      "error_pixels": 2.6634969541300837,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": -2.5534300059514408,
+      "dy": 0.7577672659643326,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        572.1556346549053,
+        299.8830077738867
+      ],
+      "dx_v02": -1.8443653450947295,
+      "dy_v02": -0.11699222611332516,
+      "error_v02": 1.848072159618599,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "tl_top_L",
+      "base": "tl_top",
+      "side": "L",
+      "xy": [
+        570,
+        254
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        564.8060995790227,
+        252.47897891396144
+      ],
+      "error_pixels": 5.412033511278596,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -5.193900420977343,
+      "dy": -1.5210210860385587,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        555.7976230943617,
+        252.70024917849426
+      ],
+      "dx_v02": -14.202376905638289,
+      "dy_v02": -1.2997508215057394,
+      "error_v02": 14.261727173376045,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "wc_F_L",
+      "base": "wc_F",
+      "side": "L",
+      "xy": [
+        304,
+        351
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        303.9891195179812,
+        352.1134084768645
+      ],
+      "error_pixels": 1.1134616388734149,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.010880482018819748,
+      "dy": 1.1134084768644925,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        304.357867314561,
+        350.65509897539823
+      ],
+      "dx_v02": 0.3578673145610196,
+      "dy_v02": -0.34490102460176786,
+      "error_v02": 0.4970168323130164,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 12,
+      "landmark": "wc_R_L",
+      "base": "wc_R",
+      "side": "L",
+      "xy": [
+        513,
+        414
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        515.384299534524,
+        416.10005866222934
+      ],
+      "error_pixels": 3.1772835339540726,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.3842995345239615,
+      "dy": 2.100058662229344,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": true,
+      "v02_initial_use": true,
+      "decision": "core eligible",
+      "predicted_v02": [
+        515.0177420261062,
+        414.2326043156625
+      ],
+      "dx_v02": 2.017742026106248,
+      "dy_v02": 0.23260431566251327,
+      "error_v02": 2.031105032138952,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "contact_F_R",
+      "base": "contact_F",
+      "side": "R",
+      "xy": [
+        774,
+        412
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        772.3683268632487,
+        411.33725762322376
+      ],
+      "error_pixels": 1.7611316484495734,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -1.6316731367512602,
+      "dy": -0.6627423767762366,
+      "category": "contact_F",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        771.8657564183063,
+        410.197284459576
+      ],
+      "dx_v02": -2.1342435816936813,
+      "dy_v02": -1.8027155404240034,
+      "error_v02": 2.7937034534264513,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "contact_R_R",
+      "base": "contact_R",
+      "side": "R",
+      "xy": [
+        475,
+        481
+      ],
+      "sigma": 5,
+      "heldout": false,
+      "projected": [
+        475.9067933981959,
+        477.6797575457839
+      ],
+      "error_pixels": 3.4418431431125054,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 0.9067933981958731,
+      "dy": -3.3202424542160998,
+      "category": "contact_R",
+      "confidence": "A",
+      "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+      "visibility": "static contact measurement",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        474.8306482676812,
+        480.67945260556087
+      ],
+      "dx_v02": -0.16935173231877343,
+      "dy_v02": -0.3205473944391315,
+      "error_v02": 0.36253364164044916,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "tl_low_R",
+      "base": "tl_low",
+      "side": "R",
+      "xy": [
+        410,
+        300
+      ],
+      "sigma": 6,
+      "heldout": true,
+      "projected": [
+        403.7220707601202,
+        301.61651153635734
+      ],
+      "error_pixels": 6.482708160029605,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": true,
+      "dx": -6.277929239879825,
+      "dy": 1.6165115363573364,
+      "category": "tl_low",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        408.04220966895224,
+        299.649111123956
+      ],
+      "dx_v02": -1.957790331047761,
+      "dy_v02": -0.3508888760439959,
+      "error_v02": 1.9889861698049889,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "tl_top_R",
+      "base": "tl_top",
+      "side": "R",
+      "xy": [
+        414,
+        254
+      ],
+      "sigma": 6,
+      "heldout": false,
+      "projected": [
+        416.7457887873306,
+        255.84450095271563
+      ],
+      "error_pixels": 3.3077998472095063,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 2.745788787330582,
+      "dy": 1.8445009527156344,
+      "category": "tl_top",
+      "confidence": "A",
+      "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+      "visibility": "static body lamp",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        432.62779794903133,
+        253.46248915522636
+      ],
+      "dx_v02": 18.627797949031333,
+      "dy_v02": -0.5375108447736352,
+      "error_v02": 18.635551355894602,
+      "v02_heldout": true,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "wc_F_R",
+      "base": "wc_F",
+      "side": "R",
+      "xy": [
+        774,
+        351
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        773.5459685908917,
+        354.2911792074069
+      ],
+      "error_pixels": 3.322349333788439,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": -0.4540314091083246,
+      "dy": 3.2911792074069126,
+      "category": "wc_F",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        774.7238994073505,
+        351.8464537090853
+      ],
+      "dx_v02": 0.7238994073504728,
+      "dy_v02": 0.8464537090853241,
+      "error_v02": 1.1137837463290028,
+      "v02_heldout": false,
+      "positive_depth": true
+    },
+    {
+      "camera": 13,
+      "landmark": "wc_R_R",
+      "base": "wc_R",
+      "side": "R",
+      "xy": [
+        475,
+        412
+      ],
+      "sigma": 3,
+      "heldout": false,
+      "projected": [
+        476.1029639948998,
+        411.3239984623741
+      ],
+      "error_pixels": 1.2936412381019518,
+      "outlier_over_12px": false,
+      "robust_downweighted": false,
+      "excluded_from_training": false,
+      "dx": 1.1029639948998238,
+      "dy": -0.6760015376258934,
+      "category": "wc_R",
+      "confidence": "A",
+      "confidence_reason": "visible rim/hub center",
+      "visibility": "static wheel reference",
+      "static_or_moving": "STATIC / viewpoint-dependent if noted",
+      "core_camera": false,
+      "v02_initial_use": false,
+      "decision": "core eligible",
+      "predicted_v02": [
+        476.79523091808215,
+        412.4382877829163
+      ],
+      "dx_v02": 1.7952309180821544,
+      "dy_v02": 0.4382877829162908,
+      "error_v02": 1.847958395065152,
+      "v02_heldout": false,
+      "positive_depth": true
+    }
+  ],
+  "unknowns": 69,
+  "class_A": 60,
+  "class_B": 8,
+  "lovo": [
+    {
+      "omitted_camera": 6,
+      "training_geometry_cameras": [
+        7,
+        9,
+        8,
+        10,
+        11,
+        12,
+        13
+      ],
+      "focal_from_other_views": 76.1195777530315,
+      "pose_anchor_names": [
+        "contact_F_L",
+        "contact_F_R",
+        "ws_base_L",
+        "ws_base_R",
+        "ws_top_R"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 5.805864831059744,
+        "median": 4.144912836679903,
+        "max": 8.700494258144321
+      },
+      "independent_projection": {
+        "n": 5,
+        "rms": 14.537760462119984,
+        "median": 12.56762627144098,
+        "max": 19.53989825568815
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "h_in_L",
+        "h_in_R",
+        "h_out_L",
+        "h_out_R",
+        "ws_top_L"
+      ],
+      "test_errors": [
+        {
+          "camera": 6,
+          "landmark": "h_in_L",
+          "base": "h_in",
+          "side": "L",
+          "xy": [
+            644,
+            340
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            638.8151536685824,
+            341.2315150614093
+          ],
+          "error_pixels": 5.329095685657409,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -5.184846331417589,
+          "dy": 1.2315150614093113,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            636.2328175239345,
+            357.84626163586637
+          ],
+          "dx_v02": -7.7671824760655,
+          "dy_v02": 17.84626163586637,
+          "error_v02": 19.463251989127993,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 6,
+          "landmark": "h_in_R",
+          "base": "h_in",
+          "side": "R",
+          "xy": [
+            466,
+            341
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            468.68103728480304,
+            342.51230279989034
+          ],
+          "error_pixels": 3.078152153656509,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 2.6810372848030397,
+          "dy": 1.5123027998903353,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            469.1263885888273,
+            360.2881652376346
+          ],
+          "dx_v02": 3.1263885888272966,
+          "dy_v02": 19.288165237634587,
+          "error_v02": 19.53989825568815,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 6,
+          "landmark": "h_out_L",
+          "base": "h_out",
+          "side": "L",
+          "xy": [
+            692,
+            289
+          ],
+          "sigma": 6,
+          "heldout": true,
+          "projected": [
+            687.6529516407704,
+            290.6828594081289
+          ],
+          "error_pixels": 4.661420944841649,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": -4.347048359229575,
+          "dy": 1.682859408128877,
+          "category": "h_out",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            682.7508199079821,
+            297.50869541845475
+          ],
+          "dx_v02": -9.249180092017923,
+          "dy_v02": 8.50869541845475,
+          "error_v02": 12.56762627144098,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 6,
+          "landmark": "h_out_R",
+          "base": "h_out",
+          "side": "R",
+          "xy": [
+            405,
+            291
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            406.4871409095071,
+            292.30093852528637
+          ],
+          "error_pixels": 1.9758616174479153,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 1.4871409095071044,
+          "dy": 1.3009385252863694,
+          "category": "h_out",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            410.1867987350105,
+            300.98233788539335
+          ],
+          "dx_v02": 5.186798735010484,
+          "dy_v02": 9.982337885393349,
+          "error_v02": 11.249442242869899,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 6,
+          "landmark": "ws_top_L",
+          "base": "ws_top",
+          "side": "L",
+          "xy": [
+            621,
+            165
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            619.8006058007692,
+            166.6123520865359
+          ],
+          "error_pixels": 2.0095337011618497,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -1.1993941992308237,
+          "dy": 1.612352086535907,
+          "category": "ws_top",
+          "confidence": "A",
+          "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+          "visibility": "closed glass structural border",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            624.1254365571215,
+            163.64240658218867
+          ],
+          "dx_v02": 3.125436557121475,
+          "dy_v02": -1.35759341781133,
+          "error_v02": 3.407552429629805,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 7,
+      "training_geometry_cameras": [
+        6,
+        9,
+        8,
+        10,
+        11,
+        12,
+        13
+      ],
+      "focal_from_other_views": 80.66949595808646,
+      "pose_anchor_names": [
+        "contact_F_L",
+        "contact_R_L",
+        "h_out_L",
+        "wc_F_L",
+        "wc_R_L"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 1.8780236538403032,
+        "median": 1.803535046810008,
+        "max": 2.798422590815915
+      },
+      "independent_projection": {
+        "n": 5,
+        "rms": 7.702239740483975,
+        "median": 6.807158248895898,
+        "max": 11.354013735510009
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "h_in_L",
+        "tl_low_L",
+        "tl_top_L",
+        "ws_base_L",
+        "ws_top_L"
+      ],
+      "test_errors": [
+        {
+          "camera": 7,
+          "landmark": "h_in_L",
+          "base": "h_in",
+          "side": "L",
+          "xy": [
+            164,
+            308
+          ],
+          "sigma": 6,
+          "heldout": true,
+          "projected": [
+            165.02016620000433,
+            305.3698235865933
+          ],
+          "error_pixels": 2.821093235125712,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": 1.0201662000043257,
+          "dy": -2.630176413406673,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            155.86243516935087,
+            300.0820667764162
+          ],
+          "dx_v02": -8.137564830649126,
+          "dy_v02": -7.917933223583816,
+          "error_v02": 11.354013735510009,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 7,
+          "landmark": "tl_low_L",
+          "base": "tl_low",
+          "side": "L",
+          "xy": [
+            872,
+            271
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            880.5759188397968,
+            269.3574566864433
+          ],
+          "error_pixels": 8.731800071216243,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 8.575918839796827,
+          "dy": -1.6425433135567005,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            879.6215430494902,
+            270.7202687492555
+          ],
+          "dx_v02": 7.621543049490242,
+          "dy_v02": -0.2797312507444758,
+          "error_v02": 7.626674768723004,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 7,
+          "landmark": "tl_top_L",
+          "base": "tl_top",
+          "side": "L",
+          "xy": [
+            852,
+            230
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            854.370579464447,
+            229.61504230509718
+          ],
+          "error_pixels": 2.4016326580313674,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 2.370579464447019,
+          "dy": -0.3849576949028233,
+          "category": "tl_top",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            853.2545038131409,
+            234.58087311973875
+          ],
+          "dx_v02": 1.2545038131409,
+          "dy_v02": 4.580873119738754,
+          "error_v02": 4.749545068354456,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 7,
+          "landmark": "ws_base_L",
+          "base": "ws_base",
+          "side": "L",
+          "xy": [
+            374,
+            231
+          ],
+          "sigma": 7,
+          "heldout": true,
+          "projected": [
+            367.4852949566298,
+            238.69060811837196
+          ],
+          "error_pixels": 10.079029468777334,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": -6.514705043370213,
+          "dy": 7.690608118371955,
+          "category": "ws_base",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            372.84136706371163,
+            237.70782924234504
+          ],
+          "dx_v02": -1.1586329362883703,
+          "dy_v02": 6.707829242345042,
+          "error_v02": 6.807158248895898,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 7,
+          "landmark": "ws_top_L",
+          "base": "ws_top",
+          "side": "L",
+          "xy": [
+            474,
+            163
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            471.9042215026283,
+            164.3869247779403
+          ],
+          "error_pixels": 2.513135063961032,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -2.0957784973717253,
+          "dy": 1.386924777940294,
+          "category": "ws_top",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            480.2927843001584,
+            161.97629440986904
+          ],
+          "dx_v02": 6.2927843001584165,
+          "dy_v02": -1.0237055901309589,
+          "error_v02": 6.375508401969652,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 9,
+      "training_geometry_cameras": [
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13
+      ],
+      "focal_from_other_views": 72.70146163050401,
+      "pose_anchor_names": [
+        "contact_F_R",
+        "contact_R_R",
+        "h_out_R",
+        "wc_F_R",
+        "wc_R_R"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 1.109694969928445,
+        "median": 0.9400504708708098,
+        "max": 1.7777978766068758
+      },
+      "independent_projection": {
+        "n": 5,
+        "rms": 31.342030608749507,
+        "median": 8.567618690156907,
+        "max": 68.59473980187938
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "h_in_R",
+        "tl_low_R",
+        "tl_top_R",
+        "ws_base_R",
+        "ws_top_R"
+      ],
+      "test_errors": [
+        {
+          "camera": 9,
+          "landmark": "h_in_R",
+          "base": "h_in",
+          "side": "R",
+          "xy": [
+            890,
+            301
+          ],
+          "sigma": 6,
+          "heldout": true,
+          "projected": [
+            888.0102210358923,
+            303.74504904323743
+          ],
+          "error_pixels": 3.390356113417031,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": -1.9897789641076997,
+          "dy": 2.7450490432374295,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            892.6664860224016,
+            303.2104905194509
+          ],
+          "dx_v02": 2.666486022401614,
+          "dy_v02": 2.2104905194509,
+          "error_v02": 3.463584277052529,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 9,
+          "landmark": "tl_low_R",
+          "base": "tl_low",
+          "side": "R",
+          "xy": [
+            179,
+            271
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            177.50809679637814,
+            272.3253893464506
+          ],
+          "error_pixels": 1.9956031891791346,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -1.4919032036218596,
+          "dy": 1.3253893464506064,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            184.71075479152375,
+            277.3868121728304
+          ],
+          "dx_v02": 5.710754791523755,
+          "dy_v02": 6.386812172830389,
+          "error_v02": 8.567618690156907,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 9,
+          "landmark": "tl_top_R",
+          "base": "tl_top",
+          "side": "R",
+          "xy": [
+            209,
+            235
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            204.61957176233517,
+            232.41075575057948
+          ],
+          "error_pixels": 5.088451368391825,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -4.38042823766483,
+          "dy": -2.589244249420517,
+          "category": "tl_top",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            140.49940911321488,
+            231.40731623311657
+          ],
+          "dx_v02": -68.50059088678512,
+          "dy_v02": -3.5926837668834253,
+          "error_v02": 68.59473980187938,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 9,
+          "landmark": "ws_base_R",
+          "base": "ws_base",
+          "side": "R",
+          "xy": [
+            686,
+            234
+          ],
+          "sigma": 7,
+          "heldout": true,
+          "projected": [
+            693.2279847772409,
+            235.99528777773753
+          ],
+          "error_pixels": 7.498328964243595,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": 7.227984777240863,
+          "dy": 1.9952877777375306,
+          "category": "ws_base",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            692.8934429710628,
+            234.17611490938035
+          ],
+          "dx_v02": 6.893442971062768,
+          "dy_v02": 0.17611490938034535,
+          "error_v02": 6.895692311624753,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 9,
+          "landmark": "ws_top_R",
+          "base": "ws_top",
+          "side": "R",
+          "xy": [
+            578,
+            165
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            586.607289356619,
+            166.90152625532096
+          ],
+          "error_pixels": 8.81483024046649,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 8.607289356619049,
+          "dy": 1.9015262553209595,
+          "category": "ws_top",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            586.3544485602038,
+            163.09521769076983
+          ],
+          "dx_v02": 8.354448560203764,
+          "dy_v02": -1.9047823092301712,
+          "error_v02": 8.568839267406464,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 8,
+      "training_geometry_cameras": [
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "focal_from_other_views": 80.65372283903412,
+      "pose_anchor_names": [
+        "contact_R_L",
+        "contact_R_R",
+        "tl_top_L",
+        "tl_top_R"
+      ],
+      "pose_anchor_result": {
+        "n": 4,
+        "rms": 5.604830686759714,
+        "median": 5.524513235073192,
+        "max": 6.0625422650508005
+      },
+      "independent_projection": {
+        "n": 2,
+        "rms": 15.071977030469796,
+        "median": 15.04111805338296,
+        "max": 16.00509902373786
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "tl_low_L",
+        "tl_low_R"
+      ],
+      "test_errors": [
+        {
+          "camera": 8,
+          "landmark": "tl_low_L",
+          "base": "tl_low",
+          "side": "L",
+          "xy": [
+            367,
+            299
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            363.0366737478653,
+            300.51301814269857
+          ],
+          "error_pixels": 4.242308202028146,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -3.9633262521347206,
+          "dy": 1.51301814269857,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            376.5028428239268,
+            288.61434803596296
+          ],
+          "dx_v02": 9.502842823926812,
+          "dy_v02": -10.385651964037038,
+          "error_v02": 14.077137083028058,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 8,
+          "landmark": "tl_low_R",
+          "base": "tl_low",
+          "side": "R",
+          "xy": [
+            683,
+            299
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            683.428402343412,
+            299.48464432532256
+          ],
+          "error_pixels": 0.6468451823336634,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 0.4284023434120172,
+          "dy": 0.48464432532256296,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            671.9161733894557,
+            287.45391917458375
+          ],
+          "dx_v02": -11.083826610544293,
+          "dy_v02": -11.546080825416254,
+          "error_v02": 16.00509902373786,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 10,
+      "training_geometry_cameras": [
+        6,
+        7,
+        9,
+        8,
+        11,
+        12,
+        13
+      ],
+      "focal_from_other_views": 79.60281570015079,
+      "pose_anchor_names": [
+        "contact_F_R",
+        "contact_R_R",
+        "h_out_R",
+        "wc_F_R",
+        "wc_R_R"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 2.821521269470457,
+        "median": 3.456661147491077,
+        "max": 3.5396661894018315
+      },
+      "independent_projection": {
+        "n": 5,
+        "rms": 7.72320085467139,
+        "median": 4.536883893161905,
+        "max": 14.463455638836892
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "h_in_R",
+        "ws_base_L",
+        "ws_base_R",
+        "ws_top_L",
+        "ws_top_R"
+      ],
+      "test_errors": [
+        {
+          "camera": 10,
+          "landmark": "h_in_R",
+          "base": "h_in",
+          "side": "R",
+          "xy": [
+            716,
+            338
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            716.5492645466787,
+            335.92816677843325
+          ],
+          "error_pixels": 2.143404870813221,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 0.549264546678728,
+          "dy": -2.0718332215667488,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "core eligible",
+          "predicted_v02": [
+            714.5419933682226,
+            340.91095233094615
+          ],
+          "dx_v02": -1.4580066317773799,
+          "dy_v02": 2.910952330946145,
+          "error_v02": 3.2556760912823646,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 10,
+          "landmark": "ws_base_L",
+          "base": "ws_base",
+          "side": "L",
+          "xy": [
+            708,
+            235
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            712.4981010163976,
+            235.94035315947178
+          ],
+          "error_pixels": 4.595342948926234,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 4.498101016397641,
+          "dy": 0.9403531594717833,
+          "category": "ws_base",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            716.2815947113677,
+            246.8577712093483
+          ],
+          "dx_v02": 8.281594711367688,
+          "dy_v02": 11.8577712093483,
+          "error_v02": 14.463455638836892,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 10,
+          "landmark": "ws_base_R",
+          "base": "ws_base",
+          "side": "R",
+          "xy": [
+            535,
+            246
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            530.7264320343085,
+            244.55030283384687
+          ],
+          "error_pixels": 4.512760245230999,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -4.273567965691541,
+          "dy": -1.449697166153129,
+          "category": "ws_base",
+          "confidence": "A",
+          "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+          "visibility": "closed glass structural border",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "core eligible",
+          "predicted_v02": [
+            531.4518775242847,
+            243.17260855958082
+          ],
+          "dx_v02": -3.5481224757153313,
+          "dy_v02": -2.827391440419177,
+          "error_v02": 4.536883893161905,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 10,
+          "landmark": "ws_top_L",
+          "base": "ws_top",
+          "side": "L",
+          "xy": [
+            633,
+            165
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            626.4392476442534,
+            162.8608580679225
+          ],
+          "error_pixels": 6.900681102543887,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -6.560752355746558,
+          "dy": -2.139141932077507,
+          "category": "ws_top",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            632.737965387925,
+            172.23788117212456
+          ],
+          "dx_v02": -0.2620346120750128,
+          "dy_v02": 7.23788117212456,
+          "error_v02": 7.242622867423133,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 10,
+          "landmark": "ws_top_R",
+          "base": "ws_top",
+          "side": "R",
+          "xy": [
+            487,
+            163
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            482.4800186314057,
+            165.05594414858092
+          ],
+          "error_pixels": 4.965595423967174,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -4.519981368594301,
+          "dy": 2.0559441485809202,
+          "category": "ws_top",
+          "confidence": "A",
+          "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+          "visibility": "closed glass structural border",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "core eligible",
+          "predicted_v02": [
+            487.1183048267571,
+            165.32277504038763
+          ],
+          "dx_v02": 0.11830482675708254,
+          "dy_v02": 2.3227750403876257,
+          "error_v02": 2.3257858715457362,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 11,
+      "training_geometry_cameras": [
+        6,
+        7,
+        9,
+        8,
+        10,
+        12,
+        13
+      ],
+      "focal_from_other_views": 77.69359275967616,
+      "pose_anchor_names": [
+        "contact_F_L",
+        "contact_R_L",
+        "h_out_L",
+        "wc_F_L",
+        "wc_R_L"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 1.1144747313621561,
+        "median": 0.8820961956457753,
+        "max": 1.8390361623057554
+      },
+      "independent_projection": {
+        "n": 5,
+        "rms": 14.247288929120753,
+        "median": 16.033824724000308,
+        "max": 16.82293777620688
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "h_in_L",
+        "ws_base_L",
+        "ws_base_R",
+        "ws_top_L",
+        "ws_top_R"
+      ],
+      "test_errors": [
+        {
+          "camera": 11,
+          "landmark": "h_in_L",
+          "base": "h_in",
+          "side": "L",
+          "xy": [
+            268,
+            338
+          ],
+          "sigma": 6,
+          "heldout": false,
+          "projected": [
+            268.8098407653794,
+            332.27128459659224
+          ],
+          "error_pixels": 5.785673879377551,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 0.8098407653794197,
+          "dy": -5.728715403407762,
+          "category": "h_in",
+          "confidence": "A",
+          "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            266.6932817934169,
+            327.3093823912378
+          ],
+          "dx_v02": -1.3067182065831275,
+          "dy_v02": -10.690617608762182,
+          "error_v02": 10.770181861426103,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 11,
+          "landmark": "ws_base_L",
+          "base": "ws_base",
+          "side": "L",
+          "xy": [
+            472,
+            247
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            470.1145695876183,
+            246.37063136114972
+          ],
+          "error_pixels": 1.987700360593144,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -1.8854304123817087,
+          "dy": -0.6293686388502806,
+          "category": "ws_base",
+          "confidence": "A",
+          "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+          "visibility": "closed glass structural border",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            478.405961871833,
+            239.9152991429902
+          ],
+          "dx_v02": 6.405961871832972,
+          "dy_v02": -7.084700857009807,
+          "error_v02": 9.551404804356963,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 11,
+          "landmark": "ws_base_R",
+          "base": "ws_base",
+          "side": "R",
+          "xy": [
+            329,
+            234
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            331.0030906167058,
+            232.11967507665605
+          ],
+          "error_pixels": 2.7473612496508637,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 2.0030906167057765,
+          "dy": -1.8803249233439487,
+          "category": "ws_base",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            335.89116310888926,
+            219.52258979352152
+          ],
+          "dx_v02": 6.891163108889259,
+          "dy_v02": -14.477410206478481,
+          "error_v02": 16.033824724000308,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 11,
+          "landmark": "ws_top_L",
+          "base": "ws_top",
+          "side": "L",
+          "xy": [
+            532,
+            169
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            536.7727027167916,
+            167.54689677327235
+          ],
+          "error_pixels": 4.989007938498042,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": 4.772702716791628,
+          "dy": -1.4531032267276487,
+          "category": "ws_top",
+          "confidence": "A",
+          "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+          "visibility": "closed glass structural border",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            546.4028588086765,
+            160.30696292660272
+          ],
+          "dx_v02": 14.402858808676456,
+          "dy_v02": -8.693037073397278,
+          "error_v02": 16.82293777620688,
+          "v02_heldout": false,
+          "positive_depth": true
+        },
+        {
+          "camera": 11,
+          "landmark": "ws_top_R",
+          "base": "ws_top",
+          "side": "R",
+          "xy": [
+            424,
+            165
+          ],
+          "sigma": 7,
+          "heldout": false,
+          "projected": [
+            423.4232338222673,
+            161.1719499678631
+          ],
+          "error_pixels": 3.8712564203782325,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": false,
+          "dx": -0.5767661777326794,
+          "dy": -3.8280500321369004,
+          "category": "ws_top",
+          "confidence": "B",
+          "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+          "visibility": "partial/grazing static glass",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": false,
+          "decision": "validation only in initial structural solve",
+          "predicted_v02": [
+            427.8266940260949,
+            149.09523026847273
+          ],
+          "dx_v02": 3.8266940260949127,
+          "dy_v02": -15.904769731527267,
+          "error_v02": 16.358645646331986,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 12,
+      "training_geometry_cameras": [
+        6,
+        7,
+        9,
+        8,
+        10,
+        11,
+        13
+      ],
+      "focal_from_other_views": 81.24836703820296,
+      "pose_anchor_names": [
+        "contact_F_L",
+        "contact_R_L",
+        "tl_top_L",
+        "wc_F_L",
+        "wc_R_L"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 3.345799517239443,
+        "median": 3.6357491847687564,
+        "max": 4.964045973834066
+      },
+      "independent_projection": {
+        "n": 1,
+        "rms": 4.053538405801582,
+        "median": 4.053538405801582,
+        "max": 4.053538405801582
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "tl_low_L"
+      ],
+      "test_errors": [
+        {
+          "camera": 12,
+          "landmark": "tl_low_L",
+          "base": "tl_low",
+          "side": "L",
+          "xy": [
+            574,
+            300
+          ],
+          "sigma": 6,
+          "heldout": true,
+          "projected": [
+            571.4465699940486,
+            300.75776726596433
+          ],
+          "error_pixels": 2.6634969541300837,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": -2.5534300059514408,
+          "dy": 0.7577672659643326,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": true,
+          "v02_initial_use": true,
+          "decision": "core eligible",
+          "predicted_v02": [
+            577.9442742857574,
+            300.9348122624471
+          ],
+          "dx_v02": 3.9442742857573876,
+          "dy_v02": 0.9348122624471102,
+          "error_v02": 4.053538405801582,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    },
+    {
+      "omitted_camera": 13,
+      "training_geometry_cameras": [
+        6,
+        7,
+        9,
+        8,
+        10,
+        11,
+        12
+      ],
+      "focal_from_other_views": 74.29702589958796,
+      "pose_anchor_names": [
+        "contact_F_R",
+        "contact_R_R",
+        "tl_top_R",
+        "wc_F_R",
+        "wc_R_R"
+      ],
+      "pose_anchor_result": {
+        "n": 5,
+        "rms": 1.696142001859818,
+        "median": 1.5855678560096236,
+        "max": 2.4807632491541773
+      },
+      "independent_projection": {
+        "n": 1,
+        "rms": 18.80612434427388,
+        "median": 18.80612434427388,
+        "max": 18.80612434427388
+      },
+      "pose_rank": 6,
+      "tested_observations": [
+        "tl_low_R"
+      ],
+      "test_errors": [
+        {
+          "camera": 13,
+          "landmark": "tl_low_R",
+          "base": "tl_low",
+          "side": "R",
+          "xy": [
+            410,
+            300
+          ],
+          "sigma": 6,
+          "heldout": true,
+          "projected": [
+            403.7220707601202,
+            301.61651153635734
+          ],
+          "error_pixels": 6.482708160029605,
+          "outlier_over_12px": false,
+          "robust_downweighted": false,
+          "excluded_from_training": true,
+          "dx": -6.277929239879825,
+          "dy": 1.6165115363573364,
+          "category": "tl_low",
+          "confidence": "A",
+          "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+          "visibility": "static body lamp",
+          "static_or_moving": "STATIC / viewpoint-dependent if noted",
+          "core_camera": false,
+          "v02_initial_use": false,
+          "decision": "core eligible",
+          "predicted_v02": [
+            391.2080911209334,
+            299.2689230319949
+          ],
+          "dx_v02": -18.791908879066625,
+          "dy_v02": -0.7310769680050839,
+          "error_v02": 18.80612434427388,
+          "v02_heldout": false,
+          "positive_depth": true
+        }
+      ],
+      "pass": false
+    }
+  ],
+  "lovo_aggregate": {
+    "n": 29,
+    "rms": 17.02185727821645,
+    "median": 9.551404804356963,
+    "max": 68.59473980187938,
+    "all_folds_pass": false
+  },
+  "numeric_targets_pass": false
+}

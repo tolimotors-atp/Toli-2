@@ -1,0 +1,20 @@
+{
+  "milestone_checks": [
+    {
+      "path": "/tmp/mux-v04/source/production/milestones/isuzu-mux-generated-v03.blend",
+      "reopened": true
+    },
+    {
+      "path": "/tmp/mux-v04/source/production/milestones/isuzu-mux-v04-front.blend",
+      "reopened": true
+    }
+  ],
+  "working_source_reopened": true,
+  "decision": "V04: B \u2014 PARTIAL IMPROVEMENT; STOP BEFORE DETAILING",
+  "passed_regional_milestones": [
+    "isuzu-mux-v04-front.blend"
+  ],
+  "side_rear_milestones_created": false,
+  "panels_rebuilt": false,
+  "glb_exported": false
+}

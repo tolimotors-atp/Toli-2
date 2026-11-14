@@ -1,0 +1,890 @@
+[
+  {
+    "requested": [
+      320,
+      568
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307244122",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 475.359375,
+      "height": 156.546875,
+      "left": 21,
+      "right": 289,
+      "top": 318.8125,
+      "width": 268,
+      "x": 21,
+      "y": 318.8125
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "requested": [
+      320,
+      568
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307259743",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 533.453125,
+      "height": 218,
+      "left": 20,
+      "right": 290,
+      "top": 315.453125,
+      "width": 270,
+      "x": 20,
+      "y": 315.453125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "requested": [
+      320,
+      568
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307244122",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 492.359375,
+      "height": 156.546875,
+      "left": 21,
+      "right": 289,
+      "top": 335.8125,
+      "width": 268,
+      "x": 21,
+      "y": 335.8125
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "requested": [
+      320,
+      568
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307259743",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 533.453125,
+      "height": 218,
+      "left": 20,
+      "right": 290,
+      "top": 315.453125,
+      "width": 270,
+      "x": 20,
+      "y": 315.453125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "requested": [
+      360,
+      800
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 570.8125,
+      "height": 254,
+      "left": 21,
+      "right": 329,
+      "top": 316.8125,
+      "width": 308,
+      "x": 21,
+      "y": 316.8125
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      360,
+      800
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      360,
+      800
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 641.78125,
+      "height": 218,
+      "left": 20,
+      "right": 330,
+      "top": 423.78125,
+      "width": 310,
+      "x": 20,
+      "y": 423.78125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      360,
+      800
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      360,
+      800
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 585.8125,
+      "height": 254,
+      "left": 21,
+      "right": 329,
+      "top": 331.8125,
+      "width": 308,
+      "x": 21,
+      "y": 331.8125
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      360,
+      800
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      360,
+      800
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 641.78125,
+      "height": 218,
+      "left": 20,
+      "right": 330,
+      "top": 423.78125,
+      "width": 310,
+      "x": 20,
+      "y": 423.78125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      360,
+      800
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      390,
+      844
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 576.375,
+      "height": 258,
+      "left": 21,
+      "right": 369,
+      "top": 318.375,
+      "width": 348,
+      "x": 21,
+      "y": 318.375
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      390,
+      844
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      390,
+      844
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 683.703125,
+      "height": 218,
+      "left": 20,
+      "right": 370,
+      "top": 465.703125,
+      "width": 350,
+      "x": 20,
+      "y": 465.703125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      390,
+      844
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      390,
+      844
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 591.375,
+      "height": 258,
+      "left": 21,
+      "right": 369,
+      "top": 333.375,
+      "width": 348,
+      "x": 21,
+      "y": 333.375
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      390,
+      844
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      390,
+      844
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 683.703125,
+      "height": 218,
+      "left": 20,
+      "right": 370,
+      "top": 465.703125,
+      "width": 350,
+      "x": 20,
+      "y": 465.703125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      390,
+      844
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      412,
+      915
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 608.609375,
+      "height": 258,
+      "left": 21,
+      "right": 381,
+      "top": 350.609375,
+      "width": 360,
+      "x": 21,
+      "y": 350.609375
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      412,
+      915
+    ]
+  },
+  {
+    "requested": [
+      412,
+      915
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 597.078125,
+      "height": 218,
+      "left": 20,
+      "right": 382,
+      "top": 379.078125,
+      "width": 362,
+      "x": 20,
+      "y": 379.078125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      412,
+      915
+    ]
+  },
+  {
+    "requested": [
+      412,
+      915
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 603.609375,
+      "height": 258,
+      "left": 21,
+      "right": 381,
+      "top": 345.609375,
+      "width": 360,
+      "x": 21,
+      "y": 345.609375
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      412,
+      915
+    ]
+  },
+  {
+    "requested": [
+      412,
+      915
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 603.078125,
+      "height": 218,
+      "left": 20,
+      "right": 382,
+      "top": 385.078125,
+      "width": 362,
+      "x": 20,
+      "y": 385.078125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      412,
+      915
+    ]
+  },
+  {
+    "requested": [
+      768,
+      1024
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 599.3125,
+      "height": 258,
+      "left": 31,
+      "right": 727,
+      "top": 341.3125,
+      "width": 696,
+      "x": 31,
+      "y": 341.3125
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "requested": [
+      768,
+      1024
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 649.53125,
+      "height": 268,
+      "left": 30,
+      "right": 728,
+      "top": 381.53125,
+      "width": 698,
+      "x": 30,
+      "y": 381.53125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "requested": [
+      768,
+      1024
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp?t=1794307496192",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 535.3125,
+      "height": 258,
+      "left": 31,
+      "right": 727,
+      "top": 277.3125,
+      "width": 696,
+      "x": 31,
+      "y": 277.3125
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "requested": [
+      768,
+      1024
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp?t=1794307510276",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 651.53125,
+      "height": 268,
+      "left": 30,
+      "right": 728,
+      "top": 383.53125,
+      "width": 698,
+      "x": 30,
+      "y": 383.53125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "requested": [
+      1366,
+      768
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 687.9375,
+      "height": 398,
+      "left": 110.265625,
+      "right": 690.859375,
+      "top": 289.9375,
+      "width": 580.59375,
+      "x": 110.265625,
+      "y": 289.9375
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "requested": [
+      1366,
+      768
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307516484",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 733.046875,
+      "height": 358,
+      "left": 109.265625,
+      "right": 684.125,
+      "top": 375.046875,
+      "width": 574.859375,
+      "x": 109.265625,
+      "y": 375.046875
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "requested": [
+      1366,
+      768
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 732.9375,
+      "height": 398,
+      "left": 110.265625,
+      "right": 690.859375,
+      "top": 334.9375,
+      "width": 580.59375,
+      "x": 110.265625,
+      "y": 334.9375
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "requested": [
+      1366,
+      768
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307516484",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 733.046875,
+      "height": 358,
+      "left": 109.265625,
+      "right": 684.125,
+      "top": 375.046875,
+      "width": 574.859375,
+      "x": 109.265625,
+      "y": 375.046875
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "requested": [
+      1920,
+      1080
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 859.640625,
+      "height": 398,
+      "left": 255,
+      "right": 977.078125,
+      "top": 461.640625,
+      "width": 722.078125,
+      "x": 255,
+      "y": 461.640625
+    },
+    "section": "process",
+    "theme": "light",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      1920,
+      1080
+    ],
+    "requestedTheme": "light",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307516484",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 901.28125,
+      "height": 358,
+      "left": 255,
+      "right": 967.375,
+      "top": 543.28125,
+      "width": 712.375,
+      "x": 255,
+      "y": 543.28125
+    },
+    "section": "booking",
+    "theme": "light",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "requested": [
+      1920,
+      1080
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp?t=1794307502533",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 859.640625,
+      "height": 398,
+      "left": 255,
+      "right": 977.078125,
+      "top": 461.640625,
+      "width": 722.078125,
+      "x": 255,
+      "y": 461.640625
+    },
+    "section": "process",
+    "theme": "dark",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "followingPanelOccludes": false,
+    "visuallyRecaptured": true
+  },
+  {
+    "requested": [
+      1920,
+      1080
+    ],
+    "requestedTheme": "dark",
+    "background": "rgba(0, 0, 0, 0)",
+    "canvasCount": 0,
+    "controlOverlap": false,
+    "currentSrc": "http://127.0.0.1:8190/Toli-2/src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp?t=1794307516484",
+    "inside": true,
+    "loaded": true,
+    "objectFit": "contain",
+    "overflow": false,
+    "photo": {
+      "bottom": 969.28125,
+      "height": 358,
+      "left": 255,
+      "right": 967.375,
+      "top": 611.28125,
+      "width": 712.375,
+      "x": 255,
+      "y": 611.28125
+    },
+    "section": "booking",
+    "theme": "dark",
+    "viewport": [
+      1920,
+      1080
+    ]
+  }
+]

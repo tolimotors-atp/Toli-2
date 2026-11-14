@@ -1,0 +1,38 @@
+{
+  "A": {
+    "added": 40,
+    "removed": 12,
+    "net": 28,
+    "additions": {
+      "bonnet_roll_rail": 16,
+      "replacement_four_column_root_sections": 24
+    },
+    "removals": "12 vertices of the former two-column root strips",
+    "reason": "Separate changing bonnet roll radius from the bonnet plane; give root a transverse crown and outer/glass-side control."
+  },
+  "B": {
+    "added": 72,
+    "removed": 13,
+    "net": 59,
+    "additions": {
+      "quarter_aperture_support": 24,
+      "new_D_intermediate_columns": 20,
+      "new_roof_return_interior_nodes": 10,
+      "rear_glass_edge_columns": 10,
+      "outer_roof_matching_columns": 8
+    },
+    "removals": "10 former D middle-column nodes plus 3 otherwise-unshared old roof-return middle nodes",
+    "reason": "Isolate aperture drift control from the D crown, provide a deliberate cross-pillar section and match shared return/roof edges without T-junctions."
+  },
+  "C": {
+    "added": 36,
+    "removed": 0,
+    "net": 36,
+    "additions": {
+      "deeper_return_ring": 24,
+      "upper_lamp_shoulder": 12
+    },
+    "removals": "None; existing return/bridge nodes are repositioned, not removed",
+    "reason": "Separate return depth from edge radius; create a painted upper bridge with actual surface area. Preserve quarter-crown and compound bumper controls."
+  }
+}

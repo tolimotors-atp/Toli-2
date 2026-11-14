@@ -1,0 +1,174 @@
+{
+  "interpretation": "Heuristic >65% relative jump; character cuts and intersections require visual classification, not automatic failure",
+  "warnings": [
+    {
+      "join": "J01",
+      "curve": "FRONT_FENDER_SHOULDER",
+      "control": 2,
+      "relative_jump": 0.7266159437345767
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 2,
+      "relative_jump": 0.7225897320835033
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 3,
+      "relative_jump": 0.7607418784811557
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 5,
+      "relative_jump": 0.7607421399908896
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 6,
+      "relative_jump": 0.7225897320835033
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 2,
+      "relative_jump": 0.7099375929279642
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 6,
+      "relative_jump": 0.7099375929279642
+    },
+    {
+      "join": "J03",
+      "curve": "TRACE_ROOF_EDGE",
+      "control": 3,
+      "relative_jump": 0.814207362260653
+    },
+    {
+      "join": "J03",
+      "curve": "TRACE_WINDSCREEN_TOP",
+      "control": 1,
+      "relative_jump": 0.9999906526414406
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_ROOF_EDGE",
+      "control": 3,
+      "relative_jump": 0.814207362260653
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_D_PILLAR",
+      "control": 1,
+      "relative_jump": 0.6684835660918105
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_QUARTER_GLASS",
+      "control": 2,
+      "relative_jump": 0.7570449443632572
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_QUARTER_GLASS",
+      "control": 4,
+      "relative_jump": 0.7008911760999936
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 1,
+      "relative_jump": 0.986235666060675
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 7,
+      "relative_jump": 0.986235666060675
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 2,
+      "relative_jump": 0.8505148113522382
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 4,
+      "relative_jump": 0.8818537455896326
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 5,
+      "relative_jump": 0.661251191428276
+    },
+    {
+      "join": "J06",
+      "curve": "SECTION_LAMP_BAND",
+      "control": 1,
+      "relative_jump": 0.7054698580699547
+    },
+    {
+      "join": "J06",
+      "curve": "SECTION_LAMP_BAND",
+      "control": 3,
+      "relative_jump": 0.705469918705846
+    },
+    {
+      "join": "J07",
+      "curve": "TRACE_REAR_BUMPER",
+      "control": 1,
+      "relative_jump": 0.7446413754437494
+    },
+    {
+      "join": "J07",
+      "curve": "TRACE_REAR_BUMPER",
+      "control": 2,
+      "relative_jump": 0.7497401788088079
+    },
+    {
+      "join": "J08",
+      "curve": "TRACE_D_PILLAR",
+      "control": 1,
+      "relative_jump": 0.6684835660918105
+    },
+    {
+      "join": "J08",
+      "curve": "TRACE_REAR_GLASS",
+      "control": 1,
+      "relative_jump": 0.9461583497979937
+    },
+    {
+      "join": "J08",
+      "curve": "TRACE_REAR_GLASS",
+      "control": 4,
+      "relative_jump": 0.6673781546093095
+    },
+    {
+      "join": "J08",
+      "curve": "REAR_CENTER_DEPTH",
+      "control": 1,
+      "relative_jump": 0.8202669828584134
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 1,
+      "relative_jump": 0.986235666060675
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 7,
+      "relative_jump": 0.986235666060675
+    }
+  ],
+  "maximum_sampled_curvature": 58.91112594900544
+}

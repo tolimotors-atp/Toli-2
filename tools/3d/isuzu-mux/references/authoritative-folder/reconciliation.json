@@ -1,0 +1,28 @@
+{
+  "authoritative_folder": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X",
+  "total_files": 18,
+  "total_images": 18,
+  "previously_audited_exact_matches": 13,
+  "previously_missed_files": 5,
+  "new_nonredundant_content_files": 4,
+  "exact_duplicates_within_folder": 0,
+  "decoded_pixel_duplicates_within_folder": 0,
+  "visual_duplicate_new_file_of_historical_image": 1,
+  "visual_duplicate_mapping": {
+    "F02": "S12"
+  },
+  "canonical_compatible_or_secondary_useful": 18,
+  "exterior_files": 15,
+  "interior_files": 2,
+  "engine_files": 1,
+  "incompatible_body_family_files": 0,
+  "same_vehicle_sequence": "UNCERTAIN; likely source groups already known, no new controlled sequence",
+  "material_new_exterior_geometry_constraints": false,
+  "new_engine_interior_detail_evidence": true,
+  "windscreen_evidence_materially_improved": false,
+  "calibration_feasibility_materially_improved": false,
+  "manual_reconstruction_limit_reached": true,
+  "base_asset_files": [],
+  "decision": "A \u2014 EXISTING 34-IMAGE CONCLUSION CONFIRMED; DO NOT RESTART",
+  "scope": "18 authoritative files, not literally the same 34. Five missed files add secondary detail/corroboration, not a missing constraint sufficient for B or C."
+}

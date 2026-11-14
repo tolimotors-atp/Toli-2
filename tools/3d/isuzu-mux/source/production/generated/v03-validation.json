@@ -1,0 +1,43 @@
+{
+  "geometry": {
+    "new_exterior": {
+      "base_vertices": 7231,
+      "evaluated_vertices": 8199,
+      "evaluated_triangles": 14328,
+      "objects": 26,
+      "materials": 4
+    },
+    "new_exterior_plus_wheels": {
+      "base_vertices": 12159,
+      "evaluated_vertices": 13319,
+      "evaluated_triangles": 24344,
+      "objects": 90,
+      "materials": 5
+    },
+    "new_exterior_plus_all_retained": {
+      "base_vertices": 13271,
+      "evaluated_vertices": 17759,
+      "evaluated_triangles": 32984,
+      "objects": 139,
+      "materials": 10
+    },
+    "image_textures": 0,
+    "legacy_reference_excluded": true
+  },
+  "retained_count": 113,
+  "retained_geometry_transform_material_signatures_unchanged": true,
+  "wheel_ground_heights": {
+    "WHEEL_FL": 0.0,
+    "WHEEL_FR": 0.0,
+    "WHEEL_RL": 0.0,
+    "WHEEL_RR": 0.0
+  },
+  "fixed_cameras_unchanged": true,
+  "new_exterior_uses_old_control_cage": false,
+  "v02_reference_hidden": true,
+  "source_reopened": true,
+  "panels": "NOT YET REBUILT",
+  "clearance": "NOT REACHED",
+  "paid_assets": "NONE",
+  "glb": "NOT EXPORTED"
+}

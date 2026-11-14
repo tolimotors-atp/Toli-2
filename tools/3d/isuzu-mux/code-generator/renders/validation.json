@@ -1,0 +1,24 @@
+{
+  "vertices": 992,
+  "triangles": 1944,
+  "objects": 10,
+  "materials": 4,
+  "dimensions": [
+    4.824999809265137,
+    1.8600000143051147,
+    1.860000019550481
+  ],
+  "wheelbase": 2.8450000286102295,
+  "ground_z": -5.245366363482162e-09,
+  "symmetry": false,
+  "symmetry_max_error_m": 0.0016103120287880301,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "negative_volume_objects": 0,
+  "finite": true,
+  "boundary_note": "Body, greenhouse and wheels are deliberately separate closed milestone volumes; joins require visual review, not a watertight assembled shell.",
+  "delete_and_regenerate_identical": true,
+  "quality_triangles": 3664,
+  "reset_test": "PASS",
+  "reopen_test": "PASS"
+}

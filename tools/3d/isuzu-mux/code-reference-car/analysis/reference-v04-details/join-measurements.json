@@ -1,0 +1,6 @@
+{
+  "maximumPositionGapMetres": 1.297201868001961e-7,
+  "maximumCornerTangentAngleDegrees": 0.13967661051640906,
+  "scope": "front/rear side terminals, front fender leading edge, rear frame to body",
+  "note": "Numerical sampled joints only; does not certify overall visual or reflection continuity"
+}

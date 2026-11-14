@@ -1,0 +1,17 @@
+{
+  "A": {
+    "nonadjacent_evaluated_triangle_overlap_pairs": 0,
+    "pairs": [],
+    "scope": "Exact BVH triangle overlap diagnostic excluding pairs sharing a vertex; construction surfaces remain open."
+  },
+  "B": {
+    "nonadjacent_evaluated_triangle_overlap_pairs": 0,
+    "pairs": [],
+    "scope": "Exact BVH triangle overlap diagnostic excluding pairs sharing a vertex; construction surfaces remain open."
+  },
+  "C": {
+    "nonadjacent_evaluated_triangle_overlap_pairs": 0,
+    "pairs": [],
+    "scope": "Exact BVH triangle overlap diagnostic excluding pairs sharing a vertex; construction surfaces remain open."
+  }
+}

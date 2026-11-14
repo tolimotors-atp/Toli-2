@@ -1,0 +1,28 @@
+{
+  "front": {
+    "canvas": 0,
+    "loaded": true,
+    "overflow": false,
+    "src": "http://127.0.0.1:8207/Toli-2/assets/isuzu-mux-front-3q-transparent-640-Ck8xO-K9.webp"
+  },
+  "rear": {
+    "canvas": 0,
+    "h": 844,
+    "loaded": true,
+    "overflow": false,
+    "rect": {
+      "bottom": 577.0625,
+      "height": 218,
+      "left": 20,
+      "right": 360,
+      "top": 359.0625,
+      "width": 340,
+      "x": 20,
+      "y": 359.0625
+    },
+    "src": "http://127.0.0.1:8207/Toli-2/assets/isuzu-mux-rear-3q-transparent-640-9CuVnWGu.webp",
+    "w": 390,
+    "y": 12478
+  },
+  "console": []
+}

@@ -1,0 +1,14 @@
+{
+  "typeScript": "PASS: app/node/qa; exit 0",
+  "lint": "PASS: exit 0",
+  "productionBuild": "PASS: exit 0, 17.17s",
+  "tests": {
+    "files": 53,
+    "passed": 368,
+    "failed": 0
+  },
+  "productionConsoleWarnings": 0,
+  "productionConsoleErrors": 0,
+  "deployment": "NOT PERFORMED",
+  "gitCommit": "NOT PERFORMED"
+}

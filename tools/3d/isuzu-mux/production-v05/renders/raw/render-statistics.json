@@ -1,0 +1,72 @@
+[
+  {
+    "candidate": "v04",
+    "drawCalls": 87,
+    "mode": "final",
+    "triangles": 96196,
+    "view": "front"
+  },
+  {
+    "candidate": "v04",
+    "drawCalls": 87,
+    "mode": "final",
+    "triangles": 96196,
+    "view": "front-right"
+  },
+  {
+    "candidate": "v04",
+    "drawCalls": 87,
+    "mode": "final",
+    "triangles": 96196,
+    "view": "right"
+  },
+  {
+    "candidate": "v04",
+    "drawCalls": 87,
+    "mode": "final",
+    "triangles": 96196,
+    "view": "rear-right"
+  },
+  {
+    "candidate": "v04",
+    "drawCalls": 87,
+    "mode": "final",
+    "triangles": 96196,
+    "view": "rear"
+  },
+  {
+    "candidate": "v05",
+    "drawCalls": 133,
+    "mode": "final",
+    "triangles": 105296,
+    "view": "front"
+  },
+  {
+    "candidate": "v05",
+    "drawCalls": 133,
+    "mode": "final",
+    "triangles": 105296,
+    "view": "front-right"
+  },
+  {
+    "candidate": "v05",
+    "drawCalls": 133,
+    "mode": "final",
+    "triangles": 105296,
+    "view": "right"
+  },
+  {
+    "candidate": "v05",
+    "drawCalls": 133,
+    "mode": "final",
+    "triangles": 105296,
+    "view": "rear-right"
+  },
+  {
+    "candidate": "v05",
+    "drawCalls": 133,
+    "mode": "final",
+    "triangles": 105296,
+    "view": "rear"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "workspace": "CREATED",
+  "validation_workflow": "READY",
+  "synthetic_tests": "PASS",
+  "protected_existing_files_checked": 1718,
+  "changed_files": [],
+  "incoming_photos": 0,
+  "reconstruction": "NOT STARTED — WAITING FOR CONTROLLED PHOTOS",
+  "cost": "₹0 / $0",
+  "website": "UNCHANGED",
+  "V04": "UNCHANGED",
+  "V05": "NOT CREATED",
+  "GLB": "NOT EXPORTED",
+  "deployment": "NOT PERFORMED"
+}

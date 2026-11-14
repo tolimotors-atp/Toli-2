@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "sources": [
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-generated-v03.blend",
+      "opened": true,
+      "sha256": "6a0dac481b5f9118a7e5e5577a968aa7d264f9612ff4553d402588b1dc02078f"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-v04-front.blend",
+      "opened": true,
+      "sha256": "a8d99d85c7d6c596108b647bb9f9d3cc21d29a0442a6f3b5136412884c3186b2"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/isuzu-mux-generated-v04.blend",
+      "opened": true,
+      "sha256": "5568213bee200d9e528eb5feff369dcfbab8687fcd99e97415726d4652d4a4be"
+    }
+  ],
+  "decision": "V04: B \u2014 PARTIAL IMPROVEMENT; STOP BEFORE DETAILING",
+  "archived_exteriors_hidden": true,
+  "closed_frame": 1
+}

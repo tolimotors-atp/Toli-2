@@ -1,0 +1,52 @@
+{
+  "checkedExistingSourcePublicFiles": 390,
+  "modified": [
+    "src/test/vehicle-accessibility.test.tsx",
+    "src/test/mux-photography.test.tsx",
+    "src/test/phase2-services.test.tsx",
+    "src/test/experience.test.tsx",
+    "src/test/default-selections.test.tsx",
+    "src/test/fixtures/separation-protected.json",
+    "src/components/journey/JourneyDock.tsx",
+    "src/components/journey/VehicleComponentView.tsx",
+    "src/components/journey/mux-photography.css",
+    "src/components/journey/MuxPhotography.tsx"
+  ],
+  "protectedSourceChanges": [],
+  "originalReferencesChecked": 43,
+  "originalReferencesChanged": 0,
+  "frontProductionAssets": [
+    {
+      "view": "front",
+      "source": "Screenshot 2026-11-08 213542.png",
+      "sourceSha256": "7cba4428b536116792a6dcf44ecbd5779e7342a18954b83e2d8a5903e1c53c92",
+      "sourceDimensions": [
+        1022,
+        593
+      ],
+      "file": "src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp",
+      "width": 640,
+      "height": 384,
+      "bytes": 40262,
+      "transparentPixels": 127854,
+      "opaquePixels": 112322,
+      "method": "Manually traced alpha mask; original vehicle RGB retained; proportional fit and WebP encoding only."
+    },
+    {
+      "view": "front",
+      "source": "Screenshot 2026-11-08 213542.png",
+      "sourceSha256": "7cba4428b536116792a6dcf44ecbd5779e7342a18954b83e2d8a5903e1c53c92",
+      "sourceDimensions": [
+        1022,
+        593
+      ],
+      "file": "src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp",
+      "width": 1100,
+      "height": 660,
+      "bytes": 64766,
+      "transparentPixels": 383100,
+      "opaquePixels": 337535,
+      "method": "Manually traced alpha mask; original vehicle RGB retained; proportional fit and WebP encoding only."
+    }
+  ]
+}

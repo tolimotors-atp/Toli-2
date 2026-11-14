@@ -1,0 +1,26 @@
+{
+  "toli-static-website": {
+    "changed": [
+      "src/main.tsx",
+      "src/components/journey/HeroVehicleLineup.tsx",
+      "src/components/journey/ExperienceNavigation.tsx",
+      "src/pages/Index.tsx",
+      "src/test/phase1-navigation.test.tsx",
+      "src/test/fixtures/separation-protected.json"
+    ],
+    "added": [
+      "src/mobile-responsive.css"
+    ],
+    "removed": []
+  },
+  "toli-3d-website": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  },
+  "tolimotors-main": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  }
+}

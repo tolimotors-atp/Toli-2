@@ -1,0 +1,11 @@
+{
+  "before": {
+    "height": 362.5,
+    "text": "ADVERTISEMENT · DEVELOPMENT LAYOUT ONLYReserved space · simulated slow load"
+  },
+  "after": {
+    "height": 362.5,
+    "text": "ADVERTISEMENT · DEVELOPMENT LAYOUT ONLYLayout simulation · no live advertisement"
+  },
+  "heightChanged": false
+}

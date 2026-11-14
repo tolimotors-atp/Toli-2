@@ -1,0 +1,32 @@
+[
+  {
+    "checkpoint": 1,
+    "result": "TRACES SAVED",
+    "observation": "All original files re-read. New primary front/side/rear pixel traces and 12 shared semantic landmarks; opposite-view picks corrected after full-resolution review. No geometry changed."
+  },
+  {
+    "checkpoint": 2,
+    "result": "OUTER IDENTITY FAIL",
+    "observation": "New headlight/body aperture and front-fender patches replace V03. Shared end-profile and explicit mirrored tessellation corrections made. Geometry tests pass, but front mass/apertures do not look like source."
+  },
+  {
+    "checkpoint": 3,
+    "result": "LOCAL CONSTRUCTION IMPROVED; IDENTITY FAIL",
+    "observation": "New quarter/D-pillar/glass shell, clipped forward cabin retained. Repeated section allocation caused initial 15s test timeout; precomputed join sections and reusable width evaluations fixed it, without raising timeout."
+  },
+  {
+    "checkpoint": 4,
+    "result": "INCOMPLETE BUMPER / BOUNDS FAIL",
+    "observation": "V03 protruding lamp shells and rear face removed; body apertures/tailgate added. Temporary rear base profile made length 4.792486 m: existing bounds check correctly failed by 32.5mm. This stage was not accepted as complete."
+  },
+  {
+    "checkpoint": 5,
+    "result": "BOUNDS RESTORED; VISUAL FAIL",
+    "observation": "Final section-defined bumper restores nominal length. Front/rear crack artifacts and patch-normal issues remained visible. No gate relaxation or activation."
+  },
+  {
+    "checkpoint": 6,
+    "result": "TECHNICAL PASS; IDENTITY FAIL",
+    "observation": "Winding aligned with normals; nonconforming adaptive tessellation replaced by two consistent levels; simple aperture backings use one level. Shared arch return and sampled patch joins tested. Major cracks reduced; shape and reflection seams still fail recognition."
+  }
+]

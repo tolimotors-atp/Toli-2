@@ -1,0 +1,56 @@
+[
+  {
+    "background": "radial-gradient(at 16% 0%, rgba(202, 204, 208, 0.17), rgba(0, 0, 0, 0) 57%), radial-gradient(46% 48% at 100% 65%, rgba(217, 31, 49, 0.22), rgba(100, 19, 27, 0.157) 44%, rgba(0, 0, 0, 0) 80%), linear-gradient(135deg, rgb(102, 108, 118) 0%, rgb(48, 52, 60) 27%, rgb(32, 35, 41) 47%, rgb(100, 19, 27) 62%, rgb(168, 15, 39) 83%, rgb(69, 27, 37))",
+    "dialogColor": "rgb(244, 243, 242)",
+    "theme": "dark",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "dialogColor": "rgb(36, 39, 43)",
+    "theme": "light",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  },
+  {
+    "background": "radial-gradient(at 16% 0%, rgba(202, 204, 208, 0.17), rgba(0, 0, 0, 0) 57%), radial-gradient(46% 48% at 100% 65%, rgba(217, 31, 49, 0.22), rgba(100, 19, 27, 0.157) 44%, rgba(0, 0, 0, 0) 80%), linear-gradient(135deg, rgb(102, 108, 118) 0%, rgb(48, 52, 60) 27%, rgb(32, 35, 41) 47%, rgb(100, 19, 27) 62%, rgb(168, 15, 39) 83%, rgb(69, 27, 37))",
+    "dialogColor": "rgb(244, 243, 242)",
+    "theme": "dark",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "dialogColor": "rgb(36, 39, 43)",
+    "theme": "light",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  },
+  {
+    "background": "radial-gradient(at 16% 0%, rgba(202, 204, 208, 0.17), rgba(0, 0, 0, 0) 57%), radial-gradient(46% 48% at 100% 65%, rgba(217, 31, 49, 0.22), rgba(100, 19, 27, 0.157) 44%, rgba(0, 0, 0, 0) 80%), linear-gradient(135deg, rgb(102, 108, 118) 0%, rgb(48, 52, 60) 27%, rgb(32, 35, 41) 47%, rgb(100, 19, 27) 62%, rgb(168, 15, 39) 83%, rgb(69, 27, 37))",
+    "dialogColor": "rgb(244, 243, 242)",
+    "theme": "dark",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  },
+  {
+    "background": "radial-gradient(at 20% 0%, rgb(255, 255, 255), rgba(0, 0, 0, 0) 65%), radial-gradient(at 100% 55%, rgba(229, 34, 56, 0.043), rgba(0, 0, 0, 0) 58%), linear-gradient(135deg, rgb(250, 249, 246), rgb(244, 243, 240) 58%, rgb(229, 229, 226))",
+    "dialogColor": "rgb(36, 39, 43)",
+    "theme": "light",
+    "values": [
+      "Mahindra",
+      "Scorpio"
+    ]
+  }
+]

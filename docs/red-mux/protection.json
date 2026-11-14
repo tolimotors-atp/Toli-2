@@ -1,0 +1,14 @@
+{
+  "checkedExistingSourcePublicFiles": 390,
+  "modified": [
+    "src/test/mux-photography.test.tsx",
+    "src/components/journey/mux-photography.css",
+    "src/components/journey/MuxPhotography.tsx"
+  ],
+  "hero": "UNCHANGED",
+  "navbar": "UNCHANGED",
+  "toliAI": "UNCHANGED",
+  "sourceOriginalAndCopyHashMatch": true,
+  "oldReferenceImagesUnchanged": 43,
+  "providerRefactorApplied": false
+}

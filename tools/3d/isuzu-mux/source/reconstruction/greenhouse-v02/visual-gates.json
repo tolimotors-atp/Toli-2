@@ -1,0 +1,85 @@
+{
+  "overall": "FAIL",
+  "reference_family": "unchanged canonical silver-reference MU-X body family",
+  "categories": [
+    {
+      "category": "Windscreen proportions",
+      "status": "FAIL",
+      "evidence": "Width/height/rake are improved but corner/base shape and lateral A relationship are not accepted across front and 3Q."
+    },
+    {
+      "category": "Windscreen curvature",
+      "status": "FAIL",
+      "evidence": "Strip bunching and uneven lower-edge flow remain; curved geometry exists but is not acceptable automotive glass."
+    },
+    {
+      "category": "A-pillars",
+      "status": "FAIL",
+      "evidence": "Gap closed and rake improved; lower origin/cowl junction remains pointed and lateral thickness needs correction."
+    },
+    {
+      "category": "Roof longitudinal shape",
+      "status": "PASS",
+      "evidence": "Gross longitudinal trajectory now follows O07/O09 roof evidence; this is not a reflection-continuity pass."
+    },
+    {
+      "category": "Roof cross-car crown",
+      "status": "FAIL",
+      "evidence": "Non-flat crown exists, but side falloff/normal transition is still abrupt at the roof edge."
+    },
+    {
+      "category": "Front side glass",
+      "status": "FAIL",
+      "evidence": "Outline improved; diagnostic reflections still show uneven surface flow. Outline alone is insufficient."
+    },
+    {
+      "category": "B-pillar",
+      "status": "PASS",
+      "evidence": "Simple position, rake and width agree with the profile references at this study stage."
+    },
+    {
+      "category": "Rear side glass",
+      "status": "FAIL",
+      "evidence": "Rounded rear outline improved, but curvature consistency with the frame/adjacent glass remains unresolved."
+    },
+    {
+      "category": "C-pillar",
+      "status": "FAIL",
+      "evidence": "Rebuilt from shared side field; roof/junction curvature still changes abruptly."
+    },
+    {
+      "category": "Quarter glass",
+      "status": "FAIL",
+      "evidence": "Upright outline retained; depth and integration with C/D frame are not yet convincingly validated."
+    },
+    {
+      "category": "D-pillar",
+      "status": "FAIL",
+      "evidence": "Rear wrap and rear-glass/header junction retain a visible crease/pinch."
+    },
+    {
+      "category": "Rear glass",
+      "status": "FAIL",
+      "evidence": "Width/rake/curvature explicitly authored, but header and corner flow remain too abrupt."
+    },
+    {
+      "category": "Cross-car cabin depth",
+      "status": "FAIL",
+      "evidence": "Varying widths/tumblehome are explicit, but windscreen/rear wrap and station envelope reconciliation remain unresolved; no calibrated depth proof."
+    },
+    {
+      "category": "Three-quarter MU-X identity",
+      "status": "FAIL",
+      "evidence": "All four 3Q views inspected. Profile improvement has not established accepted cabin identity in depth."
+    },
+    {
+      "category": "Reflection continuity",
+      "status": "FAIL",
+      "evidence": "Header pinching, lower windscreen waviness and rear header/D-junction discontinuities visible."
+    }
+  ],
+  "profile_outline_improved": true,
+  "depth_ready": false,
+  "reflection_diagnostic": "preliminary fault-finding only; formal finish gate not reached",
+  "advance_to_other_body": false
+}

@@ -1,0 +1,61 @@
+{
+  "images": [
+    {
+      "id": "MUX-027",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213402.png",
+      "source_sha256": "8aebcdb939237a62dd78bf3afb8b7247d4f2b0a4768d4a2a5e0ddef7d2e9f9d7",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-027.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-027.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    },
+    {
+      "id": "MUX-028",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213411.png",
+      "source_sha256": "06f6f0289c3838ba61eddb58d7809ae83ecfdb657c668eb47b565028099f256d",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-028.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-028.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    },
+    {
+      "id": "MUX-029",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213436.png",
+      "source_sha256": "cc6d732afd2ff12d0b91dcf4d29f19fbb66940c7ab5098acf1006d1578dabce2",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-029.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-029.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    },
+    {
+      "id": "MUX-030",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213441.png",
+      "source_sha256": "b8f6661d614669501926001ab179a11ad0ad6ba7d7b1be80aee27ca9b58a68d3",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-030.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-030.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    },
+    {
+      "id": "MUX-031",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213446.png",
+      "source_sha256": "adff0fdd0d020623b82ae681f8da72dd2005891589e5f149f9ed3edfc4fabe46",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-031.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-031.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    },
+    {
+      "id": "MUX-041",
+      "source": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213542.png",
+      "source_sha256": "7cba4428b536116792a6dcf44ecbd5779e7342a18954b83e2d8a5903e1c53c92",
+      "derivative": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/images/MUX-041.png",
+      "mask": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/controlled-capture/reconstruction/current-folder-audit/small/masks/MUX-041.png.png",
+      "mask_note": "Coarse vehicle envelope, not pixel-perfect segmentation. Review overlay; no old geometry used."
+    }
+  ],
+  "selection_order": [
+    "MUX-027",
+    "MUX-028",
+    "MUX-029",
+    "MUX-041",
+    "MUX-030",
+    "MUX-031"
+  ],
+  "rationale": "Adjacent front-to-left sequence from the same apparent red turntable viewer; unknown physical/synthetic provenance, no EXIF. New files only."
+}

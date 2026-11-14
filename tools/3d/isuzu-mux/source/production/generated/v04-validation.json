@@ -1,0 +1,92 @@
+{
+  "geometry": {
+    "exterior": {
+      "base_vertices": 6308,
+      "evaluated_vertices": 8293,
+      "evaluated_triangles": 15354,
+      "objects": 43,
+      "materials": 4,
+      "bounds_min": [
+        -2.327500104904175,
+        -0.9300491809844971,
+        0.3400000035762787
+      ],
+      "bounds_max": [
+        2.497499942779541,
+        0.9300491809844971,
+        1.8175209760665894
+      ],
+      "dimensions": [
+        4.825000047683716,
+        1.8600983619689941,
+        1.4775209724903107
+      ]
+    },
+    "exterior_plus_retained": {
+      "base_vertices": 12348,
+      "evaluated_vertices": 17853,
+      "evaluated_triangles": 34010,
+      "objects": 156,
+      "materials": 10,
+      "bounds_min": [
+        -2.327500104904175,
+        -0.9350000023841858,
+        0.0
+      ],
+      "bounds_max": [
+        2.497499942779541,
+        0.9350000023841858,
+        1.8175209760665894
+      ],
+      "dimensions": [
+        4.825000047683716,
+        1.8700000047683716,
+        1.8175209760665894
+      ]
+    },
+    "body_foundation": {
+      "base_vertices": 1816,
+      "evaluated_vertices": 1830,
+      "evaluated_triangles": 3656,
+      "objects": 1,
+      "materials": 1,
+      "bounds_min": [
+        -2.3062474727630615,
+        -0.9300491809844971,
+        0.3400000035762787
+      ],
+      "bounds_max": [
+        2.4312500953674316,
+        0.9300491809844971,
+        1.8175209760665894
+      ],
+      "dimensions": [
+        4.737497568130493,
+        1.8600983619689941,
+        1.4775209724903107
+      ]
+    },
+    "image_textures_added": 0
+  },
+  "retained_expected": 113,
+  "retained_actual": 113,
+  "retained_geometry_transforms_material_slots_unchanged": true,
+  "front_glazing_unchanged": true,
+  "main_roof_centerline_height_delta_m": {
+    "-0.34": 0.0,
+    "0.28": 0.0,
+    "1.14": 0.0,
+    "1.98": 0.0
+  },
+  "fixed_cameras_unchanged": true,
+  "tire_ground_heights": {
+    "WHEEL_FL": 0.0,
+    "WHEEL_FR": 0.0,
+    "WHEEL_RL": 0.0,
+    "WHEEL_RR": 0.0
+  },
+  "source_reopened": true,
+  "functional_panels": "NOT REBUILT",
+  "clearance": "NOT PERFORMED",
+  "glb": "NOT EXPORTED"
+}

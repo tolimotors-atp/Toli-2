@@ -1,0 +1,23 @@
+{
+  "status": {
+    "command": "git status --short --branch",
+    "exitCode": 128,
+    "stdout": "",
+    "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+  },
+  "branch": {
+    "command": "git branch --show-current",
+    "exitCode": 128,
+    "stdout": "",
+    "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+  },
+  "remote": {
+    "command": "git remote -v",
+    "exitCode": 128,
+    "stdout": "",
+    "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+  },
+  "commit": null,
+  "branchName": null,
+  "push": "BLOCKED: target directory is not a Git repository; no configured remote/current branch. No repository initialized and no remote changed."
+}

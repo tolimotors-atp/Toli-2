@@ -1,0 +1,1588 @@
+[
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-10.png",
+    "filename": "Screenshot From 2026-11-06 18-17-10.png",
+    "extension": ".png",
+    "file_size": 263327,
+    "sha256": "6485be87263758431a50b62dcbaef77d24d1a946293cad14ddedcac423217a65",
+    "previous_hash_match": true,
+    "previous_id": "F11",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "23ab7f5cf5b7c059891433a8bbcc867d137d422f4a2f9e99f59e3520537114cc",
+    "dhash": "0xcc8e8ecae0cc3003",
+    "id": "MUX-011",
+    "exterior": true,
+    "view": "FRONT",
+    "approximate_visual_azimuth": 0,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Front",
+    "confidence": "HIGH",
+    "why_selected": "Canonical closed body; symmetric face envelope",
+    "regions": "Bonnet, windscreen, fender width",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          389,
+          432
+        ],
+        "pixel": [
+          299.8073217726397,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          685,
+          432
+        ],
+        "pixel": [
+          527.9383429672447,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          438,
+          146
+        ],
+        "pixel": [
+          337.57225433526014,
+          146.52408477842005
+        ],
+        "uncertainty_px_original": 18
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          611,
+          146
+        ],
+        "pixel": [
+          470.90558766859345,
+          146.52408477842005
+        ],
+        "uncertainty_px_original": 12
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-27.png",
+    "filename": "Screenshot From 2026-11-06 18-17-27.png",
+    "extension": ".png",
+    "file_size": 333369,
+    "sha256": "c8cfb7e69d3d57e40f2b4abf6ec61bf5dc066580f24a4f028565d78ae5279606",
+    "previous_hash_match": true,
+    "previous_id": "F16",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "8354eb5241b88f395abcf3b6fa1fa87692d3d3166d296ec697a4189495cf501e",
+    "dhash": "0xf48307255c16e089",
+    "id": "MUX-016",
+    "exterior": true,
+    "view": "FRONT-LEFT 3/4",
+    "approximate_visual_azimuth": 45,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Front-left 3Q",
+    "confidence": "HIGH",
+    "why_selected": "Canonical compatible silver three-quarter",
+    "regions": "Bonnet, fender, cowl, greenhouse",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          420,
+          414
+        ],
+        "pixel": [
+          323.6994219653179,
+          353.0751445086705
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          777,
+          353
+        ],
+        "pixel": [
+          598.8439306358382,
+          306.0616570327553
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          588,
+          161
+        ],
+        "pixel": [
+          453.1791907514451,
+          158.08477842003856
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          801,
+          153
+        ],
+        "pixel": [
+          617.3410404624277,
+          151.91907514450867
+        ],
+        "uncertainty_px_original": 12
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot 2026-11-08 213441.png",
+    "filename": "Screenshot 2026-11-08 213441.png",
+    "extension": ".png",
+    "file_size": 435670,
+    "sha256": "b8f6661d614669501926001ab179a11ad0ad6ba7d7b1be80aee27ca9b58a68d3",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 1002,
+    "height": 528,
+    "aspect_ratio": 1.8977272727272727,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "c35f23eee65377eea23cfd55c2702f7db2941b8d7d703d81e67cba5fc389c7b7",
+    "dhash": "0x83032b076f7f5c38",
+    "id": "MUX-030",
+    "exterior": true,
+    "view": "LEFT-FRONT TRANSITION",
+    "approximate_visual_azimuth": 65,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "PARTIAL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "RED_VIEWER_SERIES",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Tightly cropped; rear edge has little or no margin.",
+      "Consistent red turntable/viewer appearance; apparent CGI/render-style source is an inference, not verified provenance."
+    ],
+    "selected_view": "Left-front intermediate",
+    "confidence": "MEDIUM",
+    "why_selected": "Closer transition angle; cropped screenshot",
+    "regions": "Bonnet side falloff, A root, arch",
+    "normalization": {
+      "scale": 0.7984031936127745,
+      "offset": [
+        0,
+        49
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          333,
+          390
+        ],
+        "pixel": [
+          265.8682634730539,
+          360.377245508982
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          853,
+          332
+        ],
+        "pixel": [
+          681.0379241516966,
+          314.0698602794411
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          511,
+          85
+        ],
+        "pixel": [
+          407.98403193612774,
+          116.86427145708583
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          851,
+          86
+        ],
+        "pixel": [
+          679.4411177644711,
+          117.6626746506986
+        ],
+        "uncertainty_px_original": 8
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-14.png",
+    "filename": "Screenshot From 2026-11-06 18-17-14.png",
+    "extension": ".png",
+    "file_size": 313415,
+    "sha256": "de0c96f58b8b6704f3eadda2b1bf5b5b948e04e54ff036062d20943f06378039",
+    "previous_hash_match": true,
+    "previous_id": "F12",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "997cb276b2eaba56029e84865b1a7725fe68b5a15da710ddb5ab22339ea2bcd9",
+    "dhash": "0xc4033333cc5ce001",
+    "id": "MUX-012",
+    "exterior": true,
+    "view": "LEFT SIDE",
+    "approximate_visual_azimuth": 90,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Left side",
+    "confidence": "HIGH",
+    "why_selected": "Canonical closed side with full vehicle",
+    "regions": "Wheel relation, roof, side opening",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          239,
+          390
+        ],
+        "pixel": [
+          184.20038535645472,
+          334.57803468208095
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          752,
+          389
+        ],
+        "pixel": [
+          579.5761078998073,
+          333.8073217726397
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          438,
+          154
+        ],
+        "pixel": [
+          337.57225433526014,
+          152.6897880539499
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          840,
+          153
+        ],
+        "pixel": [
+          647.3988439306358,
+          151.91907514450867
+        ],
+        "uncertainty_px_original": 8
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot (3).png",
+    "filename": "Screenshot (3).png",
+    "extension": ".png",
+    "file_size": 421700,
+    "sha256": "3dccdf505fbcaa3a611738814a5131316e3f7faa26add29189539d86fbba23f0",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 1143,
+    "height": 690,
+    "aspect_ratio": 1.6565217391304348,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "25b13deb99f233101c6310d43378550e266a655ed8e53049f3ea6705f8bd87a3",
+    "dhash": "0xc3d3f27030f3c00",
+    "id": "MUX-022",
+    "exterior": true,
+    "view": "LEFT-REAR TRANSITION",
+    "approximate_visual_azimuth": 115,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "RED_VIEWER_SERIES",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Consistent red turntable/viewer appearance; apparent CGI/render-style source is an inference, not verified provenance."
+    ],
+    "selected_view": "Left-rear intermediate",
+    "confidence": "MEDIUM",
+    "why_selected": "Intermediate rear wrap visible",
+    "regions": "Quarter mass, D pillar, rear wrap",
+    "normalization": {
+      "scale": 0.6999125109361329,
+      "offset": [
+        0,
+        18
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          251,
+          391
+        ],
+        "pixel": [
+          175.67804024496937,
+          291.66579177602796
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          750,
+          440
+        ],
+        "pixel": [
+          524.9343832020998,
+          325.96150481189846
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          500,
+          129
+        ],
+        "pixel": [
+          349.95625546806644,
+          108.28871391076115
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          872,
+          127
+        ],
+        "pixel": [
+          610.3237095363079,
+          106.88888888888889
+        ],
+        "uncertainty_px_original": 8
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-31.png",
+    "filename": "Screenshot From 2026-11-06 18-17-31.png",
+    "extension": ".png",
+    "file_size": 283379,
+    "sha256": "662314059dfea3308409b32a1db892ced256b97b98e47028b7958496dd0c753a",
+    "previous_hash_match": true,
+    "previous_id": "F17",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "eda312de336faab403dafa83de5472cdf76567f2b708fab97ef099788de1d1f0",
+    "dhash": "0x9c1c2e1a1634a081",
+    "id": "MUX-017",
+    "exterior": true,
+    "view": "REAR-LEFT 3/4",
+    "approximate_visual_azimuth": 135,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Rear-left 3Q",
+    "confidence": "HIGH",
+    "why_selected": "Canonical rear quarter, compatible silver",
+    "regions": "D pillar, rear glass, quarter",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          310,
+          316
+        ],
+        "pixel": [
+          238.92100192678228,
+          277.5452793834297
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          519,
+          419
+        ],
+        "pixel": [
+          400.0,
+          356.9287090558767
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          414,
+          173
+        ],
+        "pixel": [
+          319.0751445086705,
+          167.33333333333334
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          599,
+          173
+        ],
+        "pixel": [
+          461.65703275529864,
+          167.33333333333334
+        ],
+        "uncertainty_px_original": 12
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-18.png",
+    "filename": "Screenshot From 2026-11-06 18-17-18.png",
+    "extension": ".png",
+    "file_size": 217399,
+    "sha256": "d22e00620155aaf6cafeda75a48ad8d92df283fed54548c99ea0f1439a0ff7b7",
+    "previous_hash_match": true,
+    "previous_id": "F13",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "1cf4f46a04414418d5b4fd7fc25007973ad52c59e83a9d40a0e4f16dd78550b0",
+    "dhash": "0x8e8e8eccccccf0a1",
+    "id": "MUX-013",
+    "exterior": true,
+    "view": "REAR",
+    "approximate_visual_azimuth": 180,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Rear",
+    "confidence": "HIGH",
+    "why_selected": "Canonical closed rear full envelope",
+    "regions": "Rear glass, D pillars, taper, bumper",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          388,
+          432
+        ],
+        "pixel": [
+          299.03660886319847,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          650,
+          432
+        ],
+        "pixel": [
+          500.96339113680153,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          433,
+          151
+        ],
+        "pixel": [
+          333.71868978805395,
+          150.3776493256262
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          606,
+          151
+        ],
+        "pixel": [
+          467.0520231213873,
+          150.3776493256262
+        ],
+        "uncertainty_px_original": 14
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot 2026-11-08 213507.png",
+    "filename": "Screenshot 2026-11-08 213507.png",
+    "extension": ".png",
+    "file_size": 394498,
+    "sha256": "c76a40e1dfdda5eed0bf5308d9abe0e9eeb745c646b486e7674ee06f5f0c8e4f",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 852,
+    "height": 497,
+    "aspect_ratio": 1.7142857142857142,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "80a4f116b0d0c3a9f9071b9d8c6d01e481feedf4ec4268c3fa61fd95db21f42c",
+    "dhash": "0x70757195b2b0b0b",
+    "id": "MUX-035",
+    "exterior": true,
+    "view": "REAR-RIGHT 3/4",
+    "approximate_visual_azimuth": 225,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "RED_VIEWER_SERIES",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Consistent red turntable/viewer appearance; apparent CGI/render-style source is an inference, not verified provenance."
+    ],
+    "selected_view": "Rear-right 3Q",
+    "confidence": "MEDIUM",
+    "why_selected": "New opposite-side corner support",
+    "regions": "Quarter, D pillar, bumper corner",
+    "normalization": {
+      "scale": 0.9389671361502347,
+      "offset": [
+        0,
+        26
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          400,
+          377
+        ],
+        "pixel": [
+          375.5868544600939,
+          379.9906103286385
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          760,
+          285
+        ],
+        "pixel": [
+          713.6150234741784,
+          293.6056338028169
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          160,
+          333
+        ],
+        "pixel": [
+          150.23474178403757,
+          338.67605633802816
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          291,
+          64
+        ],
+        "pixel": [
+          273.23943661971833,
+          86.09389671361502
+        ],
+        "uncertainty_px_original": 14
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          595,
+          84
+        ],
+        "pixel": [
+          558.6854460093897,
+          104.87323943661971
+        ],
+        "uncertainty_px_original": 14
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-21.png",
+    "filename": "Screenshot From 2026-11-06 18-17-21.png",
+    "extension": ".png",
+    "file_size": 310869,
+    "sha256": "6b055a6000032490a824efa8f20ec2083e727ed473f30a97a129ecb6b085e60c",
+    "previous_hash_match": true,
+    "previous_id": "F14",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "2bf5bfd14cf9c8595082879d222b17b71b0edf095741ad7fd53aca50c511940e",
+    "dhash": "0xc4033333cdcd3083",
+    "id": "MUX-014",
+    "exterior": true,
+    "view": "RIGHT SIDE",
+    "approximate_visual_azimuth": 270,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Right side",
+    "confidence": "HIGH",
+    "why_selected": "Canonical opposite side full contour",
+    "regions": "Roof, arches, opposite side",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          292,
+          399
+        ],
+        "pixel": [
+          225.0481695568401,
+          341.514450867052
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          802,
+          400
+        ],
+        "pixel": [
+          618.111753371869,
+          342.2851637764933
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          618,
+          157
+        ],
+        "pixel": [
+          476.3005780346821,
+          155.00192678227359
+        ],
+        "uncertainty_px_original": 14
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          212,
+          158
+        ],
+        "pixel": [
+          163.39113680154142,
+          155.77263969171486
+        ],
+        "uncertainty_px_original": 14
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot From 2026-11-06 18-17-25.png",
+    "filename": "Screenshot From 2026-11-06 18-17-25.png",
+    "extension": ".png",
+    "file_size": 332364,
+    "sha256": "f110d89c4c19dfa961e45bf5554267d51097a6860a25b8b39637ea70d7b351a2",
+    "previous_hash_match": true,
+    "previous_id": "F15",
+    "readable": true,
+    "width": 1038,
+    "height": 587,
+    "aspect_ratio": 1.768313458262351,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "54b4d2b90e58ccef4268da4fd742d48b6f01266cb3f9324dd639a99afa59af9f",
+    "dhash": "0xd01c2f2be5e73083",
+    "id": "MUX-015",
+    "exterior": true,
+    "view": "FRONT-RIGHT 3/4",
+    "approximate_visual_azimuth": 315,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [],
+    "selected_view": "Front-right 3Q",
+    "confidence": "HIGH",
+    "why_selected": "Canonical opposite front three-quarter",
+    "regions": "Bonnet, windscreen, fender wrap",
+    "normalization": {
+      "scale": 0.7707129094412332,
+      "offset": [
+        0,
+        34
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          575,
+          417
+        ],
+        "pixel": [
+          443.1599229287091,
+          355.3872832369942
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          277,
+          337
+        ],
+        "pixel": [
+          213.48747591522158,
+          293.7302504816956
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          516,
+          165
+        ],
+        "pixel": [
+          397.6878612716763,
+          161.16763005780348
+        ],
+        "uncertainty_px_original": 18
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          298,
+          157
+        ],
+        "pixel": [
+          229.67244701348747,
+          155.00192678227359
+        ],
+        "uncertainty_px_original": 18
+      }
+    ]
+  },
+  {
+    "relative_path": "images.jpg",
+    "filename": "images.jpg",
+    "extension": ".jpg",
+    "file_size": 19788,
+    "sha256": "ec24bc731a95e7afa926ee4650d3c2eb5aee4cb5737bca70014ecaf9779ef550",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 739,
+    "height": 415,
+    "aspect_ratio": 1.780722891566265,
+    "format": "JPEG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "8e640dca4293148fd02571b247db76fbd4bd8ad2399706853ca31b35fe3de180",
+    "dhash": "0x50f72f292830f44",
+    "id": "MUX-043",
+    "exterior": true,
+    "view": "TOP VIEW",
+    "approximate_visual_azimuth": null,
+    "azimuth_note": "No single horizontal azimuth assigned.",
+    "height_view": "HIGH VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "UNCERTAIN \u2014 roof only",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "INDEPENDENT_REFERENCE",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Single top-down reference; exact body/trim and association with red sequence unverified. No triangulation partner."
+    ],
+    "selected_view": "Overhead",
+    "confidence": "LOW",
+    "why_selected": "Only roof reference; family unconfirmed",
+    "regions": "Roof/bonnet plan only",
+    "normalization": {
+      "scale": 1.0825439783491204,
+      "offset": [
+        0,
+        35
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": []
+  },
+  {
+    "relative_path": "Screenshot (1).png",
+    "filename": "Screenshot (1).png",
+    "extension": ".png",
+    "file_size": 433454,
+    "sha256": "b60c073e7d7cfd2b5170d72f4aea2ff582f79dc1bf0f578b670a2808b64d4cf0",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 1143,
+    "height": 695,
+    "aspect_ratio": 1.6446043165467625,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "5d2d9e6302c2d37f578faa63d76b7d6fbad03c0139fd8332b31455a4fef61d92",
+    "dhash": "0x1003030f3f3f1cc0",
+    "id": "MUX-020",
+    "exterior": true,
+    "view": "FRONT-LEFT 3/4",
+    "approximate_visual_azimuth": 45,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "RED_VIEWER_SERIES",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Consistent red turntable/viewer appearance; apparent CGI/render-style source is an inference, not verified provenance."
+    ],
+    "selected_view": "Front-left 3Q support",
+    "confidence": "MEDIUM",
+    "why_selected": "Larger image shows compound surfaces",
+    "regions": "Bonnet crown, arch, cowl",
+    "normalization": {
+      "scale": 0.6999125109361329,
+      "offset": [
+        0,
+        17
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          439,
+          450
+        ],
+        "pixel": [
+          307.2615923009624,
+          331.9606299212598
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          865,
+          385
+        ],
+        "pixel": [
+          605.4243219597549,
+          286.4663167104112
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          636,
+          153
+        ],
+        "pixel": [
+          445.14435695538054,
+          124.08661417322834
+        ],
+        "uncertainty_px_original": 8
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          889,
+          140
+        ],
+        "pixel": [
+          622.2222222222222,
+          114.9877515310586
+        ],
+        "uncertainty_px_original": 8
+      }
+    ]
+  },
+  {
+    "relative_path": "Screenshot 2026-11-08 213402.png",
+    "filename": "Screenshot 2026-11-08 213402.png",
+    "extension": ".png",
+    "file_size": 252715,
+    "sha256": "8aebcdb939237a62dd78bf3afb8b7247d4f2b0a4768d4a2a5e0ddef7d2e9f9d7",
+    "previous_hash_match": false,
+    "previous_id": null,
+    "readable": true,
+    "width": 1122,
+    "height": 667,
+    "aspect_ratio": 1.68215892053973,
+    "format": "PNG",
+    "exif_presence": false,
+    "exif": {},
+    "camera_model": null,
+    "camera_make": null,
+    "lens": null,
+    "focal_length": null,
+    "focal_length_35mm": null,
+    "orientation": null,
+    "timestamp": null,
+    "decoded_sha256": "be26509bef042e869a9f6ac675ab74206b7192d09f9093dba817b963ede82294",
+    "dhash": "0xf17170e0e0c00",
+    "id": "MUX-027",
+    "exterior": true,
+    "view": "FRONT",
+    "approximate_visual_azimuth": 0,
+    "azimuth_note": "APPROXIMATE VISUAL AZIMUTH; generally \u00b110\u201315\u00b0, not calibrated. Canonical side-label convention.",
+    "height_view": "NORMAL VIEW",
+    "vehicle_coverage": "FULL VEHICLE",
+    "pixel_orientation": "LANDSCAPE",
+    "camera_consistency": "UNKNOWN \u2014 no EXIF; resolution/crop inconsistent",
+    "body_family": "COMPATIBLE broad canonical body family; exact trim not verified",
+    "same_physical_vehicle": "UNCERTAIN",
+    "sequence_group": "RED_VIEWER_SERIES",
+    "geometric_class": "G2",
+    "near_duplicate_of": null,
+    "notes": [
+      "Consistent red turntable/viewer appearance; apparent CGI/render-style source is an inference, not verified provenance."
+    ],
+    "selected_view": "Front support",
+    "confidence": "MEDIUM",
+    "why_selected": "Red series near frontal envelope",
+    "regions": "Bonnet plan, A pillars, face width",
+    "normalization": {
+      "scale": 0.7130124777183601,
+      "offset": [
+        0,
+        22
+      ],
+      "canvas": [
+        800,
+        520
+      ]
+    },
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          373,
+          466
+        ],
+        "pixel": [
+          265.9536541889483,
+          354.2638146167558
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          734,
+          466
+        ],
+        "pixel": [
+          523.3511586452763,
+          354.2638146167558
+        ],
+        "uncertainty_px_original": 12
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          459,
+          132
+        ],
+        "pixel": [
+          327.27272727272725,
+          116.11764705882354
+        ],
+        "uncertainty_px_original": 18
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          651,
+          132
+        ],
+        "pixel": [
+          464.1711229946524,
+          116.11764705882354
+        ],
+        "uncertainty_px_original": 12
+      }
+    ]
+  }
+]

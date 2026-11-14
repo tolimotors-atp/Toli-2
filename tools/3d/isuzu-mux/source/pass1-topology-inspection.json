@@ -1,0 +1,102 @@
+{
+  "BODY_SIDE_L": {
+    "components": 1,
+    "boundary_edges": 112,
+    "vertices": 312
+  },
+  "ARCH_L-1.425": {
+    "components": 1,
+    "boundary_edges": 66,
+    "vertices": 66
+  },
+  "ARCH_L1.425": {
+    "components": 1,
+    "boundary_edges": 66,
+    "vertices": 66
+  },
+  "BODY_SIDE_R": {
+    "components": 1,
+    "boundary_edges": 112,
+    "vertices": 312
+  },
+  "ARCH_R-1.425": {
+    "components": 1,
+    "boundary_edges": 66,
+    "vertices": 66
+  },
+  "ARCH_R1.425": {
+    "components": 1,
+    "boundary_edges": 66,
+    "vertices": 66
+  },
+  "BONNET_CAGE": {
+    "components": 1,
+    "boundary_edges": 26,
+    "vertices": 56
+  },
+  "CABIN_SURROUND_L": {
+    "components": 1,
+    "boundary_edges": 26,
+    "vertices": 36
+  },
+  "CABIN_SURROUND_R": {
+    "components": 1,
+    "boundary_edges": 26,
+    "vertices": 36
+  },
+  "ROOF_WINDSCREEN_CAGE": {
+    "components": 1,
+    "boundary_edges": 34,
+    "vertices": 84
+  },
+  "WINDOW_AREA_L_FRONT": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDOW_AREA_L_REAR": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDOW_AREA_L_QUARTER": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDOW_AREA_R_FRONT": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDOW_AREA_R_REAR": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDOW_AREA_R_QUARTER": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "WINDSCREEN_AREA": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "REAR_GLASS_AREA": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "FRONT_FASCIA_UNDETAILED": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  },
+  "TAILGATE_UNDETAILED": {
+    "components": 1,
+    "boundary_edges": 4,
+    "vertices": 4
+  }
+}

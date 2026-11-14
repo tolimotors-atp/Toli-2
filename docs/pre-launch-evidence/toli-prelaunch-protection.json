@@ -1,0 +1,50 @@
+{
+  "toli-static-website": {
+    "changed": [
+      "package-lock.json",
+      "index.html",
+      "src/index.css",
+      "src/components/Services.tsx",
+      "src/components/ToliLogoPill.tsx",
+      "src/components/Hero.tsx",
+      "src/components/GalleryImage.tsx",
+      "src/components/Contact.tsx",
+      "src/components/Stats.tsx",
+      "src/components/HowItWorks.tsx",
+      "src/components/LegalPageShell.tsx",
+      "src/components/journey/NavbarPerformanceCar.tsx",
+      "src/pages/Index.tsx",
+      "src/pages/NotFound.tsx",
+      "src/pages/TermsAndConditions.tsx",
+      "src/pages/PrivacyPolicy.tsx",
+      "src/pages/CookiePolicy.tsx",
+      "src/test/gallery-editorial.test.tsx",
+      "src/test/hero-reference.test.tsx",
+      "src/test/fixtures/separation-protected.json"
+    ],
+    "added": [
+      "src/dev/AdLayoutSimulation.tsx",
+      "src/assets/big-transparent-lossless.webp",
+      "src/assets/fonts/Inter-LICENSE.txt",
+      "src/assets/fonts/Bebas-Neue-LICENSE.txt",
+      "src/assets/fonts/inter-latin.woff2",
+      "src/assets/fonts/bebas-neue-latin.woff2",
+      "src/lib/advertising.ts",
+      "src/components/ads/AdPlacement.tsx",
+      "src/components/ads/advertising.css",
+      "src/test/prelaunch.test.tsx",
+      "public/favicon-64.png"
+    ],
+    "removed": []
+  },
+  "toli-3d-website": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  },
+  "tolimotors-main": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  }
+}

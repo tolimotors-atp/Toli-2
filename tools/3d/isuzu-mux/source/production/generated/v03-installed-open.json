@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-generated-v02.blend",
+      "opened": true,
+      "sha256": "16e9e8be48885bb09fbe74bbcd9fe51233cf7d8d3ff4c64fb1bb13a55965ebe0"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-v03-guides.blend",
+      "opened": true,
+      "sha256": "fe7b14a7103ce360e5fe04213339a424dc35b9f818dcdfae0824f6177bc7e58a"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-v03-blockout.blend",
+      "opened": true,
+      "sha256": "9ad321e57a847833ea0945d6014e211d654faa9f9e8c90a284a3fd5923e37e16"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-v03-greenhouse.blend",
+      "opened": true,
+      "sha256": "59ec1ecc6d0217cecb3284cc10f78c0e4e219ac4c479100e283792f1c896e059"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-v03-identity.blend",
+      "opened": true,
+      "sha256": "c69942172b97be3d4f85b0c4d4c31fc2debdf99f7832fd44cc55037a47547062"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/isuzu-mux-generated-v03.blend",
+      "opened": true,
+      "sha256": "6a0dac481b5f9118a7e5e5577a968aa7d264f9612ff4553d402588b1dc02078f"
+    }
+  ],
+  "decision": "C \u2014 NOT BETTER THAN V02; STOP BEFORE DETAILING"
+}

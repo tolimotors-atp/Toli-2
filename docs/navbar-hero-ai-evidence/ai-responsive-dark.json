@@ -1,0 +1,37 @@
+[
+  {
+    "h": 568,
+    "inBounds": true,
+    "w": 320
+  },
+  {
+    "h": 640,
+    "inBounds": true,
+    "w": 360
+  },
+  {
+    "h": 844,
+    "inBounds": true,
+    "w": 390
+  },
+  {
+    "h": 932,
+    "inBounds": true,
+    "w": 430
+  },
+  {
+    "h": 1024,
+    "inBounds": true,
+    "w": 768
+  },
+  {
+    "h": 900,
+    "inBounds": true,
+    "w": 1440
+  },
+  {
+    "h": 1080,
+    "inBounds": true,
+    "w": 1920
+  }
+]

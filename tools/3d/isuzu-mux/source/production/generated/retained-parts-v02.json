@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checked_parts": 113,
+  "changed_parts": [],
+  "unchanged_control_cage_vertex_counts": {
+    "BODY \u2014 editable half control cage": 135,
+    "WINDSCREEN": 77,
+    "ROOF \u2014 longitudinal crown cage": 40
+  },
+  "scope": "Base geometry, world transforms and material slots for existing wheel/interior/engine parts; topology-count continuity of existing body/windscreen/roof cages.",
+  "six_animation_actions_restored": true
+}

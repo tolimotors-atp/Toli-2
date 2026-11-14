@@ -1,0 +1,27 @@
+{
+  "decision": "C",
+  "meaning": "Current independently projected trace-based cage method has reached its useful limit for parameter-only convergence; this is not a claim of broad visual regression",
+  "joins": {
+    "J01": "NEEDS WORK \u2014 NOT PASSED",
+    "J02": "NEEDS WORK \u2014 NOT PASSED",
+    "J03": "PASS",
+    "J04": "NEEDS WORK \u2014 NOT PASSED",
+    "J05": "NEEDS WORK \u2014 NOT PASSED",
+    "J06": "NEEDS WORK \u2014 NOT PASSED",
+    "J07": "NEEDS WORK \u2014 NOT PASSED",
+    "J08": "NEEDS WORK \u2014 NOT PASSED"
+  },
+  "views": {
+    "front": "BETTER",
+    "front34": "SIMILAR",
+    "side": "SIMILAR",
+    "rear34": "SIMILAR",
+    "rear": "BETTER"
+  },
+  "surfacing": "NOT STARTED",
+  "surface_generation_approved": false,
+  "v05": "NOT CREATED",
+  "deep_detailing": "NOT STARTED",
+  "website": "UNCHANGED",
+  "glb": "NOT EXPORTED"
+}

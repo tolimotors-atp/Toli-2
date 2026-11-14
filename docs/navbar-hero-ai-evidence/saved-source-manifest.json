@@ -1,0 +1,46 @@
+{
+  "src/main.tsx": {
+    "bytes": 1272,
+    "sha256": "8b8f7a5ec9830ec1cb36df44290dffbaaae656eeda6ad3e468cca8cdfbe47076"
+  },
+  "src/components/journey/navbar-brand.css": {
+    "bytes": 4165,
+    "sha256": "37e7514d5561a5324d4d3501a6a29771179fd4c5d53681ce2abc245c3e1e0bf8"
+  },
+  "src/components/journey/hero-corner-visibility.css": {
+    "bytes": 2013,
+    "sha256": "abdd480e18c3559165918c65c1d9fc58e97823df2d4bf4af2df95e34e44b4e23"
+  },
+  "src/components/AIChatWidget.tsx": {
+    "bytes": 1367,
+    "sha256": "06417fac093449c3435427b8b631f5aae2068cdab479a15822c5c0eb6af9a8d7"
+  },
+  "src/components/ToliAI/ToliAIPanel.tsx": {
+    "bytes": 4209,
+    "sha256": "54e43022fb9b3b97238ac6c39282bdb2f940e485abfb9b00258266771bf70f7f"
+  },
+  "src/ai/assistant.ts": {
+    "bytes": 3221,
+    "sha256": "30313eab5f93df2fff83f308169956f472201cae7141dfec6d77a905aba66735"
+  },
+  "src/ai/intents.ts": {
+    "bytes": 2133,
+    "sha256": "e20b8c0d182bbfcd47d165c3900b19085223560db484a742554cac3c978d211c"
+  },
+  "src/ai/knowledge.ts": {
+    "bytes": 740,
+    "sha256": "4ab6eb987290d08ba8069957ee2446f80048167ae4747a74273cef458668525f"
+  },
+  "src/ai/types.ts": {
+    "bytes": 576,
+    "sha256": "ad6909eab388d3e6f745dfedba4563afbc39d3484235748690b9134051d83cb0"
+  },
+  "src/test/toli-ai.test.tsx": {
+    "bytes": 7429,
+    "sha256": "0b87238786fd08bc01e5978ad93d02797634d30f724a21d1900251f9bf3a11f0"
+  },
+  "src/test/fixtures/separation-protected.json": {
+    "bytes": 21922,
+    "sha256": "a87421760931fef19d111d8cf07511c7d3bc152b3dfc8f2a180f86d7c3d4cf4b"
+  }
+}

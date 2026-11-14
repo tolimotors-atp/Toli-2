@@ -1,0 +1,222 @@
+{
+  "GENERATED_MODEL_REPORT.md": {
+    "bytes": 11827,
+    "sha256": "1f59688fe7bb86d6d2fad59c09869dfbd9a7b8d11ede8692965ec487c51fa0a3"
+  },
+  "source/production/isuzu-mux-generated-master.blend": {
+    "bytes": 298622,
+    "sha256": "16e9e8be48885bb09fbe74bbcd9fe51233cf7d8d3ff4c64fb1bb13a55965ebe0"
+  },
+  "source/production/milestones/isuzu-mux-generated-v01.blend": {
+    "bytes": 280239,
+    "sha256": "f08a9eff7ab377abe47bfb9f97fd6e14dda3f9e3ee4bbd8e32c06252847d47e2"
+  },
+  "renders/refinement-v02/motion-v02.jpg": {
+    "bytes": 343700,
+    "sha256": "8b086b6a31e31b3372847ef95cd92a042db1c60ab45594ba1f09baede38cd836"
+  },
+  "renders/refinement-v02/motion-25-front_34.png": {
+    "bytes": 635012,
+    "sha256": "47c6f50d69db1a5151f6d6b3fca6b3f91116869ce5dd9c76a882f261deec24ba"
+  },
+  "renders/refinement-v02/baseline-v01.jpg": {
+    "bytes": 180722,
+    "sha256": "1d543f6f617bf9aa040810dcf0698d64be885122d63753c1da536f2dc4b5d2a6"
+  },
+  "renders/refinement-v02/baseline-rear_34.png": {
+    "bytes": 696652,
+    "sha256": "86a6c2c08aff1aa5b2685fa26913e1c818e376abb66b07971994c44491326023"
+  },
+  "renders/refinement-v02/baseline-front_34.png": {
+    "bytes": 715952,
+    "sha256": "1050fb91f718eef93f6e6d6ea64ccbc08fbebe11d2227837f8ce78b1981a9033"
+  },
+  "renders/refinement-v02/baseline-side.png": {
+    "bytes": 610469,
+    "sha256": "0204442bd7cfb841a15c69524d659392d789cb3d7775dcbc45806fab386d951c"
+  },
+  "renders/refinement-v02/baseline-rear.png": {
+    "bytes": 689637,
+    "sha256": "93533914c0999d4edf0b305b85ce180cec24bc638176acb6245388e32e00d5b4"
+  },
+  "renders/refinement-v02/motion-50-rear_34.png": {
+    "bytes": 622970,
+    "sha256": "162f7758f3edb7c9cc2e9955137948af389646d76e15cd22a381e67d6f2529ed"
+  },
+  "renders/refinement-v02/front-v02.jpg": {
+    "bytes": 238927,
+    "sha256": "799865d9e4ced5929d25483771596254156c420dcb460cabeb3a1458b526fd30"
+  },
+  "renders/refinement-v02/motion-75-rear_34.png": {
+    "bytes": 623883,
+    "sha256": "4d4c223d732f0e1f0cebbea285eb44cd81fc2451dc04bcbe9254e3c87e17d10b"
+  },
+  "renders/refinement-v02/v02-front_34.png": {
+    "bytes": 719482,
+    "sha256": "81718e325c60bd7fba8c9e9455e9d948149c99a2f4adfdbde00808772acfb7d8"
+  },
+  "renders/refinement-v02/v02-side.png": {
+    "bytes": 617739,
+    "sha256": "44c2d94ea5934d7e8430ed8d4d30b0403df16f21b9ad384450eedb5e6d903d01"
+  },
+  "renders/refinement-v02/v02-front.png": {
+    "bytes": 729529,
+    "sha256": "4198ae5b223d81e562f718266abf884efae6ae5271dbe342846a6d77038a49d5"
+  },
+  "renders/refinement-v02/motion-0-rear_34.png": {
+    "bytes": 615593,
+    "sha256": "b0132caa3fbc19f9835032a89bcee788d75ef827a76e7ab1e8e07935ca4d465f"
+  },
+  "renders/refinement-v02/baseline-front.png": {
+    "bytes": 728033,
+    "sha256": "ac25223380abe123e8eb57467bb4db5fe0888bbaa2a6d26d9d0ff041ecbbce9f"
+  },
+  "renders/refinement-v02/v02-rear.png": {
+    "bytes": 694776,
+    "sha256": "1812667e03d4a980522a7de90261ee53267a110b4d5465649e9141bf67058d29"
+  },
+  "renders/refinement-v02/motion-25-rear_34.png": {
+    "bytes": 619980,
+    "sha256": "9a31b5107995af2150cdd6aeeaf3d18cfa88c0e4c9e95547db0d0e59e4511f4d"
+  },
+  "renders/refinement-v02/motion-75-front_34.png": {
+    "bytes": 633255,
+    "sha256": "e7582deffb41099419af8670f00d02533f9c67b0fd53d3b8be3ecc094f291c79"
+  },
+  "renders/refinement-v02/fenders-v02.jpg": {
+    "bytes": 344330,
+    "sha256": "f7f71598e0318a62a764e5ede45c6c656c27a215d43e7108466c256874ba2cae"
+  },
+  "renders/refinement-v02/motion-100-front_34.png": {
+    "bytes": 636839,
+    "sha256": "6b8c5c2468d2ee4d4f85a5fd7b0bc680bd8bbe2ca1ef913ed476f7333694d471"
+  },
+  "renders/refinement-v02/greenhouse-v02.jpg": {
+    "bytes": 343560,
+    "sha256": "594458c33f3e87e254d6fd37eb9e3d77570b60f282ef9eec2bcd1e11a1c0e71f"
+  },
+  "renders/refinement-v02/motion-100-rear_34.png": {
+    "bytes": 623985,
+    "sha256": "a8f113aa72a5afb73d20009e05581f1ba1bfdec3babb1847be635162d6a496c8"
+  },
+  "renders/refinement-v02/motion-50-front_34.png": {
+    "bytes": 636402,
+    "sha256": "714a060619a1464ce84228d19e5e47977bcc1644d5dfe90e7195b82a1fa23256"
+  },
+  "renders/refinement-v02/v02-rear_34.png": {
+    "bytes": 705414,
+    "sha256": "672f52025430213685060a27a7b679e12b110edf643cebdabddd49b0dccebab5"
+  },
+  "renders/refinement-v02/motion-0-front_34.png": {
+    "bytes": 634155,
+    "sha256": "0a214a53922cabf91b95f8ed78f7da27cb7742101e5244d763bb35cb2c3ba483"
+  },
+  "renders/refinement-v02/rear-v02.jpg": {
+    "bytes": 222359,
+    "sha256": "d03e5e8499fae54366f649ce8f3ed017cc6c3ea1de2bf4de3ed1e70fffe32520"
+  },
+  "renders/greenhouse-cross-sections-v02.jpg": {
+    "bytes": 286401,
+    "sha256": "b822ca8203131aad3d0aff03280a8cbf6bd3c8a233d11c400a3bca957b430771"
+  },
+  "renders/v01-worst-residual-review-v02.jpg": {
+    "bytes": 75953,
+    "sha256": "c864c25cbfb95273a8a568c06fc2df2769ae88b71fd52cc0670c3f2e34b5260e"
+  },
+  "renders/multiview-camera-solve-v02.jpg": {
+    "bytes": 717971,
+    "sha256": "a5daaa2c5e651587064aa12b5584fa4b00bb4871bb84a6749d7dc9f629051ace"
+  },
+  "renders/generated-surface-v02.jpg": {
+    "bytes": 214635,
+    "sha256": "e33a22fa9c4ff647dad7856842bddbbfd1698efa1171daecc1d46023867c5e88"
+  },
+  "renders/multiview-residual-heatmap-v02.jpg": {
+    "bytes": 636653,
+    "sha256": "c54986482849792bcb3756d8b10447e81d43775b53c358859d4eb801680f425d"
+  },
+  "renders/greenhouse-profile-overlay-v02.jpg": {
+    "bytes": 150708,
+    "sha256": "a493000e9d3e2d98345d452aa026e8336f5ba72342998e7f98f69af655285e6a"
+  },
+  "renders/region-greenhouse-v02.jpg": {
+    "bytes": 443022,
+    "sha256": "7185e7e12a5a1323e6302f004500332f0145e92dca13989ea962fe3961f5c5db"
+  },
+  "renders/generated-final-comparison-v02.jpg": {
+    "bytes": 562067,
+    "sha256": "5ee24522ca7af1c6e94ae1a2857f4936de78056c1763b87908f142fb2561f0fd"
+  },
+  "renders/reference-comparison-v02.jpg": {
+    "bytes": 454606,
+    "sha256": "737e426cf7527673f28425f17a8d1307e70200eb4a4ce9137923f47d3fd1e8f1"
+  },
+  "renders/greenhouse-reference-board-v02.jpg": {
+    "bytes": 758516,
+    "sha256": "1b690ba611d98b8a229bf39be40e5e7d374a90b5781d3dc15d06f004d362db30"
+  },
+  "renders/greenhouse-reflection-v02.jpg": {
+    "bytes": 115497,
+    "sha256": "792d30736f0037b938d857912588fa4ba0d14926cd7a7ec8866ee538ff4d7dd9"
+  },
+  "source/production/generated/finalize_v02.py": {
+    "bytes": 1866,
+    "sha256": "4aacccb326822145c392257f26c46170d803fdd6d11555082d23ffe354f623ab"
+  },
+  "source/production/generated/prepare_v02.py": {
+    "bytes": 2182,
+    "sha256": "1f022a7bff100fb7bf39c137f4fae52976dde7c4e9d6beee37c21e0795c630d9"
+  },
+  "source/production/generated/refine_v02.py": {
+    "bytes": 11981,
+    "sha256": "ff70b55d75cb66b29e1b7c2866afecc60aefbf43195946acf95a20e38672ea8e"
+  },
+  "source/production/generated/motion-v02.json": {
+    "bytes": 12180,
+    "sha256": "d12df229ded2fc08c920f96e06f509b747d030c38e45a6b4f0004161d70b7209"
+  },
+  "source/production/generated/preservation-v02.json": {
+    "bytes": 574,
+    "sha256": "c5362bf9dd497d4321b1f7a0ba037c219502bb3f6b7aca44b425a14dc8b20f81"
+  },
+  "source/production/generated/final-save-v02.json": {
+    "bytes": 183,
+    "sha256": "a24a674f38d7d4ed2af7ab77103fca5d6707b2aa645918aea0c33b9b4928ce7c"
+  },
+  "source/production/generated/preservation-before-v02.json": {
+    "bytes": 252565,
+    "sha256": "8378d83604261e0ed5d83c6a0c9e624f4da1221f49cd61a8043784934b13131e"
+  },
+  "source/production/generated/fixed-cameras-v02.json": {
+    "bytes": 2663,
+    "sha256": "abc9092443eea8c32ac2bf0d00b7a7f8737fac4fa9f1fd148945c486a7cba153"
+  },
+  "source/production/generated/validate_v02.py": {
+    "bytes": 5257,
+    "sha256": "dfd3a87e38ce2ae26084058f6a98ba772a11e007247947885e02d3f019994f3f"
+  },
+  "source/production/generated/retained-parts-v02.json": {
+    "bytes": 450,
+    "sha256": "35681d1180d762e7bea48e0125ddd06a27073d58593e08c28a33e9bb84fc3230"
+  },
+  "source/production/generated/preserve_parts_v02.py": {
+    "bytes": 2342,
+    "sha256": "64ac9b493610436522e9eeeb53612a6ad35d0258d0872145507dff7ea5bd201f"
+  },
+  "source/production/generated/evidence_v02.py": {
+    "bytes": 2486,
+    "sha256": "41c20fe295d2b0a565751f505821b8a338d00d33480d20c0ea5ecb18a5bea524"
+  },
+  "source/production/generated/reopen-v02.json": {
+    "bytes": 159,
+    "sha256": "82b796b3234529dd031db63ef1855204ab43a3e6751e269378d51648f5dbc53f"
+  },
+  "source/production/generated/geometry-v02.json": {
+    "bytes": 310,
+    "sha256": "31d03ec8535a2596be978ce493792729f97f3428247e8f505a46dffbfc7e49f9"
+  },
+  "source/production/generated/installed-open-v02.json": {
+    "bytes": 664,
+    "sha256": "5e46290e29de424e26cab3d1a6b7fde349b5f9474198b9a0c2642119e99f2a6c"
+  }
+}

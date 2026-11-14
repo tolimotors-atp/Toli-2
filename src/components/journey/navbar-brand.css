@@ -1,0 +1,53 @@
+/* Consistent brand surface in both themes; dimensions stay with the existing layout. */
+html[data-theme] .journey-root .experience-navigation {
+ background:radial-gradient(ellipse at 38% 0%,#caccd02b,transparent 60%),radial-gradient(ellipse at 88% 80%,#d91f3155,transparent 62%),linear-gradient(180deg,#ffffff0d,transparent 48%,#0002),linear-gradient(105deg,#202329,#555b65 30%,#30343c 65%,#64131b 78%,#a80f27 94%,#202329);
+ border-bottom:1px solid #f5253b70;
+ box-shadow:inset 0 1px 0 #ffffff25,0 5px 18px -12px #21060c80;
+ color:#fff;
+}
+html[data-theme] .journey-root .experience-navigation .nav-actions button {
+ color:#fff;--focus-ring:#fff;
+}
+html[data-theme] .journey-root .experience-navigation .nav-actions > button,
+html[data-theme] .journey-root .experience-navigation .nav-actions > .nav-support > button {
+ border:1px solid #ffffff45;border-radius:4px;background:#3a091466;padding-inline:8px;
+}
+html[data-theme] .journey-root .experience-navigation .nav-actions button:hover {
+ background:#420b19;color:#fff;
+}
+html[data-theme] .journey-root .experience-navigation .nav-actions :is(button,a):focus-visible {
+ outline:2px solid #fff;outline-offset:3px;
+}
+.journey-root .phase9-experience .hero-brand.hero-location {
+ font-size:11px;font-weight:600;line-height:1.5;letter-spacing:.11em;color:var(--text-primary);
+}
+@media(max-width:767px){
+ .journey-root .phase9-experience .hero-brand.hero-location {font-size:9px;letter-spacing:.08em;}
+ html[data-theme] .journey-root .experience-navigation .nav-actions > button {padding-inline:5px;}
+}
+
+/* The caption follows the heading in DOM order and shares the visual row's clear upper-left area.
+   It does not change track sizes, vehicle transforms, or Hero height. */
+.journey-root .phase9-experience .hero-location {align-items:flex-start;flex-direction:column;gap:4px;}
+.journey-root .phase9-experience .hero-location-text {margin:0;}
+@media(max-width:1279px){
+ /* Preserve the former eyebrow group's geometry while moving its caption below the heading. */
+ .journey-root .phase9-experience .hero-location {min-height:37px;}
+}
+@media(max-width:767px){
+ .journey-root .phase9-experience .hero-location {min-height:34px;}
+}
+/* Both themes retain a predominantly neutral metallic surface with a red trailing reflection. */
+html[data-theme=light] .journey-root .experience-navigation {background:radial-gradient(ellipse at 35% 0%,#c9cbd033,transparent 60%),linear-gradient(180deg,#ffffff0d,transparent 48%),linear-gradient(105deg,#c9cdd4,#9298a2 30%,#666c76 68%,#921824 84%,#a80f27);color:#222329;border-bottom-color:#b51b2960;}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions button {color:#222329;--focus-ring:#921824;}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions>button,html[data-theme=light] .journey-root .experience-navigation .nav-actions>.nav-support>button {background:#fff8;border-color:#73778070;}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions button:hover {background:#e5e3de;color:#222329;}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions :is(button,a):focus-visible {outline-color:#921824;}
+
+html[data-theme] .journey-root .experience-navigation .nav-actions .nav-book {
+ background:var(--brand-primary);color:#fff;border-color:var(--brand-primary);
+ border-radius:var(--control-radius);box-shadow:none;
+ transition:background-color var(--ui-fast) var(--ui-ease);
+}
+html[data-theme] .journey-root .experience-navigation .nav-actions .nav-book:hover {background:var(--brand-hover);}
+html[data-theme] .journey-root .experience-navigation .nav-actions .nav-book:active {background:var(--brand-pressed);}

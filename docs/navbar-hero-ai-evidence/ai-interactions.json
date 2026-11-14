@@ -1,0 +1,32 @@
+[
+  {
+    "q": "Tell me about TOLI Motors",
+    "method": "enter",
+    "reply": "TOLI AI\n\nTOLI Motors is a multi-brand car workshop in Anantapur, Andhra Pradesh, providing vehicle servicing, repairs and care. Our team confirms the service scope and arrangements for your vehicle.\n\nRequest Service ↗"
+  },
+  {
+    "q": "What services do you offer?",
+    "method": "send",
+    "reply": "TOLI AI\n\nOur service categories are: Automobile Services; Spare Parts & Repairs; Battery Services; Premium Detailing; Vehicle Inspection; Consultation; Installation; Doorstep Pickup; AMC Plans. Ask about one to see details and start a request."
+  },
+  {
+    "q": "contact",
+    "method": "enter",
+    "reply": "TOLI AI\n\nCall +91-8074946335 or +91-9908303888, or email tolimotorsatp@gmail.com."
+  },
+  {
+    "q": "opening hours",
+    "method": "send",
+    "reply": "TOLI AI\n\nOpening hours are not verified in this assistant. Call +91-8074946335 or +91-9908303888, or email tolimotorsatp@gmail.com. You can also ask our team through Service Request.\n\nRequest Service ↗"
+  },
+  {
+    "q": "unsupported spaceship question",
+    "method": "enter",
+    "reply": "TOLI AI\n\nI don’t have verified information for that question. I can help with TOLI Motors services and service requests. Try battery service, repairs, detailing, inspection, pickup, AMC or booking. For other details, use Service Request to ask our team.\n\nRequest Service ↗"
+  },
+  {
+    "q": "contact",
+    "method": "enter",
+    "reply": "TOLI AI\n\nCall +91-8074946335 or +91-9908303888, or email tolimotorsatp@gmail.com."
+  }
+]

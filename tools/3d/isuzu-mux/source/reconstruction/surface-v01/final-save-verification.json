@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "reopened": true,
+  "only_one_new_surface": true,
+  "controls": 16,
+  "stance_exactly_preserved": true,
+  "no_other_body": true,
+  "G1": "FAIL",
+  "later_gates": "NOT REACHED"
+}

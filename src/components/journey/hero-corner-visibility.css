@@ -1,0 +1,67 @@
+/* Reuse the approved logo capsule class, border, highlight and depth tokens.
+   Only these small information capsules receive frosting; logos stay untouched. */
+html[data-theme] .journey-root .reference-hero .hero-info-pill {
+ --info-lacquer:linear-gradient(108deg,#30252bed,#24272ded 65%,#555963ed);
+ position:relative;isolation:isolate;box-sizing:border-box;max-width:100%;
+ padding:6px 14px;border:1px solid #c9cbd066;border-radius:999px;
+ background:linear-gradient(180deg,#ffffff1c,transparent 30%),var(--info-lacquer);
+ box-shadow:inset 0 1px 0 #ffffff30,inset 0 -1px 0 #17191e80,0 8px 18px -12px #000b;
+ color:#fff;text-shadow:0 1px 2px #17191e99;
+}
+html[data-theme] .journey-root .reference-hero .hero-info-pill::before {
+ content:'';position:absolute;inset:0 22% auto 14%;height:1px;border-radius:50%;
+ background:linear-gradient(90deg,transparent,#c9cbd0b0,transparent);pointer-events:none;
+}
+/* Bounded shadows supply the ambient reflection without an additional blur filter. */
+html[data-theme] .journey-root .reference-hero .hero-info-pill::after {content:none;}
+html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-location-text {align-items:center;text-align:center;gap:2px;}
+html[data-theme] .journey-root .reference-hero .hero-info-pill strong {color:#ff4056;font-weight:750;font-size:clamp(16.4px,1.312vw,24.6px);line-height:1.2;text-shadow:0 1px 2px #17191e99;}
+html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-location-text span {padding:0;border:0;color:#fff;font-size:clamp(10px,.738vw,12.3px);font-weight:600;line-height:1.4;letter-spacing:.055em;text-shadow:0 1px 2px #17191e99;}
+html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {
+ --phone-icon-size:clamp(30px,2.64vw,38px);
+ grid-template-columns:var(--phone-icon-size) auto;column-gap:8px;
+ font-size:clamp(12.3px,.902vw,14.76px);font-weight:700;color:#f4f3f2;
+}
+html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>a {grid-column:2;white-space:nowrap;font-size:inherit;min-height:25.6px;}
+html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>svg {
+ grid-column:1;grid-row:1 / 3;place-self:center;margin:0;
+ width:var(--phone-icon-size);height:var(--phone-icon-size);color:#ff4056;
+}
+@media(max-width:900px){
+ .journey-root .reference-hero .hero-corner-info {gap:12px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill {padding:5px 8px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {align-items:center;column-gap:6px;}
+ .journey-root .reference-hero .hero-brand-phones>svg {display:block;margin:0;flex-shrink:0;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-location-text span {font-size:10px;letter-spacing:.04em;}
+}
+
+/* Readable near-opaque fallback above; transparency is enabled with filtering only. */
+@supports ((backdrop-filter:blur(8px)) or (-webkit-backdrop-filter:blur(8px))) {
+ html[data-theme] .journey-root .reference-hero .hero-info-pill {
+  --info-lacquer:linear-gradient(108deg,#49232cbd,#24272dc4 65%,#666a73a8);
+  -webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);
+ }
+ @media(max-width:900px){
+  html[data-theme] .journey-root .reference-hero .hero-info-pill {-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);}
+ }
+}
+
+@media(max-width:1199px){
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {column-gap:6px;font-size:11.25px;padding:2px 4px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>a {min-height:28px;}
+}
+@media(min-width:600px) and (max-width:1199px){
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {padding:1px 3px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>a {min-height:25px;}
+}
+
+/* Preserve the approved logo, heading and vehicle tracks as their corner pills shrink. */
+@media(min-width:320px) and (max-width:599px){
+ .journey-root .reference-hero .hero-corner-info {min-height:78px;}
+}
+@media(min-width:600px) and (max-width:900px){
+ .journey-root .reference-hero .hero-corner-info {min-height:68px;}
+}
+@media(max-width:319px){
+ .journey-root .reference-hero .hero-corner-info {min-height:152px;}
+}

@@ -1,0 +1,14 @@
+{
+  "checked": 377,
+  "changed": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/mux-coded-reference.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxReferencePatches.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxValidation.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxVehicle.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/validation.ts"
+  ],
+  "missing": [],
+  "addedSourceFiles": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxExteriorDetails.ts"
+  ]
+}

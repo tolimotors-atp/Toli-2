@@ -1,0 +1,4 @@
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+const root=path.dirname(fileURLToPath(import.meta.url));
+export default {root,base:'./',resolve:{alias:{'@':path.resolve(root,'../../../../src')}},build:{outDir:path.join(root,'build'),emptyOutDir:true,rollupOptions:{input:{v01:path.join(root,'index.html'),section0305:path.join(root,'section-03-05.html'),identity:path.join(root,'identity-v02.html'),identityV03:path.join(root,'identity-v03.html'),referenceV04:path.join(root,'reference-v04.html'),...Object.fromEntries(['v02','v03','v04-pre-details','checkpoint-02','checkpoint-03','checkpoint-04','checkpoint-05'].map(name=>['compare-'+name,path.join(root,'comparisons',name+'.html')]))}}},server:{host:'127.0.0.1',port:8195,strictPort:true,fs:{allow:[path.resolve(root,'../../../..')]}}};

@@ -1,0 +1,21 @@
+{
+  "audit_date": "2026-11-09",
+  "baseline_files_verified_unchanged": 7724,
+  "unexpected_changes": [],
+  "original_image_hashes_verified": 43,
+  "protected_project_baseline_counts": {
+    "toli-3d-website": 2073,
+    "tolimotors-main": 3295
+  },
+  "candidate_inventory_count_checks": "PASS",
+  "download_gate_check": "PASS \u2014 no L3, no asset downloads",
+  "new_blender_sources": 0,
+  "new_glb_exports": 0,
+  "production_and_historical_files": "UNCHANGED",
+  "report_paths": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/FREE_BASE_ASSET_AUDIT.md",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/base-asset-audit/reports/LICENSE_AUDIT.md",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/base-asset-audit/metadata/candidate-inventory.json"
+  ],
+  "limitations": "No technical asset evaluation because no candidate cleared license/provenance gate. No website build or regression tests; site unchanged."
+}

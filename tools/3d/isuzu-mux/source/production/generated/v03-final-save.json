@@ -1,0 +1,24 @@
+{
+  "milestones": [
+    {
+      "path": "milestones/isuzu-mux-v03-guides.blend",
+      "reopened": true
+    },
+    {
+      "path": "milestones/isuzu-mux-v03-blockout.blend",
+      "reopened": true
+    },
+    {
+      "path": "milestones/isuzu-mux-v03-greenhouse.blend",
+      "reopened": true
+    },
+    {
+      "path": "milestones/isuzu-mux-v03-identity.blend",
+      "reopened": true
+    }
+  ],
+  "working_source_reopened": true,
+  "decision": "V03: C \u2014 NOT BETTER THAN V02; STOP BEFORE DETAILING",
+  "separate_v03_source": true,
+  "v02_master_overwritten": false
+}

@@ -1,0 +1,16 @@
+{
+  "location": [
+    1.319948673248291,
+    11.470457077026367,
+    1.113553524017334
+  ],
+  "rotation": [
+    1.5463249683380127,
+    -2.0724215232803544e-08,
+    3.0009825229644775
+  ],
+  "focal_mm": 70,
+  "anchor_rms_pixels": 0.8750871280138305,
+  "reference": "Canonical left 1060x522",
+  "limits": "Manual pixel anchors; simplified tire circles; focal length constrained; non-unique pose; no certified calibration PASS"
+}

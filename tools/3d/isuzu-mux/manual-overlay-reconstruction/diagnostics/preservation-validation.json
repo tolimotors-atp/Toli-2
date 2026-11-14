@@ -1,0 +1,19 @@
+{
+  "historical_baseline_files_unchanged": 7527,
+  "authorized_changed_baseline_files": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/RECONSTRUCTION_STATUS.md"
+  ],
+  "unexpected_changes": [],
+  "original_images_hash_verified": 43,
+  "protected_sibling_baseline_counts": {
+    "toli-3d-website": 2073,
+    "tolimotors-main": 3295
+  },
+  "master_and_final_milestone_sha256": "6c654394254bc9c5cf6e279edc4e1fd016524621ff1312cadaa790e2f0ef238b",
+  "render_png_count": 103,
+  "master_bytes": 2797086,
+  "website_assets": "UNCHANGED",
+  "no_glb_export": true,
+  "no_deployment_or_commit": true,
+  "visual_gate": "C \u2014 FAIL; technical self-checks are not recognition approval"
+}

@@ -1,0 +1,9 @@
+{
+  "bonnet_center_max_z_departure_nominal_m": 0.05260050296783447,
+  "lamp_yz_control_anchors": "PRESERVED",
+  "lamp_x_max_departure_nominal_m": 0.10081315040588379,
+  "quarter_window_evaluated_boundary_proximity_max_m": 0.0236786101013422,
+  "interpretation": "Nominal model coordinates only; nearest evaluated open-edge sample is a diagnostic, not physical reconstruction accuracy.",
+  "rear_glass_yz_section_samples": "PRESERVED",
+  "rear_glass_x_section_max_departure_m": 0.09935116767883301
+}

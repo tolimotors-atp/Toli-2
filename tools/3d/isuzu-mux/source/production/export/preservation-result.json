@@ -1,0 +1,15 @@
+{
+  "checked": 1726,
+  "changed": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/journey/VehicleComponentView.tsx",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/original-sportback-asset.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/fixtures/separation-protected.json",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/imported-vehicle.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/lib/vehicle-model/adapter.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/phase2-services.test.tsx",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/preproduction-vehicle.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/lib/vehicle-model/contract.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/vehicle-registry.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/lib/vehicle-model/registry.ts"
+  ]
+}

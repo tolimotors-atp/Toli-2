@@ -1,0 +1,17 @@
+{
+  "milestone": "PRIMARY EXTERIOR BODY",
+  "decision": "C \u2014 STILL GENERIC / INCORRECT; STOP",
+  "overall_recognition": "FAIL",
+  "production_approved": false,
+  "milestone_2": "NOT STARTED",
+  "deep_detailing": "NOT STARTED",
+  "functional_panels": "NOT STARTED",
+  "interior": "NOT STARTED",
+  "engine": "NOT STARTED",
+  "GLB": "NOT EXPORTED",
+  "website": "UNCHANGED",
+  "next_step": "STOP \u2014 no automatic reconstruction branch",
+  "cost": "\u20b90 / $0",
+  "deployment": "NOT PERFORMED",
+  "git_commit": "NOT PERFORMED"
+}

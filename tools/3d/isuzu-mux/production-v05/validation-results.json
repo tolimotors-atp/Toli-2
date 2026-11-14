@@ -1,0 +1,18 @@
+{
+  "decision": "C \u2014 V05 REGRESSED",
+  "activeVehicle": "V04 exterior details",
+  "V05activated": false,
+  "typeScript": "PASS: app/node/qa, exit 0",
+  "lint": "PASS: exit 0",
+  "productionBuild": "PASS: 25.40 seconds",
+  "diagnosticBuild": "PASS: 7.50 seconds",
+  "tests": {
+    "files": 54,
+    "passed": 371,
+    "failed": 0
+  },
+  "responsiveAfterActivation": "NOT RUN \u2014 V05 not activated",
+  "physicalDevice": "NOT RUN",
+  "deployment": "NOT PERFORMED",
+  "gitCommit": "NOT PERFORMED"
+}

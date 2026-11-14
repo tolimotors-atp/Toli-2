@@ -1,0 +1,490 @@
+{
+  "samples": [
+    {
+      "panel": "DOOR_FL",
+      "fraction": 0,
+      "angle_degrees": 0.0,
+      "contacts": [
+        {
+          "moving": "DOOR_FL painted outer shell",
+          "fixed": "Door jamb 1 -0.8",
+          "face_overlap_pairs": 25
+        },
+        {
+          "moving": "DOOR_FL painted outer shell",
+          "fixed": "Door jamb 1 0.25",
+          "face_overlap_pairs": 19
+        },
+        {
+          "moving": "FRONT SIDE GLASS 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "FRONT SIDE GLASS 1",
+          "fixed": "Roof edge bridge 1",
+          "face_overlap_pairs": 5
+        },
+        {
+          "moving": "FRONT WINDOW FRAME 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "FRONT WINDOW FRAME 1",
+          "fixed": "Roof edge bridge 1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "FRONT WINDOW FRAME 1",
+          "fixed": "V02 roof edge return 1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "V02 front belt seal 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 16
+        },
+        {
+          "moving": "V02 front window lower closure 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 6
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_FL",
+      "fraction": 0.25,
+      "angle_degrees": 13.75,
+      "contacts": [
+        {
+          "moving": "V02 front belt seal 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "V02 front window lower closure 1",
+          "fixed": "A PILLAR 1",
+          "face_overlap_pairs": 5
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_FL",
+      "fraction": 0.5,
+      "angle_degrees": 27.5,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_FL",
+      "fraction": 0.75,
+      "angle_degrees": 41.25000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_FL",
+      "fraction": 1,
+      "angle_degrees": 55.0,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_FR",
+      "fraction": 0,
+      "angle_degrees": -0.0,
+      "contacts": [
+        {
+          "moving": "DOOR_FR painted outer shell",
+          "fixed": "Door jamb -1 -0.8",
+          "face_overlap_pairs": 26
+        },
+        {
+          "moving": "DOOR_FR painted outer shell",
+          "fixed": "Door jamb -1 0.25",
+          "face_overlap_pairs": 19
+        },
+        {
+          "moving": "FRONT SIDE GLASS -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "FRONT SIDE GLASS -1",
+          "fixed": "Roof edge bridge -1",
+          "face_overlap_pairs": 5
+        },
+        {
+          "moving": "FRONT WINDOW FRAME -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "FRONT WINDOW FRAME -1",
+          "fixed": "Roof edge bridge -1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "FRONT WINDOW FRAME -1",
+          "fixed": "V02 roof edge return -1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "V02 front belt seal -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 16
+        },
+        {
+          "moving": "V02 front window lower closure -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 6
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_FR",
+      "fraction": 0.25,
+      "angle_degrees": -13.75,
+      "contacts": [
+        {
+          "moving": "V02 front belt seal -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "V02 front window lower closure -1",
+          "fixed": "A PILLAR -1",
+          "face_overlap_pairs": 5
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_FR",
+      "fraction": 0.5,
+      "angle_degrees": -27.5,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_FR",
+      "fraction": 0.75,
+      "angle_degrees": -41.25000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_FR",
+      "fraction": 1,
+      "angle_degrees": -55.0,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RL",
+      "fraction": 0,
+      "angle_degrees": 0.0,
+      "contacts": [
+        {
+          "moving": "DOOR_RL inner door card",
+          "fixed": "B PILLAR 1",
+          "face_overlap_pairs": 20
+        },
+        {
+          "moving": "DOOR_RL inner door card",
+          "fixed": "WHEEL_RL tire",
+          "face_overlap_pairs": 22
+        },
+        {
+          "moving": "DOOR_RL painted outer shell",
+          "fixed": "B PILLAR 1",
+          "face_overlap_pairs": 22
+        },
+        {
+          "moving": "DOOR_RL painted outer shell",
+          "fixed": "Door jamb 1 0.25",
+          "face_overlap_pairs": 13
+        },
+        {
+          "moving": "DOOR_RL painted outer shell",
+          "fixed": "Door jamb 1 1.28",
+          "face_overlap_pairs": 27
+        },
+        {
+          "moving": "REAR SIDE GLASS 1",
+          "fixed": "Roof edge bridge 1",
+          "face_overlap_pairs": 6
+        },
+        {
+          "moving": "REAR WINDOW FRAME 1",
+          "fixed": "B PILLAR 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "REAR WINDOW FRAME 1",
+          "fixed": "Roof edge bridge 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "REAR WINDOW FRAME 1",
+          "fixed": "V02 roof edge return 1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "V02 rear belt seal 1",
+          "fixed": "C PILLAR 1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "V02 rear window lower closure 1",
+          "fixed": "C PILLAR 1",
+          "face_overlap_pairs": 6
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_RL",
+      "fraction": 0.25,
+      "angle_degrees": 13.75,
+      "contacts": [
+        {
+          "moving": "DOOR_RL inner door card",
+          "fixed": "Wheel-arch edge 1 1.4225",
+          "face_overlap_pairs": 7
+        },
+        {
+          "moving": "DOOR_RL painted outer shell",
+          "fixed": "B PILLAR 1",
+          "face_overlap_pairs": 22
+        },
+        {
+          "moving": "DOOR_RL painted outer shell",
+          "fixed": "Wheel-arch edge 1 1.4225",
+          "face_overlap_pairs": 9
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_RL",
+      "fraction": 0.5,
+      "angle_degrees": 27.5,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RL",
+      "fraction": 0.75,
+      "angle_degrees": 41.25000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RL",
+      "fraction": 1,
+      "angle_degrees": 55.0,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RR",
+      "fraction": 0,
+      "angle_degrees": -0.0,
+      "contacts": [
+        {
+          "moving": "DOOR_RR inner door card",
+          "fixed": "B PILLAR -1",
+          "face_overlap_pairs": 20
+        },
+        {
+          "moving": "DOOR_RR inner door card",
+          "fixed": "WHEEL_RR tire",
+          "face_overlap_pairs": 22
+        },
+        {
+          "moving": "DOOR_RR painted outer shell",
+          "fixed": "B PILLAR -1",
+          "face_overlap_pairs": 23
+        },
+        {
+          "moving": "DOOR_RR painted outer shell",
+          "fixed": "Door jamb -1 0.25",
+          "face_overlap_pairs": 13
+        },
+        {
+          "moving": "DOOR_RR painted outer shell",
+          "fixed": "Door jamb -1 1.28",
+          "face_overlap_pairs": 36
+        },
+        {
+          "moving": "REAR SIDE GLASS -1",
+          "fixed": "Roof edge bridge -1",
+          "face_overlap_pairs": 6
+        },
+        {
+          "moving": "REAR WINDOW FRAME -1",
+          "fixed": "B PILLAR -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "REAR WINDOW FRAME -1",
+          "fixed": "Roof edge bridge -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "REAR WINDOW FRAME -1",
+          "fixed": "V02 roof edge return -1",
+          "face_overlap_pairs": 3
+        },
+        {
+          "moving": "V02 rear belt seal -1",
+          "fixed": "C PILLAR -1",
+          "face_overlap_pairs": 4
+        },
+        {
+          "moving": "V02 rear window lower closure -1",
+          "fixed": "C PILLAR -1",
+          "face_overlap_pairs": 6
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_RR",
+      "fraction": 0.25,
+      "angle_degrees": -13.75,
+      "contacts": [
+        {
+          "moving": "DOOR_RR inner door card",
+          "fixed": "Wheel-arch edge -1 1.4225",
+          "face_overlap_pairs": 7
+        },
+        {
+          "moving": "DOOR_RR painted outer shell",
+          "fixed": "B PILLAR -1",
+          "face_overlap_pairs": 23
+        },
+        {
+          "moving": "DOOR_RR painted outer shell",
+          "fixed": "Wheel-arch edge -1 1.4225",
+          "face_overlap_pairs": 9
+        }
+      ]
+    },
+    {
+      "panel": "DOOR_RR",
+      "fraction": 0.5,
+      "angle_degrees": -27.5,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RR",
+      "fraction": 0.75,
+      "angle_degrees": -41.25000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "DOOR_RR",
+      "fraction": 1,
+      "angle_degrees": -55.0,
+      "contacts": []
+    },
+    {
+      "panel": "BONNET",
+      "fraction": 0,
+      "angle_degrees": 0.0,
+      "contacts": [
+        {
+          "moving": "BONNET editable half cage",
+          "fixed": "Air filter box",
+          "face_overlap_pairs": 52
+        },
+        {
+          "moving": "Bonnet underside insulation",
+          "fixed": "Air filter box",
+          "face_overlap_pairs": 16
+        },
+        {
+          "moving": "Bonnet underside insulation",
+          "fixed": "ENGINE cover",
+          "face_overlap_pairs": 22
+        },
+        {
+          "moving": "Bonnet underside insulation",
+          "fixed": "Engine upper inset",
+          "face_overlap_pairs": 26
+        },
+        {
+          "moving": "Bonnet underside insulation",
+          "fixed": "Major intake hose",
+          "face_overlap_pairs": 15
+        },
+        {
+          "moving": "Bonnet underside insulation",
+          "fixed": "Reservoir cap.001",
+          "face_overlap_pairs": 26
+        }
+      ]
+    },
+    {
+      "panel": "BONNET",
+      "fraction": 0.25,
+      "angle_degrees": 14.500000000000002,
+      "contacts": []
+    },
+    {
+      "panel": "BONNET",
+      "fraction": 0.5,
+      "angle_degrees": 29.000000000000004,
+      "contacts": []
+    },
+    {
+      "panel": "BONNET",
+      "fraction": 0.75,
+      "angle_degrees": 43.50000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "BONNET",
+      "fraction": 1,
+      "angle_degrees": 58.00000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "TAILGATE",
+      "fraction": 0,
+      "angle_degrees": -0.0,
+      "contacts": [
+        {
+          "moving": "REAR GLASS",
+          "fixed": "ROOF \u2014 longitudinal crown cage",
+          "face_overlap_pairs": 58
+        },
+        {
+          "moving": "TAILGATE painted panel",
+          "fixed": "Rear bumper metallic edge",
+          "face_overlap_pairs": 16
+        },
+        {
+          "moving": "TAILGATE painted panel",
+          "fixed": "Rear lower bumper",
+          "face_overlap_pairs": 32
+        }
+      ]
+    },
+    {
+      "panel": "TAILGATE",
+      "fraction": 0.25,
+      "angle_degrees": -20.5,
+      "contacts": []
+    },
+    {
+      "panel": "TAILGATE",
+      "fraction": 0.5,
+      "angle_degrees": -41.0,
+      "contacts": []
+    },
+    {
+      "panel": "TAILGATE",
+      "fraction": 0.75,
+      "angle_degrees": -61.50000000000001,
+      "contacts": []
+    },
+    {
+      "panel": "TAILGATE",
+      "fraction": 1,
+      "angle_degrees": -82.0,
+      "contacts": []
+    }
+  ],
+  "scope": "Each complete moving assembly versus all other render-visible vehicle mesh/curve parts held closed; surfaces at five exact angular fractions. Shared-edge contacts are included and require visual interpretation. Not continuous swept-volume proof."
+}

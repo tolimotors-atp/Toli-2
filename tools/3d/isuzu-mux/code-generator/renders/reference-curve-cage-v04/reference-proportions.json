@@ -1,0 +1,499 @@
+{
+  "method": "Hand-read paired photograph landmarks divided by visible body width excluding mirrors; compare sampled Bezier projections in unchanged orthographic cameras. Fractions are image-space guidance, not calibration. \u00b15\u20138px landmark uncertainty plus unquantified perspective bias.",
+  "versions": {
+    "v03": {
+      "front": {
+        "Body width": 1.0,
+        "Bonnet leading width": 0.8606064965803151,
+        "Lower windscreen width": 0.8817208126550626,
+        "Headlamp outer span": 0.8873110806861106,
+        "Headlamp inner span": 0.30060973368915467,
+        "Upper grille width": 0.35757620302771326,
+        "Grille surround width": 0.41818207407975017,
+        "Lower grille width": 0.3272732675016948,
+        "Lower opening width": 0.4484854005609425,
+        "Bumper width": 0.9673822188895466,
+        "Tire-centre span": 0.8440860215053764
+      },
+      "rear": {
+        "Body width": 1.0,
+        "Rear roof termination": 0.6871662708897124,
+        "Rear glass lower width": 0.8233160192318669,
+        "Lower glass side band": 0.08834199038406654,
+        "Shoulder termination": 0.9653181710491439,
+        "Lamp outer span": 0.9827633728171995,
+        "Lamp inner span": 0.4651782090969014,
+        "Tailgate width": 0.809248865643563,
+        "Quarter maximum width": 1.0,
+        "Upper bumper width": 0.9452967701629267,
+        "Lower bumper width": 0.8204303790935938
+      }
+    },
+    "v04": {
+      "front": {
+        "Body width": 1.0,
+        "Bonnet leading width": 0.8530004636728362,
+        "Lower windscreen width": 0.7800001407438626,
+        "Headlamp outer span": 0.8636833137986065,
+        "Headlamp inner span": 0.42983019252978494,
+        "Upper grille width": 0.4060003018173942,
+        "Grille surround width": 0.5880004910396984,
+        "Lower grille width": 0.3970005137150985,
+        "Lower opening width": 0.5300003362214495,
+        "Bumper width": 0.9757252022997547,
+        "Tire-centre span": 0.8440860215053764
+      },
+      "rear": {
+        "Body width": 1.0,
+        "Rear roof termination": 0.6871662708897124,
+        "Rear glass lower width": 0.8648720130047329,
+        "Lower glass side band": 0.06756399349763353,
+        "Shoulder termination": 0.9686365985648817,
+        "Lamp outer span": 0.9817957587618918,
+        "Lamp inner span": 0.47899436946358603,
+        "Tailgate width": 0.809248865643563,
+        "Quarter maximum width": 1.0,
+        "Upper bumper width": 0.9616097657474789,
+        "Lower bumper width": 0.8550001993871387
+      }
+    }
+  },
+  "front": [
+    {
+      "feature": "Body width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        377,
+        717
+      ],
+      "row": 335,
+      "reference_ratio": 1.0,
+      "fit_target": 1.0,
+      "v03_render_ratio": 1.0,
+      "v04_render_ratio": 1.0,
+      "absolute_error_before": 0.0,
+      "absolute_error_after": 0.0
+    },
+    {
+      "feature": "Bonnet leading width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        400,
+        690
+      ],
+      "row": 297,
+      "reference_ratio": 0.8529411764705882,
+      "fit_target": 0.853,
+      "v03_render_ratio": 0.8606064965803151,
+      "v04_render_ratio": 0.8530004636728362,
+      "absolute_error_before": 0.00766532010972687,
+      "absolute_error_after": 5.928720224801509e-05
+    },
+    {
+      "feature": "Lower windscreen width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        402,
+        664
+      ],
+      "row": 240,
+      "reference_ratio": 0.7705882352941177,
+      "fit_target": 0.78,
+      "v03_render_ratio": 0.8817208126550626,
+      "v04_render_ratio": 0.7800001407438626,
+      "absolute_error_before": 0.11113257736094495,
+      "absolute_error_after": 0.009411905449744906
+    },
+    {
+      "feature": "Headlamp outer span",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        400,
+        692
+      ],
+      "row": 305,
+      "reference_ratio": 0.8588235294117647,
+      "fit_target": 0.86,
+      "v03_render_ratio": 0.8873110806861106,
+      "v04_render_ratio": 0.8636833137986065,
+      "absolute_error_before": 0.02848755127434599,
+      "absolute_error_after": 0.00485978438684187
+    },
+    {
+      "feature": "Headlamp inner span",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        487,
+        633
+      ],
+      "row": 330,
+      "reference_ratio": 0.4294117647058823,
+      "fit_target": 0.43,
+      "v03_render_ratio": 0.30060973368915467,
+      "v04_render_ratio": 0.42983019252978494,
+      "absolute_error_before": 0.12880203101672766,
+      "absolute_error_after": 0.0004184278239026118
+    },
+    {
+      "feature": "Upper grille width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        489,
+        627
+      ],
+      "row": 320,
+      "reference_ratio": 0.40588235294117647,
+      "fit_target": 0.406,
+      "v03_render_ratio": 0.35757620302771326,
+      "v04_render_ratio": 0.4060003018173942,
+      "absolute_error_before": 0.048306149913463214,
+      "absolute_error_after": 0.00011794887621774386
+    },
+    {
+      "feature": "Grille surround width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        455,
+        655
+      ],
+      "row": 330,
+      "reference_ratio": 0.5882352941176471,
+      "fit_target": 0.588,
+      "v03_render_ratio": 0.41818207407975017,
+      "v04_render_ratio": 0.5880004910396984,
+      "absolute_error_before": 0.1700532200378969,
+      "absolute_error_after": 0.00023480307794865318
+    },
+    {
+      "feature": "Lower grille width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        492,
+        627
+      ],
+      "row": 350,
+      "reference_ratio": 0.39705882352941174,
+      "fit_target": 0.397,
+      "v03_render_ratio": 0.3272732675016948,
+      "v04_render_ratio": 0.3970005137150985,
+      "absolute_error_before": 0.06978555602771697,
+      "absolute_error_after": 5.83098143132621e-05
+    },
+    {
+      "feature": "Lower opening width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        462,
+        642
+      ],
+      "row": 385,
+      "reference_ratio": 0.5294117647058824,
+      "fit_target": 0.53,
+      "v03_render_ratio": 0.4484854005609425,
+      "v04_render_ratio": 0.5300003362214495,
+      "absolute_error_before": 0.08092636414493987,
+      "absolute_error_after": 0.0005885715155671267
+    },
+    {
+      "feature": "Bumper width",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        385,
+        715
+      ],
+      "row": 391,
+      "reference_ratio": 0.9705882352941176,
+      "fit_target": 0.97,
+      "v03_render_ratio": 0.9673822188895466,
+      "v04_render_ratio": 0.9757252022997547,
+      "absolute_error_before": 0.003206016404571077,
+      "absolute_error_after": 0.005136967005637039
+    },
+    {
+      "feature": "Tire-centre span",
+      "source": "Screenshot From 2026-11-06 18-17-10.png",
+      "pixels": [
+        399,
+        687
+      ],
+      "row": 445,
+      "reference_ratio": 0.8470588235294118,
+      "fit_target": null,
+      "v03_render_ratio": 0.8440860215053764,
+      "v04_render_ratio": 0.8440860215053764,
+      "absolute_error_before": 0.0029728020240353814,
+      "absolute_error_after": 0.0029728020240353814
+    }
+  ],
+  "rear": [
+    {
+      "feature": "Body width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        359,
+        694
+      ],
+      "row": 290,
+      "reference_ratio": 1.0,
+      "fit_target": 1.0,
+      "v03_render_ratio": 1.0,
+      "v04_render_ratio": 1.0,
+      "absolute_error_before": 0.0,
+      "absolute_error_after": 0.0
+    },
+    {
+      "feature": "Rear roof termination",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        412,
+        642
+      ],
+      "row": 150,
+      "reference_ratio": 0.6865671641791045,
+      "fit_target": null,
+      "v03_render_ratio": 0.6871662708897124,
+      "v04_render_ratio": 0.6871662708897124,
+      "absolute_error_before": 0.0005991067106079218,
+      "absolute_error_after": 0.0005991067106079218
+    },
+    {
+      "feature": "Rear glass lower width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        383,
+        670
+      ],
+      "row": 245,
+      "reference_ratio": 0.8567164179104477,
+      "fit_target": 0.85,
+      "v03_render_ratio": 0.8233160192318669,
+      "v04_render_ratio": 0.8648720130047329,
+      "absolute_error_before": 0.0334003986785808,
+      "absolute_error_after": 0.008155595094285206
+    },
+    {
+      "feature": "Lower glass side band",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        359,
+        383
+      ],
+      "row": 245,
+      "reference_ratio": 0.07164179104477612,
+      "fit_target": null,
+      "v03_render_ratio": 0.08834199038406654,
+      "v04_render_ratio": 0.06756399349763353,
+      "absolute_error_before": 0.016700199339290414,
+      "absolute_error_after": 0.004077797547142589
+    },
+    {
+      "feature": "Shoulder termination",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        365,
+        690
+      ],
+      "row": 280,
+      "reference_ratio": 0.9701492537313433,
+      "fit_target": null,
+      "v03_render_ratio": 0.9653181710491439,
+      "v04_render_ratio": 0.9686365985648817,
+      "absolute_error_before": 0.00483108268219945,
+      "absolute_error_after": 0.0015126551664615961
+    },
+    {
+      "feature": "Lamp outer span",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        360,
+        693
+      ],
+      "row": 280,
+      "reference_ratio": 0.9940298507462687,
+      "fit_target": 0.98,
+      "v03_render_ratio": 0.9827633728171995,
+      "v04_render_ratio": 0.9817957587618918,
+      "absolute_error_before": 0.011266477929069207,
+      "absolute_error_after": 0.01223409198437686
+    },
+    {
+      "feature": "Lamp inner span",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        447,
+        608
+      ],
+      "row": 280,
+      "reference_ratio": 0.48059701492537316,
+      "fit_target": 0.48,
+      "v03_render_ratio": 0.4651782090969014,
+      "v04_render_ratio": 0.47899436946358603,
+      "absolute_error_before": 0.015418805828471771,
+      "absolute_error_after": 0.0016026454617871222
+    },
+    {
+      "feature": "Tailgate width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        393,
+        663
+      ],
+      "row": 330,
+      "reference_ratio": 0.8059701492537313,
+      "fit_target": null,
+      "v03_render_ratio": 0.809248865643563,
+      "v04_render_ratio": 0.809248865643563,
+      "absolute_error_before": 0.003278716389831682,
+      "absolute_error_after": 0.003278716389831682
+    },
+    {
+      "feature": "Quarter maximum width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        359,
+        694
+      ],
+      "row": 310,
+      "reference_ratio": 1.0,
+      "fit_target": null,
+      "v03_render_ratio": 1.0,
+      "v04_render_ratio": 1.0,
+      "absolute_error_before": 0.0,
+      "absolute_error_after": 0.0
+    },
+    {
+      "feature": "Upper bumper width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        366,
+        687
+      ],
+      "row": 375,
+      "reference_ratio": 0.9582089552238806,
+      "fit_target": 0.955,
+      "v03_render_ratio": 0.9452967701629267,
+      "v04_render_ratio": 0.9616097657474789,
+      "absolute_error_before": 0.012912185060953929,
+      "absolute_error_after": 0.0034008105235983077
+    },
+    {
+      "feature": "Lower bumper width",
+      "source": "Screenshot From 2026-11-06 18-17-18.png",
+      "pixels": [
+        384,
+        671
+      ],
+      "row": 405,
+      "reference_ratio": 0.8567164179104477,
+      "fit_target": 0.855,
+      "v03_render_ratio": 0.8204303790935938,
+      "v04_render_ratio": 0.8550001993871387,
+      "absolute_error_before": 0.03628603881685388,
+      "absolute_error_after": 0.0017162185233090543
+    }
+  ],
+  "evidence": {
+    "J01": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-10.png",
+        "Screenshot From 2026-11-06 18-17-27.png"
+      ],
+      "contour": "Broad hood crown rolling into the painted fender above the front arch",
+      "curves": [
+        "SECTION_BONNET_0..4",
+        "FENDER_TO_BONNET",
+        "TRACE_FRONT_FENDER_CROWN"
+      ],
+      "parameter": "bonnet_roll_drop=.095; roll_height_drop=.026; fender_bridge_mid_drop=.035",
+      "v03_difference": "Uniform .12 edge drop made the outer roll too steep and detached from the crown"
+    },
+    "J02": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-27.png",
+        "Screenshot From 2026-11-06 18-17-14.png"
+      ],
+      "contour": "Painted cowl/A-root outside the narrower lower screen",
+      "curves": [
+        "TRACE_BONNET_EDGE",
+        "TRACE_A_PILLAR",
+        "TRACE_WINDSCREEN_BOTTOM",
+        "COWL_ROOT_BLEND"
+      ],
+      "parameter": "cowl_half_width=.790; lower_screen_width_fraction=.780",
+      "v03_difference": "Glass and painted cowl shared one excessive width; no visible frame allowance"
+    },
+    "J04": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-14.png",
+        "Screenshot From 2026-11-06 18-17-31.png",
+        "Screenshot From 2026-11-06 18-17-18.png"
+      ],
+      "contour": "Raked quarter-glass termination and defined painted D-frame under the rear roof",
+      "curves": [
+        "TRACE_D_PILLAR",
+        "TRACE_QUARTER_GLASS",
+        "REAR_ROOF_GLASS_RETURN"
+      ],
+      "parameter": "D_middle_half_width=.735; D_base_half_width=.820; quarter_glass_handle_length=.72 of V03",
+      "v03_difference": "Generic bowed D-frame; rounded glass-corner handles dilute the visible angular cut"
+    },
+    "J05": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-14.png",
+        "Screenshot From 2026-11-06 18-17-31.png"
+      ],
+      "contour": "Shoulder rises progressively into a substantial but bounded rear arch crown",
+      "curves": [
+        "TRACE_SHOULDER",
+        "TRACE_REAR_FENDER_CROWN",
+        "SHOULDER_TO_QUARTER"
+      ],
+      "parameter": "rear_crown_delta_peak=-.006; asymmetric falloff=.48/.68",
+      "v03_difference": "Local crown and shoulder have competing peaks"
+    },
+    "J06": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-31.png",
+        "Screenshot From 2026-11-06 18-17-18.png"
+      ],
+      "contour": "Wide outer lamp wrapping into quarter, tapering inward at hatch",
+      "curves": [
+        "TRACE_TAIL_LAMP",
+        "TRACE_REAR_QUARTER_RETURN",
+        "QUARTER_TO_LAMP"
+      ],
+      "parameter": "lamp_outer_fraction=.980; lamp_inner_fraction=.480; lamp_outer_X=2.065/2.09",
+      "v03_difference": "Lamp cut nearly correct in rear projection but insufficiently composed with the side return"
+    },
+    "J07": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-31.png",
+        "Screenshot From 2026-11-06 18-17-18.png"
+      ],
+      "contour": "Broad upper bumper tapering toward the lower undercut",
+      "curves": [
+        "TRACE_REAR_BUMPER",
+        "SECTION_UPPER_BUMPER",
+        "SECTION_LOWER_BUMPER",
+        "REAR_BUMPER_RETURN"
+      ],
+      "parameter": "upper_width_fraction=.955; lower_width_fraction=.855; bounded common-handle balance \u00b115%",
+      "v03_difference": "Upper/lower bumper widths too narrow and common continuation retains a curvature step"
+    },
+    "J08": {
+      "images": [
+        "Screenshot From 2026-11-06 18-17-31.png",
+        "Screenshot From 2026-11-06 18-17-18.png"
+      ],
+      "contour": "Rear glass flares toward its lower corners above the lamp/hatch band",
+      "curves": [
+        "TRACE_REAR_GLASS",
+        "TRACE_D_PILLAR",
+        "D_TO_REAR_GLASS",
+        "SECTION_REAR_GLASS"
+      ],
+      "parameter": "lower_glass_width_fraction=.850; D base half-width=.820; existing six glass controls reordered into open half-perimeter",
+      "v03_difference": "Lower rear glass too narrow; closing each mirrored half through the centre creates a false seam absent from the photograph"
+    }
+  }
+}

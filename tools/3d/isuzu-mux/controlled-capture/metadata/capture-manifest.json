@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-11-07T15:21:35.860246+00:00",
+  "status": "WAITING_FOR_CONTROLLED_PHOTOS",
+  "originals_preserved": true,
+  "accepted_means": "Passed automatic checks only; not approved for calibration",
+  "rejected_means": "Review copies only; originals remain in incoming; never auto-delete",
+  "naming_order": "Deterministic original-path order; not inferred chronological order",
+  "sequence_gaps": {},
+  "expected_approximate_counts": {
+    "normal": 36,
+    "elevated": 18,
+    "low_optional": 12
+  },
+  "images": []
+}

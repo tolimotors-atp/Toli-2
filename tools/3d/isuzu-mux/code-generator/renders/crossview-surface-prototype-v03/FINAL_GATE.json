@@ -1,0 +1,49 @@
+{
+  "decision": "C \u2014 TARGETED TOPOLOGY DID NOT SOLVE THE SURFACE PROBLEMS; STOP THIS APPROACH",
+  "zones": {
+    "A": {
+      "root_volume": "NEEDS WORK",
+      "bonnet_edge_roll": "NEEDS WORK",
+      "arch_termination": "NEEDS WORK",
+      "shape": "NEEDS WORK",
+      "cross_view": "NEEDS WORK",
+      "soft_finish": "NEEDS WORK",
+      "reflection": "NEEDS WORK",
+      "reference_fidelity": "NEEDS WORK"
+    },
+    "B": {
+      "quarter_aperture": "NEEDS WORK",
+      "D_pillar": "NEEDS WORK",
+      "frame_junctions": "NEEDS WORK",
+      "roof_flow": "NEEDS WORK",
+      "shape": "NEEDS WORK",
+      "cross_view": "NEEDS WORK",
+      "soft_finish": "NEEDS WORK",
+      "reflection": "NEEDS WORK",
+      "reference_fidelity": "NEEDS WORK",
+      "quarter_drift": "PASS \u2014 further numerical reduction",
+      "rear_glass_drift": "PASS \u2014 mean/max below V01 and V02"
+    },
+    "C": {
+      "lamp_bridge": "NEEDS WORK",
+      "aperture_return": "NEEDS WORK",
+      "lower_corner": "NEEDS WORK",
+      "shape": "NEEDS WORK",
+      "cross_view": "NEEDS WORK",
+      "soft_finish": "NEEDS WORK",
+      "reflection": "NEEDS WORK",
+      "reference_fidelity": "NEEDS WORK",
+      "quarter_mass": "PASS \u2014 preserved",
+      "bumper_wrap": "PASS \u2014 preserved"
+    }
+  },
+  "stop_local_iteration": true,
+  "next_prototype": "NOT GENERATED",
+  "full_body": "NOT GENERATED",
+  "deep_detailing": "NOT STARTED",
+  "GLB": "NOT EXPORTED",
+  "website": "UNCHANGED",
+  "cost": "\u20b90 / $0",
+  "deployment": "NOT PERFORMED",
+  "git_commit": "NOT PERFORMED"
+}

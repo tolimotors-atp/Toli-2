@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "bodyLength": 4.824280023574829,
+    "bodyWidth": 1.8600000143051147,
+    "bodyHeight": 1.860000013589859,
+    "dimensionsNote": "length/width include mirrors and plates; body dimensions retain the nominal V04 envelope",
+    "length": 4.838529827973612,
+    "width": 2.200000047683716,
+    "height": 1.860000013589859,
+    "groundZ": 7.152557435219364e-10,
+    "wheelbase": 2.845,
+    "tireDiameter": 0.7639999985694885,
+    "vertices": 71115,
+    "triangles": 96194,
+    "meshInstances": 86,
+    "materials": 7,
+    "degenerateTriangles": 0,
+    "degenerateByMesh": {},
+    "invalidCoordinates": 0,
+    "symmetryUnpairedVertices": 0,
+    "symmetryToleranceMetres": 0.00001,
+    "symmetryScope": "body, glazing and broad front/rear surfaces; excludes wheel spoke pattern"
+  },
+  "firstHash": "e1ccd147ae26046e791722282d8f51bfdcb524edd0ec19d8f041771e2a9e4fa5",
+  "secondHash": "e1ccd147ae26046e791722282d8f51bfdcb524edd0ec19d8f041771e2a9e4fa5",
+  "deterministic": true
+}

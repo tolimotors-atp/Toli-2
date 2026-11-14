@@ -1,0 +1,14 @@
+{
+  "iteration": 1,
+  "cameraCodeSHA256": "9415c526c229d810b0785eaba0f574640481a40dee7315663e4db40a66db2f8e",
+  "cameraUnchanged": true,
+  "files": {
+    "MuxWheels.ts": "1706a816879dc451165cd1549fe499d3ba526f2b4b5df6d559aa091daaf93326",
+    "MuxReferenceData.ts": "ec637505c3d6ef67355eadfeaa0f5e8d956b69abe67db46d8201e8dccedb3d13",
+    "MuxValidation.ts": "a4023dbcba74581aefa4349b76e53b2de8824e609ef6912a285817f7790b7e43",
+    "mux-coded-reference.test.ts": "07487dced4bb06ed2d92095a2069d3e0bd8f2c99a30f81d01bbaa58eb11c4c69",
+    "MuxVehicle.ts": "77ca46382abd8170f852d907e9c3eadeeb9e71805d5f1e49f1d4ea1b7e77c70a",
+    "MuxGeometry.ts": "934c1eb008ba4187e857bc4c042028e1fc3818e9592378d74ea2622b97065b9f",
+    "validation.ts": "a1f648f1a104ba8d96b745980b22204b37c6c903dbc3ad18752a67140207bac1"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "control_point_symmetry_m": 0.0,
+  "regeneration": "PASS",
+  "fixed_wheels": "PASS",
+  "curves": 126,
+  "control_points": 628,
+  "side_xz_max_edit_m": 0.141965555952055,
+  "joins": [
+    {
+      "id": "J02",
+      "position_error_m": 0.0,
+      "type": "character cut",
+      "tangent_angle_deg": null
+    },
+    {
+      "id": "J03",
+      "position_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "J04",
+      "position_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "WINDSCREEN_ROOF",
+      "position_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "J01",
+      "position_error_m": 0.0,
+      "depth_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "J05",
+      "position_error_m": 0.0,
+      "depth_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "J06",
+      "position_error_m": 0.0,
+      "depth_error_m": 0.0,
+      "type": "character cut",
+      "tangent_angle_deg": null
+    },
+    {
+      "id": "J07",
+      "position_error_m": 0.0,
+      "depth_error_m": 0.0,
+      "type": "soft",
+      "tangent_angle_deg": 0.0
+    },
+    {
+      "id": "J08",
+      "position_error_m": 0.0,
+      "depth_error_m": 0.0,
+      "type": "character cut",
+      "tangent_angle_deg": null
+    }
+  ],
+  "width_stations": [
+    {
+      "name": "front_bumper",
+      "x": -2.4125,
+      "sill": 0.76,
+      "lower": 0.8,
+      "maximum": 0.84,
+      "shoulder": 0.82,
+      "belt": 0.76,
+      "greenhouse": 0.59,
+      "roof": 0.54
+    },
+    {
+      "name": "front_wheel",
+      "x": -1.4225,
+      "sill": 0.86,
+      "lower": 0.91,
+      "maximum": 0.93,
+      "shoulder": 0.91,
+      "belt": 0.82,
+      "greenhouse": 0.68,
+      "roof": 0.64
+    },
+    {
+      "name": "cowl",
+      "x": -0.94,
+      "sill": 0.85,
+      "lower": 0.89,
+      "maximum": 0.9,
+      "shoulder": 0.88,
+      "belt": 0.82,
+      "greenhouse": 0.73,
+      "roof": 0.68
+    },
+    {
+      "name": "B_pillar",
+      "x": 0.35,
+      "sill": 0.85,
+      "lower": 0.89,
+      "maximum": 0.91,
+      "shoulder": 0.9,
+      "belt": 0.83,
+      "greenhouse": 0.77,
+      "roof": 0.7
+    },
+    {
+      "name": "C_pillar",
+      "x": 1.27,
+      "sill": 0.86,
+      "lower": 0.9,
+      "maximum": 0.93,
+      "shoulder": 0.92,
+      "belt": 0.84,
+      "greenhouse": 0.75,
+      "roof": 0.69
+    },
+    {
+      "name": "rear_wheel",
+      "x": 1.4225,
+      "sill": 0.87,
+      "lower": 0.91,
+      "maximum": 0.93,
+      "shoulder": 0.92,
+      "belt": 0.84,
+      "greenhouse": 0.73,
+      "roof": 0.68
+    },
+    {
+      "name": "tail_lamp",
+      "x": 2.12,
+      "sill": 0.82,
+      "lower": 0.87,
+      "maximum": 0.9,
+      "shoulder": 0.88,
+      "belt": 0.81,
+      "greenhouse": 0.68,
+      "roof": 0.63
+    },
+    {
+      "name": "rear_bumper",
+      "x": 2.4125,
+      "sill": 0.78,
+      "lower": 0.83,
+      "maximum": 0.86,
+      "shoulder": 0.83,
+      "belt": 0.76,
+      "greenhouse": 0.61,
+      "roof": 0.56
+    }
+  ],
+  "body_surfaces": "NOT STARTED",
+  "glb": "NOT EXPORTED"
+}

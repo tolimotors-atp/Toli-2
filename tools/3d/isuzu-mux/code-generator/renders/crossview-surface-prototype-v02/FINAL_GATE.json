@@ -1,0 +1,44 @@
+{
+  "decision": "B \u2014 METHOD REMAINS VALID, BUT ONE OR MORE LOCAL ZONES STILL REQUIRE REFINEMENT",
+  "zone_A": {
+    "root_stubs": "NEEDS WORK",
+    "bonnet_edge_roll": "NEEDS WORK",
+    "arch_return": "NEEDS WORK",
+    "shape": "NEEDS WORK",
+    "cross_view_agreement": "NEEDS WORK",
+    "soft_finish": "NEEDS WORK",
+    "reflection_flow": "NEEDS WORK",
+    "reference_fidelity": "NEEDS WORK"
+  },
+  "zone_B": {
+    "aperture_shape": "NEEDS WORK",
+    "boundary_drift": "NEEDS WORK",
+    "D_pillar": "NEEDS WORK",
+    "frame_junctions": "NEEDS WORK",
+    "shape": "NEEDS WORK",
+    "cross_view_agreement": "NEEDS WORK",
+    "soft_finish": "NEEDS WORK",
+    "reflection_flow": "NEEDS WORK",
+    "reference_fidelity": "NEEDS WORK"
+  },
+  "zone_C": {
+    "upper_lamp_bridge": "NEEDS WORK",
+    "aperture_returns": "NEEDS WORK",
+    "lower_corner": "NEEDS WORK",
+    "quarter_mass": "PASS",
+    "bumper_wrap": "PASS",
+    "shape": "NEEDS WORK",
+    "cross_view_agreement": "NEEDS WORK",
+    "soft_finish": "NEEDS WORK",
+    "reflection_flow": "NEEDS WORK",
+    "reference_fidelity": "NEEDS WORK"
+  },
+  "full_body": "NOT GENERATED",
+  "deep_detailing": "NOT STARTED",
+  "V03": "NOT GENERATED",
+  "GLB": "NOT EXPORTED",
+  "website": "UNCHANGED",
+  "deployment": "NOT PERFORMED",
+  "git_commit": "NOT PERFORMED",
+  "cost": "\u20b90 / $0"
+}

@@ -1,0 +1,43 @@
+{
+  "preview": {
+    "vertices": 6556,
+    "triangles": 13076,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.824999809265137,
+      1.859998345375061,
+      1.8599379115106252
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 6,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "One joined body/cabin shell plus separate placeholder tires/rims; continuity, intersection and reference fidelity not approved."
+  },
+  "quality": {
+    "vertices": 14398,
+    "triangles": 28760,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.824999809265137,
+      1.8600000143051147,
+      1.859996324062505
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "One joined body/cabin shell plus separate placeholder tires/rims; continuity, intersection and reference fidelity not approved."
+  },
+  "regeneration": "PASS"
+}

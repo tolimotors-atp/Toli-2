@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "preexisting_files_unchanged": 1355,
+  "new_files_saved": 33,
+  "old_v01_and_all_prior_models_preserved": true,
+  "website_src_public_config_unchanged": true,
+  "protected_project_src_config_unchanged": true,
+  "coverage": "All pre-existing MU-X files; website src/public/config; protected projects src/config. Not every protected binary or dependency.",
+  "overall_greenhouse_gate": "FAIL",
+  "GLB": false,
+  "integration": false,
+  "deployment": false
+}

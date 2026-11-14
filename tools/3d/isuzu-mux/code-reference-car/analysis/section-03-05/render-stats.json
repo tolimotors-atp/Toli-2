@@ -1,0 +1,218 @@
+[
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "clay",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "overhead"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "rear-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "front-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "reflection",
+    "ready": "true",
+    "renderedTriangles": "85742",
+    "view": "overhead"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "front"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "front-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "rear-left"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "rear"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "rear-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "front-right"
+  },
+  {
+    "drawCalls": "52",
+    "engine": "three.js r180",
+    "mode": "wireframe",
+    "ready": "true",
+    "renderedTriangles": "37340",
+    "view": "overhead"
+  }
+]

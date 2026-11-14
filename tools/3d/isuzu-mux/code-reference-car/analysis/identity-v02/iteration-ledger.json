@@ -1,0 +1,47 @@
+[
+  {
+    "iteration": 1,
+    "front": "BETTER",
+    "front34": "BETTER",
+    "side": "BETTER",
+    "rear34": "SIMILAR",
+    "rear": "SIMILAR",
+    "note": "Forward cowl; lower upper door bands; shared bonnet/nose leading boundary. Still a utility-vehicle silhouette."
+  },
+  {
+    "iteration": 2,
+    "front": "SIMILAR",
+    "front34": "BETTER",
+    "side": "BETTER",
+    "rear34": "SIMILAR",
+    "rear": "SIMILAR",
+    "note": "Taller glazing and curved greenhouse; D-pillar remains a generic wedge."
+  },
+  {
+    "iteration": 3,
+    "front": "SIMILAR",
+    "front34": "SIMILAR",
+    "side": "SIMILAR",
+    "rear34": "BETTER",
+    "rear": "BETTER",
+    "note": "Local rear quarter influence and connected rear screen boundary; connection improves, recognition does not pass."
+  },
+  {
+    "iteration": 4,
+    "front": "BETTER",
+    "front34": "SIMILAR",
+    "side": "SIMILAR",
+    "rear34": "SIMILAR",
+    "rear": "BETTER",
+    "note": "Broader grille/headlamp envelopes; rear bumper profile depth. Identity remains failed."
+  },
+  {
+    "iteration": 5,
+    "front": "BETTER",
+    "front34": "BETTER",
+    "side": "SIMILAR",
+    "rear34": "SIMILAR",
+    "rear": "SIMILAR",
+    "note": "Reduced nose-corner lift and coordinated cabin/roof control corners; stubborn side and rear flattening remains."
+  }
+]

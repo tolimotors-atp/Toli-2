@@ -1,0 +1,16 @@
+{
+  "registered_generator": "PASS",
+  "delete_and_regenerate": "PASS",
+  "V04_constraints_unchanged_in_memory": "PASS",
+  "fixed_wheel_anchors": "PASS",
+  "dimension_lock_rejection_preserves_candidate": "PASS",
+  "zone_isolation_and_control_section_toggles": "PASS",
+  "curve_cage_only_mode": "PASS",
+  "only_three_surface_zones": "PASS",
+  "base_control_symmetry_m": 0.0,
+  "topology_checks": "PASS",
+  "nonadjacent_triangle_overlap_checks": "PASS",
+  "A_C_geometry_unchanged_after_B_fix": "PASS",
+  "full_body": "NOT GENERATED",
+  "GLB": "NOT EXPORTED"
+}

@@ -1,0 +1,22 @@
+{
+  "typescript": "PASS",
+  "lint": "PASS",
+  "build": "PASS, 21.25 seconds",
+  "tests": {
+    "files": 55,
+    "passed": 373,
+    "failed": 0
+  },
+  "responsiveCases": 42,
+  "responsiveResult": "PASS",
+  "productionCanvasCount": 0,
+  "productionSceneHostCount": 0,
+  "productionConsoleWarnings": 0,
+  "productionConsoleErrors": 0,
+  "hero": "UNCHANGED",
+  "navbar": "UNCHANGED",
+  "toliAI": "PASS (desktop/mobile)",
+  "deployment": "NOT PERFORMED",
+  "gitCommit": "NOT PERFORMED",
+  "physicalDevicePerformance": "NOT MEASURED"
+}

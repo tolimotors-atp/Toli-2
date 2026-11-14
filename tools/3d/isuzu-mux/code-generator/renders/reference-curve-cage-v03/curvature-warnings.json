@@ -1,0 +1,264 @@
+{
+  "interpretation": "Heuristic >65% relative jump; character cuts and intersections require visual classification, not automatic failure",
+  "warnings": [
+    {
+      "join": "J01",
+      "curve": "FRONT_FENDER_SHOULDER",
+      "control": 2,
+      "relative_jump": 0.7266159437345767
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 2,
+      "relative_jump": 0.7856880712830259
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_0",
+      "control": 6,
+      "relative_jump": 0.7856860557567649
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 2,
+      "relative_jump": 0.7618600284361376
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 3,
+      "relative_jump": 0.6977914176475134
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 5,
+      "relative_jump": 0.6977914176475134
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_1",
+      "control": 6,
+      "relative_jump": 0.7618600284361376
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_2",
+      "control": 2,
+      "relative_jump": 0.704870197948792
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_2",
+      "control": 3,
+      "relative_jump": 0.708619839109646
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_2",
+      "control": 5,
+      "relative_jump": 0.7086198727844825
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_2",
+      "control": 6,
+      "relative_jump": 0.704870197948792
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_3",
+      "control": 2,
+      "relative_jump": 0.7401960041647566
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_3",
+      "control": 6,
+      "relative_jump": 0.7401960041647566
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_4",
+      "control": 2,
+      "relative_jump": 0.8065637928302766
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_4",
+      "control": 3,
+      "relative_jump": 0.7316148821884263
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_4",
+      "control": 5,
+      "relative_jump": 0.7316148654268245
+    },
+    {
+      "join": "J01",
+      "curve": "SECTION_BONNET_4",
+      "control": 6,
+      "relative_jump": 0.8065637928302766
+    },
+    {
+      "join": "J02",
+      "curve": "SECTION_BONNET_4",
+      "control": 2,
+      "relative_jump": 0.8065637928302766
+    },
+    {
+      "join": "J02",
+      "curve": "SECTION_BONNET_4",
+      "control": 3,
+      "relative_jump": 0.7316148821884263
+    },
+    {
+      "join": "J02",
+      "curve": "SECTION_BONNET_4",
+      "control": 5,
+      "relative_jump": 0.7316148654268245
+    },
+    {
+      "join": "J02",
+      "curve": "SECTION_BONNET_4",
+      "control": 6,
+      "relative_jump": 0.8065637928302766
+    },
+    {
+      "join": "J03",
+      "curve": "TRACE_ROOF_EDGE",
+      "control": 3,
+      "relative_jump": 0.7651539672694163
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_ROOF_EDGE",
+      "control": 3,
+      "relative_jump": 0.7651539672694163
+    },
+    {
+      "join": "J04",
+      "curve": "TRACE_D_PILLAR",
+      "control": 1,
+      "relative_jump": 0.7509965087454438
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 1,
+      "relative_jump": 0.9145290192374783
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 3,
+      "relative_jump": 0.7432659286779307
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 5,
+      "relative_jump": 0.7432659286779307
+    },
+    {
+      "join": "J04",
+      "curve": "SECTION_D_BODY",
+      "control": 7,
+      "relative_jump": 0.9145290192374783
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 2,
+      "relative_jump": 0.8505148113522382
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 4,
+      "relative_jump": 0.8816831199535524
+    },
+    {
+      "join": "J05",
+      "curve": "TRACE_SHOULDER",
+      "control": 5,
+      "relative_jump": 0.6672755990298648
+    },
+    {
+      "join": "J06",
+      "curve": "TRACE_TAIL_LAMP",
+      "control": 4,
+      "relative_jump": 0.7070814609136334
+    },
+    {
+      "join": "J06",
+      "curve": "SECTION_LAMP_BAND",
+      "control": 1,
+      "relative_jump": 0.7198833391056475
+    },
+    {
+      "join": "J06",
+      "curve": "SECTION_LAMP_BAND",
+      "control": 3,
+      "relative_jump": 0.719883305088681
+    },
+    {
+      "join": "J07",
+      "curve": "TRACE_REAR_BUMPER",
+      "control": 1,
+      "relative_jump": 0.7525363663003499
+    },
+    {
+      "join": "J07",
+      "curve": "TRACE_REAR_BUMPER",
+      "control": 2,
+      "relative_jump": 0.683716297464294
+    },
+    {
+      "join": "J08",
+      "curve": "TRACE_D_PILLAR",
+      "control": 1,
+      "relative_jump": 0.7509965087454438
+    },
+    {
+      "join": "J08",
+      "curve": "TRACE_REAR_GLASS",
+      "control": 4,
+      "relative_jump": 0.7018844298253352
+    },
+    {
+      "join": "J08",
+      "curve": "REAR_CENTER_DEPTH",
+      "control": 1,
+      "relative_jump": 0.8202669828584134
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 1,
+      "relative_jump": 0.9145290192374783
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 3,
+      "relative_jump": 0.7432659286779307
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 5,
+      "relative_jump": 0.7432659286779307
+    },
+    {
+      "join": "J08",
+      "curve": "SECTION_D_BODY",
+      "control": 7,
+      "relative_jump": 0.9145290192374783
+    }
+  ],
+  "maximum_sampled_curvature": 33.19606633458637
+}

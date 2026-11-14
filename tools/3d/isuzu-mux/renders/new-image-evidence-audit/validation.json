@@ -1,0 +1,20 @@
+{
+  "decision": "B \u2014 USEFUL NEW REFERENCES, BUT GEOMETRY REMAINS UNDERCONSTRAINED",
+  "old_manifest_files_verified": 7397,
+  "source_images_hash_verified": 43,
+  "unexpected_changes": [],
+  "all_images_readable": true,
+  "all_images_have_classification": true,
+  "duplicate_accounting": "43 files - 4 repeated-view extra copies = 39 distinct visual images; 25 new files - 4 repeats = 21 new distinct references",
+  "registration": "ATTEMPTED \u2014 camera-geometry gate FAIL",
+  "full_sparse_expansion": "NOT ATTEMPTED",
+  "dense": "NOT ATTEMPTED",
+  "new_production_body": "NOT GENERATED",
+  "new_glb": "NOT EXPORTED",
+  "website": "UNCHANGED",
+  "controlled_capture": "PRESERVED; new isolated test appended",
+  "protected_projects": "UNCHANGED (manifest scope; runtime directories excluded)",
+  "cost": "\u20b90 / $0",
+  "deployment": "NOT PERFORMED",
+  "git_commit": "NOT PERFORMED"
+}

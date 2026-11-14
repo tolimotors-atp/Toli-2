@@ -1,0 +1,28 @@
+{
+  "verifiedFiles": 22,
+  "changed": [],
+  "hashes": {
+    "src/assets/hero/garage-service-photos-1200.webp": "3686c02a644b0db374462912f1dc4e5e590ce371b39af723a8e49b041eeed1fc",
+    "src/assets/hero/garage-reference-portrait-640.webp": "fbdebfb6b59d4c9002c860427f10b40eeea85ed80c450e4b79ce733f25d38cff",
+    "src/assets/hero/garage-grounded-wide-960.webp": "c556d4d8b1f53a74e4cfe08a045cc601160660559312ffea2b3e4255c1240832",
+    "src/assets/hero/toli-luxury-gt-960.webp": "91971de2a645ebd0a9dd40d8b240c6fad1b122308b769f4907493fd9b73d902c",
+    "src/assets/hero/garage-reference-wide-960.webp": "da70125a1ff657cd57f43219146543612b770f11f0f47a0641a6fadb35a15b86",
+    "src/assets/hero/workshop-depth-dark.svg": "6ef66b0da181c2da1ae50af63155b08576a8bdcbb2ec2e9e874dfa208e484d39",
+    "src/assets/hero/LINEUP-ASSET-AUDIT.md": "030f1ebafd8ef4a2d54cdf9c29bb9a7be1c8147607677bf138ebe439d2608be3",
+    "src/assets/hero/garage-reference-wide-1600.webp": "e81af4c146c880f4ea3373fc936e6a15f7391bd7948362a9462ed5bdf1b59fea",
+    "src/assets/hero/workshop-three-cars-960.webp": "d795497687e6c4a1c60b7c602f0f4e96f6077d8830b2516c015d2655e369f6c1",
+    "src/assets/hero/toli-luxury-gt-1600.webp": "1acc1c3c997f4dea6925d2bf51adec09924ba1d65fe53fba4a3cd80e7fe93e6c",
+    "src/assets/hero/README.md": "abc323dc129260bd33bb6f8ebc4b718e6f6d270b35def31e754c38e9aa790f14",
+    "src/assets/hero/CAMPAIGN-ASSET.md": "d45bd4232c58e84060770e5ae75740b303c0c40babd51cc1a1ce126c8603c109",
+    "src/assets/hero/workshop-three-cars-1600.webp": "569f159e0416ab9a8c92238e9523e83083a4b71706c1f9621e02f1c0dd9a7f69",
+    "src/assets/hero/workshop-depth.svg": "d502d539046a5550bfce89e57b49aa032a973362191898f0a78963b26faec1e3",
+    "src/assets/hero/garage-grounded-wide-1600.webp": "646ead3053d4c2a55bb2b44b1897c838089ee987338017ad200f9b9b811eb5c6",
+    "src/assets/hero/workshop-depth-mobile-dark.svg": "294058b6ee8cbcfbcc61909d6c446ea780b4831cab377f3d220631f4df34e73d",
+    "src/assets/hero/workshop-depth-mobile.svg": "7c95907c0bc82cf8083edf648f1179763cce7809fd16cab6b780955d6e35f8cf",
+    "src/components/journey/hero.css": "4ce2f3598f1d94be4f64ce10d8b70592b5f1153fc9c74f98419844a816c59b24",
+    "src/components/journey/hero-corner-visibility.css": "c763dee3ad675b1b861980ad06e6df12b3208732c76684beca19a34b7499e2e0",
+    "src/mobile-responsive.css": "61cc65cdf553a0f47071417a216912edb89e5f4fc0fd9beff487ef908b1b1f07",
+    "src/components/Hero.tsx": "9f37a8f9b0a7513208055f617dff44ebf6044bc6bede830d1ea4122d3bbf2365",
+    "src/components/journey/HeroVehicleLineup.tsx": "525f15cfe8014811f9829da85874b606cb75c0910b0d593590a5404634fa62dc"
+  }
+}

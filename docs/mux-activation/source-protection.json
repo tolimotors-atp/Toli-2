@@ -1,0 +1,11 @@
+{
+  "checked": 367,
+  "changed": [
+    "src/lib/vehicle-scene.ts"
+  ],
+  "missing": [],
+  "newSource": [
+    "src/lib/mux-presentation.ts",
+    "src/test/mux-activation.test.ts"
+  ]
+}

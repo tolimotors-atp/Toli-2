@@ -1,0 +1,11 @@
+{
+  "status": "FAIL",
+  "required_manual_review": "All 12 exterior projection panels and sampled heatmap",
+  "known_failed_regions": [
+    "Core image 12/13 held-out fixed lamp corners",
+    "LOVO image 9 structural windshield projections",
+    "External rear image 3 static lamp projection"
+  ],
+  "excluded_observations_shown_in_grey": true,
+  "no_dense_surface_error_claim": true
+}

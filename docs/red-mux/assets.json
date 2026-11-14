@@ -1,0 +1,20 @@
+[
+  {
+    "file": "src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q-640.webp",
+    "width": 640,
+    "height": 384,
+    "bytes": 51552,
+    "transparentPixels": 104886,
+    "opaquePixels": 135566,
+    "sourceSha256": "fc6520b1c31e5a35be0cd125af899d90d5d8857626a0dc1dae13f3bc304693b3"
+  },
+  {
+    "file": "src/assets/vehicles/isuzu-mux/isuzu-mux-red-front-3q.webp",
+    "width": 1100,
+    "height": 660,
+    "bytes": 111232,
+    "transparentPixels": 313612,
+    "opaquePixels": 404275,
+    "sourceSha256": "fc6520b1c31e5a35be0cd125af899d90d5d8857626a0dc1dae13f3bc304693b3"
+  }
+]

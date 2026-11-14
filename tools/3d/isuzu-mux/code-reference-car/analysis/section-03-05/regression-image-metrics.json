@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "size": [
+      990,
+      891
+    ],
+    "meanAbsoluteRGB": 0.0,
+    "pixelsWithAnyChannelDifferenceOver10": 0,
+    "pixels": 882090
+  },
+  "navigation": {
+    "size": [
+      990,
+      64
+    ],
+    "meanAbsoluteRGB": 0.0,
+    "pixelsWithAnyChannelDifferenceOver10": 0,
+    "pixels": 63360
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "V01": {
+    "base": {
+      "quarter_glass": {
+        "mean": 0.004443468027638303,
+        "maximum": 0.014892615807256088,
+        "samples": 192,
+        "boundary_edges": 12,
+        "space": "3D model coordinates",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      },
+      "rear_glass": {
+        "mean": 0.0049281967188495555,
+        "maximum": 0.02117569629733106,
+        "samples": 264,
+        "boundary_edges": 12,
+        "space": "YZ silhouette; X depth inferred",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      }
+    },
+    "evaluated": {
+      "quarter_glass": {
+        "mean": 0.01385264579888725,
+        "maximum": 0.03944359415786769,
+        "samples": 192,
+        "boundary_edges": 48,
+        "space": "3D model coordinates",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      },
+      "rear_glass": {
+        "mean": 0.009054556017295936,
+        "maximum": 0.02916746372626097,
+        "samples": 264,
+        "boundary_edges": 48,
+        "space": "YZ silhouette; X depth inferred",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      }
+    }
+  },
+  "V02": {
+    "base": {
+      "quarter_glass": {
+        "mean": 0.0021205433866145883,
+        "maximum": 0.015331789905346446,
+        "samples": 192,
+        "boundary_edges": 12,
+        "space": "3D model coordinates",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      },
+      "rear_glass": {
+        "mean": 0.0049281967188495555,
+        "maximum": 0.02117569629733106,
+        "samples": 264,
+        "boundary_edges": 12,
+        "space": "YZ silhouette; X depth inferred",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      }
+    },
+    "evaluated": {
+      "quarter_glass": {
+        "mean": 0.011765437098351246,
+        "maximum": 0.027388080941316457,
+        "samples": 192,
+        "boundary_edges": 48,
+        "space": "3D model coordinates",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      },
+      "rear_glass": {
+        "mean": 0.009119226061529529,
+        "maximum": 0.02931030022954499,
+        "samples": 264,
+        "boundary_edges": 48,
+        "space": "YZ silhouette; X depth inferred",
+        "direction": "dense fixed reference curve to actual patch-interface edge segments"
+      }
+    }
+  },
+  "units": "Uncalibrated model-space nominal metres; diagnostic, not physical measurement."
+}

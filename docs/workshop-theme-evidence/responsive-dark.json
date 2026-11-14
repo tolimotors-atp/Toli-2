@@ -1,0 +1,607 @@
+[
+  {
+    "height": 568,
+    "scrollWidth": 310,
+    "sections": [
+      {
+        "cls": "journey-section cinematic-hero reference-hero journey-in-view journey-current",
+        "h": 1421.84375,
+        "id": "hero",
+        "y": 56
+      },
+      {
+        "cls": "journey-section journey-services experience-chapter vehicle-interface",
+        "h": 1053.859375,
+        "id": "services",
+        "y": 1547.84375
+      },
+      {
+        "cls": "experience-chapter vehicle-interface component-chapter",
+        "h": 811.5625,
+        "id": "components",
+        "y": 2601.703125
+      },
+      {
+        "cls": "journey-section journey-process experience-chapter",
+        "h": 966.265625,
+        "id": "process",
+        "y": 3413.265625
+      },
+      {
+        "cls": "experience-chapter trust-chapter",
+        "h": 2689.390625,
+        "id": "trust",
+        "y": 4379.53125
+      },
+      {
+        "cls": "journey-section journey-about section-padding luxury-section bg-card/80 relative overflow-hidden section-illuminated",
+        "h": 494,
+        "id": "about",
+        "y": 4680.484375
+      },
+      {
+        "cls": "journey-section journey-trust section-padding relative overflow-hidden border-y border-border bg-[radial-gradient(circle_at_85%_20%,hsl(var(--performance-red)/0.07),transparent_28rem),linear-gradient(135deg,hsl(var(--premium-white)),hsl(var(--luxury-gray)),hsl(var(--premium-white)))] text-foreground section-illuminated",
+        "h": 530,
+        "id": "",
+        "y": 5174.484375
+      },
+      {
+        "cls": "journey-section journey-quality section-padding luxury-section section-illuminated",
+        "h": 1102.875,
+        "id": "why-us",
+        "y": 5704.484375
+      },
+      {
+        "cls": "journey-section journey-brands py-12 sm:py-16 border-y border-border bg-secondary/30 section-illuminated",
+        "h": 996,
+        "id": "",
+        "y": 6889.140625
+      },
+      {
+        "cls": "journey-section journey-coverage section-padding luxury-section",
+        "h": 1494.875,
+        "id": "",
+        "y": 7885.140625
+      },
+      {
+        "cls": "journey-section journey-work section-padding luxury-section",
+        "h": 1157.125,
+        "id": "",
+        "y": 6950.140625
+      },
+      {
+        "cls": "journey-section journey-reviews section-padding luxury-section bg-card/80",
+        "h": 669.875,
+        "id": "",
+        "y": 7031.921875
+      },
+      {
+        "cls": "journey-offers relative border-y border-border/70 bg-gradient-to-r from-background via-secondary/55 to-background shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] overflow-hidden pt-14 sm:pt-16",
+        "h": 128,
+        "id": "offers",
+        "y": 7701.796875
+      },
+      {
+        "cls": "toli-facility",
+        "h": 700.984375,
+        "id": "inside-toli",
+        "y": 7068.921875
+      },
+      {
+        "cls": "journey-section journey-gallery editorial-gallery",
+        "h": 5008.453125,
+        "id": "gallery",
+        "y": 7769.90625
+      },
+      {
+        "cls": "journey-section journey-booking experience-chapter",
+        "h": 1133.3125,
+        "id": "booking",
+        "y": 12778.359375
+      },
+      {
+        "cls": "journey-section journey-contact section-padding luxury-section bg-card/80",
+        "h": 1441,
+        "id": "contact",
+        "y": 13955.671875
+      },
+      {
+        "cls": "journey-section journey-message section-padding luxury-section bg-background section-illuminated",
+        "h": 1087,
+        "id": "whatsapp",
+        "y": 15471.671875
+      },
+      {
+        "cls": "journey-section journey-footer bg-secondary/70 border-t border-border section-illuminated",
+        "h": 1529.34375,
+        "id": "",
+        "y": 15499.671875
+      }
+    ],
+    "width": 320
+  },
+  {
+    "height": 844,
+    "scrollWidth": 380,
+    "sections": [
+      {
+        "cls": "journey-section cinematic-hero reference-hero journey-in-view journey-current",
+        "h": 1433.390625,
+        "id": "hero",
+        "y": 56
+      },
+      {
+        "cls": "journey-section journey-services experience-chapter vehicle-interface",
+        "h": 971.21875,
+        "id": "services",
+        "y": 1559.390625
+      },
+      {
+        "cls": "experience-chapter vehicle-interface component-chapter",
+        "h": 735.765625,
+        "id": "components",
+        "y": 2530.609375
+      },
+      {
+        "cls": "journey-section journey-process experience-chapter",
+        "h": 1067.71875,
+        "id": "process",
+        "y": 3266.375
+      },
+      {
+        "cls": "experience-chapter trust-chapter",
+        "h": 2587.546875,
+        "id": "trust",
+        "y": 4334.09375
+      },
+      {
+        "cls": "journey-section journey-about section-padding luxury-section bg-card/80 relative overflow-hidden section-illuminated",
+        "h": 446.375,
+        "id": "about",
+        "y": 4613.265625
+      },
+      {
+        "cls": "journey-section journey-trust section-padding relative overflow-hidden border-y border-border bg-[radial-gradient(circle_at_85%_20%,hsl(var(--performance-red)/0.07),transparent_28rem),linear-gradient(135deg,hsl(var(--premium-white)),hsl(var(--luxury-gray)),hsl(var(--premium-white)))] text-foreground section-illuminated",
+        "h": 538,
+        "id": "",
+        "y": 5059.640625
+      },
+      {
+        "cls": "journey-section journey-quality section-padding luxury-section section-illuminated",
+        "h": 1104,
+        "id": "why-us",
+        "y": 5597.640625
+      },
+      {
+        "cls": "journey-section journey-brands py-12 sm:py-16 border-y border-border bg-secondary/30 section-illuminated",
+        "h": 996,
+        "id": "",
+        "y": 6762.640625
+      },
+      {
+        "cls": "journey-section journey-coverage section-padding luxury-section",
+        "h": 1518,
+        "id": "",
+        "y": 7758.640625
+      },
+      {
+        "cls": "journey-section journey-work section-padding luxury-section",
+        "h": 1205.5,
+        "id": "",
+        "y": 6823.640625
+      },
+      {
+        "cls": "journey-section journey-reviews section-padding luxury-section bg-card/80",
+        "h": 629,
+        "id": "",
+        "y": 6884.640625
+      },
+      {
+        "cls": "journey-offers relative border-y border-border/70 bg-gradient-to-r from-background via-secondary/55 to-background shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] overflow-hidden pt-14 sm:pt-16",
+        "h": 128,
+        "id": "offers",
+        "y": 7513.640625
+      },
+      {
+        "cls": "toli-facility",
+        "h": 783.46875,
+        "id": "inside-toli",
+        "y": 6921.640625
+      },
+      {
+        "cls": "journey-section journey-gallery editorial-gallery",
+        "h": 5790.1875,
+        "id": "gallery",
+        "y": 7705.109375
+      },
+      {
+        "cls": "journey-section journey-booking experience-chapter",
+        "h": 1047.390625,
+        "id": "booking",
+        "y": 13495.296875
+      },
+      {
+        "cls": "journey-section journey-contact section-padding luxury-section bg-card/80",
+        "h": 1441,
+        "id": "contact",
+        "y": 14586.6875
+      },
+      {
+        "cls": "journey-section journey-message section-padding luxury-section bg-background section-illuminated",
+        "h": 977.5,
+        "id": "whatsapp",
+        "y": 16102.6875
+      },
+      {
+        "cls": "journey-section journey-footer bg-secondary/70 border-t border-border section-illuminated",
+        "h": 1486.59375,
+        "id": "",
+        "y": 16130.6875
+      }
+    ],
+    "width": 390
+  },
+  {
+    "height": 1024,
+    "scrollWidth": 758,
+    "sections": [
+      {
+        "cls": "journey-section cinematic-hero reference-hero journey-in-view journey-current",
+        "h": 1711.109375,
+        "id": "hero",
+        "y": 56
+      },
+      {
+        "cls": "journey-section journey-services experience-chapter vehicle-interface",
+        "h": 870.484375,
+        "id": "services",
+        "y": 1837.109375
+      },
+      {
+        "cls": "experience-chapter vehicle-interface component-chapter",
+        "h": 645.1875,
+        "id": "components",
+        "y": 2707.59375
+      },
+      {
+        "cls": "journey-section journey-process experience-chapter",
+        "h": 1097.375,
+        "id": "process",
+        "y": 3352.78125
+      },
+      {
+        "cls": "experience-chapter trust-chapter",
+        "h": 1893.875,
+        "id": "trust",
+        "y": 4450.15625
+      },
+      {
+        "cls": "journey-section journey-about section-padding luxury-section bg-card/80 relative overflow-hidden section-illuminated",
+        "h": 446.5,
+        "id": "about",
+        "y": 4731.53125
+      },
+      {
+        "cls": "journey-section journey-trust section-padding relative overflow-hidden border-y border-border bg-[radial-gradient(circle_at_85%_20%,hsl(var(--performance-red)/0.07),transparent_28rem),linear-gradient(135deg,hsl(var(--premium-white)),hsl(var(--luxury-gray)),hsl(var(--premium-white)))] text-foreground section-illuminated",
+        "h": 320,
+        "id": "",
+        "y": 5178.03125
+      },
+      {
+        "cls": "journey-section journey-quality section-padding luxury-section section-illuminated",
+        "h": 618,
+        "id": "why-us",
+        "y": 5498.03125
+      },
+      {
+        "cls": "journey-section journey-brands py-12 sm:py-16 border-y border-border bg-secondary/30 section-illuminated",
+        "h": 744,
+        "id": "",
+        "y": 6181.03125
+      },
+      {
+        "cls": "journey-section journey-coverage section-padding luxury-section",
+        "h": 1106,
+        "id": "",
+        "y": 6925.03125
+      },
+      {
+        "cls": "journey-section journey-work section-padding luxury-section",
+        "h": 882.5,
+        "id": "",
+        "y": 6246.03125
+      },
+      {
+        "cls": "journey-section journey-reviews section-padding luxury-section bg-card/80",
+        "h": 521,
+        "id": "",
+        "y": 6311.03125
+      },
+      {
+        "cls": "journey-offers relative border-y border-border/70 bg-gradient-to-r from-background via-secondary/55 to-background shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] overflow-hidden pt-14 sm:pt-16",
+        "h": 172,
+        "id": "offers",
+        "y": 6832.03125
+      },
+      {
+        "cls": "toli-facility",
+        "h": 727.078125,
+        "id": "inside-toli",
+        "y": 6344.03125
+      },
+      {
+        "cls": "journey-section journey-gallery editorial-gallery",
+        "h": 3125.25,
+        "id": "gallery",
+        "y": 7071.109375
+      },
+      {
+        "cls": "journey-section journey-booking experience-chapter",
+        "h": 1050.875,
+        "id": "booking",
+        "y": 10196.359375
+      },
+      {
+        "cls": "journey-section journey-contact section-padding luxury-section bg-card/80",
+        "h": 1230,
+        "id": "contact",
+        "y": 11291.234375
+      },
+      {
+        "cls": "journey-section journey-message section-padding luxury-section bg-background section-illuminated",
+        "h": 875.5,
+        "id": "whatsapp",
+        "y": 12596.234375
+      },
+      {
+        "cls": "journey-section journey-footer bg-secondary/70 border-t border-border section-illuminated",
+        "h": 790,
+        "id": "",
+        "y": 12624.234375
+      }
+    ],
+    "width": 768
+  },
+  {
+    "height": 900,
+    "scrollWidth": 1430,
+    "sections": [
+      {
+        "cls": "journey-section cinematic-hero reference-hero journey-in-view journey-current",
+        "h": 1091.953125,
+        "id": "hero",
+        "y": 64
+      },
+      {
+        "cls": "journey-section journey-services experience-chapter vehicle-interface",
+        "h": 776.78125,
+        "id": "services",
+        "y": 1155.953125
+      },
+      {
+        "cls": "experience-chapter vehicle-interface component-chapter",
+        "h": 725.578125,
+        "id": "components",
+        "y": 1932.734375
+      },
+      {
+        "cls": "journey-section journey-process experience-chapter",
+        "h": 830.765625,
+        "id": "process",
+        "y": 2658.3125
+      },
+      {
+        "cls": "experience-chapter trust-chapter",
+        "h": 1661.625,
+        "id": "trust",
+        "y": 3489.078125
+      },
+      {
+        "cls": "journey-section journey-about section-padding luxury-section bg-card/80 relative overflow-hidden section-illuminated",
+        "h": 432.453125,
+        "id": "about",
+        "y": 3868.84375
+      },
+      {
+        "cls": "journey-section journey-trust section-padding relative overflow-hidden border-y border-border bg-[radial-gradient(circle_at_85%_20%,hsl(var(--performance-red)/0.07),transparent_28rem),linear-gradient(135deg,hsl(var(--premium-white)),hsl(var(--luxury-gray)),hsl(var(--premium-white)))] text-foreground section-illuminated",
+        "h": 185.203125,
+        "id": "",
+        "y": 4301.296875
+      },
+      {
+        "cls": "journey-section journey-quality section-padding luxury-section section-illuminated",
+        "h": 386.203125,
+        "id": "why-us",
+        "y": 4486.5
+      },
+      {
+        "cls": "journey-section journey-brands py-12 sm:py-16 border-y border-border bg-secondary/30 section-illuminated",
+        "h": 444,
+        "id": "",
+        "y": 4951.703125
+      },
+      {
+        "cls": "journey-section journey-coverage section-padding luxury-section",
+        "h": 709.203125,
+        "id": "",
+        "y": 5395.703125
+      },
+      {
+        "cls": "journey-section journey-work section-padding luxury-section",
+        "h": 599.953125,
+        "id": "",
+        "y": 5030.703125
+      },
+      {
+        "cls": "journey-section journey-reviews section-padding luxury-section bg-card/80",
+        "h": 536.203125,
+        "id": "",
+        "y": 5109.703125
+      },
+      {
+        "cls": "journey-offers relative border-y border-border/70 bg-gradient-to-r from-background via-secondary/55 to-background shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] overflow-hidden pt-14 sm:pt-16",
+        "h": 172,
+        "id": "offers",
+        "y": 5645.90625
+      },
+      {
+        "cls": "toli-facility",
+        "h": 858.171875,
+        "id": "inside-toli",
+        "y": 5150.703125
+      },
+      {
+        "cls": "journey-section journey-gallery editorial-gallery",
+        "h": 2765.265625,
+        "id": "gallery",
+        "y": 6008.875
+      },
+      {
+        "cls": "journey-section journey-booking experience-chapter",
+        "h": 836,
+        "id": "booking",
+        "y": 8774.140625
+      },
+      {
+        "cls": "journey-section journey-contact section-padding luxury-section bg-card/80",
+        "h": 1246.875,
+        "id": "contact",
+        "y": 9676.140625
+      },
+      {
+        "cls": "journey-section journey-message section-padding luxury-section bg-background section-illuminated",
+        "h": 841.5,
+        "id": "whatsapp",
+        "y": 11010.015625
+      },
+      {
+        "cls": "journey-section journey-footer bg-secondary/70 border-t border-border section-illuminated",
+        "h": 442.8125,
+        "id": "",
+        "y": 11086.015625
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "height": 1080,
+    "scrollWidth": 1910,
+    "sections": [
+      {
+        "cls": "journey-section cinematic-hero reference-hero journey-in-view journey-current",
+        "h": 1225.125,
+        "id": "hero",
+        "y": 64
+      },
+      {
+        "cls": "journey-section journey-services experience-chapter vehicle-interface",
+        "h": 784.921875,
+        "id": "services",
+        "y": 1289.125
+      },
+      {
+        "cls": "experience-chapter vehicle-interface component-chapter",
+        "h": 848.046875,
+        "id": "components",
+        "y": 2074.046875
+      },
+      {
+        "cls": "journey-section journey-process experience-chapter",
+        "h": 847.046875,
+        "id": "process",
+        "y": 2922.09375
+      },
+      {
+        "cls": "experience-chapter trust-chapter",
+        "h": 1690.296875,
+        "id": "trust",
+        "y": 3769.140625
+      },
+      {
+        "cls": "journey-section journey-about section-padding luxury-section bg-card/80 relative overflow-hidden section-illuminated",
+        "h": 435.25,
+        "id": "about",
+        "y": 4165.1875
+      },
+      {
+        "cls": "journey-section journey-trust section-padding relative overflow-hidden border-y border-border bg-[radial-gradient(circle_at_85%_20%,hsl(var(--performance-red)/0.07),transparent_28rem),linear-gradient(135deg,hsl(var(--premium-white)),hsl(var(--luxury-gray)),hsl(var(--premium-white)))] text-foreground section-illuminated",
+        "h": 192,
+        "id": "",
+        "y": 4600.4375
+      },
+      {
+        "cls": "journey-section journey-quality section-padding luxury-section section-illuminated",
+        "h": 389,
+        "id": "why-us",
+        "y": 4792.4375
+      },
+      {
+        "cls": "journey-section journey-brands py-12 sm:py-16 border-y border-border bg-secondary/30 section-illuminated",
+        "h": 444,
+        "id": "",
+        "y": 5260.4375
+      },
+      {
+        "cls": "journey-section journey-coverage section-padding luxury-section",
+        "h": 712,
+        "id": "",
+        "y": 5704.4375
+      },
+      {
+        "cls": "journey-section journey-work section-padding luxury-section",
+        "h": 619.90625,
+        "id": "",
+        "y": 5339.4375
+      },
+      {
+        "cls": "journey-section journey-reviews section-padding luxury-section bg-card/80",
+        "h": 539,
+        "id": "",
+        "y": 5418.4375
+      },
+      {
+        "cls": "journey-offers relative border-y border-border/70 bg-gradient-to-r from-background via-secondary/55 to-background shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] overflow-hidden pt-14 sm:pt-16",
+        "h": 172,
+        "id": "offers",
+        "y": 5957.4375
+      },
+      {
+        "cls": "toli-facility",
+        "h": 973.671875,
+        "id": "inside-toli",
+        "y": 5459.4375
+      },
+      {
+        "cls": "journey-section journey-gallery editorial-gallery",
+        "h": 3371.59375,
+        "id": "gallery",
+        "y": 6433.109375
+      },
+      {
+        "cls": "journey-section journey-booking experience-chapter",
+        "h": 1016,
+        "id": "booking",
+        "y": 9804.703125
+      },
+      {
+        "cls": "journey-section journey-contact section-padding luxury-section bg-card/80",
+        "h": 1246.875,
+        "id": "contact",
+        "y": 10886.703125
+      },
+      {
+        "cls": "journey-section journey-message section-padding luxury-section bg-background section-illuminated",
+        "h": 841.5,
+        "id": "whatsapp",
+        "y": 12220.578125
+      },
+      {
+        "cls": "journey-section journey-footer bg-secondary/70 border-t border-border section-illuminated",
+        "h": 442.8125,
+        "id": "",
+        "y": 12296.578125
+      }
+    ],
+    "width": 1920
+  }
+]

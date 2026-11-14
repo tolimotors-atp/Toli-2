@@ -1,0 +1,282 @@
+{
+  "hard_points": {
+    "coordinate_system": "X forward negative / Y left positive / Z up",
+    "wheelbase_m": 2.845,
+    "length_m": 4.825,
+    "nominal_width_m": 1.86,
+    "nominal_height_m": 1.86,
+    "roof_crown_estimate_m": 1.8,
+    "track_m": 1.57,
+    "retained_tire_radius_m": 0.382,
+    "tire_diameter_m": 0.764,
+    "front_overhang_m": 0.905,
+    "rear_overhang_m": 1.075,
+    "dimension_source": "https://www.isuzu.in/images/Brochure/pdf_area/ISUZU%20mu-X%20brochure.pdf",
+    "compatibility": "India MU-X same older body family, photographed exact year/trim unverified. Roof crown/cowl/belt/cross-sections and curvature are visual modeling estimates. Tire radius retained from V02; nominal tire specification checked separately.",
+    "tyre_source": "https://www.isuzu.in/mux.html",
+    "nominal_tyre_spec": "255/60 R18",
+    "nominal_unloaded_tyre_diameter_m": 0.7632,
+    "tyre_compatibility": "Official India specification supports 0.7632 m nominal diameter; retained mesh diameter 0.764 m differs by 0.8 mm. Actual loaded radius/photographed trim not proven."
+  },
+  "normalized_ratios": {
+    "wheelbase_length": 0.5896373056994819,
+    "height_wheelbase": 0.6537785588752196,
+    "bonnet_length_length": 0.266839378238342,
+    "roof_length_length": 0.4808290155440414,
+    "front_overhang_wheelbase": 0.3181019332161687,
+    "rear_overhang_wheelbase": 0.3778558875219683,
+    "tire_diameter_height": 0.410752688172043,
+    "windscreen_rise_height": 0.23924731182795697
+  },
+  "landmarks": {
+    "FRONT_TIP": [
+      -2.3275,
+      0,
+      0.8
+    ],
+    "REAR_TIP": [
+      2.4975,
+      0,
+      0.8
+    ],
+    "FRONT_AXLE": [
+      -1.4225,
+      0,
+      0.382
+    ],
+    "REAR_AXLE": [
+      1.4225,
+      0,
+      0.382
+    ],
+    "BONNET_TOP": [
+      -1.4225,
+      0,
+      1.27
+    ],
+    "COWL": [
+      -1.04,
+      0,
+      1.31
+    ],
+    "ROOF_FRONT": [
+      -0.34,
+      0,
+      1.755
+    ],
+    "ROOF_PEAK": [
+      0.28,
+      0,
+      1.8
+    ],
+    "ROOF_REAR": [
+      1.98,
+      0,
+      1.745
+    ],
+    "WINDSCREEN_TOP": [
+      -0.34,
+      0,
+      1.73
+    ],
+    "WINDSCREEN_BOTTOM": [
+      -1.04,
+      0,
+      1.31
+    ],
+    "A_PILLAR": [
+      -0.7,
+      -0.78,
+      1.5
+    ],
+    "B_PILLAR": [
+      0.28,
+      -0.8,
+      1.5
+    ],
+    "C_PILLAR": [
+      1.32,
+      -0.79,
+      1.53
+    ],
+    "D_PILLAR": [
+      2.12,
+      -0.75,
+      1.54
+    ],
+    "BELT_FRONT": [
+      -0.9,
+      -0.85,
+      1.25
+    ],
+    "BELT_REAR": [
+      2.16,
+      -0.85,
+      1.35
+    ],
+    "QUARTER_GLASS": [
+      1.76,
+      -0.78,
+      1.52
+    ],
+    "REAR_GLASS": [
+      2.2,
+      0,
+      1.54
+    ],
+    "FRONT_ARCH": [
+      -1.4225,
+      -0.93,
+      0.827
+    ],
+    "REAR_ARCH": [
+      1.4225,
+      -0.93,
+      0.827
+    ],
+    "GROUND": [
+      0,
+      0,
+      0
+    ]
+  },
+  "side_upper_outline": [
+    [
+      -2.3275,
+      0.54
+    ],
+    [
+      -2.3275,
+      0.8
+    ],
+    [
+      -2.26,
+      1.06
+    ],
+    [
+      -1.99,
+      1.15
+    ],
+    [
+      -1.4225,
+      1.27
+    ],
+    [
+      -1.04,
+      1.31
+    ],
+    [
+      -0.34,
+      1.755
+    ],
+    [
+      0.28,
+      1.8
+    ],
+    [
+      1.14,
+      1.8
+    ],
+    [
+      1.98,
+      1.745
+    ],
+    [
+      2.28,
+      1.39
+    ],
+    [
+      2.4975,
+      1.21
+    ],
+    [
+      2.4975,
+      0.54
+    ]
+  ],
+  "stations": [
+    [
+      -2.3275,
+      0.82,
+      1.07,
+      1.1,
+      0.6
+    ],
+    [
+      -2.18,
+      0.89,
+      1.11,
+      1.16,
+      0.65
+    ],
+    [
+      -1.4225,
+      0.93,
+      1.22,
+      1.285,
+      0.65
+    ],
+    [
+      -1.04,
+      0.9,
+      1.26,
+      1.32,
+      0.66
+    ],
+    [
+      -0.34,
+      0.875,
+      1.27,
+      1.755,
+      0.7
+    ],
+    [
+      0.28,
+      0.875,
+      1.285,
+      1.8,
+      0.735
+    ],
+    [
+      1.14,
+      0.89,
+      1.32,
+      1.8,
+      0.735
+    ],
+    [
+      1.4225,
+      0.93,
+      1.34,
+      1.79,
+      0.73
+    ],
+    [
+      1.98,
+      0.915,
+      1.35,
+      1.745,
+      0.7
+    ],
+    [
+      2.28,
+      0.895,
+      1.32,
+      1.4,
+      0.66
+    ],
+    [
+      2.4975,
+      0.845,
+      1.21,
+      1.24,
+      0.6
+    ]
+  ],
+  "retained_components": 113,
+  "side_overlay_method": "Piecewise horizontal normalization using front tip, both axles and rear tip; approximate 0.00580 m/pixel height and sloping ground. NOT calibrated camera fitting; roof trace estimated.",
+  "side_silhouette_gate": {
+    "status": "PASS \u2014 guide stage only",
+    "judgment": "Upper silhouette and arch alignment plausibly follow the canonical side reference after explicit normalized anchor mapping. Rear side perspective/trim limits retained; full three-dimensional shell still requires five-view gate."
+  }
+}

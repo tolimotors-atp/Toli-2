@@ -1,0 +1,92 @@
+{
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:8194/Toli-2/models/vehicles/isuzu-mux/isuzu-mux-web.glb",
+      "status": 200
+    }
+  ],
+  "results": [
+    {
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": false,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "scene": "ready",
+      "solid": "ready",
+      "canvas": true,
+      "label": "ISUZU MU-X / OVERVIEWTOLI / CARE"
+    }
+  ]
+}

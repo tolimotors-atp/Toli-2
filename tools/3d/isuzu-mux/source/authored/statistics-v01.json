@@ -1,0 +1,18 @@
+{
+  "body_base_vertices": 539,
+  "body_base_faces": 516,
+  "evaluated_vertices": 5099,
+  "evaluated_triangles": 9616,
+  "production_textures": 0,
+  "method": "NEW AUTHORED BODY / NOT PASS-3 DEFORMATION",
+  "checkpoints": {
+    "A": "FAIL",
+    "B": "FAIL",
+    "C": "FAIL",
+    "D": "FAIL / identity cuts not reached",
+    "E": "FAIL",
+    "overall": "FAIL"
+  },
+  "body_edge_connected_face_components": 1,
+  "body_boundary_edges": 136
+}

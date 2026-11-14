@@ -1,0 +1,253 @@
+/* Mobile composition and touch ergonomics. Approved desktop rules remain above 900px. */
+@media(max-width:900px){
+ html {scroll-padding-top:calc(64px + env(safe-area-inset-top));}
+ .journey-root {--mobile-gutter:clamp(16px,4vw,28px);}
+ .journey-root .phase9-experience {padding-top:calc(56px + env(safe-area-inset-top));}
+ .journey-root .experience-navigation {height:calc(56px + env(safe-area-inset-top));padding:env(safe-area-inset-top) max(8px,env(safe-area-inset-right)) 0 max(8px,env(safe-area-inset-left));gap:8px;}
+ .journey-root .experience-navigation>a {min-width:0;min-height:44px;display:flex;align-items:center;}
+ .journey-root .experience-navigation .toli-logo-pill-navigation {--logo-width:clamp(96px,30vw,142px);}
+ .journey-root .experience-navigation .nav-identity,.journey-root .experience-navigation .nav-support {display:none;}
+ .journey-root .experience-navigation .nav-actions {gap:4px;flex-shrink:0;}
+ html[data-theme] .journey-root .experience-navigation .nav-actions>button {min-width:44px;min-height:44px;padding-inline:6px;}
+ .journey-root .experience-navigation .nav-book {display:flex;width:auto;min-width:58px!important;max-width:none;align-items:center;justify-content:center;gap:4px;}
+ .journey-root .experience-navigation .nav-book-icon,.journey-root .experience-navigation .nav-book-label {display:none;}
+ .journey-root .experience-navigation .nav-book-compact {display:inline;font-size:11px;}
+ .journey-root .experience-menu {top:calc(56px + env(safe-area-inset-top));right:max(8px,env(safe-area-inset-right));width:min(460px,calc(100vw - 16px));max-height:calc(100dvh - 64px - env(safe-area-inset-top) - env(safe-area-inset-bottom));padding:16px;overscroll-behavior:contain;}
+ .journey-root .experience-menu .menu-secondary button,.journey-root .experience-menu .menu-support button {min-height:44px;min-width:44px;}
+ .journey-root .experience-menu .menu-support .toli-ai-launcher {position:static;margin:8px 0;}
+ .journey-root main.phase9-experience>section.reference-hero {padding:18px var(--mobile-gutter) 20px;}
+ .journey-root .phase9-experience .reference-hero .entry-composition {grid-template-columns:minmax(0,1fr);grid-template-rows:repeat(12,auto);gap:12px;max-width:720px;}
+ .journey-root .reference-hero .hero-corner-info {grid-template-columns:minmax(0,1fr);gap:4px;}
+ .journey-root .phase9-experience .reference-hero .hero-brand.hero-location {grid-row:1;grid-column:1;justify-self:start;}
+ .journey-root .reference-hero .hero-location-text {gap:2px;letter-spacing:0;line-height:1.35;}
+ .journey-root .reference-hero .hero-location-text strong {font-size:clamp(1.25rem,5.5vw,1.5rem);}
+ .journey-root .reference-hero .hero-location-text span {font-size:clamp(.75rem,3vw,.875rem);letter-spacing:.045em;padding:0;border:0;}
+ .journey-root .reference-hero .hero-brand-phones {grid-row:2;grid-column:1;justify-self:stretch;display:flex;justify-content:space-between;flex-wrap:wrap;gap:0 12px;font-size:clamp(.875rem,3.6vw,1rem);text-align:left;}
+ .journey-root .reference-hero .hero-brand-phones>svg {display:none;}
+ .journey-root .reference-hero .hero-brand-phones>a {min-height:44px;justify-content:center;flex:1 1 auto;}
+ .journey-root .reference-hero .hero-reference-brand {width:min(88%,320px);padding:0;}
+ .journey-root .reference-hero .hero-workshop-subtitle {font-size:clamp(.625rem,2.4vw,.75rem);letter-spacing:.12em;gap:8px;margin-top:8px;}
+ .journey-root .reference-hero .hero-workshop-subtitle::before,.journey-root .reference-hero .hero-workshop-subtitle::after {width:18px;}
+ .journey-root .phase9-experience .reference-hero h1 {font-size:clamp(1.625rem,6.8vw,2.125rem);line-height:1.1;text-wrap:balance;}
+ .journey-root .phase9-experience .reference-hero h1 br {display:block;}
+ .journey-root .phase9-experience .reference-hero .hero-brand-caption {font-size:clamp(1.275rem,5.52vw,1.5rem);line-height:1.15;font-weight:700;text-wrap:balance;overflow-wrap:normal;}
+ .journey-root .phase9-experience .reference-hero .hero-brand-caption strong {display:block;margin:0;}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {width:100%;height:clamp(140px,24svh,210px);min-height:0;}
+ .journey-root .hero-visual .hero-three-cars {inset:0 -36%;}
+ .journey-root .hero-three-cars img {object-position:54% bottom;}
+ .journey-root .reference-hero .hero-reference-services {grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;}
+ .journey-root .reference-hero .hero-service-photo {aspect-ratio:3/2;background-size:200% 200%;}
+ .journey-root .reference-hero .hero-service-photo-0 {background-position:0 0;}.journey-root .reference-hero .hero-service-photo-1 {background-position:100% 0;}
+ .journey-root .reference-hero .hero-service-photo-2 {background-position:0 100%;}.journey-root .reference-hero .hero-service-photo-3 {background-position:100% 100%;}
+ .journey-root .reference-hero .hero-service-label {font-size:clamp(.75rem,3vw,.875rem);line-height:1.35;min-height:110px;padding:12px 10px;gap:6px;overflow-wrap:anywhere;}
+ .journey-root .reference-hero .hero-service-label small {font-size:.6875rem;line-height:1.45;}
+ .journey-root .reference-hero .hero-service-label>svg {width:20px;height:20px;}
+ .journey-root .phase9-experience .reference-hero .hero-description {font-size:.875rem;line-height:1.6;}
+ .journey-root .reference-hero .hero-contact-actions {flex-wrap:wrap;gap:8px 16px;}
+ .journey-root .reference-hero .hero-contact-actions :is(a,button) {min-height:44px;min-width:44px;font-size:.8125rem;}
+ .journey-root .reference-hero .hero-reference-location p {overflow-wrap:anywhere;}
+ .journey-root .phase9-experience>.toli-ai {display:flex;justify-content:center;padding:12px var(--mobile-gutter);background:var(--bg-secondary);border-block:1px solid var(--border-subtle);}
+ .journey-root .phase9-experience>.toli-ai[hidden] {display:none;}
+ .journey-root .phase9-experience>.toli-ai .toli-ai-launcher {position:static;min-height:44px;box-shadow:none;}
+ .journey-root .phase9-experience .section-stack>section {position:relative!important;top:auto!important;transform:none!important;padding:28px var(--mobile-gutter);min-width:0;scroll-margin-top:calc(72px + env(safe-area-inset-top));}
+ .journey-root .section-stack .chapter-heading {margin-bottom:20px;}
+ .journey-root .section-stack .chapter-heading h2 {font-size:clamp(1.875rem,7vw,2.5rem);line-height:1.08;text-wrap:balance;}
+ .journey-root .section-stack .chapter-heading>p:last-child:not(.system-label) {font-size:.9375rem;line-height:1.6;}
+ .journey-root .section-stack :is(.matrix-stage,.process-stage,.request-stage) {gap:20px;}
+ .journey-root .section-stack :is(.selected-service-module,.process-description) {padding:18px;min-width:0;}
+ .journey-root .section-stack .selected-service-module h3 {font-size:clamp(1.375rem,5.5vw,1.75rem);overflow-wrap:anywhere;}
+ .journey-root .section-stack :is(.matrix-vehicle,.process-stage,.request-stage) .journey-dock {min-height:clamp(220px,42svh,340px);}
+ .journey-root .section-stack .process-selector strong {font-size:clamp(1rem,4vw,1.375rem);}
+ .journey-root .section-stack :is(.selected-service-module,.process-description,.request-console) p {overflow-wrap:anywhere;}
+ .journey-root .section-stack .trust-index>details>summary {font-size:clamp(1rem,4vw,1.25rem);line-height:1.4;min-height:60px;}
+ .journey-root .phase9-experience .request-console {padding:20px;min-width:0;}
+ .journey-root .phase9-experience .experience-connect {padding:28px var(--mobile-gutter);}
+ .journey-root .experience-connect :is(h1,h2) {font-size:clamp(1.875rem,7vw,2.5rem);line-height:1.1;overflow-wrap:anywhere;}
+ .journey-root .experience-connect :is(input,textarea,select) {font-size:16px;max-width:100%;}
+ .journey-root .experience-connect :is(a,button,summary) {min-height:44px;}
+ .journey-root .journey-footer {padding-bottom:max(20px,env(safe-area-inset-bottom));overflow-wrap:anywhere;}
+ .journey-root .journey-footer a {display:inline-flex;align-items:center;min-height:44px;min-width:44px;}
+ .journey-root .journey-footer nav {flex-wrap:wrap;}
+ .journey-root :is(button,a,summary,input,textarea,select):focus-visible {outline:2px solid var(--focus-ring);outline-offset:3px;}
+ html[data-theme] .request-dialog {container-type:size;container-name:request-viewport;height:var(--request-viewport-height,100dvh);max-height:none;top:var(--request-viewport-top,0px);left:0;transform:none;width:100%;border-radius:0;}
+ html[data-theme] .request-dialog-header {padding-top:max(14px,env(safe-area-inset-top));padding-inline:max(16px,env(safe-area-inset-left));}
+ html[data-theme] .request-dialog :is(input,textarea,select) {font-size:16px;scroll-margin-block:20px;}
+ html[data-theme] .request-dialog .request-actions {padding-bottom:max(12px,env(safe-area-inset-bottom));}
+ html[data-theme] .request-dialog .request-dropdown-toggle {min-width:44px;}
+ html[data-theme] .request-dialog .request-step-content {scroll-padding-block:16px;}
+ html[data-theme] .toli-ai-panel {right:max(8px,env(safe-area-inset-right));width:calc(100vw - max(16px,env(safe-area-inset-right)) - env(safe-area-inset-left));max-height:calc(var(--ai-height,100dvh) - 16px);}
+ html[data-theme] .toli-ai-quick button {font-size:.75rem;}
+}
+@media(max-width:359px){
+ .journey-root .reference-hero .hero-reference-services {grid-template-columns:minmax(0,1fr);}
+ .journey-root .reference-hero .hero-reference-service {display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);align-items:stretch;min-height:116px;}
+ .journey-root .reference-hero .hero-service-photo {align-self:center;}
+ .journey-root .reference-hero .hero-service-label {min-height:116px;font-size:.8125rem;}
+}
+@media(min-width:600px) and (max-width:900px){
+ .journey-root .reference-hero .hero-corner-info {grid-template-columns:minmax(0,1fr) auto;gap:16px;}
+ .journey-root .reference-hero .hero-brand-phones {grid-row:1;grid-column:2;display:grid;grid-template-columns:minmax(0,1fr);gap:0;}
+ .journey-root .reference-hero .hero-brand-phones>a {grid-column:1;}
+ .journey-root .hero-visual .hero-three-cars {inset:0;}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {height:clamp(180px,32svh,260px);}
+}
+@media(max-width:900px) and (max-height:500px){
+ html[data-theme] .journey-root main.phase9-experience>section.reference-hero {padding:12px var(--mobile-gutter) 20px;}
+ .journey-root .reference-hero .hero-reference-brand {width:min(48%,260px);}
+ .journey-root .phase9-experience .reference-hero .entry-composition {gap:10px;}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {height:clamp(140px,40svh,180px);}
+ .journey-root .reference-hero .hero-service-photo {aspect-ratio:2/1;}
+ .journey-root .reference-hero .hero-service-label {min-height:80px;}
+ .journey-root .phase9-experience .section-stack .journey-dock {min-height:220px;}
+}
+/* Compact actual visual viewport, including a reduced keyboard viewport. */
+@container request-viewport (max-height:520px){
+ .request-dialog-header {padding:6px 12px!important;gap:8px;}
+ .request-dialog-header>div:first-child {display:flex;align-items:center;gap:10px;min-width:0;}
+ .request-dialog-header .toli-logo-pill {--logo-width:92px;margin:0;}
+ .request-dialog-header :is(h1,h2) {font-size:20px!important;margin:0;}
+ .request-dialog-header .request-header-tools {gap:6px;}
+ .request-progress {padding:4px 12px 0!important;}
+ .request-mobile-progress {display:none!important;}
+ .request-step-content {padding:12px!important;}
+ .request-step-heading {margin-bottom:12px;}
+ .request-step-heading h2 {font-size:20px;}
+ .request-step-heading>p:last-child {margin-top:4px;}
+ .request-actions {padding:8px 12px!important;}
+ .request-contact-fields {gap:12px;}
+}
+@media(prefers-reduced-motion:reduce){
+ .journey-root .hero-three-cars,.journey-root .hero-reference-service {animation:none!important;transition:none!important;}
+}
+@media(max-width:900px){
+ /* In-flow sticky navigation grows safely with text zoom instead of covering the Hero. */
+ .journey-root .experience-navigation {position:sticky;top:0;inset-inline:0;min-height:calc(56px + env(safe-area-inset-top));height:auto;flex-wrap:wrap;}
+ .journey-root .phase9-experience {padding-top:0;}
+ .journey-root .experience-menu {top:100%;max-height:calc(100dvh - max(64px,4.5rem) - env(safe-area-inset-bottom));}
+ html {scroll-padding-top:max(72px,4.5rem);}
+}
+@media(max-width:359px){
+ html[data-theme=dark] .journey-root .reference-hero>.hero-workshop-atmosphere::before {inset:-620px 0 0;}
+}
+@media(max-width:900px) and (max-height:500px){
+ .journey-root .reference-hero .hero-service-photo {background-size:200% auto;}
+ .journey-root .reference-hero .hero-service-photo-0 {background-position:0 10%;}.journey-root .reference-hero .hero-service-photo-1 {background-position:100% 10%;}
+ .journey-root .reference-hero .hero-service-photo-2 {background-position:0 90%;}.journey-root .reference-hero .hero-service-photo-3 {background-position:100% 90%;}
+}
+@media(max-width:900px){
+ /* Optional Help portals must stay below assistant and service-request dialogs. */
+ a[aria-label="Chat on WhatsApp"],button[aria-label="Back to top"] {z-index:55!important;}
+}
+@media(max-width:900px){.journey-root .experience-menu .menu-support {display:block;}}
+@media(max-width:900px){
+ .journey-root .section-stack h2 {overflow-wrap:anywhere;}
+ .journey-root .experience-connect .contact-card>span {max-width:100%;overflow-wrap:anywhere;text-align:center;}
+ .journey-root .experience-connect button {white-space:normal;overflow-wrap:anywhere;height:auto;padding-block:12px;}
+ .journey-root .experience-connect [class~="aspect-[16/9]"] {aspect-ratio:auto;min-height:340px;}
+ .journey-root .experience-connect [class~="aspect-[16/9]"]>div {height:auto;min-height:340px;padding-block:20px;}
+ .journey-root .experience-connect iframe {min-height:340px;}
+}
+
+
+/* Frame the small-screen garage on the same grid rows as branding and vehicles. */
+@media(max-width:900px){
+ html[data-theme] .journey-root main.phase9-experience>section.reference-hero {padding:12px var(--mobile-gutter) 20px;}
+ .journey-root .phase9-experience .reference-hero .entry-composition {gap:8px;}
+ .journey-root .reference-hero .entry-composition::before {
+  content:'';grid-column:1/-1;grid-row:1/6;align-self:stretch;z-index:-1;pointer-events:none;
+  margin: -12px calc(-1 * var(--mobile-gutter)) -40px;
+  background:linear-gradient(180deg,#e9ebeb30,transparent 65%,#e9ebeb),url('./assets/hero/workshop-depth-mobile.svg') center bottom/cover no-repeat;
+ }
+ html[data-theme=dark] .journey-root .reference-hero .entry-composition::before {
+  background-image:linear-gradient(180deg,#17181c18,transparent 70%,#17181c),url('./assets/hero/garage-reference-portrait-640.webp');
+ }
+ .journey-root .reference-hero>.hero-workshop-atmosphere>img {display:none;}
+ html[data-theme] .journey-root .reference-hero>.hero-workshop-atmosphere::before {content:none;}
+ html[data-theme] .journey-root .reference-hero>.hero-workshop-atmosphere {background:#e9ebeb;}
+ html[data-theme=dark] .journey-root .reference-hero>.hero-workshop-atmosphere {background:#17181c;}
+ .journey-root .reference-hero .hero-reference-brand {width:min(80%,280px);}
+ .journey-root .reference-hero .hero-workshop-subtitle {margin-top:5px;}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {height:clamp(100px,25vw,210px);min-height:0;}
+ .journey-root .hero-visual .hero-three-cars {inset:0;}
+ .journey-root .hero-three-cars img {object-position:center bottom;}
+}
+@media(max-width:599px){
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {
+  justify-self:end;margin-right:calc(max(2px,env(safe-area-inset-right)) - var(--mobile-gutter));
+  display:grid;grid-template-columns:12px auto;gap:0 4px;padding:2px 8px;
+  width:max-content;max-width:none;text-align:right;
+ }
+ .journey-root .reference-hero .hero-info-pill.hero-brand-phones>a {font-size:13.5px;min-height:36px;justify-content:flex-end;}
+}
+@media(min-width:600px) and (max-width:1199px){
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {padding:1px 6px;grid-template-columns:11px auto;column-gap:4px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>a {font-size:13.5px;min-height:32px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>svg {width:12px;height:12px;}
+}
+@media(min-width:600px) and (max-width:900px){
+ .journey-root .reference-hero .entry-composition::before {background-image:linear-gradient(180deg,#e9ebeb30,transparent 65%,#e9ebeb),url('./assets/hero/workshop-depth.svg');}
+ html[data-theme=dark] .journey-root .reference-hero .entry-composition::before {background-image:linear-gradient(180deg,#17181c18,transparent 70%,#17181c),url('./assets/hero/garage-grounded-wide-960.webp');}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {height:clamp(150px,22svh,210px);}
+}
+@media(max-width:900px) and (max-height:500px){
+ .journey-root .reference-hero .hero-reference-brand {width:min(40%,220px);}
+ .journey-root .phase9-experience .reference-hero .entry-composition {gap:6px;}
+ .journey-root .phase9-experience .reference-hero .hero-visual.journey-dock {height:clamp(140px,38svh,180px);}
+}
+@media(min-width:1200px){
+ .journey-root main.phase9-experience>section.reference-hero {--hero-edge-padding:clamp(76px,7vw,140px);container-type:inline-size;padding-inline:var(--hero-edge-padding);}
+ .journey-root .reference-hero .hero-corner-info {
+  display:flex;position:absolute;top:0;left:calc(50% - 50cqw - var(--hero-edge-padding) + 1px);width:calc(100cqw + 2 * var(--hero-edge-padding) - 2px);
+  justify-content:space-between;align-items:flex-start;pointer-events:none;z-index:3;
+ }
+ .journey-root .reference-hero .hero-corner-info>div {pointer-events:auto;}
+}
+@media(min-width:901px) and (max-width:1199px){
+ .journey-root .reference-hero .hero-reference-brand {width:clamp(320px,36vw,420px);}
+}
+
+@media(max-width:599px){
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones {grid-template-columns:12px auto;column-gap:4px;}
+ html[data-theme] .journey-root .reference-hero .hero-info-pill.hero-brand-phones>svg {width:12px;height:12px;}
+}
+@media(min-width:320px) and (max-width:599px){
+ .journey-root .reference-hero .hero-corner-info {grid-template-columns:minmax(0,1fr) auto;gap:8px;}
+ .journey-root .reference-hero .hero-info-pill.hero-brand-phones {grid-row:1;grid-column:2;}
+}
+@media(min-width:600px) and (max-width:1199px){
+ .journey-root main.phase9-experience>section.reference-hero {container-type:inline-size;--hero-edge-padding:var(--mobile-gutter,clamp(76px,7vw,140px));}
+ html[data-theme] .journey-root .reference-hero .hero-corner-info {
+  display:flex;position:relative;justify-content:space-between;align-items:flex-start;
+  width:calc(50% + 50cqw + var(--hero-edge-padding) - max(3px,env(safe-area-inset-right)));
+ }
+ .journey-root .reference-hero .hero-corner-info>div {flex-shrink:0;order:0;}
+}
+@media(min-width:901px) and (max-width:1199px){
+ html[data-theme] .journey-root .reference-hero .hero-corner-info {position:absolute;top:0;left:0;}
+}
+
+/* Keep the compact vehicle stage in the same reading sequence as the controls. */
+@media(max-width:767px) {
+ .journey-root .phase9-experience :is(.process-stage,.request-stage) .journey-dock,
+ .journey-root .phase9-experience .section-stack .component-chapter .matrix-vehicle .journey-dock {
+  min-height:clamp(190px,62vw,270px);
+ }
+ .journey-root .phase9-experience .journey-dock:not(.hero-visual) .mux-photography {inset:28px 0;}
+ .journey-root .phase9-experience .journey-dock:not(.hero-visual) .vehicle-stage-bottom>span {max-width:none;}
+ .journey-root .phase9-experience .request-console .system-button:not(.primary) {
+  width:auto;
+  margin-top:8px;
+  padding-inline:12px;
+ }
+}
+@media(min-width:768px) and (max-width:1100px) {
+ .journey-root .phase9-experience :is(.process-stage,.request-stage) {
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  gap:clamp(16px,3vw,32px);
+ }
+ .journey-root .phase9-experience :is(.process-stage,.request-stage) .journey-dock {
+  min-height:clamp(220px,32vw,360px);
+ }
+ .journey-root .section-stack .component-chapter .matrix-vehicle {grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:16px;}
+ .journey-root .section-stack .component-chapter .matrix-vehicle .journey-dock {min-height:clamp(240px,36vw,400px);}
+}

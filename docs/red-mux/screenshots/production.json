@@ -1,0 +1,26 @@
+{
+  "runtime": {
+    "canvasCount": 0,
+    "images": [
+      {
+        "alt": "Isuzu MU-X — front three-quarter view",
+        "loaded": true,
+        "src": "http://127.0.0.1:8207/Toli-2/assets/isuzu-mux-red-front-3q-BSeU3Bxr.webp"
+      },
+      {
+        "alt": "Isuzu MU-X — front three-quarter view",
+        "loaded": true,
+        "src": "http://127.0.0.1:8207/Toli-2/assets/isuzu-mux-red-front-3q-BSeU3Bxr.webp"
+      },
+      {
+        "alt": "Isuzu MU-X — front three-quarter view",
+        "loaded": true,
+        "src": "http://127.0.0.1:8207/Toli-2/assets/isuzu-mux-red-front-3q-BSeU3Bxr.webp"
+      }
+    ],
+    "oldRotationUI": false,
+    "sceneHostCount": 0
+  },
+  "console": [],
+  "booking": "canonical request dialog opens; no submission"
+}

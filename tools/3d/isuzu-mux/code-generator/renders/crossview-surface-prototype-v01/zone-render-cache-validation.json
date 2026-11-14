@@ -1,0 +1,17 @@
+{
+  "unchanged_zones": [
+    "A",
+    "C"
+  ],
+  "pre_rear_fix": {
+    "A": "359cd06c6c7d31fca053f5f74e1895151fffca829358541ad42af142db727c2b",
+    "B": "2175fb6ffbcba56015787aaded0d8895f6918d8adc0602b8aca997d3089edae8",
+    "C": "ad64c869d24a9c875a12f1dae3b0ad9fed4622459fca71067b06d9dc29b0804b"
+  },
+  "final": {
+    "A": "359cd06c6c7d31fca053f5f74e1895151fffca829358541ad42af142db727c2b",
+    "B": "088c68605378acd82840b6ee81722e601e04d3245eca18b4bd327aa20c132b00",
+    "C": "ad64c869d24a9c875a12f1dae3b0ad9fed4622459fca71067b06d9dc29b0804b"
+  },
+  "reason": "Only Zone B control geometry changed; A/C rendering materials, camera fitting and lighting unchanged"
+}

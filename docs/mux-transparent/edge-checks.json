@@ -1,0 +1,14 @@
+[
+  {
+    "view": "front",
+    "master": "docs/mux-transparent/isuzu-mux-front-master.png",
+    "channels": 4,
+    "spotCheckOpaque": true
+  },
+  {
+    "view": "rear",
+    "master": "docs/mux-transparent/isuzu-mux-rear-master.png",
+    "channels": 4,
+    "spotCheckOpaque": true
+  }
+]

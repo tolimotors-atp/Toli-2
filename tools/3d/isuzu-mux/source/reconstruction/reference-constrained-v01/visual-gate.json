@@ -1,0 +1,22 @@
+{
+  "greenhouse_gate": "FAIL",
+  "inspected": [
+    "greenhouse-side-v01.png",
+    "greenhouse-front-v01.png",
+    "greenhouse-rear-v01.png",
+    "greenhouse-front3q-v01.png",
+    "greenhouse-rear3q-v01.png",
+    "greenhouse-profile-overlay-v01.jpg",
+    "region-greenhouse-v01.jpg"
+  ],
+  "issues": [
+    "roof edge above reference in manual profile alignment",
+    "windscreen/roof transition too angular",
+    "rounded glass corners and quarter glass are polygonal",
+    "C/D frame junctions and roof edges not integrated",
+    "cross-car depth/crown estimated, no validated multi-view camera fit"
+  ],
+  "continue_to_region_3": false,
+  "front_side_rear_body_regions": "NOT BUILT",
+  "production_gate": "NOT REACHED"
+}

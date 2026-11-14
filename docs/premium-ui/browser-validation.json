@@ -1,0 +1,3676 @@
+[
+  {
+    "w": 320,
+    "h": 568,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 249.671875,
+        "width": 288,
+        "height": 57.1875,
+        "top": 249.671875,
+        "right": 304,
+        "bottom": 306.859375,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 369.765625,
+        "width": 288,
+        "height": 100,
+        "top": 369.765625,
+        "right": 304,
+        "bottom": 469.765625,
+        "left": 16
+      },
+      "pill": {
+        "x": 191,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 318,
+        "bottom": 130,
+        "left": 191
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 196,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 226,
+        "bottom": 114,
+        "left": 196
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 232,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 313,
+            "bottom": 99,
+            "left": 232
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 232,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 313,
+            "bottom": 127,
+            "left": 232
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 150.125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 194.125,
+          "bottom": 49.5,
+          "left": 150.125
+        },
+        {
+          "x": 198.125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 256.125,
+          "bottom": 49.5,
+          "left": 198.125
+        },
+        {
+          "x": 260.125,
+          "y": 5.5,
+          "width": 51.875,
+          "height": 44,
+          "top": 5.5,
+          "right": 312,
+          "bottom": 49.5,
+          "left": 260.125
+        }
+      ],
+      "serviceWidth": 288,
+      "serviceScroll": 288,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 8030.375,
+        "width": 288,
+        "height": 600.859375,
+        "top": 8030.375,
+        "right": 304,
+        "bottom": 8631.234375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 320,
+    "h": 568,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 249.671875,
+        "width": 288,
+        "height": 57.1875,
+        "top": 249.671875,
+        "right": 304,
+        "bottom": 306.859375,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 369.765625,
+        "width": 288,
+        "height": 100,
+        "top": 369.765625,
+        "right": 304,
+        "bottom": 469.765625,
+        "left": 16
+      },
+      "pill": {
+        "x": 191,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 318,
+        "bottom": 130,
+        "left": 191
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 196,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 226,
+        "bottom": 114,
+        "left": 196
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 232,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 313,
+            "bottom": 99,
+            "left": 232
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 232,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 313,
+            "bottom": 127,
+            "left": 232
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 150.125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 194.125,
+          "bottom": 49.5,
+          "left": 150.125
+        },
+        {
+          "x": 198.125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 256.125,
+          "bottom": 49.5,
+          "left": 198.125
+        },
+        {
+          "x": 260.125,
+          "y": 5.5,
+          "width": 51.875,
+          "height": 44,
+          "top": 5.5,
+          "right": 312,
+          "bottom": 49.5,
+          "left": 260.125
+        }
+      ],
+      "serviceWidth": 288,
+      "serviceScroll": 288,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 8030.375,
+        "width": 288,
+        "height": 600.859375,
+        "top": 8030.375,
+        "right": 304,
+        "bottom": 8631.234375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 360,
+    "h": 800,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 243.265625,
+        "width": 328,
+        "height": 57.1875,
+        "top": 243.265625,
+        "right": 344,
+        "bottom": 300.453125,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 363.359375,
+        "width": 328,
+        "height": 100,
+        "top": 363.359375,
+        "right": 344,
+        "bottom": 463.359375,
+        "left": 16
+      },
+      "pill": {
+        "x": 231,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 358,
+        "bottom": 130,
+        "left": 231
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 236,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 266,
+        "bottom": 114,
+        "left": 236
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 272,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 353,
+            "bottom": 99,
+            "left": 272
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 272,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 353,
+            "bottom": 127,
+            "left": 272
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 186.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 230.53125,
+          "bottom": 49.5,
+          "left": 186.53125
+        },
+        {
+          "x": 234.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 292.53125,
+          "bottom": 49.5,
+          "left": 234.53125
+        },
+        {
+          "x": 296.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 352,
+          "bottom": 49.5,
+          "left": 296.53125
+        }
+      ],
+      "serviceWidth": 328,
+      "serviceScroll": 328,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 7941.5,
+        "width": 328,
+        "height": 529.359375,
+        "top": 7941.5,
+        "right": 344,
+        "bottom": 8470.859375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 360,
+    "h": 800,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 243.265625,
+        "width": 328,
+        "height": 57.1875,
+        "top": 243.265625,
+        "right": 344,
+        "bottom": 300.453125,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 363.359375,
+        "width": 328,
+        "height": 100,
+        "top": 363.359375,
+        "right": 344,
+        "bottom": 463.359375,
+        "left": 16
+      },
+      "pill": {
+        "x": 231,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 358,
+        "bottom": 130,
+        "left": 231
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 236,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 266,
+        "bottom": 114,
+        "left": 236
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 272,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 353,
+            "bottom": 99,
+            "left": 272
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 272,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 353,
+            "bottom": 127,
+            "left": 272
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 186.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 230.53125,
+          "bottom": 49.5,
+          "left": 186.53125
+        },
+        {
+          "x": 234.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 292.53125,
+          "bottom": 49.5,
+          "left": 234.53125
+        },
+        {
+          "x": 296.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 352,
+          "bottom": 49.5,
+          "left": 296.53125
+        }
+      ],
+      "serviceWidth": 328,
+      "serviceScroll": 328,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 7941.5,
+        "width": 328,
+        "height": 529.359375,
+        "top": 7941.5,
+        "right": 344,
+        "bottom": 8470.859375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 390,
+    "h": 844,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 247.453125,
+        "width": 358,
+        "height": 58.3125,
+        "top": 247.453125,
+        "right": 374,
+        "bottom": 305.765625,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 371.265625,
+        "width": 358,
+        "height": 100,
+        "top": 371.265625,
+        "right": 374,
+        "bottom": 471.265625,
+        "left": 16
+      },
+      "pill": {
+        "x": 261,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 388,
+        "bottom": 130,
+        "left": 261
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 266,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 296,
+        "bottom": 114,
+        "left": 266
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 302,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 383,
+            "bottom": 99,
+            "left": 302
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 302,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 383,
+            "bottom": 127,
+            "left": 302
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 216.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 260.53125,
+          "bottom": 49.5,
+          "left": 216.53125
+        },
+        {
+          "x": 264.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 322.53125,
+          "bottom": 49.5,
+          "left": 264.53125
+        },
+        {
+          "x": 326.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 382,
+          "bottom": 49.5,
+          "left": 326.53125
+        }
+      ],
+      "serviceWidth": 358,
+      "serviceScroll": 358,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 8011.625,
+        "width": 358,
+        "height": 508.96875,
+        "top": 8011.625,
+        "right": 374,
+        "bottom": 8520.59375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 390,
+    "h": 844,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16,
+        "y": 247.453125,
+        "width": 358,
+        "height": 58.3125,
+        "top": 247.453125,
+        "right": 374,
+        "bottom": 305.765625,
+        "left": 16
+      },
+      "cars": {
+        "x": 16,
+        "y": 371.265625,
+        "width": 358,
+        "height": 100,
+        "top": 371.265625,
+        "right": 374,
+        "bottom": 471.265625,
+        "left": 16
+      },
+      "pill": {
+        "x": 261,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 388,
+        "bottom": 130,
+        "left": 261
+      },
+      "location": {
+        "x": 16,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.046875,
+        "bottom": 115.6875,
+        "left": 16
+      },
+      "phoneIcon": {
+        "x": 266,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 296,
+        "bottom": 114,
+        "left": 266
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 302,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 383,
+            "bottom": 99,
+            "left": 302
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 302,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 383,
+            "bottom": 127,
+            "left": 302
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 216.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 260.53125,
+          "bottom": 49.5,
+          "left": 216.53125
+        },
+        {
+          "x": 264.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 322.53125,
+          "bottom": 49.5,
+          "left": 264.53125
+        },
+        {
+          "x": 326.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 382,
+          "bottom": 49.5,
+          "left": 326.53125
+        }
+      ],
+      "serviceWidth": 358,
+      "serviceScroll": 358,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16,
+        "y": 8011.625,
+        "width": 358,
+        "height": 508.96875,
+        "top": 8011.625,
+        "right": 374,
+        "bottom": 8520.59375,
+        "left": 16
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 412,
+    "h": 915,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16.46875,
+        "y": 247.453125,
+        "width": 379.0625,
+        "height": 61.625,
+        "top": 247.453125,
+        "right": 395.53125,
+        "bottom": 309.078125,
+        "left": 16.46875
+      },
+      "cars": {
+        "x": 16.46875,
+        "y": 377.390625,
+        "width": 379.0625,
+        "height": 103,
+        "top": 377.390625,
+        "right": 395.53125,
+        "bottom": 480.390625,
+        "left": 16.46875
+      },
+      "pill": {
+        "x": 283,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 410,
+        "bottom": 130,
+        "left": 283
+      },
+      "location": {
+        "x": 16.46875,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.515625,
+        "bottom": 115.6875,
+        "left": 16.46875
+      },
+      "phoneIcon": {
+        "x": 288,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 318,
+        "bottom": 114,
+        "left": 288
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 324,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 405,
+            "bottom": 99,
+            "left": 324
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 324,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 405,
+            "bottom": 127,
+            "left": 324
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 238.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 282.53125,
+          "bottom": 49.5,
+          "left": 238.53125
+        },
+        {
+          "x": 286.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 344.53125,
+          "bottom": 49.5,
+          "left": 286.53125
+        },
+        {
+          "x": 348.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 404,
+          "bottom": 49.5,
+          "left": 348.53125
+        }
+      ],
+      "serviceWidth": 379,
+      "serviceScroll": 379,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16.46875,
+        "y": 8066.625,
+        "width": 379.0625,
+        "height": 483.46875,
+        "top": 8066.625,
+        "right": 395.53125,
+        "bottom": 8550.09375,
+        "left": 16.46875
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 412,
+    "h": 915,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 16.46875,
+        "y": 247.453125,
+        "width": 379.0625,
+        "height": 61.625,
+        "top": 247.453125,
+        "right": 395.53125,
+        "bottom": 309.078125,
+        "left": 16.46875
+      },
+      "cars": {
+        "x": 16.46875,
+        "y": 377.390625,
+        "width": 379.0625,
+        "height": 103,
+        "top": 377.390625,
+        "right": 395.53125,
+        "bottom": 480.390625,
+        "left": 16.46875
+      },
+      "pill": {
+        "x": 283,
+        "y": 68,
+        "width": 127,
+        "height": 62,
+        "top": 68,
+        "right": 410,
+        "bottom": 130,
+        "left": 283
+      },
+      "location": {
+        "x": 16.46875,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 160.515625,
+        "bottom": 115.6875,
+        "left": 16.46875
+      },
+      "phoneIcon": {
+        "x": 288,
+        "y": 84,
+        "width": 30,
+        "height": 30,
+        "top": 84,
+        "right": 318,
+        "bottom": 114,
+        "left": 288
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 324,
+            "y": 71,
+            "width": 81,
+            "height": 28,
+            "top": 71,
+            "right": 405,
+            "bottom": 99,
+            "left": 324
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 324,
+            "y": 99,
+            "width": 81,
+            "height": 28,
+            "top": 99,
+            "right": 405,
+            "bottom": 127,
+            "left": 324
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 238.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 282.53125,
+          "bottom": 49.5,
+          "left": 238.53125
+        },
+        {
+          "x": 286.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 344.53125,
+          "bottom": 49.5,
+          "left": 286.53125
+        },
+        {
+          "x": 348.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 404,
+          "bottom": 49.5,
+          "left": 348.53125
+        }
+      ],
+      "serviceWidth": 379,
+      "serviceScroll": 379,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 16.46875,
+        "y": 8066.625,
+        "width": 379.0625,
+        "height": 483.46875,
+        "top": 8066.625,
+        "right": 395.53125,
+        "bottom": 8550.09375,
+        "left": 16.46875
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 768,
+    "h": 1024,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 28,
+        "y": 240.25,
+        "width": 712,
+        "height": 74.78125,
+        "top": 240.25,
+        "right": 740,
+        "bottom": 315.03125,
+        "left": 28
+      },
+      "cars": {
+        "x": 28,
+        "y": 386.21875,
+        "width": 712,
+        "height": 210,
+        "top": 386.21875,
+        "right": 740,
+        "bottom": 596.21875,
+        "left": 28
+      },
+      "pill": {
+        "x": 640,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 765,
+        "bottom": 122,
+        "left": 640
+      },
+      "location": {
+        "x": 28,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 172.046875,
+        "bottom": 115.6875,
+        "left": 28
+      },
+      "phoneIcon": {
+        "x": 644,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 674,
+        "bottom": 110,
+        "left": 644
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 680,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 761,
+            "bottom": 95,
+            "left": 680
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 680,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 761,
+            "bottom": 120,
+            "left": 680
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 590.390625,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 634.390625,
+          "bottom": 49.5,
+          "left": 590.390625
+        },
+        {
+          "x": 638.390625,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 696.390625,
+          "bottom": 49.5,
+          "left": 638.390625
+        },
+        {
+          "x": 700.390625,
+          "y": 5.5,
+          "width": 59.609375,
+          "height": 44,
+          "top": 5.5,
+          "right": 760,
+          "bottom": 49.5,
+          "left": 700.390625
+        }
+      ],
+      "serviceWidth": 707,
+      "serviceScroll": 707,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 395.515625,
+        "y": 7028.46875,
+        "width": 341.765625,
+        "height": 490.96875,
+        "top": 7028.46875,
+        "right": 737.28125,
+        "bottom": 7519.4375,
+        "left": 395.515625
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 768,
+    "h": 1024,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 28,
+        "y": 240.25,
+        "width": 712,
+        "height": 74.78125,
+        "top": 240.25,
+        "right": 740,
+        "bottom": 315.03125,
+        "left": 28
+      },
+      "cars": {
+        "x": 28,
+        "y": 386.21875,
+        "width": 712,
+        "height": 210,
+        "top": 386.21875,
+        "right": 740,
+        "bottom": 596.21875,
+        "left": 28
+      },
+      "pill": {
+        "x": 640,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 765,
+        "bottom": 122,
+        "left": 640
+      },
+      "location": {
+        "x": 28,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 172.046875,
+        "bottom": 115.6875,
+        "left": 28
+      },
+      "phoneIcon": {
+        "x": 644,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 674,
+        "bottom": 110,
+        "left": 644
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 680,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 761,
+            "bottom": 95,
+            "left": 680
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 680,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 761,
+            "bottom": 120,
+            "left": 680
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 590.390625,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 634.390625,
+          "bottom": 49.5,
+          "left": 590.390625
+        },
+        {
+          "x": 638.390625,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 696.390625,
+          "bottom": 49.5,
+          "left": 638.390625
+        },
+        {
+          "x": 700.390625,
+          "y": 5.5,
+          "width": 59.609375,
+          "height": 44,
+          "top": 5.5,
+          "right": 760,
+          "bottom": 49.5,
+          "left": 700.390625
+        }
+      ],
+      "serviceWidth": 707,
+      "serviceScroll": 707,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 395.515625,
+        "y": 7028.46875,
+        "width": 341.765625,
+        "height": 490.96875,
+        "top": 7028.46875,
+        "right": 737.28125,
+        "bottom": 7519.4375,
+        "left": 395.515625
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1024,
+    "h": 768,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 76,
+        "y": 238.3125,
+        "width": 872,
+        "height": 27,
+        "top": 238.3125,
+        "right": 948,
+        "bottom": 265.3125,
+        "left": 76
+      },
+      "cars": {
+        "x": 206.796875,
+        "y": 305.46875,
+        "width": 610.40625,
+        "height": 260,
+        "top": 305.46875,
+        "right": 817.203125,
+        "bottom": 565.46875,
+        "left": 206.796875
+      },
+      "pill": {
+        "x": 896,
+        "y": 86,
+        "width": 125,
+        "height": 54,
+        "top": 86,
+        "right": 1021,
+        "bottom": 140,
+        "left": 896
+      },
+      "location": {
+        "x": 76,
+        "y": 86,
+        "width": 159.5,
+        "height": 49.6875,
+        "top": 86,
+        "right": 235.5,
+        "bottom": 135.6875,
+        "left": 76
+      },
+      "phoneIcon": {
+        "x": 900,
+        "y": 98,
+        "width": 30,
+        "height": 30,
+        "top": 98,
+        "right": 930,
+        "bottom": 128,
+        "left": 900
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 936,
+            "y": 88,
+            "width": 81,
+            "height": 25,
+            "top": 88,
+            "right": 1017,
+            "bottom": 113,
+            "left": 936
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 936,
+            "y": 113,
+            "width": 81,
+            "height": 25,
+            "top": 113,
+            "right": 1017,
+            "bottom": 138,
+            "left": 936
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 733.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 777.390625,
+          "bottom": 53.5,
+          "left": 733.390625
+        },
+        {
+          "x": 801.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 904.390625,
+          "bottom": 53.5,
+          "left": 801.390625
+        },
+        {
+          "x": 928.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 992,
+          "bottom": 53.5,
+          "left": 928.390625
+        }
+      ],
+      "serviceWidth": 415,
+      "serviceScroll": 415,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 527.359375,
+        "y": 5816.8125,
+        "width": 414.734375,
+        "height": 419.46875,
+        "top": 5816.8125,
+        "right": 942.09375,
+        "bottom": 6236.28125,
+        "left": 527.359375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1024,
+    "h": 768,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 76,
+        "y": 238.3125,
+        "width": 872,
+        "height": 27,
+        "top": 238.3125,
+        "right": 948,
+        "bottom": 265.3125,
+        "left": 76
+      },
+      "cars": {
+        "x": 206.796875,
+        "y": 305.46875,
+        "width": 610.40625,
+        "height": 260,
+        "top": 305.46875,
+        "right": 817.203125,
+        "bottom": 565.46875,
+        "left": 206.796875
+      },
+      "pill": {
+        "x": 896,
+        "y": 86,
+        "width": 125,
+        "height": 54,
+        "top": 86,
+        "right": 1021,
+        "bottom": 140,
+        "left": 896
+      },
+      "location": {
+        "x": 76,
+        "y": 86,
+        "width": 159.5,
+        "height": 49.6875,
+        "top": 86,
+        "right": 235.5,
+        "bottom": 135.6875,
+        "left": 76
+      },
+      "phoneIcon": {
+        "x": 900,
+        "y": 98,
+        "width": 30,
+        "height": 30,
+        "top": 98,
+        "right": 930,
+        "bottom": 128,
+        "left": 900
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 936,
+            "y": 88,
+            "width": 81,
+            "height": 25,
+            "top": 88,
+            "right": 1017,
+            "bottom": 113,
+            "left": 936
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 936,
+            "y": 113,
+            "width": 81,
+            "height": 25,
+            "top": 113,
+            "right": 1017,
+            "bottom": 138,
+            "left": 936
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 733.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 777.390625,
+          "bottom": 53.5,
+          "left": 733.390625
+        },
+        {
+          "x": 801.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 904.390625,
+          "bottom": 53.5,
+          "left": 801.390625
+        },
+        {
+          "x": 928.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 992,
+          "bottom": 53.5,
+          "left": 928.390625
+        }
+      ],
+      "serviceWidth": 415,
+      "serviceScroll": 415,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 527.359375,
+        "y": 5816.8125,
+        "width": 414.734375,
+        "height": 419.46875,
+        "top": 5816.8125,
+        "right": 942.09375,
+        "bottom": 6236.28125,
+        "left": 527.359375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1366,
+    "h": 768,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 95.609375,
+        "y": 254.375,
+        "width": 1174.78125,
+        "height": 33.03125,
+        "top": 254.375,
+        "right": 1270.390625,
+        "bottom": 287.40625,
+        "left": 95.609375
+      },
+      "cars": {
+        "x": 271.8125,
+        "y": 328.0625,
+        "width": 822.375,
+        "height": 300.515625,
+        "top": 328.0625,
+        "right": 1094.1875,
+        "bottom": 628.578125,
+        "left": 271.8125
+      },
+      "pill": {
+        "x": 1205.96875,
+        "y": 86,
+        "width": 159.046875,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1365.015625,
+        "bottom": 151.1875,
+        "left": 1205.96875
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 160.515625,
+        "height": 51.609375,
+        "top": 86,
+        "right": 161.515625,
+        "bottom": 137.609375,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1220.96875,
+        "y": 100.5625,
+        "width": 36.046875,
+        "height": 36.046875,
+        "top": 100.5625,
+        "right": 1257.015625,
+        "bottom": 136.609375,
+        "left": 1220.96875
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1265.015625,
+            "y": 93,
+            "width": 85,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1350.015625,
+            "bottom": 118.59375,
+            "left": 1265.015625
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1265.015625,
+            "y": 118.59375,
+            "width": 85,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1350.015625,
+            "bottom": 144.1875,
+            "left": 1265.015625
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1075.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1119.390625,
+          "bottom": 53.5,
+          "left": 1075.390625
+        },
+        {
+          "x": 1143.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1246.390625,
+          "bottom": 53.5,
+          "left": 1143.390625
+        },
+        {
+          "x": 1270.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1334,
+          "bottom": 53.5,
+          "left": 1270.390625
+        }
+      ],
+      "serviceWidth": 553,
+      "serviceScroll": 553,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 729.359375,
+        "y": 6283.90625,
+        "width": 527.375,
+        "height": 393.96875,
+        "top": 6283.90625,
+        "right": 1256.734375,
+        "bottom": 6677.875,
+        "left": 729.359375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1366,
+    "h": 768,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 95.609375,
+        "y": 254.375,
+        "width": 1174.78125,
+        "height": 33.03125,
+        "top": 254.375,
+        "right": 1270.390625,
+        "bottom": 287.40625,
+        "left": 95.609375
+      },
+      "cars": {
+        "x": 271.8125,
+        "y": 328.0625,
+        "width": 822.375,
+        "height": 300.515625,
+        "top": 328.0625,
+        "right": 1094.1875,
+        "bottom": 628.578125,
+        "left": 271.8125
+      },
+      "pill": {
+        "x": 1205.96875,
+        "y": 86,
+        "width": 159.046875,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1365.015625,
+        "bottom": 151.1875,
+        "left": 1205.96875
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 160.515625,
+        "height": 51.609375,
+        "top": 86,
+        "right": 161.515625,
+        "bottom": 137.609375,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1220.96875,
+        "y": 100.5625,
+        "width": 36.046875,
+        "height": 36.046875,
+        "top": 100.5625,
+        "right": 1257.015625,
+        "bottom": 136.609375,
+        "left": 1220.96875
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1265.015625,
+            "y": 93,
+            "width": 85,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1350.015625,
+            "bottom": 118.59375,
+            "left": 1265.015625
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1265.015625,
+            "y": 118.59375,
+            "width": 85,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1350.015625,
+            "bottom": 144.1875,
+            "left": 1265.015625
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1075.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1119.390625,
+          "bottom": 53.5,
+          "left": 1075.390625
+        },
+        {
+          "x": 1143.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1246.390625,
+          "bottom": 53.5,
+          "left": 1143.390625
+        },
+        {
+          "x": 1270.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1334,
+          "bottom": 53.5,
+          "left": 1270.390625
+        }
+      ],
+      "serviceWidth": 553,
+      "serviceScroll": 553,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 729.359375,
+        "y": 6283.90625,
+        "width": 527.375,
+        "height": 393.96875,
+        "top": 6283.90625,
+        "right": 1256.734375,
+        "bottom": 6677.875,
+        "left": 729.359375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1440,
+    "h": 900,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 100.796875,
+        "y": 254.265625,
+        "width": 1238.40625,
+        "height": 34.828125,
+        "top": 254.265625,
+        "right": 1339.203125,
+        "bottom": 289.09375,
+        "left": 100.796875
+      },
+      "cars": {
+        "x": 286.546875,
+        "y": 330.859375,
+        "width": 866.90625,
+        "height": 316.796875,
+        "top": 330.859375,
+        "right": 1153.453125,
+        "bottom": 647.65625,
+        "left": 286.546875
+      },
+      "pill": {
+        "x": 1268,
+        "y": 86,
+        "width": 171,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1439,
+        "bottom": 151.1875,
+        "left": 1268
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 167.40625,
+        "height": 53.53125,
+        "top": 86,
+        "right": 168.40625,
+        "bottom": 139.53125,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1283,
+        "y": 99.59375,
+        "width": 38,
+        "height": 38,
+        "top": 99.59375,
+        "right": 1321,
+        "bottom": 137.59375,
+        "left": 1283
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1329,
+            "y": 93,
+            "width": 95,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1424,
+            "bottom": 118.59375,
+            "left": 1329
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1329,
+            "y": 118.59375,
+            "width": 95,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1424,
+            "bottom": 144.1875,
+            "left": 1329
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1149.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1193.390625,
+          "bottom": 53.5,
+          "left": 1149.390625
+        },
+        {
+          "x": 1217.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1320.390625,
+          "bottom": 53.5,
+          "left": 1217.390625
+        },
+        {
+          "x": 1344.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1408,
+          "bottom": 53.5,
+          "left": 1344.390625
+        }
+      ],
+      "serviceWidth": 583,
+      "serviceScroll": 583,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 767.84375,
+        "y": 6435.59375,
+        "width": 556.96875,
+        "height": 393.96875,
+        "top": 6435.59375,
+        "right": 1324.8125,
+        "bottom": 6829.5625,
+        "left": 767.84375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1440,
+    "h": 900,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 100.796875,
+        "y": 254.265625,
+        "width": 1238.40625,
+        "height": 34.828125,
+        "top": 254.265625,
+        "right": 1339.203125,
+        "bottom": 289.09375,
+        "left": 100.796875
+      },
+      "cars": {
+        "x": 286.546875,
+        "y": 330.859375,
+        "width": 866.90625,
+        "height": 316.796875,
+        "top": 330.859375,
+        "right": 1153.453125,
+        "bottom": 647.65625,
+        "left": 286.546875
+      },
+      "pill": {
+        "x": 1268,
+        "y": 86,
+        "width": 171,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1439,
+        "bottom": 151.1875,
+        "left": 1268
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 167.40625,
+        "height": 53.53125,
+        "top": 86,
+        "right": 168.40625,
+        "bottom": 139.53125,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1283,
+        "y": 99.59375,
+        "width": 38,
+        "height": 38,
+        "top": 99.59375,
+        "right": 1321,
+        "bottom": 137.59375,
+        "left": 1283
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1329,
+            "y": 93,
+            "width": 95,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1424,
+            "bottom": 118.59375,
+            "left": 1329
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1329,
+            "y": 118.59375,
+            "width": 95,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1424,
+            "bottom": 144.1875,
+            "left": 1329
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1149.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1193.390625,
+          "bottom": 53.5,
+          "left": 1149.390625
+        },
+        {
+          "x": 1217.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1320.390625,
+          "bottom": 53.5,
+          "left": 1217.390625
+        },
+        {
+          "x": 1344.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1408,
+          "bottom": 53.5,
+          "left": 1344.390625
+        }
+      ],
+      "serviceWidth": 583,
+      "serviceScroll": 583,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 767.84375,
+        "y": 6435.59375,
+        "width": 556.96875,
+        "height": 393.96875,
+        "top": 6435.59375,
+        "right": 1324.8125,
+        "bottom": 6829.5625,
+        "left": 767.84375
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1920,
+    "h": 1080,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 220,
+        "y": 249.390625,
+        "width": 1480,
+        "height": 36.71875,
+        "top": 249.390625,
+        "right": 1700,
+        "bottom": 286.109375,
+        "left": 220
+      },
+      "cars": {
+        "x": 442,
+        "y": 332.984375,
+        "width": 1036,
+        "height": 422.390625,
+        "top": 332.984375,
+        "right": 1478,
+        "bottom": 755.375,
+        "left": 442
+      },
+      "pill": {
+        "x": 1739.015625,
+        "y": 86,
+        "width": 180,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1919.015625,
+        "bottom": 151.1875,
+        "left": 1739.015625
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 189.25,
+        "height": 62.703125,
+        "top": 86,
+        "right": 190.25,
+        "bottom": 148.703125,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1754.015625,
+        "y": 99.59375,
+        "width": 38,
+        "height": 38,
+        "top": 99.59375,
+        "right": 1792.015625,
+        "bottom": 137.59375,
+        "left": 1754.015625
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1800.015625,
+            "y": 93,
+            "width": 104,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1904.015625,
+            "bottom": 118.59375,
+            "left": 1800.015625
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1800.015625,
+            "y": 118.59375,
+            "width": 104,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1904.015625,
+            "bottom": 144.1875,
+            "left": 1800.015625
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1629.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1673.390625,
+          "bottom": 53.5,
+          "left": 1629.390625
+        },
+        {
+          "x": 1697.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1800.390625,
+          "bottom": 53.5,
+          "left": 1697.390625
+        },
+        {
+          "x": 1824.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1888,
+          "bottom": 53.5,
+          "left": 1824.390625
+        }
+      ],
+      "serviceWidth": 626,
+      "serviceScroll": 626,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 1010,
+        "y": 6715.859375,
+        "width": 600,
+        "height": 393.96875,
+        "top": 6715.859375,
+        "right": 1610,
+        "bottom": 7109.828125,
+        "left": 1010
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 1920,
+    "h": 1080,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 220,
+        "y": 249.390625,
+        "width": 1480,
+        "height": 36.71875,
+        "top": 249.390625,
+        "right": 1700,
+        "bottom": 286.109375,
+        "left": 220
+      },
+      "cars": {
+        "x": 442,
+        "y": 332.984375,
+        "width": 1036,
+        "height": 422.390625,
+        "top": 332.984375,
+        "right": 1478,
+        "bottom": 755.375,
+        "left": 442
+      },
+      "pill": {
+        "x": 1739.015625,
+        "y": 86,
+        "width": 180,
+        "height": 65.1875,
+        "top": 86,
+        "right": 1919.015625,
+        "bottom": 151.1875,
+        "left": 1739.015625
+      },
+      "location": {
+        "x": 1,
+        "y": 86,
+        "width": 189.25,
+        "height": 62.703125,
+        "top": 86,
+        "right": 190.25,
+        "bottom": 148.703125,
+        "left": 1
+      },
+      "phoneIcon": {
+        "x": 1754.015625,
+        "y": 99.59375,
+        "width": 38,
+        "height": 38,
+        "top": 99.59375,
+        "right": 1792.015625,
+        "bottom": 137.59375,
+        "left": 1754.015625
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 1800.015625,
+            "y": 93,
+            "width": 104,
+            "height": 25.59375,
+            "top": 93,
+            "right": 1904.015625,
+            "bottom": 118.59375,
+            "left": 1800.015625
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 1800.015625,
+            "y": 118.59375,
+            "width": 104,
+            "height": 25.59375,
+            "top": 118.59375,
+            "right": 1904.015625,
+            "bottom": 144.1875,
+            "left": 1800.015625
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 1629.390625,
+          "y": 9.5,
+          "width": 44,
+          "height": 44,
+          "top": 9.5,
+          "right": 1673.390625,
+          "bottom": 53.5,
+          "left": 1629.390625
+        },
+        {
+          "x": 1697.390625,
+          "y": 9.5,
+          "width": 103,
+          "height": 44,
+          "top": 9.5,
+          "right": 1800.390625,
+          "bottom": 53.5,
+          "left": 1697.390625
+        },
+        {
+          "x": 1824.390625,
+          "y": 9.5,
+          "width": 63.609375,
+          "height": 44,
+          "top": 9.5,
+          "right": 1888,
+          "bottom": 53.5,
+          "left": 1824.390625
+        }
+      ],
+      "serviceWidth": 626,
+      "serviceScroll": 626,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 1010,
+        "y": 6715.859375,
+        "width": 600,
+        "height": 393.96875,
+        "top": 6715.859375,
+        "right": 1610,
+        "bottom": 7109.828125,
+        "left": 1010
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.960-C1CU3UYR.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 844,
+    "h": 390,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 62,
+        "y": 238.796875,
+        "width": 720,
+        "height": 74.78125,
+        "top": 238.796875,
+        "right": 782,
+        "bottom": 313.578125,
+        "left": 62
+      },
+      "cars": {
+        "x": 62,
+        "y": 380.765625,
+        "width": 720,
+        "height": 148.1875,
+        "top": 380.765625,
+        "right": 782,
+        "bottom": 528.953125,
+        "left": 62
+      },
+      "pill": {
+        "x": 716,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 841,
+        "bottom": 122,
+        "left": 716
+      },
+      "location": {
+        "x": 62,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 206.046875,
+        "bottom": 115.6875,
+        "left": 62
+      },
+      "phoneIcon": {
+        "x": 720,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 750,
+        "bottom": 110,
+        "left": 720
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 756,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 837,
+            "bottom": 95,
+            "left": 756
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 756,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 837,
+            "bottom": 120,
+            "left": 756
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 666.390625,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 710.390625,
+          "bottom": 49.5,
+          "left": 666.390625
+        },
+        {
+          "x": 714.390625,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 772.390625,
+          "bottom": 49.5,
+          "left": 714.390625
+        },
+        {
+          "x": 776.390625,
+          "y": 5.5,
+          "width": 59.609375,
+          "height": 44,
+          "top": 5.5,
+          "right": 836,
+          "bottom": 49.5,
+          "left": 776.390625
+        }
+      ],
+      "serviceWidth": 780,
+      "serviceScroll": 780,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 434.65625,
+        "y": 6886.78125,
+        "width": 377.34375,
+        "height": 465.46875,
+        "top": 6886.78125,
+        "right": 812,
+        "bottom": 7352.25,
+        "left": 434.65625
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 844,
+    "h": 390,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 62,
+        "y": 238.796875,
+        "width": 720,
+        "height": 74.78125,
+        "top": 238.796875,
+        "right": 782,
+        "bottom": 313.578125,
+        "left": 62
+      },
+      "cars": {
+        "x": 62,
+        "y": 380.765625,
+        "width": 720,
+        "height": 148.1875,
+        "top": 380.765625,
+        "right": 782,
+        "bottom": 528.953125,
+        "left": 62
+      },
+      "pill": {
+        "x": 716,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 841,
+        "bottom": 122,
+        "left": 716
+      },
+      "location": {
+        "x": 62,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 206.046875,
+        "bottom": 115.6875,
+        "left": 62
+      },
+      "phoneIcon": {
+        "x": 720,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 750,
+        "bottom": 110,
+        "left": 720
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 756,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 837,
+            "bottom": 95,
+            "left": 756
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 756,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 837,
+            "bottom": 120,
+            "left": 756
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 666.390625,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 710.390625,
+          "bottom": 49.5,
+          "left": 666.390625
+        },
+        {
+          "x": 714.390625,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 772.390625,
+          "bottom": 49.5,
+          "left": 714.390625
+        },
+        {
+          "x": 776.390625,
+          "y": 5.5,
+          "width": 59.609375,
+          "height": 44,
+          "top": 5.5,
+          "right": 836,
+          "bottom": 49.5,
+          "left": 776.390625
+        }
+      ],
+      "serviceWidth": 780,
+      "serviceScroll": 780,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 434.65625,
+        "y": 6886.78125,
+        "width": 377.34375,
+        "height": 465.46875,
+        "top": 6886.78125,
+        "right": 812,
+        "bottom": 7352.25,
+        "left": 434.65625
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 683,
+    "h": 384,
+    "theme": "dark",
+    "metrics": {
+      "overflow": 0,
+      "theme": "dark",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 27.3125,
+        "y": 238.796875,
+        "width": 628.375,
+        "height": 74.78125,
+        "top": 238.796875,
+        "right": 655.6875,
+        "bottom": 313.578125,
+        "left": 27.3125
+      },
+      "cars": {
+        "x": 27.3125,
+        "y": 380.765625,
+        "width": 628.375,
+        "height": 145.90625,
+        "top": 380.765625,
+        "right": 655.6875,
+        "bottom": 526.671875,
+        "left": 27.3125
+      },
+      "pill": {
+        "x": 555,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 680,
+        "bottom": 122,
+        "left": 555
+      },
+      "location": {
+        "x": 27.3125,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 171.359375,
+        "bottom": 115.6875,
+        "left": 27.3125
+      },
+      "phoneIcon": {
+        "x": 559,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 589,
+        "bottom": 110,
+        "left": 559
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 595,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 676,
+            "bottom": 95,
+            "left": 595
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 595,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 676,
+            "bottom": 120,
+            "left": 595
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 509.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 553.53125,
+          "bottom": 49.5,
+          "left": 509.53125
+        },
+        {
+          "x": 557.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 615.53125,
+          "bottom": 49.5,
+          "left": 557.53125
+        },
+        {
+          "x": 619.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 675,
+          "bottom": 49.5,
+          "left": 619.53125
+        }
+      ],
+      "serviceWidth": 628,
+      "serviceScroll": 628,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 27.3125,
+        "y": 7351.65625,
+        "width": 628.375,
+        "height": 457.96875,
+        "top": 7351.65625,
+        "right": 655.6875,
+        "bottom": 7809.625,
+        "left": 27.3125
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  },
+  {
+    "w": 683,
+    "h": 384,
+    "theme": "light",
+    "metrics": {
+      "overflow": 0,
+      "theme": "light",
+      "canvas": 0,
+      "h1": 1,
+      "hero": {
+        "x": 27.3125,
+        "y": 238.796875,
+        "width": 628.375,
+        "height": 74.78125,
+        "top": 238.796875,
+        "right": 655.6875,
+        "bottom": 313.578125,
+        "left": 27.3125
+      },
+      "cars": {
+        "x": 27.3125,
+        "y": 380.765625,
+        "width": 628.375,
+        "height": 145.90625,
+        "top": 380.765625,
+        "right": 655.6875,
+        "bottom": 526.671875,
+        "left": 27.3125
+      },
+      "pill": {
+        "x": 555,
+        "y": 68,
+        "width": 125,
+        "height": 54,
+        "top": 68,
+        "right": 680,
+        "bottom": 122,
+        "left": 555
+      },
+      "location": {
+        "x": 27.3125,
+        "y": 68,
+        "width": 144.046875,
+        "height": 47.6875,
+        "top": 68,
+        "right": 171.359375,
+        "bottom": 115.6875,
+        "left": 27.3125
+      },
+      "phoneIcon": {
+        "x": 559,
+        "y": 80,
+        "width": 30,
+        "height": 30,
+        "top": 80,
+        "right": 589,
+        "bottom": 110,
+        "left": 559
+      },
+      "phones": [
+        [
+          "tel:+919908303888",
+          {
+            "x": 595,
+            "y": 70,
+            "width": 81,
+            "height": 25,
+            "top": 70,
+            "right": 676,
+            "bottom": 95,
+            "left": 595
+          }
+        ],
+        [
+          "tel:+918074946335",
+          {
+            "x": 595,
+            "y": 95,
+            "width": 81,
+            "height": 25,
+            "top": 95,
+            "right": 676,
+            "bottom": 120,
+            "left": 595
+          }
+        ]
+      ],
+      "rail": 6,
+      "nav": [
+        {
+          "x": 509.53125,
+          "y": 5.5,
+          "width": 44,
+          "height": 44,
+          "top": 5.5,
+          "right": 553.53125,
+          "bottom": 49.5,
+          "left": 509.53125
+        },
+        {
+          "x": 557.53125,
+          "y": 5.5,
+          "width": 58,
+          "height": 44,
+          "top": 5.5,
+          "right": 615.53125,
+          "bottom": 49.5,
+          "left": 557.53125
+        },
+        {
+          "x": 619.53125,
+          "y": 5.5,
+          "width": 55.46875,
+          "height": 44,
+          "top": 5.5,
+          "right": 675,
+          "bottom": 49.5,
+          "left": 619.53125
+        }
+      ],
+      "serviceWidth": 628,
+      "serviceScroll": 628,
+      "actionMotion": "0ms",
+      "booking": {
+        "x": 27.3125,
+        "y": 7351.65625,
+        "width": 628.375,
+        "height": 457.96875,
+        "top": 7351.65625,
+        "right": 655.6875,
+        "bottom": 7809.625,
+        "left": 27.3125
+      }
+    },
+    "requestedAtHero": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp"
+    ],
+    "requestedBeforeSeeMore": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp"
+    ],
+    "requestedAfter": [
+      "/Toli-2/assets/gallery-2.webp.960-CVD93vtd.webp",
+      "/Toli-2/assets/gallery-4.avif.480-ewMqBvEZ.webp",
+      "/Toli-2/assets/gallery-3.webp.480-B_QI_dVO.webp",
+      "/Toli-2/assets/gallery-5.webp.480-DAk9Tv96.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.216.56 AM.webp.480-Da4AYG95.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM.webp.480-h4mQ20h6.webp",
+      "/Toli-2/assets/gallery-2-P0wPnU2G.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.20 AM-CMNLvml-.webp",
+      "/Toli-2/assets/gallery-1.webp.480-DQfVLFqF.webp",
+      "/Toli-2/assets/gallery-6.webp.480-SujAX0MW.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.55 AM.webp.480-DF71fQ0e.webp",
+      "/Toli-2/assets/gallery-7.webp.480-DPB9iJW8.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.552 AM.webp.480-B0zXAP76.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 2AM.webp.480-Buy4LMhK.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.16.582 AM.webp.480-DJvoMY0h.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.21 AM.webp.480-DAgsSO1k.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 2at 8.16.56 AM.webp.480-CzNBFfXb.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM.webp.480-v-53O7qi.webp",
+      "/Toli-2/assets/WhatsApp Image 2026-08-06 at 8.09.25 2AM-LazYVJ6M.webp"
+    ]
+  }
+]

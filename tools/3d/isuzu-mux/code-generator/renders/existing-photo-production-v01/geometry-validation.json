@@ -1,0 +1,497 @@
+{
+  "totals": {
+    "base": {
+      "vertices": 2615,
+      "triangles": 5018,
+      "n_gons": 0,
+      "degenerate_faces": 0,
+      "zero_length_edges": 0,
+      "nonmanifold_edges": 180,
+      "boundary_edges": 180
+    },
+    "evaluated": {
+      "vertices": 20982,
+      "triangles": 41904,
+      "n_gons": 0,
+      "degenerate_faces": 0,
+      "zero_length_edges": 0,
+      "nonmanifold_edges": 0,
+      "boundary_edges": 0
+    }
+  },
+  "objects": [
+    {
+      "object": "AUTHORED_greenhouse_roof_A_and_D_structure",
+      "base": {
+        "vertices": 80,
+        "triangles": 132,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 26,
+        "boundary_edges": 26
+      },
+      "evaluated": {
+        "vertices": 2114,
+        "triangles": 4224,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_front_side_window",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16
+      },
+      "evaluated": {
+        "vertices": 1156,
+        "triangles": 2304,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_rear_side_window",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16
+      },
+      "evaluated": {
+        "vertices": 1156,
+        "triangles": 2304,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_quarter_glass",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16
+      },
+      "evaluated": {
+        "vertices": 1156,
+        "triangles": 2304,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_windscreen",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16
+      },
+      "evaluated": {
+        "vertices": 1122,
+        "triangles": 2240,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_rear_glass",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16
+      },
+      "evaluated": {
+        "vertices": 1122,
+        "triangles": 2240,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_main_body_front_fenders_rear_quarters",
+      "base": {
+        "vertices": 314,
+        "triangles": 574,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 52,
+        "boundary_edges": 52
+      },
+      "evaluated": {
+        "vertices": 9186,
+        "triangles": 18368,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "AUTHORED_compound_bonnet",
+      "base": {
+        "vertices": 40,
+        "triangles": 56,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 22,
+        "boundary_edges": 22
+      },
+      "evaluated": {
+        "vertices": 1914,
+        "triangles": 3824,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "ANCHOR_FRONT_NEGATIVE_Y_TIRE",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "PLAIN_FRONT_NEGATIVE_Y_WHEEL",
+      "base": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "ANCHOR_FRONT_POSITIVE_Y_TIRE",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "PLAIN_FRONT_POSITIVE_Y_WHEEL",
+      "base": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "ANCHOR_REAR_NEGATIVE_Y_TIRE",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "PLAIN_REAR_NEGATIVE_Y_WHEEL",
+      "base": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "ANCHOR_REAR_POSITIVE_Y_TIRE",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    },
+    {
+      "object": "PLAIN_REAR_POSITIVE_Y_WHEEL",
+      "base": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      },
+      "evaluated": {
+        "vertices": 130,
+        "triangles": 256,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0
+      }
+    }
+  ],
+  "evaluated_dimensions": [
+    4.825001239776611,
+    1.8590018153190613,
+    1.856500267982483
+  ],
+  "bounds": {
+    "min": [
+      -2.4125006198883057,
+      -0.929500937461853,
+      0.0
+    ],
+    "max": [
+      2.4125006198883057,
+      0.9295008778572083,
+      1.856500267982483
+    ]
+  },
+  "nominal_framework": {
+    "length": 4.825,
+    "width": 1.86,
+    "height": 1.86,
+    "wheelbase": 2.845,
+    "track": 1.57,
+    "tire_diameter": 0.764,
+    "ground_clearance": 0.23,
+    "bonnet_length": 1.2,
+    "bonnet_height": 1.13,
+    "roof_crown": 0.055,
+    "greenhouse_width": 1.49,
+    "belt_height": 1.19,
+    "rear_taper": 0.08,
+    "fender_bulge": 0.025,
+    "arch_clearance": 0.07,
+    "windscreen_run": 0.5
+  },
+  "wheelbase": 2.845,
+  "wheel_centres": {
+    "ANCHOR_FRONT_NEGATIVE_Y_TIRE": [
+      -1.4225,
+      -0.785,
+      0.382
+    ],
+    "ANCHOR_FRONT_POSITIVE_Y_TIRE": [
+      -1.4225,
+      0.785,
+      0.382
+    ],
+    "ANCHOR_REAR_NEGATIVE_Y_TIRE": [
+      1.4225,
+      -0.785,
+      0.382
+    ],
+    "ANCHOR_REAR_POSITIVE_Y_TIRE": [
+      1.4225,
+      0.785,
+      0.382
+    ]
+  },
+  "wheel_object_transforms": {
+    "ANCHOR_FRONT_NEGATIVE_Y_TIRE": {
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "note": "Wheel coordinates are baked in the mesh; centre is recorded separately."
+    },
+    "ANCHOR_FRONT_POSITIVE_Y_TIRE": {
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "note": "Wheel coordinates are baked in the mesh; centre is recorded separately."
+    },
+    "ANCHOR_REAR_NEGATIVE_Y_TIRE": {
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "note": "Wheel coordinates are baked in the mesh; centre is recorded separately."
+    },
+    "ANCHOR_REAR_POSITIVE_Y_TIRE": {
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "note": "Wheel coordinates are baked in the mesh; centre is recorded separately."
+    }
+  },
+  "symmetry_discrepancy": 2.1170726540731266e-05,
+  "grounding": "PASS",
+  "fixed_wheel_anchors": "PASS",
+  "actual_wheel_mesh_centres_and_diameters": "PASS",
+  "note": "Base counts are half-body control meshes before symmetry/subdivision. Counts exclude studio and image reference empties. Per-object manifoldness does not establish a joined watertight vehicle."
+}

@@ -1,0 +1,50 @@
+{
+  "method": "unchanged V02 wheel anchored uniform scale/translation, no per-part fitting, calibrated-accuracy claim or geometry warp",
+  "views": {
+    "front": {
+      "scale": 1.1278899901875825,
+      "translation": [
+        -12.642975270414809,
+        8.001897635129865
+      ],
+      "rotation": 0,
+      "wheelProjectionError": 0
+    },
+    "front-right": {
+      "scale": 1.604354347021757,
+      "translation": [
+        -246.3223990657508,
+        -166.5852717839798
+      ],
+      "rotation": 0,
+      "wheelProjectionError": 0
+    },
+    "right": {
+      "scale": 1.1051105478945158,
+      "translation": [
+        -10.185538546056591,
+        -20.006566633025272
+      ],
+      "rotation": 0,
+      "wheelProjectionError": 0
+    },
+    "rear-right": {
+      "scale": 1.2860754654991993,
+      "translation": [
+        -88.5859902157174,
+        -67.3103437745861
+      ],
+      "rotation": 0,
+      "wheelProjectionError": 0
+    },
+    "rear": {
+      "scale": 1.0738761502236644,
+      "translation": [
+        2.391695592193628,
+        27.889800626710894
+      ],
+      "rotation": 0,
+      "wheelProjectionError": 0
+    }
+  }
+}

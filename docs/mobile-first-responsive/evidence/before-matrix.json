@@ -1,0 +1,601 @@
+[
+  {
+    "height": 568,
+    "heroHeight": 1258.75,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 49.875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1258.75,
+        "id": "hero"
+      },
+      {
+        "h": 724.0625,
+        "id": "inside-toli"
+      },
+      {
+        "h": 4785.65625,
+        "id": "gallery"
+      },
+      {
+        "h": 1137.3125,
+        "id": "booking"
+      }
+    ],
+    "width": 320
+  },
+  {
+    "height": 640,
+    "heroHeight": 1283.796875,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1283.796875,
+        "id": "hero"
+      },
+      {
+        "h": 742.453125,
+        "id": "inside-toli"
+      },
+      {
+        "h": 5311.375,
+        "id": "gallery"
+      },
+      {
+        "h": 1065.8125,
+        "id": "booking"
+      }
+    ],
+    "width": 360
+  },
+  {
+    "height": 667,
+    "heroHeight": 1295.09375,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1295.09375,
+        "id": "hero"
+      },
+      {
+        "h": 757.578125,
+        "id": "inside-toli"
+      },
+      {
+        "h": 5527.390625,
+        "id": "gallery"
+      },
+      {
+        "h": 1068.8125,
+        "id": "booking"
+      }
+    ],
+    "width": 375
+  },
+  {
+    "height": 844,
+    "heroHeight": 1315.03125,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1315.03125,
+        "id": "hero"
+      },
+      {
+        "h": 856.6875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 5886.765625,
+        "id": "gallery"
+      },
+      {
+        "h": 1051.390625,
+        "id": "booking"
+      }
+    ],
+    "width": 390
+  },
+  {
+    "height": 852,
+    "heroHeight": 1317.875,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1317.875,
+        "id": "hero"
+      },
+      {
+        "h": 861.171875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 5929.984375,
+        "id": "gallery"
+      },
+      {
+        "h": 1051.953125,
+        "id": "booking"
+      }
+    ],
+    "width": 393
+  },
+  {
+    "height": 915,
+    "heroHeight": 1336.078125,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1336.078125,
+        "id": "hero"
+      },
+      {
+        "h": 896.453125,
+        "id": "inside-toli"
+      },
+      {
+        "h": 6203.640625,
+        "id": "gallery"
+      },
+      {
+        "h": 1030.234375,
+        "id": "booking"
+      }
+    ],
+    "width": 412
+  },
+  {
+    "height": 932,
+    "heroHeight": 1353.328125,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1353.328125,
+        "id": "hero"
+      },
+      {
+        "h": 905.96875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 6462.859375,
+        "id": "gallery"
+      },
+      {
+        "h": 1033.796875,
+        "id": "booking"
+      }
+    ],
+    "width": 430
+  },
+  {
+    "height": 375,
+    "heroHeight": 1469.4375,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1469.4375,
+        "id": "hero"
+      },
+      {
+        "h": 725.96875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 5289.890625,
+        "id": "gallery"
+      },
+      {
+        "h": 1034.046875,
+        "id": "booking"
+      }
+    ],
+    "width": 667
+  },
+  {
+    "height": 390,
+    "heroHeight": 1081.65625,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Open support tools",
+        "w": 57.8125
+      },
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 102.59375
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 63.609375
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1081.65625,
+        "id": "hero"
+      },
+      {
+        "h": 613.375,
+        "id": "inside-toli"
+      },
+      {
+        "h": 3356.953125,
+        "id": "gallery"
+      },
+      {
+        "h": 1063,
+        "id": "booking"
+      }
+    ],
+    "width": 844
+  },
+  {
+    "height": 960,
+    "heroHeight": 1440.9375,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 70
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 53.46875
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1440.9375,
+        "id": "hero"
+      },
+      {
+        "h": 921.65625,
+        "id": "inside-toli"
+      },
+      {
+        "h": 8767.28125,
+        "id": "gallery"
+      },
+      {
+        "h": 1034.046875,
+        "id": "booking"
+      }
+    ],
+    "width": 600
+  },
+  {
+    "height": 1024,
+    "heroHeight": 1097.59375,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Open support tools",
+        "w": 57.8125
+      },
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 102.59375
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 63.609375
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1097.59375,
+        "id": "hero"
+      },
+      {
+        "h": 859.40625,
+        "id": "inside-toli"
+      },
+      {
+        "h": 3067.59375,
+        "id": "gallery"
+      },
+      {
+        "h": 1054.875,
+        "id": "booking"
+      }
+    ],
+    "width": 768
+  },
+  {
+    "height": 768,
+    "heroHeight": 984.609375,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Open support tools",
+        "w": 57.8125
+      },
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 102.59375
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 63.609375
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 984.609375,
+        "id": "hero"
+      },
+      {
+        "h": 735.75,
+        "id": "inside-toli"
+      },
+      {
+        "h": 4038.65625,
+        "id": "gallery"
+      },
+      {
+        "h": 734.46875,
+        "id": "booking"
+      }
+    ],
+    "width": 1024
+  },
+  {
+    "height": 900,
+    "heroHeight": 1093.203125,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Open support tools",
+        "w": 57.8125
+      },
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 102.59375
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 63.609375
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1093.203125,
+        "id": "hero"
+      },
+      {
+        "h": 858.171875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 2765.265625,
+        "id": "gallery"
+      },
+      {
+        "h": 836,
+        "id": "booking"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "height": 1080,
+    "heroHeight": 1225.125,
+    "nav": [
+      {
+        "h": 44,
+        "name": "Open support tools",
+        "w": 57.8125
+      },
+      {
+        "h": 44,
+        "name": "Switch to light theme",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "name": "Book Service ↗",
+        "w": 102.59375
+      },
+      {
+        "h": 44,
+        "name": "Open navigation menu",
+        "w": 63.609375
+      }
+    ],
+    "overflow": false,
+    "sections": [
+      {
+        "h": 1225.125,
+        "id": "hero"
+      },
+      {
+        "h": 973.671875,
+        "id": "inside-toli"
+      },
+      {
+        "h": 3371.59375,
+        "id": "gallery"
+      },
+      {
+        "h": 1016,
+        "id": "booking"
+      }
+    ],
+    "width": 1920
+  }
+]

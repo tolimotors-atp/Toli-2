@@ -1,0 +1,30 @@
+{
+  "method": "LOW-CONTROL AUTOMOTIVE SURFACE PATCHES",
+  "G1": "FAIL",
+  "G2": "NOT REACHED",
+  "G3": "NOT REACHED",
+  "G4": "NOT REACHED",
+  "G5": "NOT REACHED",
+  "G6": "NOT REACHED",
+  "overall": "FAIL",
+  "manual_reconstruction_limit_reached": true,
+  "decision": "MANUAL REFERENCE-CONSTRAINED RECONSTRUCTION HAS REACHED ITS RELIABLE LIMIT.",
+  "scope": "Current mixed reference library and this manual workflow, not proof that NURBS or manual reconstruction is intrinsically impossible.",
+  "positive_evidence": [
+    "16-point editable bicubic surface has smooth broad curvature",
+    "front taper/base improved after one control-row correction",
+    "stance unchanged"
+  ],
+  "remaining_problems": [
+    "Four-sided perimeter remains too rectilinear at corners and lower boundary versus the reference glass.",
+    "Side rake is broadly plausible, but cowl/header endpoint positions and transverse corner falloff are not convincingly established together.",
+    "Three-quarter foreshortening/perimeter correspondence remains approximate; manually posed views are not accepted camera matches."
+  ],
+  "stop_entire_manual_reconstruction": true,
+  "next_practical_options": [
+    "controlled same-vehicle capture suitable for reconstruction",
+    "accurate licensed MU-X base geometry"
+  ],
+  "no_roof_or_pillars": true,
+  "no_body_or_details": true
+}

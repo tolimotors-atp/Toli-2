@@ -1,0 +1,17 @@
+{
+  "existingFilesChecked": 386,
+  "modified": [
+    "src/test/mux-photography.test.tsx",
+    "src/components/journey/mux-photography.css",
+    "src/components/journey/MuxPhotography.tsx"
+  ],
+  "newSourceAssets": [
+    "src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent.webp",
+    "src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent.webp",
+    "src/assets/vehicles/isuzu-mux/isuzu-mux-front-3q-transparent-640.webp",
+    "src/assets/vehicles/isuzu-mux/isuzu-mux-rear-3q-transparent-640.webp"
+  ],
+  "originalReferencesChecked": 43,
+  "originalReferencesChanged": [],
+  "protectedSourceChanges": []
+}

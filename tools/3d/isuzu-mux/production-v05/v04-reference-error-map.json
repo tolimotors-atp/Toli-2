@@ -1,0 +1,91 @@
+{
+  "references": [
+    "Screenshot From 2026-11-06 18-17-10.png",
+    "Screenshot From 2026-11-06 18-17-14.png",
+    "Screenshot From 2026-11-06 18-17-27.png",
+    "Screenshot From 2026-11-06 18-17-31.png",
+    "Screenshot From 2026-11-06 18-17-18.png"
+  ],
+  "assessment": {
+    "overall stance": [
+      "NEEDS WORK",
+      "Nominal dimensions and axles are locked; cabin still appears rectangular and nose low."
+    ],
+    "bonnet": [
+      "FAIL",
+      "Front and quarter references show a crowned hood with a rolled nose; V04 reads as a flat ramp."
+    ],
+    "front fascia": [
+      "FAIL",
+      "Reference has interlocking chrome/two-level grille and corner fog pockets; V04 has three plain slots."
+    ],
+    "headlights": [
+      "FAIL",
+      "Reference has rising swept outer tip, projector and lower return; V04 has a dark undetailed aperture."
+    ],
+    "grille": [
+      "FAIL",
+      "Upper/lower trapezoids and chrome surround are missing."
+    ],
+    "front fenders": [
+      "FAIL",
+      "Bonnet/headlamp/arch crown still meet abruptly."
+    ],
+    "wheel arches": [
+      "NEEDS WORK",
+      "Circular framework exists; lip/volume does not flow naturally into panels."
+    ],
+    "windscreen": [
+      "NEEDS WORK",
+      "Rake established, but cowl and upper corner softness need closer convergence."
+    ],
+    "greenhouse": [
+      "NEEDS WORK",
+      "B-pillar layout exists; side windows and quarter-glass termination remain too generic."
+    ],
+    "mirrors": [
+      "NEEDS WORK",
+      "Paired shells exist but rounded housing differs from reference."
+    ],
+    "doors": [
+      "NEEDS WORK",
+      "Four surface cuts exist; reference trailing-edge relationships remain approximate."
+    ],
+    "handles": [
+      "NEEDS WORK",
+      "Shallow handles exist; projection/position still approximate."
+    ],
+    "side body": [
+      "NEEDS WORK",
+      "Body has compound curvature but weak shoulder/sill relationships."
+    ],
+    "rear fenders": [
+      "FAIL",
+      "Arch crown and shoulder continuation are not convincingly joined."
+    ],
+    "D-pillar": [
+      "FAIL",
+      "Reference quarter-window taper and pillar inclination are not matched."
+    ],
+    "rear glass": [
+      "NEEDS WORK",
+      "Outline exists but corners/relationship to D-pillar remain inaccurate."
+    ],
+    "tail lamps": [
+      "FAIL",
+      "Outer apertures lack red/clear lens structure and quarter continuation."
+    ],
+    "tailgate": [
+      "FAIL",
+      "Reference has plate recess, broad crowned panel and lower return; V04 looks flat."
+    ],
+    "rear bumper": [
+      "FAIL",
+      "Reference lower graphite valance, reflector pockets and corner wrap are absent."
+    ],
+    "wheels": [
+      "NEEDS WORK",
+      "Diameter grounded correctly; rim/spoke/brake distinction could be clearer."
+    ]
+  }
+}

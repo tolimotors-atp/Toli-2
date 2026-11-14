@@ -1,0 +1,29 @@
+{
+  "typescript": "PASS",
+  "lint": "PASS",
+  "build": {
+    "result": "PASS",
+    "seconds": 7.87
+  },
+  "tests": {
+    "files": 55,
+    "passed": 373,
+    "failed": 0
+  },
+  "responsiveCases": 42,
+  "sameSourceInThreeSlots": true,
+  "alphaTransparency": "PASS",
+  "hero": "UNCHANGED",
+  "navbar": "UNCHANGED",
+  "toliAI": "PASS desktop/mobile",
+  "productionCanvasCount": 0,
+  "productionSceneHostCount": 0,
+  "productionConsoleWarnings": 0,
+  "productionConsoleErrors": 0,
+  "gitCommit": null,
+  "branch": null,
+  "githubPush": "BLOCKED: target is not a Git repository",
+  "deployment": "NOT PERFORMED",
+  "providerRefactor": "NOT APPLIED: optional broader change rejected by automatic approval review",
+  "physicalDevicePerformance": "NOT MEASURED"
+}

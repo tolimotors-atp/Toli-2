@@ -1,0 +1,866 @@
+[
+  {
+    "image_a": 1,
+    "image_b": 1,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 1,
+    "image_b": 2,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 1,
+    "image_b": 3,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 1,
+    "image_b": 4,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 1,
+    "image_b": 6,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 7,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 8,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 9,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 10,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 11,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 12,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 1,
+    "image_b": 13,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 1,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 2,
+    "image_b": 2,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 2,
+    "image_b": 3,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 2,
+    "image_b": 4,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 2,
+    "image_b": 6,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 7,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 8,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 9,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 10,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 11,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 12,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 2,
+    "image_b": 13,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 1,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 3,
+    "image_b": 2,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 3,
+    "image_b": 3,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 3,
+    "image_b": 4,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 3,
+    "image_b": 6,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 7,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 8,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 9,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 10,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 11,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 12,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 3,
+    "image_b": 13,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 1,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 4,
+    "image_b": 2,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 4,
+    "image_b": 3,
+    "classification": "limited compatibility",
+    "reason": "matching open vehicle but occlusions and moving panel identities limit common stable features"
+  },
+  {
+    "image_a": 4,
+    "image_b": 4,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 4,
+    "image_b": 6,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 7,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 8,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 9,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 10,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 11,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 12,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 4,
+    "image_b": 13,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 6,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 6,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 6,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 6,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 6,
+    "image_b": 6,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 6,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 6,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 7,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 7,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 7,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 7,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 7,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 7,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 7,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 8,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 8,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 8,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 8,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 8,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 8,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 8,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 9,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 9,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 9,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 9,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 9,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 9,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 9,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 10,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 10,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 10,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 10,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 10,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 10,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 10,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 11,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 11,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 11,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 11,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 11,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 11,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 11,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 12,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 12,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 12,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 12,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 12,
+    "image_b": 12,
+    "classification": "same view",
+    "reason": "identical image"
+  },
+  {
+    "image_a": 12,
+    "image_b": 13,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 1,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 13,
+    "image_b": 2,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 13,
+    "image_b": 3,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 13,
+    "image_b": 4,
+    "classification": "compatible for structural calibration only",
+    "reason": "visually matching fixed body, but open/closed panels displaced; no cross-state panel corners"
+  },
+  {
+    "image_a": 13,
+    "image_b": 6,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 7,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 8,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 9,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 10,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 11,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 12,
+    "classification": "strongly compatible",
+    "reason": "matching visible body/trim/wheels and closed configuration; geometric calibration still must be validated"
+  },
+  {
+    "image_a": 13,
+    "image_b": 13,
+    "classification": "same view",
+    "reason": "identical image"
+  }
+]

@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "MUX-011",
+    "view": "Front",
+    "type": "PERSP",
+    "azimuth": -3.0,
+    "elevation": 17.0,
+    "position": [
+      -11.459930082371429,
+      0.6005894863560061,
+      4.438460456672841
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.29197101946266824,
+      -0.015301552745044047,
+      0.9563047559630354
+    ],
+    "lens_mm_assumed_36mm_sensor": 64.50602768327809,
+    "sensor_width": 36,
+    "principal_point": [
+      402.9466069517558,
+      238.77422048581445
+    ],
+    "fit_rms_pixels": 16.735884308170924,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          389,
+          432
+        ],
+        "pixel": [
+          299.8073217726397,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          308.45038506373055,
+          365.4920290286275
+        ],
+        "residual_px": 8.764834693003582
+      },
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          685,
+          432
+        ],
+        "pixel": [
+          527.9383429672447,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          516.4458228392083,
+          361.3970364841863
+        ],
+        "residual_px": 12.762874212174824
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          438,
+          146
+        ],
+        "pixel": [
+          337.57225433526014,
+          146.52408477842005
+        ],
+        "uncertainty_px_original": 18,
+        "projected": [
+          318.3843329847592,
+          151.09416013729088
+        ],
+        "residual_px": 19.724652456729554
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          611,
+          146
+        ],
+        "pixel": [
+          470.90558766859345,
+          146.52408477842005
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          492.94296585604,
+          148.9608976639609
+        ],
+        "residual_px": 22.171695794766883
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-016",
+    "view": "Front-left 3Q",
+    "type": "PERSP",
+    "azimuth": 51.0,
+    "elevation": 8.0,
+    "position": [
+      -7.47835065917535,
+      -9.234993964587666,
+      2.6000772115207855
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.0875844703198069,
+      0.10815781335455812,
+      0.9902680687415705
+    ],
+    "lens_mm_assumed_36mm_sensor": 62.50269719059113,
+    "sensor_width": 36,
+    "principal_point": [
+      420.24426288162545,
+      253.17606424879042
+    ],
+    "fit_rms_pixels": 14.31571169253353,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          420,
+          414
+        ],
+        "pixel": [
+          323.6994219653179,
+          353.0751445086705
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          340.0124663591613,
+          351.8673589288195
+        ],
+        "residual_px": 16.357694318038856
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          777,
+          353
+        ],
+        "pixel": [
+          598.8439306358382,
+          306.0616570327553
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          600.0077950142593,
+          309.7046190861779
+        ],
+        "residual_px": 3.8243630599139533
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          588,
+          161
+        ],
+        "pixel": [
+          453.1791907514451,
+          158.08477842003856
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          430.85080235063003,
+          159.36715652761805
+        ],
+        "residual_px": 22.36518325854837
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          801,
+          153
+        ],
+        "pixel": [
+          617.3410404624277,
+          151.91907514450867
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          622.1925200909783,
+          148.20152056335775
+        ],
+        "residual_px": 6.112042755910454
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-030",
+    "view": "Left-front intermediate",
+    "type": "PERSP",
+    "azimuth": 62.0,
+    "elevation": 6.0,
+    "position": [
+      -5.602796981319954,
+      -10.537328562730973,
+      2.1843415592118416
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.049073141005872865,
+      0.09229315502741739,
+      0.9945218953682733
+    ],
+    "lens_mm_assumed_36mm_sensor": 80.32007143539192,
+    "sensor_width": 36,
+    "principal_point": [
+      418.94985855350615,
+      242.3047908026689
+    ],
+    "fit_rms_pixels": 14.948326778225395,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          333,
+          390
+        ],
+        "pixel": [
+          265.8682634730539,
+          360.377245508982
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          270.96363316440085,
+          356.9065524151208
+        ],
+        "residual_px": 6.165103636052917
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          853,
+          332
+        ],
+        "pixel": [
+          681.0379241516966,
+          314.0698602794411
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          659.9383522613504,
+          323.5439628184034
+        ],
+        "residual_px": 23.12899809491674
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          511,
+          85
+        ],
+        "pixel": [
+          407.98403193612774,
+          116.86427145708583
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          407.1411260747535,
+          116.88703655457783
+        ],
+        "residual_px": 0.8432132238069063
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          851,
+          86
+        ],
+        "pixel": [
+          679.4411177644711,
+          117.6626746506986
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          696.2882258248447,
+          111.63650010810557
+        ],
+        "residual_px": 17.892451749710098
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-012",
+    "view": "Left side",
+    "type": "PERSP",
+    "azimuth": 90.0,
+    "elevation": 26.0,
+    "position": [
+      -6.604231511357838e-16,
+      -10.785528555590005,
+      6.190453761468929
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      2.684249108768991e-17,
+      0.4383711467890774,
+      0.898794046299167
+    ],
+    "lens_mm_assumed_36mm_sensor": 71.5889945410544,
+    "sensor_width": 36,
+    "principal_point": [
+      389.76373151707185,
+      220.08454340434062
+    ],
+    "fit_rms_pixels": 8.815303407849555,
+    "confidence": "HIGH",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          239,
+          390
+        ],
+        "pixel": [
+          184.20038535645472,
+          334.57803468208095
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          193.57200138344513,
+          335.4770696587915
+        ],
+        "residual_px": 9.414640239897244
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          752,
+          389
+        ],
+        "pixel": [
+          579.5761078998073,
+          333.8073217726397
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          585.9554616506986,
+          335.4770696587915
+        ],
+        "residual_px": 6.594256006731825
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          438,
+          154
+        ],
+        "pixel": [
+          337.57225433526014,
+          152.6897880539499
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          324.6736509321607,
+          150.73110174041634
+        ],
+        "residual_px": 13.046471623595119
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          840,
+          153
+        ],
+        "pixel": [
+          647.3988439306358,
+          151.91907514450867
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          644.5464775558535,
+          151.3089785951799
+        ],
+        "residual_px": 2.9168839084701395
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-022",
+    "view": "Left-rear intermediate",
+    "type": "PERSP",
+    "azimuth": 119.0,
+    "elevation": 5.0,
+    "position": [
+      5.795577279279282,
+      -10.455498181185856,
+      1.9758689129718983
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      -0.04225394254377959,
+      0.0762281301974733,
+      0.9961946980917457
+    ],
+    "lens_mm_assumed_36mm_sensor": 72.67693476720572,
+    "sensor_width": 36,
+    "principal_point": [
+      416.1753456205044,
+      222.399317662445
+    ],
+    "fit_rms_pixels": 24.393390833901265,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          251,
+          391
+        ],
+        "pixel": [
+          175.67804024496937,
+          291.66579177602796
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          198.4310648653876,
+          295.5266746290465
+        ],
+        "residual_px": 23.07826999109967
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          750,
+          440
+        ],
+        "pixel": [
+          524.9343832020998,
+          325.96150481189846
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          546.8050156945594,
+          323.1218700496347
+        ],
+        "residual_px": 22.05420801577987
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          500,
+          129
+        ],
+        "pixel": [
+          349.95625546806644,
+          108.28871391076115
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          314.27964160172553,
+          105.80786210423277
+        ],
+        "residual_px": 35.76276559012102
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          872,
+          127
+        ],
+        "pixel": [
+          610.3237095363079,
+          106.88888888888889
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          601.3766662897706,
+          108.3484926046624
+        ],
+        "residual_px": 9.065319953675582
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-017",
+    "view": "Rear-left 3Q",
+    "type": "PERSP",
+    "azimuth": 145.0,
+    "elevation": 10.0,
+    "position": [
+      9.680487409339186,
+      -6.7783502575634795,
+      3.0137781320031642
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      -0.14224425972292404,
+      0.09960050292505118,
+      0.984807753012208
+    ],
+    "lens_mm_assumed_36mm_sensor": 58.32906710702472,
+    "sensor_width": 36,
+    "principal_point": [
+      395.00112183780993,
+      247.15141358038505
+    ],
+    "fit_rms_pixels": 16.980597924924677,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          310,
+          316
+        ],
+        "pixel": [
+          238.92100192678228,
+          277.5452793834297
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          247.25151513714542,
+          289.23156747540156
+        ],
+        "residual_px": 14.35154276433714
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          519,
+          419
+        ],
+        "pixel": [
+          400.0,
+          356.9287090558767
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          416.3340042182085,
+          348.36320518225523
+        ],
+        "residual_px": 18.44363170336792
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          414,
+          173
+        ],
+        "pixel": [
+          319.0751445086705,
+          167.33333333333334
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          304.730684252173,
+          153.72944243286247
+        ],
+        "residual_px": 19.769405344677207
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          599,
+          173
+        ],
+        "pixel": [
+          461.65703275529864,
+          167.33333333333334
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          451.3369755832246,
+          177.8164400154539
+        ],
+        "residual_px": 14.710510043625185
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-013",
+    "view": "Rear",
+    "type": "PERSP",
+    "azimuth": 168.0,
+    "elevation": 0.0,
+    "position": [
+      11.737771208805668,
+      -2.494940289813112,
+      0.93
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.0,
+      0.0,
+      1.0000000000000002
+    ],
+    "lens_mm_assumed_36mm_sensor": 63.02244406414684,
+    "sensor_width": 36,
+    "principal_point": [
+      357.1718876705655,
+      281.76508783540834
+    ],
+    "fit_rms_pixels": 23.050885954705215,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          388,
+          432
+        ],
+        "pixel": [
+          299.03660886319847,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          293.87463119718745,
+          355.2400340006511
+        ],
+        "residual_px": 12.795387444622714
+      },
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          650,
+          432
+        ],
+        "pixel": [
+          500.96339113680153,
+          366.94797687861274
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          495.45624274885176,
+          353.0134979532504
+        ],
+        "residual_px": 14.98327021341685
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          433,
+          151
+        ],
+        "pixel": [
+          333.71868978805395,
+          150.3776493256262
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          313.1126090198291,
+          161.520017966363
+        ],
+        "residual_px": 23.42568982020979
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          606,
+          151
+        ],
+        "pixel": [
+          467.0520231213873,
+          150.3776493256262
+        ],
+        "uncertainty_px_original": 14,
+        "projected": [
+          498.3272299435731,
+          164.87770248821337
+        ],
+        "residual_px": 34.473034439810355
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-035",
+    "view": "Rear-right 3Q",
+    "type": "PERSP",
+    "azimuth": 224.0,
+    "elevation": 7.0,
+    "position": [
+      8.56773540658278,
+      8.273765907654115,
+      2.39243212086177
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      -0.08766546915246129,
+      -0.0846575594987277,
+      0.992546151641322
+    ],
+    "lens_mm_assumed_36mm_sensor": 94.16586660196313,
+    "sensor_width": 36,
+    "principal_point": [
+      436.1729156340238,
+      230.32524696814284
+    ],
+    "fit_rms_pixels": 23.155479782266834,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          400,
+          377
+        ],
+        "pixel": [
+          375.5868544600939,
+          379.9906103286385
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          351.8579848791038,
+          376.6824379698533
+        ],
+        "residual_px": 23.958365051627936
+      },
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          760,
+          285
+        ],
+        "pixel": [
+          713.6150234741784,
+          293.6056338028169
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          695.2730064415293,
+          311.36192702325144
+        ],
+        "residual_px": 25.52871986128641
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          160,
+          333
+        ],
+        "pixel": [
+          150.23474178403757,
+          338.67605633802816
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          155.86669977278365,
+          339.0233930721443
+        ],
+        "residual_px": 5.6426583800428025
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          291,
+          64
+        ],
+        "pixel": [
+          273.23943661971833,
+          86.09389671361502
+        ],
+        "uncertainty_px_original": 14,
+        "projected": [
+          287.99686755681483,
+          96.38798720961375
+        ],
+        "residual_px": 17.993056077358965
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          595,
+          84
+        ],
+        "pixel": [
+          558.6854460093897,
+          104.87323943661971
+        ],
+        "uncertainty_px_original": 14,
+        "projected": [
+          580.3669436971865,
+          79.78369134485555
+        ],
+        "residual_px": 33.159806474629534
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-014",
+    "view": "Right side",
+    "type": "PERSP",
+    "azimuth": 270.0,
+    "elevation": 24.0,
+    "position": [
+      2.013786937039707e-15,
+      10.96254549171121,
+      5.810839716909602
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      -7.471630920580772e-17,
+      -0.4067366430758002,
+      0.9135454576426009
+    ],
+    "lens_mm_assumed_36mm_sensor": 71.34677299066112,
+    "sensor_width": 36,
+    "principal_point": [
+      417.9019756084747,
+      229.0202590168925
+    ],
+    "fit_rms_pixels": 4.168036743438696,
+    "confidence": "HIGH",
+    "anchors": [
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          292,
+          399
+        ],
+        "pixel": [
+          225.0481695568401,
+          341.514450867052
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          221.88267195452707,
+          342.0033294560636
+        ],
+        "residual_px": 3.2030262791684208
+      },
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          802,
+          400
+        ],
+        "pixel": [
+          618.111753371869,
+          342.2851637764933
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          613.9212792624223,
+          342.0033294560636
+        ],
+        "residual_px": 4.199940933645945
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          618,
+          157
+        ],
+        "pixel": [
+          476.3005780346821,
+          155.00192678227359
+        ],
+        "uncertainty_px_original": 14,
+        "projected": [
+          482.66969099590534,
+          155.02152291744983
+        ],
+        "residual_px": 6.369143107305413
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          212,
+          158
+        ],
+        "pixel": [
+          163.39113680154142,
+          155.77263969171486
+        ],
+        "uncertainty_px_original": 14,
+        "projected": [
+          164.3779955520778,
+          155.54599928795673
+        ],
+        "residual_px": 1.0125492907142253
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-015",
+    "view": "Front-right 3Q",
+    "type": "PERSP",
+    "azimuth": 316.0,
+    "elevation": 9.0,
+    "position": [
+      -8.525802404646237,
+      8.233271678390038,
+      2.8072135804827707
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.11252953684812333,
+      -0.10866851056847181,
+      0.9876883405951378
+    ],
+    "lens_mm_assumed_36mm_sensor": 59.928939154781865,
+    "sensor_width": 36,
+    "principal_point": [
+      399.8041874388844,
+      252.02061877895642
+    ],
+    "fit_rms_pixels": 17.56793160031534,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          575,
+          417
+        ],
+        "pixel": [
+          443.1599229287091,
+          355.3872832369942
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          453.32853357549646,
+          351.4466577466628
+        ],
+        "residual_px": 10.905465223501809
+      },
+      {
+        "name": "rp",
+        "world": [
+          1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          277,
+          337
+        ],
+        "pixel": [
+          213.48747591522158,
+          293.7302504816956
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          235.12622269894297,
+          301.49132266289513
+        ],
+        "residual_px": 22.98846675556685
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          516,
+          165
+        ],
+        "pixel": [
+          397.6878612716763,
+          161.16763005780348
+        ],
+        "uncertainty_px_original": 18,
+        "projected": [
+          377.70026847479556,
+          163.7641516060517
+        ],
+        "residual_px": 20.155539932347036
+      },
+      {
+        "name": "rro",
+        "world": [
+          1.76,
+          0.7,
+          1.8
+        ],
+        "pixel_original": [
+          298,
+          157
+        ],
+        "pixel": [
+          229.67244701348747,
+          155.00192678227359
+        ],
+        "uncertainty_px_original": 18,
+        "projected": [
+          217.85268237985954,
+          148.58495854315737
+        ],
+        "residual_px": 13.449324049043794
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-043",
+    "view": "Overhead",
+    "type": "ORTHO",
+    "position": [
+      0,
+      0,
+      12
+    ],
+    "target": [
+      0,
+      0,
+      0
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "ortho_scale": 5.15,
+    "confidence": "LOW",
+    "fit_rms_pixels": null,
+    "known_mismatch": "Unrelated roof-only reference; no wheel anchors. Manually framed planform only, not metric evidence."
+  },
+  {
+    "id": "MUX-020",
+    "view": "Front-left 3Q support",
+    "type": "PERSP",
+    "azimuth": 51.0,
+    "elevation": 7.0,
+    "position": [
+      -7.495554387431137,
+      -9.25623879969254,
+      2.39243212086177
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.07669486284871435,
+      0.09471026805272309,
+      0.9925461516413222
+    ],
+    "lens_mm_assumed_36mm_sensor": 67.73050758127302,
+    "sensor_width": 36,
+    "principal_point": [
+      410.5325640707905,
+      227.07420906708305
+    ],
+    "fit_rms_pixels": 14.621131423207471,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          439,
+          450
+        ],
+        "pixel": [
+          307.2615923009624,
+          331.9606299212598
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          323.48389576388905,
+          330.620510349563
+        ],
+        "residual_px": 16.277562781624514
+      },
+      {
+        "name": "rn",
+        "world": [
+          1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          865,
+          385
+        ],
+        "pixel": [
+          605.4243219597549,
+          286.4663167104112
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          605.4710867892588,
+          289.12819210740986
+        ],
+        "residual_px": 2.662286156374867
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          636,
+          153
+        ],
+        "pixel": [
+          445.14435695538054,
+          124.08661417322834
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          422.0125697776364,
+          123.34477045137677
+        ],
+        "residual_px": 23.14367970189918
+      },
+      {
+        "name": "rr",
+        "world": [
+          1.76,
+          -0.7,
+          1.8
+        ],
+        "pixel_original": [
+          889,
+          140
+        ],
+        "pixel": [
+          622.2222222222222,
+          114.9877515310586
+        ],
+        "uncertainty_px_original": 8,
+        "projected": [
+          629.0849411075357,
+          114.40783942760818
+        ],
+        "residual_px": 6.887177110149459
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  },
+  {
+    "id": "MUX-027",
+    "view": "Front support",
+    "type": "PERSP",
+    "azimuth": 0.0,
+    "elevation": 15.0,
+    "position": [
+      -11.59110991546882,
+      0.0,
+      4.035828541230249
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.93
+    ],
+    "up": [
+      0.25881904510252074,
+      0.0,
+      0.9659258262890683
+    ],
+    "lens_mm_assumed_36mm_sensor": 70.44764122959856,
+    "sensor_width": 36,
+    "principal_point": [
+      395.18716577540107,
+      219.91441199863903
+    ],
+    "fit_rms_pixels": 21.922821283276356,
+    "confidence": "LOW",
+    "anchors": [
+      {
+        "name": "fp",
+        "world": [
+          -1.4225,
+          0.785,
+          0.382
+        ],
+        "pixel_original": [
+          373,
+          466
+        ],
+        "pixel": [
+          265.9536541889483,
+          354.2638146167558
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          281.05804176919787,
+          350.3992491127375
+        ],
+        "residual_px": 15.590939378666246
+      },
+      {
+        "name": "fn",
+        "world": [
+          -1.4225,
+          -0.785,
+          0.382
+        ],
+        "pixel_original": [
+          734,
+          466
+        ],
+        "pixel": [
+          523.3511586452763,
+          354.2638146167558
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          509.31628978160427,
+          350.3992491127375
+        ],
+        "residual_px": 14.557211633940037
+      },
+      {
+        "name": "rfo",
+        "world": [
+          -0.45,
+          0.69,
+          1.8
+        ],
+        "pixel_original": [
+          459,
+          132
+        ],
+        "pixel": [
+          327.27272727272725,
+          116.11764705882354
+        ],
+        "uncertainty_px_original": 18,
+        "projected": [
+          299.9330345756193,
+          119.98221256284182
+        ],
+        "residual_px": 27.611477021469664
+      },
+      {
+        "name": "rf",
+        "world": [
+          -0.45,
+          -0.69,
+          1.8
+        ],
+        "pixel_original": [
+          651,
+          132
+        ],
+        "pixel": [
+          464.1711229946524,
+          116.11764705882354
+        ],
+        "uncertainty_px_original": 12,
+        "projected": [
+          490.44129697518287,
+          119.98221256284182
+        ],
+        "residual_px": 26.552907703341774
+      }
+    ],
+    "known_mismatch": "Roof anchors are inferred envelope points, not known homologous 3D corners. Missing rails/mirrors/details are excluded. Width/roof depth remain uncertain; this is not calibration."
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "max_solver_blender_difference_pixels": 0.000533654905812406,
+  "checked_observations": 198,
+  "body_mesh_count": 0,
+  "camera_count": 12,
+  "landmarks": 48,
+  "status": "Projection implementation checked; reconstruction gate remains FAIL"
+}

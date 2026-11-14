@@ -1,0 +1,58 @@
+{
+  "typescript": "PASS (app, node, qa)",
+  "lint": "PASS",
+  "build": "PASS, 7.08 seconds",
+  "tests": {
+    "files": 55,
+    "passed": 374,
+    "failed": 0
+  },
+  "responsive": {
+    "cases": 28,
+    "sizes": [
+      [
+        320,
+        568
+      ],
+      [
+        360,
+        800
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        412,
+        915
+      ],
+      [
+        768,
+        1024
+      ],
+      [
+        1366,
+        768
+      ],
+      [
+        1920,
+        1080
+      ]
+    ],
+    "themes": [
+      "dark",
+      "light"
+    ],
+    "result": "PASS, corrected captures visually reviewed"
+  },
+  "productionConsole": {
+    "warnings": 0,
+    "errors": 0
+  },
+  "transparentAssets": 4,
+  "originalReferencesChanged": 0,
+  "protectedFilesChanged": 0,
+  "deployment": "NOT PERFORMED",
+  "gitCommit": "NOT PERFORMED",
+  "physicalDevicePerformance": "NOT MEASURED"
+}

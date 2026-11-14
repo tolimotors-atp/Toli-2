@@ -1,0 +1,324 @@
+[
+  {
+    "blur": "blur(5px)",
+    "height": 640,
+    "iconDelta": 0,
+    "leftOffset": 16,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "light",
+    "width": 360
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 844,
+    "iconDelta": 0,
+    "leftOffset": 16,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 932,
+    "iconDelta": 0,
+    "leftOffset": 17.1875,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "light",
+    "width": 430
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 960,
+    "iconDelta": 0,
+    "leftOffset": 24,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 3,
+    "theme": "light",
+    "width": 600
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 1024,
+    "iconDelta": 0,
+    "leftOffset": 28,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 3,
+    "theme": "light",
+    "width": 768
+  },
+  {
+    "blur": "blur(8px)",
+    "height": 900,
+    "iconDelta": 0,
+    "leftOffset": 1,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 1,
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "blur": "blur(8px)",
+    "height": 1080,
+    "iconDelta": 0,
+    "leftOffset": 1,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 0.984375,
+    "theme": "light",
+    "width": 1920
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 640,
+    "iconDelta": 0,
+    "leftOffset": 16,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "dark",
+    "width": 360
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 844,
+    "iconDelta": 0,
+    "leftOffset": 16,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 932,
+    "iconDelta": 0,
+    "leftOffset": 17.1875,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 2,
+    "theme": "dark",
+    "width": 430
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 960,
+    "iconDelta": 0,
+    "leftOffset": 24,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 3,
+    "theme": "dark",
+    "width": 600
+  },
+  {
+    "blur": "blur(5px)",
+    "height": 1024,
+    "iconDelta": 0,
+    "leftOffset": 28,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 3,
+    "theme": "dark",
+    "width": 768
+  },
+  {
+    "blur": "blur(8px)",
+    "height": 900,
+    "iconDelta": 0,
+    "leftOffset": 1,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 1,
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "blur": "blur(8px)",
+    "height": 1080,
+    "iconDelta": 0,
+    "leftOffset": 1,
+    "links": [
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+919908303888"
+      },
+      {
+        "clipped": false,
+        "hit": true,
+        "href": "tel:+918074946335"
+      }
+    ],
+    "overflow": false,
+    "overlap": false,
+    "rightOffset": 0.984375,
+    "theme": "dark",
+    "width": 1920
+  }
+]

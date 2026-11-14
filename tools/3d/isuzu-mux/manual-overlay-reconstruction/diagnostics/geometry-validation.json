@@ -1,0 +1,456 @@
+{
+  "totals": {
+    "base": {
+      "vertices": 2146,
+      "triangles": 4114,
+      "quads": 1937,
+      "n_gons": 8,
+      "degenerate_faces": 0,
+      "nonmanifold_edges": 152,
+      "boundary_edges": 152,
+      "interior_nonmanifold_edges": 0
+    },
+    "evaluated": {
+      "vertices": 11022,
+      "triangles": 21040,
+      "quads": 10400,
+      "n_gons": 8,
+      "degenerate_faces": 0,
+      "nonmanifold_edges": 976,
+      "boundary_edges": 976,
+      "interior_nonmanifold_edges": 0
+    }
+  },
+  "objects": [
+    {
+      "object": "Body_side_fenders_and_quarters",
+      "base": {
+        "vertices": 168,
+        "triangles": 276,
+        "quads": 138,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 58,
+        "boundary_edges": 58,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 4650,
+        "triangles": 8832,
+        "quads": 4416,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 464,
+        "boundary_edges": 464,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Bonnet_primary_surface",
+      "base": {
+        "vertices": 35,
+        "triangles": 48,
+        "quads": 24,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 20,
+        "boundary_edges": 20,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 825,
+        "triangles": 1536,
+        "quads": 768,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 112,
+        "boundary_edges": 112,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Continuous_cowl_A_roof_D_shell",
+      "base": {
+        "vertices": 96,
+        "triangles": 150,
+        "quads": 75,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 40,
+        "boundary_edges": 40,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 2501,
+        "triangles": 4800,
+        "quads": 2400,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 200,
+        "boundary_edges": 200,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Broad_front_wrap",
+      "base": {
+        "vertices": 25,
+        "triangles": 32,
+        "quads": 16,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 16,
+        "boundary_edges": 16,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 561,
+        "triangles": 1024,
+        "quads": 512,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 96,
+        "boundary_edges": 96,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Broad_rear_tailgate_and_bumper_wrap",
+      "base": {
+        "vertices": 30,
+        "triangles": 40,
+        "quads": 20,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 18,
+        "boundary_edges": 18,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 693,
+        "triangles": 1280,
+        "quads": 640,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 104,
+        "boundary_edges": 104,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_FRONT_NEG_Y",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_FRONT_NEG_Y_plain_rim",
+      "base": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_FRONT_POS_Y",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_FRONT_POS_Y_plain_rim",
+      "base": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_REAR_NEG_Y",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_REAR_NEG_Y_plain_rim",
+      "base": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_REAR_POS_Y",
+      "base": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 384,
+        "triangles": 768,
+        "quads": 384,
+        "n_gons": 0,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    },
+    {
+      "object": "Wheel_REAR_POS_Y_plain_rim",
+      "base": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      },
+      "evaluated": {
+        "vertices": 64,
+        "triangles": 124,
+        "quads": 32,
+        "n_gons": 2,
+        "degenerate_faces": 0,
+        "nonmanifold_edges": 0,
+        "boundary_edges": 0,
+        "interior_nonmanifold_edges": 0
+      }
+    }
+  ],
+  "bounds": {
+    "min": [
+      -2.4116668701171875,
+      -0.9326823353767395,
+      0.0
+    ],
+    "max": [
+      2.4116668701171875,
+      0.9326823353767395,
+      1.8583333492279053
+    ]
+  },
+  "evaluated_dimensions": [
+    4.823333740234375,
+    1.865364670753479,
+    1.8583333492279053
+  ],
+  "nominal_framework": {
+    "length": 4.825,
+    "width": 1.86,
+    "height": 1.86,
+    "wheelbase": 2.845,
+    "track": 1.57,
+    "tire_diameter": 0.764,
+    "ground_clearance": 0.23,
+    "bonnet_length": 1.2,
+    "bonnet_height": 1.13,
+    "roof_crown": 0.055,
+    "greenhouse_width": 1.49,
+    "belt_height": 1.19,
+    "rear_taper": 0.08,
+    "fender_bulge": 0.025,
+    "arch_clearance": 0.07,
+    "windscreen_run": 0.5
+  },
+  "actual_wheel_mesh_checks": [
+    {
+      "object": "Wheel_FRONT_NEG_Y",
+      "actual_center": [
+        -1.4225000143051147,
+        -0.7850000262260437,
+        0.38199999928474426
+      ],
+      "diameter": 0.7639999985694885,
+      "ground_min": 0.0
+    },
+    {
+      "object": "Wheel_FRONT_POS_Y",
+      "actual_center": [
+        -1.4225000143051147,
+        0.7850000262260437,
+        0.38199999928474426
+      ],
+      "diameter": 0.7639999985694885,
+      "ground_min": 0.0
+    },
+    {
+      "object": "Wheel_REAR_NEG_Y",
+      "actual_center": [
+        1.4225000143051147,
+        -0.7850000262260437,
+        0.38199999928474426
+      ],
+      "diameter": 0.7639999985694885,
+      "ground_min": 0.0
+    },
+    {
+      "object": "Wheel_REAR_POS_Y",
+      "actual_center": [
+        1.4225000143051147,
+        0.7850000262260437,
+        0.38199999928474426
+      ],
+      "diameter": 0.7639999985694885,
+      "ground_min": 0.0
+    }
+  ],
+  "wheelbase": 2.845,
+  "symmetry_discrepancy": 7.152557373046875e-07,
+  "camera_projection_checks": [
+    {
+      "id": "MUX-011",
+      "blender_vs_saved_fit_max_error_px": 0.00018726242008726903
+    },
+    {
+      "id": "MUX-016",
+      "blender_vs_saved_fit_max_error_px": 5.051919275022349e-05
+    },
+    {
+      "id": "MUX-030",
+      "blender_vs_saved_fit_max_error_px": 0.00013401024888682505
+    },
+    {
+      "id": "MUX-012",
+      "blender_vs_saved_fit_max_error_px": 0.00022726120141457255
+    },
+    {
+      "id": "MUX-022",
+      "blender_vs_saved_fit_max_error_px": 0.00014978733321066646
+    },
+    {
+      "id": "MUX-017",
+      "blender_vs_saved_fit_max_error_px": 0.0001823859077362879
+    },
+    {
+      "id": "MUX-013",
+      "blender_vs_saved_fit_max_error_px": 0.00023914742924205994
+    },
+    {
+      "id": "MUX-035",
+      "blender_vs_saved_fit_max_error_px": 0.0003641478836479344
+    },
+    {
+      "id": "MUX-014",
+      "blender_vs_saved_fit_max_error_px": 0.00021879350149538857
+    },
+    {
+      "id": "MUX-015",
+      "blender_vs_saved_fit_max_error_px": 0.00021759940719273452
+    },
+    {
+      "id": "MUX-020",
+      "blender_vs_saved_fit_max_error_px": 9.741527033773728e-05
+    },
+    {
+      "id": "MUX-027",
+      "blender_vs_saved_fit_max_error_px": 9.04222036244287e-05
+    }
+  ],
+  "overlay_operator_self_check": "PASS; background execution, interactive viewport not user-tested",
+  "note": "Open patch boundaries are intentional at this diagnostic stage. Separate patches are NOT a watertight or G1-joined production shell; boundary gaps and overlap remain visual failures. Technical validity does not imply recognition."
+}

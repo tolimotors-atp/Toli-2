@@ -1,0 +1,38 @@
+{
+  "FRONT_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-10.png",
+    "sha256": "6485be87263758431a50b62dcbaef77d24d1a946293cad14ddedcac423217a65"
+  },
+  "FRONT_34_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-27.png",
+    "sha256": "c8cfb7e69d3d57e40f2b4abf6ec61bf5dc066580f24a4f028565d78ae5279606"
+  },
+  "SIDE_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-14.png",
+    "sha256": "de0c96f58b8b6704f3eadda2b1bf5b5b948e04e54ff036062d20943f06378039"
+  },
+  "REAR_34_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-31.png",
+    "sha256": "662314059dfea3308409b32a1db892ced256b97b98e47028b7958496dd0c753a"
+  },
+  "REAR_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-18.png",
+    "sha256": "d22e00620155aaf6cafeda75a48ad8d92df283fed54548c99ea0f1439a0ff7b7"
+  },
+  "GREENHOUSE_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-14.png",
+    "sha256": "de0c96f58b8b6704f3eadda2b1bf5b5b948e04e54ff036062d20943f06378039"
+  },
+  "BONNET_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-27.png",
+    "sha256": "c8cfb7e69d3d57e40f2b4abf6ec61bf5dc066580f24a4f028565d78ae5279606"
+  },
+  "FRONT_FENDER_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213436.png",
+    "sha256": "cc6d732afd2ff12d0b91dcf4d29f19fbb66940c7ab5098acf1006d1578dabce2"
+  },
+  "REAR_QUARTER_REFERENCE": {
+    "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-31.png",
+    "sha256": "662314059dfea3308409b32a1db892ced256b97b98e47028b7958496dd0c753a"
+  }
+}

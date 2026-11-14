@@ -1,0 +1,25 @@
+{
+  "data": {
+    "componentView": "vehicle",
+    "dragging": "false",
+    "drawCalls": "318",
+    "driveProgress": "1.000",
+    "driveRestored": "true",
+    "driveState": "scroll-transition",
+    "driveVelocity": "0.000",
+    "floorReflection": "false",
+    "intro": "settled",
+    "model": "toli-atelier-r7",
+    "quality": "tablet",
+    "rendering": "idle",
+    "rotateReady": "true",
+    "rotation": "0.0",
+    "scanState": "solid",
+    "sceneDock": "services",
+    "theme": "dark",
+    "triangles": "68032",
+    "wheelAngle": "0.000",
+    "wheelAxis": "z"
+  },
+  "photoCount": 0
+}

@@ -1,0 +1,9 @@
+{
+  "stage": "body cage, not approved",
+  "vertices": 5702,
+  "triangles": 9896,
+  "materials": 7,
+  "texture_images": 4,
+  "textures_note": "Packed reference images only; no production textures",
+  "meshes": 22
+}

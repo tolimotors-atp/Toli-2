@@ -1,0 +1,27 @@
+{
+  "full": {
+    "pixelIdentical": false,
+    "diffBounds": [
+      319,
+      15,
+      360,
+      33
+    ],
+    "meanAbsoluteRGB": 0.0004719850960030534
+  },
+  "heroBelowNavbar": {
+    "pixelIdentical": true,
+    "diffBounds": null,
+    "meanAbsoluteRGB": 0.0
+  },
+  "navbar": {
+    "pixelIdentical": false,
+    "diffBounds": [
+      319,
+      15,
+      360,
+      33
+    ],
+    "meanAbsoluteRGB": 0.0065709175084175085
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "GENERATED_MODEL_REPORT.md": {
+    "bytes": 15035,
+    "sha256": "09d32a6dc9fe4950a341cef4efdfa3434ce554ca24a9c8d09b30d454d8a6a8b2"
+  },
+  "source/production/isuzu-mux-generated-v04.blend": {
+    "bytes": 491992,
+    "sha256": "5568213bee200d9e528eb5feff369dcfbab8687fcd99e97415726d4652d4a4be"
+  },
+  "source/production/milestones/isuzu-mux-v04-front.blend": {
+    "bytes": 402281,
+    "sha256": "a8d99d85c7d6c596108b647bb9f9d3cc21d29a0442a6f3b5136412884c3186b2"
+  },
+  "renders/v04/v04-final-front_34.png": {
+    "bytes": 678175,
+    "sha256": "90665ead21820ac98416f4c7715bb78f6d2d3a7d052d438fa5d395b7bd3cd482"
+  },
+  "renders/v04/v04-final-front.png": {
+    "bytes": 689930,
+    "sha256": "3b56071ca315f779bc746e0e4fe82ccc3a47825a3955083844440b57b1200904"
+  },
+  "renders/v04/v04-side-candidate-front_34.png": {
+    "bytes": 678724,
+    "sha256": "9d9a03445fce0e2d56344a1e46085092474635cc48344b88f2bedc2ff6fc6487"
+  },
+  "renders/v04/v04-final-side.png": {
+    "bytes": 588921,
+    "sha256": "ae6e72c98ed653287232548f0b971d25122a42de68dc3daded9fc3170086a288"
+  },
+  "renders/v04/reference-board-surface_character.jpg": {
+    "bytes": 136152,
+    "sha256": "054435518b3642f0d87c1599fe4f78020ba660bc97447a661834667da736eea3"
+  },
+  "renders/v04/v04-side-candidate-side.png": {
+    "bytes": 588486,
+    "sha256": "5730e74c1f47db0ec562363404c042230237f624240b58ebd205090ca63e9671"
+  },
+  "renders/v04/v04-badgeless-recognition.jpg": {
+    "bytes": 50769,
+    "sha256": "4e23b23005a5b45e65d3756e725a5fa9a686aff9ccf9319ff7a5df22118ab029"
+  },
+  "renders/v04/normalized-rear-grid.png": {
+    "bytes": 209786,
+    "sha256": "da985e95f7872fb2f96151c7074d5c227f680c905c87d959391f96f4f47a04ea"
+  },
+  "renders/v04/v04-front-candidate-side.png": {
+    "bytes": 588541,
+    "sha256": "0bacc605c50d9071d5453235dd339233541c5319b5ec547def11a04162e66f3a"
+  },
+  "renders/v04/v04-front-candidate-front.png": {
+    "bytes": 690578,
+    "sha256": "4e353247ad32e7337e8ce07c82fe7a82af7640a8764a655041f0b2ea285e6a56"
+  },
+  "renders/v04/reference-board-side_fenders.jpg": {
+    "bytes": 143908,
+    "sha256": "414e8c3ffd9a40eaafc3207c4905e05a6dd7b911626fab7e93b9aabe259afa26"
+  },
+  "renders/v04/reference-board-rear.jpg": {
+    "bytes": 127043,
+    "sha256": "b18069fba35eeb184c94395d94cfeca696d90099d40a1275d2270d44c8c60630"
+  },
+  "renders/v04/v04-turnaround.jpg": {
+    "bytes": 170886,
+    "sha256": "a8d02f8667aa3f9dfca2cdf1425f5802be884e3b273fb8931d97c1db29413957"
+  },
+  "renders/v04/v04-front-candidate-front_34.png": {
+    "bytes": 678352,
+    "sha256": "ca9c2f4085b051a472a3fb36a168661c8fc7a1590fff46239d3a84afcf392354"
+  },
+  "renders/v04/rear-reference-detail.png": {
+    "bytes": 510047,
+    "sha256": "4fc508654e3e34e8455ff892d55e5887b5164b4ad21d33f8175985bef30b6442"
+  },
+  "renders/v04/v04-final-rear.png": {
+    "bytes": 668708,
+    "sha256": "f6a29484f6f96dc3383bf6cebba111278ffa26d163d2400829a07229a31e3611"
+  },
+  "renders/v04/v04-final-rear_34.png": {
+    "bytes": 665959,
+    "sha256": "2797495fea8ed4f546acc9b50b54c133c6a0d8497adc8b008c55ec8ea3bbb303"
+  },
+  "renders/v04/reference-board-front.jpg": {
+    "bytes": 130063,
+    "sha256": "18e50141226ddd053cfc9e533b7788dc6bc575c9858dd4af6bb18803f4fddcb1"
+  },
+  "renders/v04/v04-front-gate.jpg": {
+    "bytes": 322673,
+    "sha256": "43dd52a98d89f9ab6ba60d62a9e4e9dd4ae2a2ca6a706da05c2dfc45b7ecb4bf"
+  },
+  "renders/v04/v04-side-gate.jpg": {
+    "bytes": 440744,
+    "sha256": "0e57f270638c8fd78bff3a5ab419d6631f885dd7be64358e3336b7e35801a4a3"
+  },
+  "renders/v04/normalized-front-grid.png": {
+    "bytes": 267053,
+    "sha256": "a04747d40d73bae3c90c837338259b55ff366c95bc2ed4e9537e17a742c8f999"
+  },
+  "renders/v04/v04-side-candidate-rear_34.png": {
+    "bytes": 659809,
+    "sha256": "083e480c67039109c3199b1c453477a78b7955456b2de58b17cb5edc9c50e075"
+  },
+  "renders/v04/front-reference-detail.png": {
+    "bytes": 346156,
+    "sha256": "2890521984193203a6525e84b592bcae0f51fb4940b19607fc19b64cc9b25422"
+  },
+  "renders/v04/reference-board-rear_cabin.jpg": {
+    "bytes": 128312,
+    "sha256": "6d90841535b9173788167173031268c2fb7916ca78420d945fd575ac942485b9"
+  },
+  "renders/v04/v04-rear-gate.jpg": {
+    "bytes": 298705,
+    "sha256": "c5566e1e8da461cc5f50493bf9ca524ea653ec1c12292b93e6445e5310d71fda"
+  },
+  "source/production/generated/v04_prepare.py": {
+    "bytes": 3007,
+    "sha256": "bb4895add9b854154ffc1a63eb3bbd60ff8131f7d639e1dfe60aabc5279e44d8"
+  },
+  "source/production/generated/v04_front.py": {
+    "bytes": 7184,
+    "sha256": "cd88eeed95bd0696025870d63eb638fbecb9d8cc0810b48ffac8d7f2822903ce"
+  },
+  "source/production/generated/v04-preservation.json": {
+    "bytes": 374,
+    "sha256": "253938383da3b7bdf30b19561a2ef889ad2584ea2bdf03599e55764e8020db7f"
+  },
+  "source/production/generated/v04-gates.json": {
+    "bytes": 865,
+    "sha256": "23713a5941be41de5b5749fafeb76a950fe41994290a6f5cc1ca171dedc7b9d5"
+  },
+  "source/production/generated/v04-fender-sections.json": {
+    "bytes": 9588,
+    "sha256": "20f4f1746e7f8eb3e0578118ed5f31036248c584296ca9bfcb00653ecd92fa81"
+  },
+  "source/production/generated/v04-rear-sections.json": {
+    "bytes": 721,
+    "sha256": "b578eac09ef8b56492d5d8861be9538ddb9c16769a55f922517d1ae8fc346189"
+  },
+  "source/production/generated/v04_side.py": {
+    "bytes": 3297,
+    "sha256": "10e9c9517ed8e8ccbb89abf185c07192e87ff2810273f3d0274e56a469ed8863"
+  },
+  "source/production/generated/v04-evidence-crops.json": {
+    "bytes": 1116,
+    "sha256": "4097505eb013f757c40f5342165467b9cb900c8b1c27d0052a12ba4117d984bc"
+  },
+  "source/production/generated/v04_finalize.py": {
+    "bytes": 1928,
+    "sha256": "f7eb3dc05b47522e3732c617d4872d6e841174a703ef6019f7f1b86fa01a8175"
+  },
+  "source/production/generated/v04_rear.py": {
+    "bytes": 7158,
+    "sha256": "506713377118b3df0d7cc9f5ef7b379b59c4a6b832972f4da2f8854b28169782"
+  },
+  "source/production/generated/v04_validate.py": {
+    "bytes": 4714,
+    "sha256": "6a2a6459fd020ffa0e3f7681ccfa1bdfa6f52a55fddc5a7bc952abf7784aa514"
+  },
+  "source/production/generated/v04-preservation-before.json": {
+    "bytes": 272309,
+    "sha256": "a552bd0b84d0b6a19f49a257bd28f290e2a70de0a3747b3f48a3b623f8c25823"
+  },
+  "source/production/generated/v04-v03-preserved.json": {
+    "bytes": 249,
+    "sha256": "02f884a4697f66b35422868d2d6a29962b138568e82d4f5d3327410df998b569"
+  },
+  "source/production/generated/v04_evidence.py": {
+    "bytes": 3017,
+    "sha256": "f2f4b977c25cac20497df23c117764f060d80914262dff2bb01e19099ccb2a3a"
+  },
+  "source/production/generated/v04-final-save.json": {
+    "bytes": 549,
+    "sha256": "40dcc05f6a6ba7281315f7b4a8f6c8825d1ab30d8a1863787ed039471b991879"
+  },
+  "source/production/generated/v04-installed-open.json": {
+    "bytes": 969,
+    "sha256": "df8e29033559aba2b1b64a03b7b76642f31812215254c07d1b1a07d5a66d54e6"
+  },
+  "source/production/generated/v04-reference-plan.json": {
+    "bytes": 1906,
+    "sha256": "daf763eac3eac59a0798084a39c2f9196f7fbf7e7730b41e03503fb2bd0fb75f"
+  },
+  "source/production/generated/v04_boards.py": {
+    "bytes": 1471,
+    "sha256": "875ef624113f988e37d14e21624b3b918ca724fe0d2cd2c691f148b604ecb9b4"
+  },
+  "source/production/generated/v04-validation.json": {
+    "bytes": 2126,
+    "sha256": "de0c02abe4869c24f0d6e0f0a6d9e133aa8e87ac2e3aefe8b5726edaa481454e"
+  }
+}

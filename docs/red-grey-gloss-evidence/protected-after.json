@@ -1,0 +1,18 @@
+[
+  {
+    "bg": "rgb(23, 24, 28) none repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(244, 243, 242)",
+    "font": "16px / 24px ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "h": 1091.953125,
+    "s": "#hero",
+    "w": 1430
+  },
+  {
+    "bg": "radial-gradient(at 46% 0%, rgba(255, 255, 255, 0.11), rgba(0, 0, 0, 0) 60%) repeat scroll 0% 0% / auto padding-box border-box, linear-gradient(rgba(255, 255, 255, 0.035), rgba(0, 0, 0, 0) 48%, rgba(41, 5, 12, 0.15)) repeat scroll 0% 0% / auto padding-box border-box, rgba(0, 0, 0, 0) linear-gradient(100deg, rgb(146, 24, 36), rgb(217, 31, 49) 38%, rgb(245, 37, 59) 65%, rgb(217, 31, 49) 82%, rgb(146, 24, 36)) repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "h": 64,
+    "s": ".experience-navigation",
+    "w": 1430
+  }
+]

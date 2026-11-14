@@ -1,0 +1,8 @@
+{
+  "max_solver_blender_difference_pixels": 0.0006315705557558342,
+  "observations_checked": 96,
+  "cameras": 12,
+  "active_landmarks": 20,
+  "body_meshes": 0,
+  "gate": "FAIL"
+}

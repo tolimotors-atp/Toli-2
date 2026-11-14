@@ -1,0 +1,275 @@
+[
+  {
+    "image": 1,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-21.png",
+    "size": [
+      819,
+      595
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Front, bonnet and four doors open; engine bay partial",
+    "wheel_centers": "Hub centers occluded; tire contact picks only",
+    "tire_ellipse": "Partial front tire sides/contact edges",
+    "body_corners": "Fixed fascia/bumper corners visible",
+    "glass_corners": "Blocked by bonnet in 1; visible in 6",
+    "lamp_corners": "Front lamp outlines visible",
+    "grille_landmarks": "Fixed grille corners visible",
+    "perspective_distortion": "Near frontal perspective/cropped screenshot; lens metadata absent",
+    "occlusions": "Raised bonnet hides windscreen; moving doors excluded",
+    "open_panels": "Doors/bonnet/hatch open; only fixed-body features used",
+    "camera_solve_suitability": "Joint candidate, planar/depth weakness"
+  },
+  {
+    "image": 2,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-40.png",
+    "size": [
+      1060,
+      522
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Left profile, doors/bonnet/tailgate open",
+    "wheel_centers": "Both near left hub centers",
+    "tire_ellipse": "Both near tire silhouettes/ellipses",
+    "body_corners": "Fender/arch/quarter corners visible",
+    "glass_corners": "Fixed rear quarter glass; windshield partly obscured when open",
+    "lamp_corners": "Near fixed front/rear lamp corners",
+    "grille_landmarks": "Mostly edge-on; ambiguous corners not picked",
+    "perspective_distortion": "Near profile, not orthographic; tire apparent size changes with depth",
+    "occlusions": "Open panels cover door/hinge regions; moving door glass excluded",
+    "open_panels": "Doors/bonnet/hatch open; only fixed-body features used",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 3,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-48.png",
+    "size": [
+      1060,
+      522
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Rear, tailgate and rear doors open; cargo aperture",
+    "wheel_centers": "Rear hubs occluded; tire contact picks only",
+    "tire_ellipse": "Partial rear tire sides/contact edges",
+    "body_corners": "Fixed rear shoulders/body lamp borders visible",
+    "glass_corners": "Moving raised hatch excluded in 3; closed rear glass in 8",
+    "lamp_corners": "Fixed outer body lamp segments; hatch-mounted segments excluded when open",
+    "grille_landmarks": "Not visible",
+    "perspective_distortion": "Near rear perspective/cropped screenshot; lens metadata absent",
+    "occlusions": "Raised hatch and open doors exclude moving geometry",
+    "open_panels": "Doors/bonnet/hatch open; only fixed-body features used",
+    "camera_solve_suitability": "Weak candidate: six observations, no independent held-out view test"
+  },
+  {
+    "image": 4,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-10-06.png",
+    "size": [
+      1148,
+      492
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Right profile, doors/bonnet/tailgate open",
+    "wheel_centers": "Both near right hub centers",
+    "tire_ellipse": "Both near tire silhouettes/ellipses",
+    "body_corners": "Fender/arch/quarter corners visible",
+    "glass_corners": "Fixed rear quarter glass; windshield partly obscured when open",
+    "lamp_corners": "Near fixed front/rear lamp corners",
+    "grille_landmarks": "Mostly edge-on; ambiguous corners not picked",
+    "perspective_distortion": "Near profile, not orthographic; tire apparent size changes with depth",
+    "occlusions": "Open panels cover door/hinge regions; moving door glass excluded",
+    "open_panels": "Doors/bonnet/hatch open; only fixed-body features used",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 5,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-11-39.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "NO \u2014 exterior identity unverified in interior panorama",
+    "exterior_usable": false,
+    "camera_position_class": "Right-hand-drive dashboard, steering, front cabin and door cards",
+    "wheel_centers": "No exterior wheel centers",
+    "tire_ellipse": "No",
+    "body_corners": "No common exterior corners",
+    "glass_corners": "Interior/panoramic only",
+    "lamp_corners": "No",
+    "grille_landmarks": "No",
+    "perspective_distortion": "Strong panoramic distortion; not a pinhole exterior view",
+    "occlusions": "Cabin-only panorama; cannot link reliable exterior landmarks",
+    "open_panels": "Not applicable",
+    "camera_solve_suitability": "EXCLUDED"
+  },
+  {
+    "image": 6,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-10.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed front",
+    "wheel_centers": "Hub centers occluded; tire contact picks only",
+    "tire_ellipse": "Partial front tire sides/contact edges",
+    "body_corners": "Fixed fascia/bumper corners visible",
+    "glass_corners": "Blocked by bonnet in 1; visible in 6",
+    "lamp_corners": "Front lamp outlines visible",
+    "grille_landmarks": "Fixed grille corners visible",
+    "perspective_distortion": "Near frontal perspective/cropped screenshot; lens metadata absent",
+    "occlusions": "Hubs hidden by frontal body; mirrors overlap edges",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 7,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-14.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed left profile",
+    "wheel_centers": "Both near left hub centers",
+    "tire_ellipse": "Both near tire silhouettes/ellipses",
+    "body_corners": "Fender/arch/quarter corners visible",
+    "glass_corners": "Windscreen oblique, fixed quarter glass and door glass visible",
+    "lamp_corners": "Near fixed front/rear lamp corners",
+    "grille_landmarks": "Mostly edge-on; ambiguous corners not picked",
+    "perspective_distortion": "Near profile, not orthographic; tire apparent size changes with depth",
+    "occlusions": "Mirror hides some cowl; grazing glass edges and far side occluded",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 8,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-18.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed rear",
+    "wheel_centers": "Rear hubs occluded; tire contact picks only",
+    "tire_ellipse": "Partial rear tire sides/contact edges",
+    "body_corners": "Fixed rear shoulders/body lamp borders visible",
+    "glass_corners": "Moving raised hatch excluded in 3; closed rear glass in 8",
+    "lamp_corners": "Fixed outer body lamp segments; hatch-mounted segments excluded when open",
+    "grille_landmarks": "Not visible",
+    "perspective_distortion": "Near rear perspective/cropped screenshot; lens metadata absent",
+    "occlusions": "Hubs hidden by bumper; rounded glazing corners uncertain",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 9,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-21.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed right profile",
+    "wheel_centers": "Both near right hub centers",
+    "tire_ellipse": "Both near tire silhouettes/ellipses",
+    "body_corners": "Fender/arch/quarter corners visible",
+    "glass_corners": "Windscreen oblique, fixed quarter glass and door glass visible",
+    "lamp_corners": "Near fixed front/rear lamp corners",
+    "grille_landmarks": "Mostly edge-on; ambiguous corners not picked",
+    "perspective_distortion": "Near profile, not orthographic; tire apparent size changes with depth",
+    "occlusions": "Mirror hides some cowl; grazing glass edges and far side occluded",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate"
+  },
+  {
+    "image": 10,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-25.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed front three-quarter, right side",
+    "wheel_centers": "Both near-side hub centers; far hubs mostly occluded",
+    "tire_ellipse": "Near front/rear ellipse silhouettes",
+    "body_corners": "Fender/quarter and fascia/hatch regions visible",
+    "glass_corners": "Windscreen and small fixed quarter glass",
+    "lamp_corners": "Near headlight outline and grille boundaries",
+    "grille_landmarks": "Upper/lower broad corners visible",
+    "perspective_distortion": "Oblique perspective with substantial near/far scale differences",
+    "occlusions": "Mirror/cowl and far windshield corner ambiguities",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate; quarter fit currently FAIL"
+  },
+  {
+    "image": 11,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-27.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed front three-quarter, left side",
+    "wheel_centers": "Both near-side hub centers; far hubs mostly occluded",
+    "tire_ellipse": "Near front/rear ellipse silhouettes",
+    "body_corners": "Fender/quarter and fascia/hatch regions visible",
+    "glass_corners": "Windscreen and small fixed quarter glass",
+    "lamp_corners": "Near headlight outline and grille boundaries",
+    "grille_landmarks": "Upper/lower broad corners visible",
+    "perspective_distortion": "Oblique perspective with substantial near/far scale differences",
+    "occlusions": "Mirror/cowl and far windshield corner ambiguities",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate; quarter fit currently FAIL"
+  },
+  {
+    "image": 12,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-31.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed rear three-quarter, left side",
+    "wheel_centers": "Both near-side hub centers; far hubs mostly occluded",
+    "tire_ellipse": "Near front/rear ellipse silhouettes",
+    "body_corners": "Fender/quarter and fascia/hatch regions visible",
+    "glass_corners": "Rear and fixed quarter glass",
+    "lamp_corners": "Rear body lamp outlines",
+    "grille_landmarks": "Not visible",
+    "perspective_distortion": "Oblique perspective with substantial near/far scale differences",
+    "occlusions": "Far glass/hatch corners ambiguous; reflections and black ceramic borders",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate; quarter fit currently FAIL"
+  },
+  {
+    "image": 13,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-35.png",
+    "size": [
+      1038,
+      587
+    ],
+    "canonical_vehicle_match": "YES \u2014 visually compatible with canonical body/trim; physical vehicle/VIN not proven",
+    "exterior_usable": true,
+    "camera_position_class": "Closed rear three-quarter, right side",
+    "wheel_centers": "Both near-side hub centers; far hubs mostly occluded",
+    "tire_ellipse": "Near front/rear ellipse silhouettes",
+    "body_corners": "Fender/quarter and fascia/hatch regions visible",
+    "glass_corners": "Rear and fixed quarter glass",
+    "lamp_corners": "Rear body lamp outlines",
+    "grille_landmarks": "Not visible",
+    "perspective_distortion": "Oblique perspective with substantial near/far scale differences",
+    "occlusions": "Far glass/hatch corners ambiguous; reflections and black ceramic borders",
+    "open_panels": "Closed",
+    "camera_solve_suitability": "Joint candidate; quarter fit currently FAIL"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-09",
+  "query_families": [
+    "Isuzu MU-X 3d model free download license",
+    "Isuzu MU-X 2017 free 3d model Sketchfab",
+    "Isuzu MU-X free model obj fbx sketchup",
+    "site:sketchfab.com \"mu-x\" \"License\"",
+    "site:3dwarehouse.sketchup.com \"MU-X\"",
+    "Isuzu MU-X CC0 / CC-BY / Creative Commons free download",
+    "Isuzu MU-X 2018 free 3D model",
+    "Isuzu MU-X Printables",
+    "Isuzu MU-X github model",
+    "2019 Isuzu Mu-x Twin Turbo Thaispec",
+    "MU-X BlendSwap / BlendKit / OpenGameArt / Poly Haven",
+    "MU-X Printables / Thingiverse / Creality model-detail",
+    "2018 Isuzu MU-X Gh\u00f8st model-ID author/license",
+    "Official SketchUp 3D Warehouse model use / web / game licensing"
+  ],
+  "sources": [
+    {
+      "source": "Sketchfab",
+      "status": "Primary pages, previews and credits inspected; no model download"
+    },
+    {
+      "source": "3D Warehouse",
+      "status": "Primary listing/preview and Terms/General Model License inspected in ordinary browser; search fetch 403 fallback succeeded"
+    },
+    {
+      "source": "Free3D / TurboSquid",
+      "status": "Primary/index listing screening; cross-listed Arte model deduplicated"
+    },
+    {
+      "source": "3DModels.org",
+      "status": "Current indexed listings and 2016 primary page; failed direct reads documented; historical preview evidence labeled"
+    },
+    {
+      "source": "CGTrader",
+      "status": "Primary paid RC listing read"
+    },
+    {
+      "source": "Cults",
+      "status": "Primary and indexed paid/private-use listings screened; one failed direct read"
+    },
+    {
+      "source": "3DCADBrowser",
+      "status": "Primary listing read; terms link 404"
+    },
+    {
+      "source": "Creality / Yeggi / Printables / Thingiverse",
+      "status": "Source-directed discovery; accessory/aggregate-only/unresolved free leads not promoted"
+    },
+    {
+      "source": "BlendSwap / BlendKit / Poly Haven / OpenGameArt / GitHub",
+      "status": "Domain-directed search only; no qualifying MU-X asset surfaced. OpenGameArt robots limitation; not a claim each catalog is empty."
+    },
+    {
+      "source": "Creative Commons",
+      "status": "Primary CC BY 4.0 deed read"
+    },
+    {
+      "source": "Tanakrit vehicle catalog",
+      "status": "Index-only 2019 lead; direct page redirects without model listing"
+    }
+  ],
+  "limits": [
+    "No login, account creation, messaging or Discord joining",
+    "No CAPTCHA or access-control bypass",
+    "Search indexes may be stale; browser observations favored where available",
+    "No exhaustive or perpetual absence claim",
+    "No candidate-file downloads or paid services"
+  ]
+}

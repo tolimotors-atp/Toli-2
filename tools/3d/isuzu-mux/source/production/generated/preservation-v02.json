@@ -1,0 +1,10 @@
+{
+  "checked_preexisting_files": 1498,
+  "permitted_changed_existing_files": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/GENERATED_MODEL_REPORT.md",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/isuzu-mux-generated-master.blend"
+  ],
+  "unexpected_changes": [],
+  "protected_website_and_research_unchanged": true,
+  "scope": "Pre-existing paths in preservation-before-v02.json; excludes dependencies/caches. New model sources/milestones/diagnostics are not application changes."
+}

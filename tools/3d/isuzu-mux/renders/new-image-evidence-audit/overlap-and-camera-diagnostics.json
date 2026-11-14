@@ -1,0 +1,509 @@
+{
+  "visual_sequence_order": [
+    "MUX-027",
+    "MUX-028",
+    "MUX-029",
+    "MUX-020",
+    "MUX-030",
+    "MUX-031",
+    "MUX-021",
+    "MUX-022",
+    "MUX-023",
+    "MUX-024",
+    "MUX-025",
+    "MUX-026",
+    "MUX-034",
+    "MUX-035",
+    "MUX-036",
+    "MUX-037",
+    "MUX-038",
+    "MUX-039",
+    "MUX-040"
+  ],
+  "approximate_angular_gaps": [
+    {
+      "from": 0,
+      "to": 15,
+      "estimated_gap": 15
+    },
+    {
+      "from": 15,
+      "to": 30,
+      "estimated_gap": 15
+    },
+    {
+      "from": 30,
+      "to": 45,
+      "estimated_gap": 15
+    },
+    {
+      "from": 45,
+      "to": 65,
+      "estimated_gap": 20
+    },
+    {
+      "from": 65,
+      "to": 95,
+      "estimated_gap": 30
+    },
+    {
+      "from": 95,
+      "to": 100,
+      "estimated_gap": 5
+    },
+    {
+      "from": 100,
+      "to": 115,
+      "estimated_gap": 15
+    },
+    {
+      "from": 115,
+      "to": 130,
+      "estimated_gap": 15
+    },
+    {
+      "from": 130,
+      "to": 145,
+      "estimated_gap": 15
+    },
+    {
+      "from": 145,
+      "to": 160,
+      "estimated_gap": 15
+    },
+    {
+      "from": 160,
+      "to": 170,
+      "estimated_gap": 10
+    },
+    {
+      "from": 170,
+      "to": 200,
+      "estimated_gap": 30
+    },
+    {
+      "from": 200,
+      "to": 225,
+      "estimated_gap": 25
+    },
+    {
+      "from": 225,
+      "to": 245,
+      "estimated_gap": 20
+    },
+    {
+      "from": 245,
+      "to": 265,
+      "estimated_gap": 20
+    },
+    {
+      "from": 265,
+      "to": 290,
+      "estimated_gap": 25
+    },
+    {
+      "from": 290,
+      "to": 310,
+      "estimated_gap": 20
+    },
+    {
+      "from": 310,
+      "to": 335,
+      "estimated_gap": 25
+    },
+    {
+      "from": 335,
+      "to": 0,
+      "estimated_gap": 25
+    }
+  ],
+  "pairwise_verified_matches": [
+    {
+      "a": "MUX-027.png",
+      "b": "MUX-028.png",
+      "verified_matches": 181,
+      "configuration_code": 3
+    },
+    {
+      "a": "MUX-027.png",
+      "b": "MUX-030.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-027.png",
+      "b": "MUX-029.png",
+      "verified_matches": 78,
+      "configuration_code": 6
+    },
+    {
+      "a": "MUX-027.png",
+      "b": "MUX-031.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-027.png",
+      "b": "MUX-041.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-028.png",
+      "b": "MUX-030.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-028.png",
+      "b": "MUX-029.png",
+      "verified_matches": 92,
+      "configuration_code": 6
+    },
+    {
+      "a": "MUX-028.png",
+      "b": "MUX-031.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-028.png",
+      "b": "MUX-041.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-030.png",
+      "b": "MUX-029.png",
+      "verified_matches": 42,
+      "configuration_code": 3
+    },
+    {
+      "a": "MUX-030.png",
+      "b": "MUX-031.png",
+      "verified_matches": 87,
+      "configuration_code": 3
+    },
+    {
+      "a": "MUX-030.png",
+      "b": "MUX-041.png",
+      "verified_matches": 340,
+      "configuration_code": 3
+    },
+    {
+      "a": "MUX-029.png",
+      "b": "MUX-031.png",
+      "verified_matches": 0,
+      "configuration_code": 1
+    },
+    {
+      "a": "MUX-029.png",
+      "b": "MUX-041.png",
+      "verified_matches": 119,
+      "configuration_code": 3
+    },
+    {
+      "a": "MUX-031.png",
+      "b": "MUX-041.png",
+      "verified_matches": 43,
+      "configuration_code": 3
+    }
+  ],
+  "models": [
+    {
+      "model": 0,
+      "registered_images": 3,
+      "registration_percentage": 50.0,
+      "sparse_points": 79,
+      "summary": "Reconstruction:\n\tnum_rigs = 3\n\tnum_cameras = 3\n\tnum_frames = 3\n\tnum_reg_frames = 3\n\tnum_images = 3\n\tnum_points3D = 79\n\tnum_observations = 158\n\tmean_track_length = 2\n\tmean_observations_per_image = 52.6667\n\tmean_reprojection_error = 0.169849",
+      "point_error_mean": 0.1698486639793022,
+      "point_error_median": 0.12231499364093967,
+      "point_error_max": 1.1809125691907294,
+      "track_length_mean": 2,
+      "cameras": [
+        {
+          "name": "MUX-027.png",
+          "center": [
+            0.3692028990283071,
+            1.010444789538262,
+            4.130535507332542
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.9701351088823096,
+              0.1382293125081161,
+              -0.1993251807410268
+            ],
+            [
+              -0.18434169480738488,
+              0.9542427781808297,
+              -0.2354545812790077
+            ],
+            [
+              0.15765788933462982,
+              0.2651666974815379,
+              0.9512258472504225
+            ]
+          ],
+          "camera_id": 1
+        },
+        {
+          "name": "MUX-028.png",
+          "center": [
+            -1.0356749221167414,
+            -1.4304748378313996,
+            -5.416432972224213
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.9777025390588067,
+              0.10718554372918987,
+              -0.18057963432635607
+            ],
+            [
+              -0.1469507955970355,
+              0.9635111736562691,
+              -0.2237223321729796
+            ],
+            [
+              0.15001069558988397,
+              0.2452702131425597,
+              0.9577783218227705
+            ]
+          ],
+          "camera_id": 2
+        },
+        {
+          "name": "MUX-029.png",
+          "center": [
+            0.6664720230884342,
+            0.42003004829313834,
+            1.2858974648916717
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.9945749398248029,
+              0.09698283983149111,
+              0.03761672301927594
+            ],
+            [
+              -0.08734916631631048,
+              0.9750098735291534,
+              -0.20426911089175956
+            ],
+            [
+              -0.05648727481774204,
+              0.19987514927795244,
+              0.9781917565001155
+            ]
+          ],
+          "camera_id": 3
+        }
+      ],
+      "camera_intrinsics": {
+        "1": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1122,
+          "height": 667,
+          "params": [
+            -709.1488251137962,
+            561.0,
+            333.5
+          ]
+        },
+        "2": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1146,
+          "height": 685,
+          "params": [
+            9812.517836129833,
+            573.0,
+            342.5
+          ]
+        },
+        "3": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1152,
+          "height": 695,
+          "params": [
+            2348.617529933791,
+            576.0,
+            347.5
+          ]
+        }
+      },
+      "baseline_diagnostic": {
+        "minimum": 2.920432175432405,
+        "maximum": 9.95371174332841,
+        "max_min_ratio": 3.408300944997856
+      }
+    },
+    {
+      "model": 1,
+      "registered_images": 4,
+      "registration_percentage": 66.66666666666667,
+      "sparse_points": 66,
+      "summary": "Reconstruction:\n\tnum_rigs = 4\n\tnum_cameras = 4\n\tnum_frames = 4\n\tnum_reg_frames = 4\n\tnum_images = 4\n\tnum_points3D = 66\n\tnum_observations = 180\n\tmean_track_length = 2.72727\n\tmean_observations_per_image = 45\n\tmean_reprojection_error = 0.712987",
+      "point_error_mean": 0.7129871123358108,
+      "point_error_median": 0.5861717128290378,
+      "point_error_max": 2.149564502502608,
+      "track_length_mean": 2.727272727272727,
+      "cameras": [
+        {
+          "name": "MUX-030.png",
+          "center": [
+            -2.26541314795917,
+            -1.019675299453221,
+            -0.11577950064715857
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.9918045633001471,
+              -0.12664012244093958,
+              -0.016911168059842847
+            ],
+            [
+              0.12696334173846008,
+              0.9917129021798426,
+              0.01964254323240394
+            ],
+            [
+              0.014283489475874723,
+              -0.02162866242229701,
+              0.9996640350088698
+            ]
+          ],
+          "camera_id": 4
+        },
+        {
+          "name": "MUX-029.png",
+          "center": [
+            -2.2937111404101027,
+            -1.0137930846418983,
+            -0.12301543190814723
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.8569146945723751,
+              0.04640596078279752,
+              -0.5133650679874494
+            ],
+            [
+              0.017293182657303216,
+              0.9927903308844851,
+              0.11860988464649856
+            ],
+            [
+              0.5151680813671536,
+              -0.11051626896570481,
+              0.8499341164080813
+            ]
+          ],
+          "camera_id": 3
+        },
+        {
+          "name": "MUX-031.png",
+          "center": [
+            6.827221067964322,
+            3.0523039376998278,
+            0.35403880235921203
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.14129566927305648,
+              -0.4150196569982491,
+              0.8987737302289907
+            ],
+            [
+              -0.3851186602053884,
+              0.8133234225390837,
+              0.436106211731635
+            ],
+            [
+              -0.9119863767657308,
+              -0.4077544538743467,
+              -0.04491273693895281
+            ]
+          ],
+          "camera_id": 5
+        },
+        {
+          "name": "MUX-041.png",
+          "center": [
+            -2.268096779595053,
+            -1.0188355536047105,
+            -0.11524386980391274
+          ],
+          "rotation_world_to_camera": [
+            [
+              0.9965175308733748,
+              -0.07307078666186599,
+              -0.040168032048490225
+            ],
+            [
+              0.07445118483010436,
+              0.9966443638621867,
+              0.03401518865346627
+            ],
+            [
+              0.0375477261552029,
+              -0.03688728938744794,
+              0.9986137872782553
+            ]
+          ],
+          "camera_id": 6
+        }
+      ],
+      "camera_intrinsics": {
+        "3": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1152,
+          "height": 695,
+          "params": [
+            1485.8996055262667,
+            576.0,
+            347.5
+          ]
+        },
+        "4": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1002,
+          "height": 528,
+          "params": [
+            1015.7201589168244,
+            501.0,
+            264.0
+          ]
+        },
+        "5": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1011,
+          "height": 543,
+          "params": [
+            295214.1127952566,
+            505.5,
+            271.5
+          ]
+        },
+        "6": {
+          "model": "SIMPLE_PINHOLE",
+          "width": 1022,
+          "height": 593,
+          "params": [
+            993.715179776964,
+            511.0,
+            296.5
+          ]
+        }
+      },
+      "baseline_diagnostic": {
+        "minimum": 0.0028625080344758117,
+        "maximum": 9.997606217854884,
+        "max_min_ratio": 3492.603722834848
+      }
+    }
+  ],
+  "physical_camera_orbit_gate": "FAIL",
+  "camera_consistency": "UNKNOWN; files/crops inconsistent; no EXIF",
+  "focal_caution": "Estimated camera parameters are failed reconstruction outputs, not metadata or real lens measurements."
+}

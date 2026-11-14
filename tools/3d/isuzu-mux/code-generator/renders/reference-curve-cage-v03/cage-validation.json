@@ -1,0 +1,188 @@
+{
+  "control_point_symmetry_m": 0.0,
+  "regeneration": "PASS",
+  "fixed_wheels": "PASS",
+  "curves": 138,
+  "control_points": 702,
+  "inherited_v02_join_registration_max_edit_m": 0.141965555952055,
+  "flow_constraints": {
+    "J03": {
+      "gap_m": 0.0,
+      "tangent_angle_deg": 0.0,
+      "curvature_before": [
+        4.881423365854605,
+        12.675057679990752,
+        28.799397537218624,
+        34.814373436465374
+      ],
+      "curvature_after": [
+        5.319170646849026,
+        4.156127433427629,
+        1.8677762343084143,
+        0.9176241456205808
+      ],
+      "relative_curvature_jump": 0.847213374195682
+    },
+    "J04": {
+      "gap_m": 0.0,
+      "tangent_angle_deg": 0.0,
+      "curvature_before": [
+        1.5197747294373716,
+        1.8238063352789615,
+        2.029746533005614,
+        2.072893393917217
+      ],
+      "curvature_after": [
+        2.9654562108968228,
+        2.9197473976042727,
+        2.710244335079959,
+        2.4149251783990895
+      ],
+      "relative_curvature_jump": 0.3009866791152765
+    },
+    "J05": {
+      "gap_m": 0.0,
+      "tangent_angle_deg": 0.0,
+      "curvature_before": [
+        2.2934360636695486,
+        2.7528458921475147,
+        2.9839243209507136,
+        3.013431975340517
+      ],
+      "curvature_after": [
+        3.35915070042706,
+        3.300367262629905,
+        3.0650766666707017,
+        2.788142800367418
+      ],
+      "relative_curvature_jump": 0.10291849217797541
+    },
+    "J07": {
+      "gap_m": 0.0,
+      "tangent_angle_deg": 0.0,
+      "curvature_before": [
+        2.3407741487133986,
+        3.097594511199015,
+        3.7454065005708608,
+        3.9035828942132156
+      ],
+      "curvature_after": [
+        1.9900763312495444,
+        1.9750161451074906,
+        2.0021311610160213,
+        2.198070154383066
+      ],
+      "relative_curvature_jump": 0.49019237321700243
+    },
+    "J01": {
+      "section_to_bonnet_gap_m": 0.0,
+      "section_to_fender_gap_m": 0.0,
+      "type": "transverse roll; longitudinal tangent is not a G1 requirement"
+    },
+    "J02": {
+      "gap_m": 0.0,
+      "type": "cowl character break with blend guide"
+    },
+    "J06": {
+      "gap_m": 0.0,
+      "type": "lamp envelope character cut"
+    },
+    "J08": {
+      "gap_m": 0.0,
+      "type": "glass/pillar character cut"
+    }
+  },
+  "j03_preserved": true,
+  "width_stations": [
+    {
+      "name": "front_bumper",
+      "x": -2.4125,
+      "sill": 0.76,
+      "lower": 0.8,
+      "maximum": 0.84,
+      "shoulder": 0.82,
+      "belt": 0.76,
+      "greenhouse": 0.59,
+      "roof": 0.54
+    },
+    {
+      "name": "front_wheel",
+      "x": -1.4225,
+      "sill": 0.86,
+      "lower": 0.91,
+      "maximum": 0.93,
+      "shoulder": 0.91,
+      "belt": 0.82,
+      "greenhouse": 0.68,
+      "roof": 0.64
+    },
+    {
+      "name": "cowl",
+      "x": -0.94,
+      "sill": 0.85,
+      "lower": 0.89,
+      "maximum": 0.9,
+      "shoulder": 0.88,
+      "belt": 0.82,
+      "greenhouse": 0.73,
+      "roof": 0.68
+    },
+    {
+      "name": "B_pillar",
+      "x": 0.35,
+      "sill": 0.85,
+      "lower": 0.89,
+      "maximum": 0.91,
+      "shoulder": 0.9,
+      "belt": 0.83,
+      "greenhouse": 0.77,
+      "roof": 0.7
+    },
+    {
+      "name": "C_pillar",
+      "x": 1.27,
+      "sill": 0.86,
+      "lower": 0.9,
+      "maximum": 0.93,
+      "shoulder": 0.92,
+      "belt": 0.84,
+      "greenhouse": 0.75,
+      "roof": 0.69
+    },
+    {
+      "name": "rear_wheel",
+      "x": 1.4225,
+      "sill": 0.87,
+      "lower": 0.91,
+      "maximum": 0.93,
+      "shoulder": 0.92,
+      "belt": 0.84,
+      "greenhouse": 0.73,
+      "roof": 0.68
+    },
+    {
+      "name": "tail_lamp",
+      "x": 2.12,
+      "sill": 0.82,
+      "lower": 0.87,
+      "maximum": 0.9,
+      "shoulder": 0.88,
+      "belt": 0.81,
+      "greenhouse": 0.68,
+      "roof": 0.63
+    },
+    {
+      "name": "rear_bumper",
+      "x": 2.4125,
+      "sill": 0.78,
+      "lower": 0.83,
+      "maximum": 0.86,
+      "shoulder": 0.83,
+      "belt": 0.76,
+      "greenhouse": 0.61,
+      "roof": 0.56
+    }
+  ],
+  "body_surfaces": "NOT STARTED",
+  "glb": "NOT EXPORTED"
+}

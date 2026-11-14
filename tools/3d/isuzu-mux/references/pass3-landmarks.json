@@ -1,0 +1,241 @@
+{
+  "status": "Manual visual landmark guides, not calibrated or exact measurements",
+  "canonical": "Silver open-panel images 1\u20134",
+  "uncertainty": "Approximately 5\u201320 pixels for visible edges; larger for occluded contours. Open bonnet/hatch do not provide closed contour. Do not treat those as closed edges.",
+  "views": {
+    "front": {
+      "file": "18-09-21",
+      "points": {
+        "centerline": [
+          403,
+          350
+        ],
+        "bonnet center (raised)": [
+          403,
+          175
+        ],
+        "bonnet outer L": [
+          254,
+          257
+        ],
+        "bonnet outer R": [
+          558,
+          257
+        ],
+        "grille top": [
+          403,
+          321
+        ],
+        "grille bottom": [
+          403,
+          385
+        ],
+        "grille L": [
+          283,
+          331
+        ],
+        "grille R": [
+          521,
+          331
+        ],
+        "headlight outer L": [
+          248,
+          301
+        ],
+        "headlight inner L": [
+          311,
+          346
+        ],
+        "headlight outer R": [
+          557,
+          301
+        ],
+        "headlight inner R": [
+          499,
+          346
+        ],
+        "bumper L": [
+          216,
+          435
+        ],
+        "bumper R": [
+          595,
+          435
+        ],
+        "lower intake": [
+          403,
+          406
+        ],
+        "wheel L": [
+          244,
+          462
+        ],
+        "wheel R": [
+          568,
+          462
+        ]
+      }
+    },
+    "side": {
+      "file": "18-09-40",
+      "points": {
+        "front wheel": [
+          218,
+          354
+        ],
+        "rear wheel": [
+          767,
+          348
+        ],
+        "front tip": [
+          63,
+          275
+        ],
+        "rear tip": [
+          940,
+          304
+        ],
+        "bonnet closed contour unavailable": [
+          182,
+          178
+        ],
+        "cowl": [
+          309,
+          179
+        ],
+        "windscreen base": [
+          318,
+          184
+        ],
+        "windscreen top": [
+          457,
+          86
+        ],
+        "roof peak": [
+          610,
+          70
+        ],
+        "belt": [
+          568,
+          213
+        ],
+        "shoulder": [
+          760,
+          220
+        ],
+        "rocker": [
+          539,
+          377
+        ],
+        "front arch apex": [
+          218,
+          268
+        ],
+        "rear arch apex": [
+          767,
+          261
+        ],
+        "A lower": [
+          334,
+          203
+        ],
+        "A upper": [
+          469,
+          83
+        ],
+        "B upper uncertain/open door": [
+          551,
+          91
+        ],
+        "C upper uncertain/open door": [
+          712,
+          93
+        ],
+        "D upper": [
+          809,
+          90
+        ],
+        "D lower": [
+          843,
+          215
+        ]
+      }
+    },
+    "rear": {
+      "file": "18-09-48",
+      "points": {
+        "centerline": [
+          528,
+          285
+        ],
+        "tailgate L (aperture)": [
+          345,
+          280
+        ],
+        "tailgate R (aperture)": [
+          713,
+          280
+        ],
+        "rear glass on raised hatch": [
+          530,
+          54
+        ],
+        "lamp L top": [
+          317,
+          216
+        ],
+        "lamp L bottom": [
+          319,
+          277
+        ],
+        "lamp R top": [
+          737,
+          216
+        ],
+        "lamp R bottom": [
+          735,
+          277
+        ],
+        "shoulder L": [
+          322,
+          201
+        ],
+        "shoulder R": [
+          732,
+          201
+        ],
+        "bumper L": [
+          314,
+          323
+        ],
+        "bumper R": [
+          736,
+          323
+        ],
+        "spoiler on raised hatch": [
+          528,
+          42
+        ],
+        "wheel L": [
+          361,
+          389
+        ],
+        "wheel R": [
+          692,
+          389
+        ]
+      }
+    }
+  },
+  "world_estimates": {
+    "wheelbase_m": 2.85,
+    "wheel_radius_m": 0.39,
+    "front_tip_m": 2.3,
+    "rear_tip_m": -2.31,
+    "roof_height_m": 1.86,
+    "belt_height_m": 1.17,
+    "windscreen_base_x_m": 1.02,
+    "windscreen_top_x_m": 0.32,
+    "note": "Authoring targets only. Not manufacturer dimensions or certified proportion lock."
+  }
+}

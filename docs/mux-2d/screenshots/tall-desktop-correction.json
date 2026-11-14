@@ -1,0 +1,51 @@
+{
+  "reason": "Earlier automated photo-centering scrolled into the following sticky-panel transition. Corrected using normal 03 Journey navigation; no source/layout change needed.",
+  "checks": [
+    {
+      "theme": "dark",
+      "canvasCount": 0,
+      "followingPanelTop": 945.140625,
+      "loaded": true,
+      "overflow": false,
+      "photo": {
+        "bottom": 859.640625,
+        "height": 398,
+        "left": 255,
+        "right": 977.078125,
+        "top": 461.640625,
+        "width": 722.078125,
+        "x": 255,
+        "y": 461.640625
+      },
+      "scrollY": 2848,
+      "unoccludedByNextPanel": true,
+      "viewport": {
+        "height": 1080,
+        "width": 1920
+      }
+    },
+    {
+      "theme": "light",
+      "canvasCount": 0,
+      "followingPanelTop": 945.140625,
+      "loaded": true,
+      "overflow": false,
+      "photo": {
+        "bottom": 859.640625,
+        "height": 398,
+        "left": 255,
+        "right": 977.078125,
+        "top": 461.640625,
+        "width": 722.078125,
+        "x": 255,
+        "y": 461.640625
+      },
+      "scrollY": 2848,
+      "unoccludedByNextPanel": true,
+      "viewport": {
+        "height": 1080,
+        "width": 1920
+      }
+    }
+  ]
+}

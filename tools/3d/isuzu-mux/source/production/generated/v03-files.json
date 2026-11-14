@@ -1,0 +1,190 @@
+{
+  "GENERATED_MODEL_REPORT.md": {
+    "bytes": 13589,
+    "sha256": "c9fd95c28f78309b98971c60bd9ad09d9561747102efb67df7cd89c79fb4a5e2"
+  },
+  "source/production/isuzu-mux-generated-v03.blend": {
+    "bytes": 381440,
+    "sha256": "6a0dac481b5f9118a7e5e5577a968aa7d264f9612ff4553d402588b1dc02078f"
+  },
+  "renders/v03/v03-greenhouse-rear.png": {
+    "bytes": 646932,
+    "sha256": "8c9dac8c342227260c10c8e132b67a51d2a8ff7740cb2c5ea49ba2a8cfd6f489"
+  },
+  "renders/v03/v03-greenhouse-gate.jpg": {
+    "bytes": 358555,
+    "sha256": "843b48bcd549aa733fb018064eb9ae369de8c2bad9400bb93dc3520d85a4a81c"
+  },
+  "renders/v03/v03-greenhouse-side.png": {
+    "bytes": 582319,
+    "sha256": "d398736c66389463d20ed370f29d025b751737c3713a05ed3303aefe04af96de"
+  },
+  "renders/v03/v03-identity-rear.png": {
+    "bytes": 662319,
+    "sha256": "bacbabe902a033aabb2f47d1bc7d138b5567837a3353ca815ff831d454d90c9e"
+  },
+  "renders/v03/v03-silhouette-gate.jpg": {
+    "bytes": 349183,
+    "sha256": "0d2d062d271ee9ce910e5ae53eee14f6195de9b21911482a0aeed4183cc26356"
+  },
+  "renders/v03/v03-blockout-front.png": {
+    "bytes": 646108,
+    "sha256": "4ae1e25d8ecafec6ed8e064c1321e1c0b039bcf5778fbdbf6b7edfdb50f2c794"
+  },
+  "renders/v03/v02-v03-comparison.jpg": {
+    "bytes": 531092,
+    "sha256": "30195ea1b1d0e885a4e273b2422e2d689947df9b7517570e5041dc626b60531d"
+  },
+  "renders/v03/v03-greenhouse-front_34.png": {
+    "bytes": 662398,
+    "sha256": "55f3fc15014e54b2d456bcf1f69ea675bc78c1f5d5a7a4ae9e71df4bb02e1bc0"
+  },
+  "renders/v03/v03-identity-gate.jpg": {
+    "bytes": 365799,
+    "sha256": "02a9414b0e0a52a3cb3486d8ababdde33dcc81300d903e5531d974260a44fa86"
+  },
+  "renders/v03/v03-blockout-rear_34.png": {
+    "bytes": 647554,
+    "sha256": "ddc86e66e1a8dc49baa7a64362dde268334b190f960198da826a2fa38b1f23ed"
+  },
+  "renders/v03/v03-identity-rear_34.png": {
+    "bytes": 660409,
+    "sha256": "8163d6138ddc55329bb1a6a33c189ffdf74c0cdf2d230f175c83fcfc8667c9f7"
+  },
+  "renders/v03/v03-greenhouse-front.png": {
+    "bytes": 652222,
+    "sha256": "eb5fe8d775991c8b907634f312376ef583892677442e71c973079217b43daa92"
+  },
+  "renders/v03/v03-identity-side.png": {
+    "bytes": 587751,
+    "sha256": "cffd690146fffd9f7de7b29a73f3b89ecd3adf2e9532a9a8cf9884ea78c6e431"
+  },
+  "renders/v03/v03-identity-front_34.png": {
+    "bytes": 672314,
+    "sha256": "22f22de643ae7460d8f7d2643f320dd19433904dde9a065e7b605c490d94d4d2"
+  },
+  "renders/v03/v03-identity-front.png": {
+    "bytes": 668996,
+    "sha256": "ed941135776c5a29381e49f58e11d8bd2247498f3bf400c6b958123dcf666013"
+  },
+  "renders/v03/v03-guide-side.png": {
+    "bytes": 544265,
+    "sha256": "bfcba0a8b0aa62a595a81187c5bc84a5e3e24bcb6228d5735ed9113afc146111"
+  },
+  "renders/v03/v03-recognition-no-badges.png": {
+    "bytes": 672314,
+    "sha256": "22f22de643ae7460d8f7d2643f320dd19433904dde9a065e7b605c490d94d4d2"
+  },
+  "renders/v03/v03-blockout-side.png": {
+    "bytes": 576448,
+    "sha256": "b2822066b0007b90d2b6baf5a437d9906ece70928466d569b383baed80ecb050"
+  },
+  "renders/v03/v03-blockout-front_34.png": {
+    "bytes": 657340,
+    "sha256": "5e904ef18c25cc5e00594700e11cb5d17bc144664cabae4216232445d225c036"
+  },
+  "renders/v03/v03-greenhouse-rear_34.png": {
+    "bytes": 653065,
+    "sha256": "0f2b7a573ef91ac98ebb67195cd4e112276aed844497fbe04fd0f2d9736ba0aa"
+  },
+  "renders/v03/v03-blockout-rear.png": {
+    "bytes": 644558,
+    "sha256": "f5e38fdef3077e0958ec10e444e9665107aa4075bd2af7ad569b38c10b3676eb"
+  },
+  "renders/v03/v03-side-guide-overlay.png": {
+    "bytes": 319875,
+    "sha256": "bc4dc0dfea26a1395d13b81010e02cff11ee9e81f79e70104cfb00c66539eeae"
+  },
+  "renders/v03/v03-side-guide-gate.jpg": {
+    "bytes": 87376,
+    "sha256": "9106c45f5d0f067e6856518a96b1735f014478ccabf4f9507e40ca27fd4054ca"
+  },
+  "source/production/milestones/isuzu-mux-v03-greenhouse.blend": {
+    "bytes": 344735,
+    "sha256": "59ec1ecc6d0217cecb3284cc10f78c0e4e219ac4c479100e283792f1c896e059"
+  },
+  "source/production/milestones/isuzu-mux-v03-identity.blend": {
+    "bytes": 384937,
+    "sha256": "c69942172b97be3d4f85b0c4d4c31fc2debdf99f7832fd44cc55037a47547062"
+  },
+  "source/production/milestones/isuzu-mux-v03-guides.blend": {
+    "bytes": 304916,
+    "sha256": "fe7b14a7103ce360e5fe04213339a424dc35b9f818dcdfae0824f6177bc7e58a"
+  },
+  "source/production/milestones/isuzu-mux-v03-first-greenhouse.blend": {
+    "bytes": 328713,
+    "sha256": "c6cf9cea069a8c1a554be721d5951c91c656896c7abf1d442982d52db48b82e2"
+  },
+  "source/production/milestones/isuzu-mux-v03-blockout.blend": {
+    "bytes": 311281,
+    "sha256": "9ad321e57a847833ea0945d6014e211d654faa9f9e8c90a284a3fd5923e37e16"
+  },
+  "source/production/milestones/isuzu-mux-v03-first-identity.blend": {
+    "bytes": 384815,
+    "sha256": "93887e7555a5677a5e1b32a428a21739520f26982b840c7cc2a0e977b25ff3d4"
+  },
+  "source/production/milestones/isuzu-mux-v03-first-blockout.blend": {
+    "bytes": 309103,
+    "sha256": "259647dd36beb7f6f9d4fe370fb000b2a02f92f99315098897a592f98ed7b70c"
+  },
+  "source/production/generated/v03_greenhouse.py": {
+    "bytes": 3573,
+    "sha256": "d9082f6b2e946300cb65cb2e330406caa4f414b723f0fc857637b9eb49281c2a"
+  },
+  "source/production/generated/v03_guides.py": {
+    "bytes": 6244,
+    "sha256": "edf54993cc1a290c0abd2c424bbd1b3584a574a657e4e598fa1eee001cb5296d"
+  },
+  "source/production/generated/v03-guides.json": {
+    "bytes": 4760,
+    "sha256": "086dde8daf5357faf7c80b7aabfe036e4c0c72a795782a2063d3551179a241c4"
+  },
+  "source/production/generated/v03-installed-open.json": {
+    "bytes": 1717,
+    "sha256": "6544c3fd6b63dad87e8c3223d5045775c7dc1d433a407361fea128317ca2d182"
+  },
+  "source/production/generated/v03-preservation.json": {
+    "bytes": 551,
+    "sha256": "7a2a019834ccf14087ef25137e32fde99f5daf3602c01057bacb6f6116dfc35c"
+  },
+  "source/production/generated/v03-preservation-before.json": {
+    "bytes": 264035,
+    "sha256": "006f6f131ea59aedd03a605aa7bbb96192a44d268667e618046e549d7774b4b8"
+  },
+  "source/production/generated/v03-final-save.json": {
+    "bytes": 571,
+    "sha256": "d8c52bafc05ebf42073520a69929c6dd1cd179df6b12a0603a5e3b23bc555a24"
+  },
+  "source/production/generated/v03_finalize.py": {
+    "bytes": 2289,
+    "sha256": "aacef994a3043b20afac648eea2d6dff66ba6eef7bcc161abc82cb700e9cce2a"
+  },
+  "source/production/generated/v03-validation.json": {
+    "bytes": 1094,
+    "sha256": "ec9b5952831389047ea3c7a1f9621659135cd8fb5f73d72ea5e859226f0a4068"
+  },
+  "source/production/generated/v03-gates.json": {
+    "bytes": 1102,
+    "sha256": "113679a62c4020a6fa58907845a9c7554b81f8ce5e128cbcdd8b9858b37366b9"
+  },
+  "source/production/generated/v03_shell.py": {
+    "bytes": 4240,
+    "sha256": "416edd9d913835c55d3d787f6008515923232009def6d9d91b91e5c765a45676"
+  },
+  "source/production/generated/v03_identity.py": {
+    "bytes": 3051,
+    "sha256": "1742ea8f00d151a08145e9616360cb5c16b6a1ee7b9da366facb526008d8ef1e"
+  },
+  "source/production/generated/v03_validate.py": {
+    "bytes": 3866,
+    "sha256": "02e9c6ee5ecd83a1c3f49703ee7c465ed7ff330c7f36581aa0bd9a00847686dc"
+  },
+  "source/production/generated/v03_evidence.py": {
+    "bytes": 2058,
+    "sha256": "896f6cbdb6199a1f21980ff05e981aa2c81eea383ea0205273d6a196cd7c4e00"
+  },
+  "source/production/generated/v03-blockout-geometry.json": {
+    "bytes": 296,
+    "sha256": "124eb5ee76b801993b6fa0ea503dcb1d1915f3caee7e2e2ec5fd5de31cbcec4d"
+  }
+}

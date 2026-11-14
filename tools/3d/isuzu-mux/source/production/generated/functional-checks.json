@@ -1,0 +1,331 @@
+{
+  "controllers": {
+    "DOOR_FL": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.19030705094337463
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.6107140779495239
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.9599310755729675
+        ]
+      }
+    ],
+    "DOOR_FR": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.19030705094337463
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.6107140779495239
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.9599310755729675
+        ]
+      }
+    ],
+    "DOOR_RL": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.19030705094337463
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.6107140779495239
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.9599310755729675
+        ]
+      }
+    ],
+    "DOOR_RR": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.19030705094337463
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.6107140779495239
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          -0.9599310755729675
+        ]
+      }
+    ],
+    "BONNET": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          0.200687438249588,
+          0.0
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          0.6440256834030151,
+          0.0
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          1.0122909545898438,
+          0.0
+        ]
+      }
+    ],
+    "TAILGATE": [
+      {
+        "frame": 1,
+        "rotation_radians": [
+          0.0,
+          -0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 15,
+        "rotation_radians": [
+          0.0,
+          -0.28373050689697266,
+          0.0
+        ]
+      },
+      {
+        "frame": 30,
+        "rotation_radians": [
+          0.0,
+          -0.9105191230773926,
+          0.0
+        ]
+      },
+      {
+        "frame": 50,
+        "rotation_radians": [
+          0.0,
+          -1.4311699867248535,
+          0.0
+        ]
+      }
+    ]
+  },
+  "painted_panel_shell_intersections": [
+    {
+      "frame": 1,
+      "panel": "DOOR_FL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 1,
+      "panel": "DOOR_FR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 1,
+      "panel": "DOOR_RL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 1,
+      "panel": "DOOR_RR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 1,
+      "panel": "BONNET",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 1,
+      "panel": "TAILGATE",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "DOOR_FL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "DOOR_FR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "DOOR_RL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "DOOR_RR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "BONNET",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 15,
+      "panel": "TAILGATE",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "DOOR_FL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "DOOR_FR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "DOOR_RL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "DOOR_RR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "BONNET",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 30,
+      "panel": "TAILGATE",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "DOOR_FL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "DOOR_FR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "DOOR_RL",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "DOOR_RR",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "BONNET",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    },
+    {
+      "frame": 50,
+      "panel": "TAILGATE",
+      "triangle_overlap_pairs_with_fixed_shell": 0
+    }
+  ],
+  "scope": "Triangle intersection diagnostic for painted panels versus main fixed shell only; not proof of full swept-volume or all-part clearance."
+}

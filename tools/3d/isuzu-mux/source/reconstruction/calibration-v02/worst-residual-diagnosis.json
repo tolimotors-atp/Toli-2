@@ -1,0 +1,28 @@
+{
+  "camera": 13,
+  "landmark": "rw_base_L",
+  "category": "rw_base",
+  "residual_pixels": 26.82618069403629,
+  "observed": [
+    159,
+    233
+  ],
+  "projected": [
+    185.1728777875249,
+    227.1157465258224
+  ],
+  "primary_failure": [
+    "H \u2014 shared-landmark identity not established for rounded apparent glazing boundary",
+    "E \u2014 oblique perspective/tangency ambiguity"
+  ],
+  "possible_contributors": [
+    "A \u2014 uncertain manual point definition",
+    "F \u2014 depth/pose tradeoff"
+  ],
+  "not_supported_by_evidence": [
+    "B \u2014 different trim",
+    "C \u2014 open-panel displacement (image 13 is closed)",
+    "G \u2014 lens distortion as the cause"
+  ],
+  "conclusion": "Reject current far-corner observation by semantic visibility rule, not merely because residual is large. Apply same rule to other far rounded glass corners."
+}

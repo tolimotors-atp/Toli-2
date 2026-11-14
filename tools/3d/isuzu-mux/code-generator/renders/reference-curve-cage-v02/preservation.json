@@ -1,0 +1,9 @@
+{
+  "checked_files": 367,
+  "changed": [],
+  "scope": "All static src/public files, controlled-capture files and V01 cage source hashed before/after. Protected sibling projects were never written by this task.",
+  "website": "UNCHANGED",
+  "controlled_capture": "PRESERVED",
+  "v01_source": "PRESERVED",
+  "protected_siblings": "NO WRITES"
+}

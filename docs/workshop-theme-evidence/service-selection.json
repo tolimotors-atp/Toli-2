@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Explore Automobile Services",
+    "pressed": "true",
+    "heading": "Automobile Services"
+  },
+  {
+    "label": "Explore Spare Parts & Repairs",
+    "pressed": "true",
+    "heading": "Spare Parts & Repairs"
+  },
+  {
+    "label": "Explore Battery Services",
+    "pressed": "true",
+    "heading": "Battery Services"
+  },
+  {
+    "label": "Explore Premium Detailing",
+    "pressed": "true",
+    "heading": "Premium Detailing"
+  },
+  {
+    "label": "Explore Vehicle Inspection",
+    "pressed": "true",
+    "heading": "Vehicle Inspection"
+  },
+  {
+    "label": "Explore Consultation",
+    "pressed": "true",
+    "heading": "Consultation"
+  },
+  {
+    "label": "Explore Installation",
+    "pressed": "true",
+    "heading": "Installation"
+  },
+  {
+    "label": "Explore Doorstep Pickup",
+    "pressed": "true",
+    "heading": "Doorstep Pickup"
+  },
+  {
+    "label": "Explore AMC Plans",
+    "pressed": "true",
+    "heading": "AMC Plans"
+  }
+]

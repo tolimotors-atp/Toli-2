@@ -1,0 +1,640 @@
+{
+  "V02": {
+    "A": {
+      "extraordinary_vertices": [
+        {
+          "id": 109,
+          "co": [
+            -0.8199999928474426,
+            -0.7900000214576721,
+            1.3317824602127075
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 110,
+          "co": [
+            -0.8199999928474426,
+            -0.6478000283241272,
+            1.3457825183868408
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 114,
+          "co": [
+            -0.8199999928474426,
+            0.6478000283241272,
+            1.3457825183868408
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 115,
+          "co": [
+            -0.8199999928474426,
+            0.7900000214576721,
+            1.3317824602127075
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        }
+      ],
+      "count": 4,
+      "sensitive_count": 0,
+      "all_quad": true
+    },
+    "B": {
+      "extraordinary_vertices": [
+        {
+          "id": 0,
+          "co": [
+            1.9927232265472412,
+            -0.6289595365524292,
+            1.6589744091033936
+          ],
+          "valence": 3,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "rear_glass",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 4,
+          "co": [
+            1.9927232265472412,
+            0.6289595365524292,
+            1.6589744091033936
+          ],
+          "valence": 3,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "rear_glass",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 49,
+          "co": [
+            1.4550657272338867,
+            -0.6774879693984985,
+            1.8120956420898438
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "quarter_frame",
+            "rear_roof"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 51,
+          "co": [
+            1.8979604244232178,
+            -0.636667013168335,
+            1.7562601566314697
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "quarter_frame",
+            "rear_roof",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 55,
+          "co": [
+            2.180284261703491,
+            -0.8528257608413696,
+            1.316048264503479
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "D_surface",
+            "quarter_frame"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 90,
+          "co": [
+            1.4550657272338867,
+            0.6774879693984985,
+            1.8120956420898438
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "quarter_frame",
+            "rear_roof"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 92,
+          "co": [
+            1.8979604244232178,
+            0.636667013168335,
+            1.7562601566314697
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "quarter_frame",
+            "rear_roof",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 96,
+          "co": [
+            2.180284261703491,
+            0.8528257608413696,
+            1.316048264503479
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "D_surface",
+            "quarter_frame"
+          ],
+          "reflection_sensitive": true
+        }
+      ],
+      "count": 8,
+      "sensitive_count": 8,
+      "all_quad": true
+    },
+    "C": {
+      "extraordinary_vertices": [
+        {
+          "id": 36,
+          "co": [
+            2.078566789627075,
+            -0.9104041457176208,
+            1.340000033378601
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "lamp_frame",
+            "quarter_lamp_bridge"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 42,
+          "co": [
+            2.307708740234375,
+            -0.5198759436607361,
+            0.9833421111106873
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 45,
+          "co": [
+            2.0614752769470215,
+            -0.9284728765487671,
+            1.0600171089172363
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 78,
+          "co": [
+            1.9399999380111694,
+            -0.800000011920929,
+            1.2000000476837158
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 143,
+          "co": [
+            2.078566789627075,
+            0.9104041457176208,
+            1.340000033378601
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "lamp_frame",
+            "quarter_lamp_bridge"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 149,
+          "co": [
+            2.307708740234375,
+            0.5198759436607361,
+            0.9833421111106873
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 152,
+          "co": [
+            2.0614752769470215,
+            0.9284728765487671,
+            1.0600171089172363
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 185,
+          "co": [
+            1.9399999380111694,
+            0.800000011920929,
+            1.2000000476837158
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        }
+      ],
+      "count": 8,
+      "sensitive_count": 4,
+      "all_quad": true
+    }
+  },
+  "V03": {
+    "A": {
+      "extraordinary_vertices": [
+        {
+          "id": 122,
+          "co": [
+            -0.8199999928474426,
+            -0.8451217412948608,
+            1.2517824172973633
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 125,
+          "co": [
+            -0.8199999928474426,
+            -0.6478000283241272,
+            1.3457825183868408
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 129,
+          "co": [
+            -0.8199999928474426,
+            0.6478000283241272,
+            1.3457825183868408
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 132,
+          "co": [
+            -0.8199999928474426,
+            0.8451217412948608,
+            1.2517824172973633
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "A_root",
+            "cowl_root"
+          ],
+          "reflection_sensitive": false
+        }
+      ],
+      "count": 4,
+      "sensitive_count": 0,
+      "all_quad": true
+    },
+    "B": {
+      "extraordinary_vertices": [
+        {
+          "id": 0,
+          "co": [
+            1.9927232265472412,
+            -0.6289595365524292,
+            1.6589744091033936
+          ],
+          "valence": 3,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "rear_glass",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 6,
+          "co": [
+            1.9927232265472412,
+            0.6289595365524292,
+            1.6589744091033936
+          ],
+          "valence": 3,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "rear_glass",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 71,
+          "co": [
+            1.4050657749176025,
+            -0.6774879693984985,
+            1.8120956420898438
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "quarter_frame_outer",
+            "rear_roof"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 73,
+          "co": [
+            1.8979604244232178,
+            -0.636667013168335,
+            1.7562601566314697
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "quarter_frame_outer",
+            "rear_roof",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 77,
+          "co": [
+            2.180284261703491,
+            -0.8528257608413696,
+            1.316048264503479
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "D_surface",
+            "quarter_frame_outer"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 129,
+          "co": [
+            1.4050657749176025,
+            0.6774879693984985,
+            1.8120956420898438
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "quarter_frame_outer",
+            "rear_roof"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 131,
+          "co": [
+            1.8979604244232178,
+            0.636667013168335,
+            1.7562601566314697
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "D_surface",
+            "quarter_frame_outer",
+            "rear_roof",
+            "roof_return"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 135,
+          "co": [
+            2.180284261703491,
+            0.8528257608413696,
+            1.316048264503479
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "D_surface",
+            "quarter_frame_outer"
+          ],
+          "reflection_sensitive": true
+        }
+      ],
+      "count": 8,
+      "sensitive_count": 8,
+      "all_quad": true
+    },
+    "C": {
+      "extraordinary_vertices": [
+        {
+          "id": 54,
+          "co": [
+            2.307708740234375,
+            -0.5198759436607361,
+            0.9833421111106873
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "upper_lamp_shoulder"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 57,
+          "co": [
+            2.0614752769470215,
+            -0.9284728765487671,
+            1.0600171089172363
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 90,
+          "co": [
+            1.9399999380111694,
+            -0.800000011920929,
+            1.2000000476837158
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 179,
+          "co": [
+            2.307708740234375,
+            0.5198759436607361,
+            0.9833421111106873
+          ],
+          "valence": 5,
+          "boundary": true,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "upper_lamp_shoulder"
+          ],
+          "reflection_sensitive": false
+        },
+        {
+          "id": 182,
+          "co": [
+            2.0614752769470215,
+            0.9284728765487671,
+            1.0600171089172363
+          ],
+          "valence": 5,
+          "boundary": false,
+          "patches": [
+            "bumper_quarter_upper",
+            "lamp_frame",
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        },
+        {
+          "id": 215,
+          "co": [
+            1.9399999380111694,
+            0.800000011920929,
+            1.2000000476837158
+          ],
+          "valence": 4,
+          "boundary": true,
+          "patches": [
+            "quarter_lamp_bridge",
+            "quarter_upper"
+          ],
+          "reflection_sensitive": true
+        }
+      ],
+      "count": 6,
+      "sensitive_count": 4,
+      "all_quad": true
+    }
+  }
+}

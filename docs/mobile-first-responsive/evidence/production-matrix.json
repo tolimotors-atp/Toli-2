@@ -1,0 +1,128 @@
+[
+  {
+    "height": 568,
+    "overflow": false,
+    "phoneWidths": [
+      131.953125,
+      130.046875
+    ],
+    "width": 320
+  },
+  {
+    "height": 640,
+    "overflow": false,
+    "phoneWidths": [
+      151.953125,
+      150.046875
+    ],
+    "width": 360
+  },
+  {
+    "height": 667,
+    "overflow": false,
+    "phoneWidths": [
+      159.453125,
+      157.546875
+    ],
+    "width": 375
+  },
+  {
+    "height": 844,
+    "overflow": false,
+    "phoneWidths": [
+      166.953125,
+      165.046875
+    ],
+    "width": 390
+  },
+  {
+    "height": 852,
+    "overflow": false,
+    "phoneWidths": [
+      168.46875,
+      166.53125
+    ],
+    "width": 393
+  },
+  {
+    "height": 915,
+    "overflow": false,
+    "phoneWidths": [
+      178.015625,
+      175.984375
+    ],
+    "width": 412
+  },
+  {
+    "height": 932,
+    "overflow": false,
+    "phoneWidths": [
+      187.0625,
+      184.9375
+    ],
+    "width": 430
+  },
+  {
+    "height": 375,
+    "overflow": false,
+    "phoneWidths": [
+      106.9375,
+      106.9375
+    ],
+    "width": 667
+  },
+  {
+    "height": 390,
+    "overflow": false,
+    "phoneWidths": [
+      106.9375,
+      106.9375
+    ],
+    "width": 844
+  },
+  {
+    "height": 960,
+    "overflow": false,
+    "phoneWidths": [
+      106.9375,
+      106.9375
+    ],
+    "width": 600
+  },
+  {
+    "height": 1024,
+    "overflow": false,
+    "phoneWidths": [
+      106.9375,
+      106.9375
+    ],
+    "width": 768
+  },
+  {
+    "height": 768,
+    "overflow": false,
+    "phoneWidths": [
+      100.265625,
+      100.265625
+    ],
+    "width": 1024
+  },
+  {
+    "height": 900,
+    "overflow": false,
+    "phoneWidths": [
+      105.796875,
+      105.796875
+    ],
+    "width": 1440
+  },
+  {
+    "height": 1080,
+    "overflow": false,
+    "phoneWidths": [
+      120.3125,
+      120.3125
+    ],
+    "width": 1920
+  }
+]

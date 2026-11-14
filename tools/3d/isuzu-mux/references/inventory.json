@@ -1,0 +1,93 @@
+[
+  {
+    "image": 1,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-21.png",
+    "exists": true,
+    "view": "Front, bonnet and four doors open; engine bay partial",
+    "role": "canonical"
+  },
+  {
+    "image": 2,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-40.png",
+    "exists": true,
+    "view": "Left profile, doors/bonnet/tailgate open",
+    "role": "canonical"
+  },
+  {
+    "image": 3,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-48.png",
+    "exists": true,
+    "view": "Rear, tailgate and rear doors open; cargo aperture",
+    "role": "canonical"
+  },
+  {
+    "image": 4,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-10-06.png",
+    "exists": true,
+    "view": "Right profile, doors/bonnet/tailgate open",
+    "role": "canonical"
+  },
+  {
+    "image": 5,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-11-39.png",
+    "exists": true,
+    "view": "Right-hand-drive dashboard, steering, front cabin and door cards",
+    "role": "interior reference"
+  },
+  {
+    "image": 6,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-10.png",
+    "exists": true,
+    "view": "Closed front",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 7,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-14.png",
+    "exists": true,
+    "view": "Closed left profile",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 8,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-18.png",
+    "exists": true,
+    "view": "Closed rear",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 9,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-21.png",
+    "exists": true,
+    "view": "Closed right profile",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 10,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-25.png",
+    "exists": true,
+    "view": "Closed front three-quarter, right side",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 11,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-27.png",
+    "exists": true,
+    "view": "Closed front three-quarter, left side",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 12,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-31.png",
+    "exists": true,
+    "view": "Closed rear three-quarter, left side",
+    "role": "secondary \u2014 use only compatible details"
+  },
+  {
+    "image": 13,
+    "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-35.png",
+    "exists": true,
+    "view": "Closed rear three-quarter, right side",
+    "role": "secondary \u2014 use only compatible details"
+  }
+]

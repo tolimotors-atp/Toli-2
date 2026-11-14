@@ -1,0 +1,12 @@
+{
+  "landmark_gate": "FAIL",
+  "contour_gate": "NOT REACHED",
+  "surfaces": "NOT CREATED",
+  "withheld_outputs": {
+    "multiview-contours-v01.jpg": "No contour curves before joint landmark gate passes",
+    "reconstructed-body-comparison-v01.jpg": "No body surfaces permitted before contour gate passes",
+    "reconstructed-surface-diagnostics-v01.jpg": "No body or reflection surface to evaluate"
+  },
+  "reference_coverage": "All six requested exterior camera classes supplied; no duplicate-angle photo request justified by this audit",
+  "no_photogrammetry_success_claim": true
+}

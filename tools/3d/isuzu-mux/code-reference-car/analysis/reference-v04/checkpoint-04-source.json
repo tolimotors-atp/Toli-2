@@ -1,0 +1,13 @@
+{
+  "cameraUnchanged": true,
+  "files": {
+    "MuxWheels.ts": "1706a816879dc451165cd1549fe499d3ba526f2b4b5df6d559aa091daaf93326",
+    "MuxReferencePatches.ts": "3a9fedfdea69b1b3c56a05ec8f47caad9c8945d52eb9d790b1a43a2a61cef029",
+    "MuxReferenceData.ts": "6d10e072f829177defd49f68f39421dc54903753672e310f122c81da21c08d9d",
+    "MuxValidation.ts": "4e94bcfb65f01d337ad1145df44f41fe324aefc8f83d626b8585de2df661c8a5",
+    "mux-coded-reference.test.ts": "f2aa45815d3938773d0193562928c630737acd0c61947cba23b8077c4b6f86cc",
+    "MuxVehicle.ts": "5cee464b836721b2ae1f175153dfec3620c420f0ff6057b52095b2cb0ec43ea3",
+    "MuxGeometry.ts": "2ef5fcad4a520b728b882b11ae9eae9b05c5e5032b6ef46970f38d6970ca17b2",
+    "validation.ts": "6a1c80fac7d3667245ef6e2b2ef2a2307131406490404249d2a11804473f9afe"
+  }
+}

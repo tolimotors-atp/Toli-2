@@ -1,0 +1,27 @@
+{
+  "toli-static-website": {
+    "files": 389,
+    "changed": [
+      "src/components/Hero.tsx",
+      "src/components/journey/navbar-brand.css",
+      "src/components/journey/hero-corner-visibility.css",
+      "src/test/navbar-motion.test.tsx",
+      "src/test/hero-reference.test.tsx",
+      "src/test/fixtures/separation-protected.json"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "toli-3d-website": {
+    "files": 1393,
+    "changed": [],
+    "added": [],
+    "removed": []
+  },
+  "tolimotors-main": {
+    "files": 2948,
+    "changed": [],
+    "added": [],
+    "removed": []
+  }
+}

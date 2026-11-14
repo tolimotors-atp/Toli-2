@@ -1,0 +1,5942 @@
+[
+  {
+    "camera": 13,
+    "landmark": "rw_base_L",
+    "base": "rw_base",
+    "side": "L",
+    "xy": [
+      159,
+      233
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      185.1728777875249,
+      227.1157465258224
+    ],
+    "error_pixels": 26.82618069403629,
+    "outlier_over_12px": true,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 26.172877787524897,
+    "dy": -5.884253474177598,
+    "category": "rw_base",
+    "confidence": "C",
+    "confidence_reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+    "visibility": "far/grazing rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject current shared-point observation"
+  },
+  {
+    "camera": 13,
+    "landmark": "hatch_low_L",
+    "base": "hatch_low",
+    "side": "L",
+    "xy": [
+      157,
+      333
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      181.08356205796053,
+      322.51438961157845
+    ],
+    "error_pixels": 26.2672036314757,
+    "outlier_over_12px": true,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 24.083562057960535,
+    "dy": -10.485610388421549,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 10,
+    "landmark": "q_fb_R",
+    "base": "q_fb",
+    "side": "R",
+    "xy": [
+      296,
+      200
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      276.0000619003349,
+      199.6684832048761
+    ],
+    "error_pixels": 20.002685504098803,
+    "outlier_over_12px": true,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -19.999938099665087,
+    "dy": -0.3315167951238891,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 11,
+    "landmark": "q_rb_L",
+    "base": "q_rb",
+    "side": "L",
+    "xy": [
+      833,
+      190
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      842.7500556153683,
+      198.92140281787403
+    ],
+    "error_pixels": 13.215710829976018,
+    "outlier_over_12px": true,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 9.750055615368296,
+    "dy": 8.921402817874025,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 7,
+    "landmark": "ws_base_L",
+    "base": "ws_base",
+    "side": "L",
+    "xy": [
+      374,
+      231
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      367.4852949566298,
+      238.69060811837196
+    ],
+    "error_pixels": 10.079029468777334,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -6.514705043370213,
+    "dy": 7.690608118371955,
+    "category": "ws_base",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 12,
+    "landmark": "hatch_low_L",
+    "base": "hatch_low",
+    "side": "L",
+    "xy": [
+      629,
+      354
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      618.9669347109077,
+      354.59819029009316
+    ],
+    "error_pixels": 10.050882086580776,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -10.033065289092292,
+    "dy": 0.5981902900931573,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 11,
+    "landmark": "g_low_L",
+    "base": "g_low",
+    "side": "L",
+    "xy": [
+      259,
+      351
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      249.2766449419732,
+      352.30405310907446
+    ],
+    "error_pixels": 9.81041222863455,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -9.723355058026812,
+    "dy": 1.3040531090744594,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 4,
+    "landmark": "tl_low_R",
+    "base": "tl_low",
+    "side": "R",
+    "xy": [
+      178,
+      232
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      187.62061308209815,
+      232.19204680423576
+    ],
+    "error_pixels": 9.622529711591186,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 9.620613082098146,
+    "dy": 0.19204680423575837,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 8,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      682,
+      251
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      673.5590077959849,
+      254.99005093493167
+    ],
+    "error_pixels": 9.336533395837673,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -8.44099220401506,
+    "dy": 3.9900509349316735,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "hatch_low_R",
+    "base": "hatch_low",
+    "side": "R",
+    "xy": [
+      852,
+      331
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      847.2441274412577,
+      338.9104338467566
+    ],
+    "error_pixels": 9.230020987999454,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -4.75587255874234,
+    "dy": 7.910433846756575,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 13,
+    "landmark": "q_rb_R",
+    "base": "q_rb",
+    "side": "R",
+    "xy": [
+      376,
+      250
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      368.0555047404962,
+      245.65288713758414
+    ],
+    "error_pixels": 9.056069520871617,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -7.94449525950381,
+    "dy": -4.347112862415855,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 9,
+    "landmark": "q_rt_R",
+    "base": "q_rt",
+    "side": "R",
+    "xy": [
+      207,
+      160
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      200.72062335276576,
+      166.22862387776607
+    ],
+    "error_pixels": 8.844564799271268,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -6.279376647234244,
+    "dy": 6.2286238777660685,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 8,
+    "landmark": "tl_top_L",
+    "base": "tl_top",
+    "side": "L",
+    "xy": [
+      366,
+      251
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      373.2629801735791,
+      256.0298340981063
+    ],
+    "error_pixels": 8.83459744732466,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 7.262980173579081,
+    "dy": 5.029834098106278,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "ws_top_R",
+    "base": "ws_top",
+    "side": "R",
+    "xy": [
+      578,
+      165
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      586.607289356619,
+      166.90152625532096
+    ],
+    "error_pixels": 8.81483024046649,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 8.607289356619049,
+    "dy": 1.9015262553209595,
+    "category": "ws_top",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 10,
+    "landmark": "g_low_L",
+    "base": "g_low",
+    "side": "L",
+    "xy": [
+      835,
+      339
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      835.066651220779,
+      347.7769016458821
+    ],
+    "error_pixels": 8.777154714753486,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 0.06665122077902197,
+    "dy": 8.776901645882106,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 7,
+    "landmark": "tl_low_L",
+    "base": "tl_low",
+    "side": "L",
+    "xy": [
+      872,
+      271
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      880.5759188397968,
+      269.3574566864433
+    ],
+    "error_pixels": 8.731800071216243,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 8.575918839796827,
+    "dy": -1.6425433135567005,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "q_rb_L",
+    "base": "q_rb",
+    "side": "L",
+    "xy": [
+      613,
+      251
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      611.8210300422835,
+      242.37171539820372
+    ],
+    "error_pixels": 8.708459412019605,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.1789699577165038,
+    "dy": -8.628284601796281,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 10,
+    "landmark": "q_rb_R",
+    "base": "q_rb",
+    "side": "R",
+    "xy": [
+      237,
+      191
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      234.96192189484174,
+      199.42894570266768
+    ],
+    "error_pixels": 8.671844557027379,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.038078105158263,
+    "dy": 8.428945702667676,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 9,
+    "landmark": "q_fb_R",
+    "base": "q_fb",
+    "side": "R",
+    "xy": [
+      269,
+      212
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      261.952200054771,
+      216.47343488577454
+    ],
+    "error_pixels": 8.347640609491654,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -7.047799945228974,
+    "dy": 4.473434885774537,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 10,
+    "landmark": "tiretop_R_R",
+    "base": "tiretop_R",
+    "side": "R",
+    "xy": [
+      275,
+      307
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      275.40814542012777,
+      298.8546673262847
+    ],
+    "error_pixels": 8.155551915686965,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.40814542012776656,
+    "dy": -8.145332673715302,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 6,
+    "landmark": "bumper_L",
+    "base": "bumper",
+    "side": "L",
+    "xy": [
+      700,
+      421
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      707.5528611087229,
+      418.3815357059437
+    ],
+    "error_pixels": 7.993876793327957,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 7.5528611087229365,
+    "dy": -2.6184642940563094,
+    "category": "bumper",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 10,
+    "landmark": "q_rt_R",
+    "base": "q_rt",
+    "side": "R",
+    "xy": [
+      255,
+      150
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      262.9831637305238,
+      150.3651485843317
+    ],
+    "error_pixels": 7.991510285108212,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 7.983163730523813,
+    "dy": 0.36514858433170616,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 12,
+    "landmark": "rw_base_L",
+    "base": "rw_base",
+    "side": "L",
+    "xy": [
+      593,
+      241
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      599.8883240450804,
+      244.46947754518743
+    ],
+    "error_pixels": 7.712735091171753,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 6.888324045080367,
+    "dy": 3.4694775451874307,
+    "category": "rw_base",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 11,
+    "landmark": "q_ft_L",
+    "base": "q_ft",
+    "side": "L",
+    "xy": [
+      778,
+      155
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      770.7090765905177,
+      157.1954611354919
+    ],
+    "error_pixels": 7.614303235384842,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -7.290923409482275,
+    "dy": 2.195461135491911,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 9,
+    "landmark": "ws_base_R",
+    "base": "ws_base",
+    "side": "R",
+    "xy": [
+      686,
+      234
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      693.2279847772409,
+      235.99528777773753
+    ],
+    "error_pixels": 7.498328964243595,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 7.227984777240863,
+    "dy": 1.9952877777375306,
+    "category": "ws_base",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 2,
+    "landmark": "q_fb_L",
+    "base": "q_fb",
+    "side": "L",
+    "xy": [
+      791,
+      159
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      785.5363417939791,
+      164.05203061816354
+    ],
+    "error_pixels": 7.441409433641017,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.463658206020909,
+    "dy": 5.052030618163542,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 13,
+    "landmark": "tiretop_F_R",
+    "base": "tiretop_F",
+    "side": "R",
+    "xy": [
+      774,
+      304
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      774.7316591407323,
+      296.85520823643344
+    ],
+    "error_pixels": 7.1821566707323825,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.7316591407322903,
+    "dy": -7.144791763566559,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 4,
+    "landmark": "q_rb_R",
+    "base": "q_rb",
+    "side": "R",
+    "xy": [
+      169,
+      178
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      174.86329346653332,
+      173.8909153547613
+    ],
+    "error_pixels": 7.15980355152492,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 5.863293466533321,
+    "dy": -4.10908464523871,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 9,
+    "landmark": "q_ft_R",
+    "base": "q_ft",
+    "side": "R",
+    "xy": [
+      280,
+      166
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      274.46958245096704,
+      170.3803146865835
+    ],
+    "error_pixels": 7.054975196281752,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.530417549032961,
+    "dy": 4.380314686583489,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 10,
+    "landmark": "ws_top_L",
+    "base": "ws_top",
+    "side": "L",
+    "xy": [
+      633,
+      165
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      626.4392476442534,
+      162.8608580679225
+    ],
+    "error_pixels": 6.900681102543887,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -6.560752355746558,
+    "dy": -2.139141932077507,
+    "category": "ws_top",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 2,
+    "landmark": "h_out_L",
+    "base": "h_out",
+    "side": "L",
+    "xy": [
+      142,
+      225
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      143.48642335346636,
+      218.422909119609
+    ],
+    "error_pixels": 6.74296513669267,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.486423353466364,
+    "dy": -6.577090880391012,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "arch_R_R",
+    "base": "arch_R",
+    "side": "R",
+    "xy": [
+      282,
+      311
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      283.5474753584042,
+      304.60026232696686
+    ],
+    "error_pixels": 6.584172101981227,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.5474753584041991,
+    "dy": -6.399737673033144,
+    "category": "arch_R",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 12,
+    "landmark": "rw_top_R",
+    "base": "rw_top",
+    "side": "R",
+    "xy": [
+      824,
+      166
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      817.8077718191114,
+      168.15184987987257
+    ],
+    "error_pixels": 6.555467012326324,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -6.1922281808886055,
+    "dy": 2.1518498798725716,
+    "category": "rw_top",
+    "confidence": "C",
+    "confidence_reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+    "visibility": "far/grazing rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current shared-point observation"
+  },
+  {
+    "camera": 13,
+    "landmark": "tl_low_R",
+    "base": "tl_low",
+    "side": "R",
+    "xy": [
+      410,
+      300
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      403.7220707601202,
+      301.61651153635734
+    ],
+    "error_pixels": 6.482708160029605,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -6.277929239879825,
+    "dy": 1.6165115363573364,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "q_rt_L",
+    "base": "q_rt",
+    "side": "L",
+    "xy": [
+      865,
+      160
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      858.9964980058414,
+      158.85127155291323
+    ],
+    "error_pixels": 6.112414681532355,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -6.003501994158569,
+    "dy": -1.1487284470867678,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 6,
+    "landmark": "g_low_L",
+    "base": "g_low",
+    "side": "L",
+    "xy": [
+      621,
+      364
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      626.9850588367731,
+      364.1768768441834
+    ],
+    "error_pixels": 5.9876718929517,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 5.985058836773078,
+    "dy": 0.17687684418342542,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 12,
+    "landmark": "rw_top_L",
+    "base": "rw_top",
+    "side": "L",
+    "xy": [
+      609,
+      176
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      607.6501243388959,
+      170.18399568218715
+    ],
+    "error_pixels": 5.970600516301434,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.349875661104079,
+    "dy": -5.816004317812855,
+    "category": "rw_top",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 10,
+    "landmark": "g_top_R",
+    "base": "g_top",
+    "side": "R",
+    "xy": [
+      714,
+      309
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      708.4646562456876,
+      306.8198703277649
+    ],
+    "error_pixels": 5.949201279681619,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.535343754312407,
+    "dy": -2.1801296722351253,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 10,
+    "landmark": "g_top_L",
+    "base": "g_top",
+    "side": "L",
+    "xy": [
+      833,
+      292
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      836.1825207012182,
+      296.8791083889033
+    ],
+    "error_pixels": 5.825301424334125,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.182520701218209,
+    "dy": 4.879108388903319,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 12,
+    "landmark": "tiretop_F_L",
+    "base": "tiretop_F",
+    "side": "L",
+    "xy": [
+      304,
+      302
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      303.9331628955539,
+      296.1973059002072
+    ],
+    "error_pixels": 5.80307901155076,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.06683710444610824,
+    "dy": -5.802694099792802,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 11,
+    "landmark": "h_in_L",
+    "base": "h_in",
+    "side": "L",
+    "xy": [
+      268,
+      338
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      268.8098407653794,
+      332.27128459659224
+    ],
+    "error_pixels": 5.785673879377551,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.8098407653794197,
+    "dy": -5.728715403407762,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "q_ft_R",
+    "base": "q_ft",
+    "side": "R",
+    "xy": [
+      297,
+      156
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      291.55920129401784,
+      157.52852909534195
+    ],
+    "error_pixels": 5.651432716959836,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.440798705982161,
+    "dy": 1.528529095341952,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 6,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      399,
+      478
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      393.72275388588014,
+      476.00073006121954
+    ],
+    "error_pixels": 5.643262074111426,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.277246114119862,
+    "dy": -1.9992699387804578,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "tiretop_R_R",
+    "base": "tiretop_R",
+    "side": "R",
+    "xy": [
+      309,
+      285
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      306.12136648609203,
+      289.70205098530727
+    ],
+    "error_pixels": 5.513239916403347,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.878633513907971,
+    "dy": 4.702050985307267,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 8,
+    "landmark": "rw_top_R",
+    "base": "rw_top",
+    "side": "R",
+    "xy": [
+      642,
+      178
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      647.2659474397066,
+      179.62641752959922
+    ],
+    "error_pixels": 5.511391513795746,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 5.265947439706565,
+    "dy": 1.6264175295992231,
+    "category": "rw_top",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 13,
+    "landmark": "hatch_low_R",
+    "base": "hatch_low",
+    "side": "R",
+    "xy": [
+      359,
+      354
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      355.0877901116361,
+      350.1252007800116
+    ],
+    "error_pixels": 5.50631048941441,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.9122098883639183,
+    "dy": -3.874799219988404,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 8,
+    "landmark": "hatch_low_R",
+    "base": "hatch_low",
+    "side": "R",
+    "xy": [
+      654,
+      353
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      658.9185184642375,
+      350.525971105917
+    ],
+    "error_pixels": 5.505691859503504,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 4.918518464237536,
+    "dy": -2.4740288940830055,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 11,
+    "landmark": "h_out_L",
+    "base": "h_out",
+    "side": "L",
+    "xy": [
+      360,
+      286
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      356.61002461529563,
+      290.3360700473912
+    ],
+    "error_pixels": 5.503947362101569,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.389975384704371,
+    "dy": 4.3360700473912175,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "h_out_L",
+    "base": "h_out",
+    "side": "L",
+    "xy": [
+      558,
+      299
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      563.3275460482799,
+      297.7270096608731
+    ],
+    "error_pixels": 5.477522368740606,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 5.327546048279942,
+    "dy": -1.2729903391269204,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "q_rb_R",
+    "base": "q_rb",
+    "side": "R",
+    "xy": [
+      163,
+      218
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      166.7710300934358,
+      221.90249705364735
+    ],
+    "error_pixels": 5.426799353147733,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.7710300934357974,
+    "dy": 3.9024970536473518,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 12,
+    "landmark": "tl_top_L",
+    "base": "tl_top",
+    "side": "L",
+    "xy": [
+      570,
+      254
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      564.8060995790227,
+      252.47897891396144
+    ],
+    "error_pixels": 5.412033511278596,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.193900420977343,
+    "dy": -1.5210210860385587,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "h_in_L",
+    "base": "h_in",
+    "side": "L",
+    "xy": [
+      644,
+      340
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      638.8151536685824,
+      341.2315150614093
+    ],
+    "error_pixels": 5.329095685657409,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.184846331417589,
+    "dy": 1.2315150614093113,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 3,
+    "landmark": "tl_low_R",
+    "base": "tl_low",
+    "side": "R",
+    "xy": [
+      672,
+      258
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      666.7567363906211,
+      258.06181296020094
+    ],
+    "error_pixels": 5.243627953953827,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -5.243263609378914,
+    "dy": 0.06181296020093896,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "q_rt_R",
+    "base": "q_rt",
+    "side": "R",
+    "xy": [
+      376,
+      176
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      378.3929295662673,
+      180.52921276524293
+    ],
+    "error_pixels": 5.12248769466123,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.3929295662672985,
+    "dy": 4.5292127652429315,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 9,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      209,
+      235
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      204.61957176233517,
+      232.41075575057948
+    ],
+    "error_pixels": 5.088451368391825,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -4.38042823766483,
+    "dy": -2.589244249420517,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "bumper_R",
+    "base": "bumper",
+    "side": "R",
+    "xy": [
+      218,
+      442
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      222.6421184599016,
+      444.0785519453509
+    ],
+    "error_pixels": 5.086220795962494,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 4.64211845990161,
+    "dy": 2.0785519453509096,
+    "category": "bumper",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 10,
+    "landmark": "arch_R_R",
+    "base": "arch_R",
+    "side": "R",
+    "xy": [
+      275,
+      286
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      274.7863749369287,
+      280.9930169140363
+    ],
+    "error_pixels": 5.011538216026994,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.2136250630712766,
+    "dy": -5.006983085963725,
+    "category": "arch_R",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 11,
+    "landmark": "ws_top_L",
+    "base": "ws_top",
+    "side": "L",
+    "xy": [
+      532,
+      169
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      536.7727027167916,
+      167.54689677327235
+    ],
+    "error_pixels": 4.989007938498042,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 4.772702716791628,
+    "dy": -1.4531032267276487,
+    "category": "ws_top",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "ws_top_R",
+    "base": "ws_top",
+    "side": "R",
+    "xy": [
+      487,
+      163
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      482.4800186314057,
+      165.05594414858092
+    ],
+    "error_pixels": 4.965595423967174,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -4.519981368594301,
+    "dy": 2.0559441485809202,
+    "category": "ws_top",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "g_low_L",
+    "base": "g_low",
+    "side": "L",
+    "xy": [
+      487,
+      384
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      488.46794885552913,
+      379.3332060216853
+    ],
+    "error_pixels": 4.892222386450086,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 1.46794885552913,
+    "dy": -4.666793978314672,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 12,
+    "landmark": "q_ft_L",
+    "base": "q_ft",
+    "side": "L",
+    "xy": [
+      550,
+      181
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      552.6468098756168,
+      176.9043863656712
+    ],
+    "error_pixels": 4.876438614333464,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.646809875616782,
+    "dy": -4.095613634328799,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 4,
+    "landmark": "h_out_R",
+    "base": "h_out",
+    "side": "R",
+    "xy": [
+      930,
+      225
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      925.5650390283502,
+      223.04832726176693
+    ],
+    "error_pixels": 4.845400426922371,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -4.4349609716498435,
+    "dy": -1.9516727382330714,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "arch_R_R",
+    "base": "arch_R",
+    "side": "R",
+    "xy": [
+      475,
+      320
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      477.5948446443093,
+      323.9803537586854
+    ],
+    "error_pixels": 4.751466591735832,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.594844644309319,
+    "dy": 3.9803537586853963,
+    "category": "arch_R",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 11,
+    "landmark": "g_top_L",
+    "base": "g_top",
+    "side": "L",
+    "xy": [
+      278,
+      309
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      275.5552133381444,
+      304.95847020334
+    ],
+    "error_pixels": 4.7234462968554345,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.4447866618555736,
+    "dy": -4.041529796659972,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 11,
+    "landmark": "tiretop_R_L",
+    "base": "tiretop_R",
+    "side": "L",
+    "xy": [
+      783,
+      305
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      781.7777204585218,
+      300.4397016844666
+    ],
+    "error_pixels": 4.721259154523577,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.2222795414782013,
+    "dy": -4.560298315533373,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 6,
+    "landmark": "h_out_L",
+    "base": "h_out",
+    "side": "L",
+    "xy": [
+      692,
+      289
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      687.6529516407704,
+      290.6828594081289
+    ],
+    "error_pixels": 4.661420944841649,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -4.347048359229575,
+    "dy": 1.682859408128877,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "arch_R_L",
+    "base": "arch_R",
+    "side": "L",
+    "xy": [
+      783,
+      287
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      782.1875936654283,
+      282.45973898843187
+    ],
+    "error_pixels": 4.612371852487392,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.8124063345717332,
+    "dy": -4.540261011568134,
+    "category": "arch_R",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 10,
+    "landmark": "ws_base_L",
+    "base": "ws_base",
+    "side": "L",
+    "xy": [
+      708,
+      235
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      712.4981010163976,
+      235.94035315947178
+    ],
+    "error_pixels": 4.595342948926234,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 4.498101016397641,
+    "dy": 0.9403531594717833,
+    "category": "ws_base",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 2,
+    "landmark": "arch_F_L",
+    "base": "arch_F",
+    "side": "L",
+    "xy": [
+      218,
+      268
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      219.3380358067747,
+      263.6792896502251
+    ],
+    "error_pixels": 4.523149096245149,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.3380358067747125,
+    "dy": -4.320710349774913,
+    "category": "arch_F",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 10,
+    "landmark": "ws_base_R",
+    "base": "ws_base",
+    "side": "R",
+    "xy": [
+      535,
+      246
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      530.7264320343085,
+      244.55030283384687
+    ],
+    "error_pixels": 4.512760245230999,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -4.273567965691541,
+    "dy": -1.449697166153129,
+    "category": "ws_base",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "h_in_R",
+    "base": "h_in",
+    "side": "R",
+    "xy": [
+      309,
+      351
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      305.09087691626274,
+      353.23499108372255
+    ],
+    "error_pixels": 4.5029355345293105,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.9091230837372564,
+    "dy": 2.234991083722548,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "g_low_R",
+    "base": "g_low",
+    "side": "R",
+    "xy": [
+      321,
+      384
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      320.1247244770669,
+      379.60121280763184
+    ],
+    "error_pixels": 4.48502352332605,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.8752755229331228,
+    "dy": -4.398787192368161,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 4,
+    "landmark": "q_rt_R",
+    "base": "q_rt",
+    "side": "R",
+    "xy": [
+      214,
+      114
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      211.87498333453743,
+      110.05714855630461
+    ],
+    "error_pixels": 4.479037099148037,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.1250166654625673,
+    "dy": -3.942851443695389,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 12,
+    "landmark": "q_fb_L",
+    "base": "q_fb",
+    "side": "L",
+    "xy": [
+      546,
+      234
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      545.5425419729241,
+      229.64668601992622
+    ],
+    "error_pixels": 4.377283456167985,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.4574580270758588,
+    "dy": -4.353313980073779,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 3,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      649,
+      211
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      653.2944746627252,
+      210.68325042791116
+    ],
+    "error_pixels": 4.306140141728669,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 4.294474662725179,
+    "dy": -0.31674957208883825,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 8,
+    "landmark": "tl_low_L",
+    "base": "tl_low",
+    "side": "L",
+    "xy": [
+      367,
+      299
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      363.0366737478653,
+      300.51301814269857
+    ],
+    "error_pixels": 4.242308202028146,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.9633262521347206,
+    "dy": 1.51301814269857,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "rw_top_R",
+    "base": "rw_top",
+    "side": "R",
+    "xy": [
+      380,
+      176
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      376.38928119657794,
+      177.92477066383228
+    ],
+    "error_pixels": 4.091702871144846,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.61071880342206,
+    "dy": 1.9247706638322768,
+    "category": "rw_top",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 12,
+    "landmark": "arch_R_L",
+    "base": "arch_R",
+    "side": "L",
+    "xy": [
+      513,
+      321
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      515.0498618195576,
+      324.43992340265436
+    ],
+    "error_pixels": 4.004373421074643,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.0498618195575773,
+    "dy": 3.439923402654358,
+    "category": "arch_R",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 1,
+    "landmark": "h_in_L",
+    "base": "h_in",
+    "side": "L",
+    "xy": [
+      500,
+      351
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      503.3535438881162,
+      352.94042732541544
+    ],
+    "error_pixels": 3.874469617217342,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.353543888116178,
+    "dy": 1.9404273254154418,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "ws_top_R",
+    "base": "ws_top",
+    "side": "R",
+    "xy": [
+      424,
+      165
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      423.4232338222673,
+      161.1719499678631
+    ],
+    "error_pixels": 3.8712564203782325,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.5767661777326794,
+    "dy": -3.8280500321369004,
+    "category": "ws_top",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 13,
+    "landmark": "rw_base_R",
+    "base": "rw_base",
+    "side": "R",
+    "xy": [
+      377,
+      245
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      375.4542056646666,
+      248.54771369434846
+    ],
+    "error_pixels": 3.869851752227274,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.5457943353334258,
+    "dy": 3.5477136943484595,
+    "category": "rw_base",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 4,
+    "landmark": "q_ft_R",
+    "base": "q_ft",
+    "side": "R",
+    "xy": [
+      293,
+      119
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      294.4145007712305,
+      115.42806018807991
+    ],
+    "error_pixels": 3.8418181179997863,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.4145007712305073,
+    "dy": -3.571939811920089,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 2,
+    "landmark": "tiretop_F_L",
+    "base": "tiretop_F",
+    "side": "L",
+    "xy": [
+      218,
+      279
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      218.09966952531033,
+      282.7786804179575
+    ],
+    "error_pixels": 3.7799946713363335,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.09966952531033257,
+    "dy": 3.778680417957503,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 12,
+    "landmark": "tiretop_R_L",
+    "base": "tiretop_R",
+    "side": "L",
+    "xy": [
+      513,
+      344
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      516.1906156438124,
+      345.9672585878918
+    ],
+    "error_pixels": 3.748350909156529,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.190615643812407,
+    "dy": 1.9672585878918198,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 2,
+    "landmark": "q_rt_L",
+    "base": "q_rt",
+    "side": "L",
+    "xy": [
+      848,
+      112
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      851.4387596334828,
+      110.52119631738265
+    ],
+    "error_pixels": 3.7432510133029715,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.438759633482846,
+    "dy": -1.4788036826173538,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 13,
+    "landmark": "q_ft_R",
+    "base": "q_ft",
+    "side": "R",
+    "xy": [
+      442,
+      181
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      445.5441227360561,
+      182.1059447694762
+    ],
+    "error_pixels": 3.7126701713674626,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.5441227360561243,
+    "dy": 1.1059447694761957,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 3,
+    "landmark": "tl_top_L",
+    "base": "tl_top",
+    "side": "L",
+    "xy": [
+      315,
+      211
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      318.7008349951592,
+      211.02227004317317
+    ],
+    "error_pixels": 3.700902000353146,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 3.700834995159198,
+    "dy": 0.022270043173165277,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "q_rt_L",
+    "base": "q_rt",
+    "side": "L",
+    "xy": [
+      613,
+      177
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      610.7267811660386,
+      174.1142479491254
+    ],
+    "error_pixels": 3.673566219112425,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.2732188339614368,
+    "dy": -2.8857520508746006,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 9,
+    "landmark": "tiretop_R_R",
+    "base": "tiretop_R",
+    "side": "R",
+    "xy": [
+      282,
+      328
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      283.3263518521794,
+      324.6130724021457
+    ],
+    "error_pixels": 3.637373748858774,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.326351852179414,
+    "dy": -3.38692759785431,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 1,
+    "landmark": "bumper_L",
+    "base": "bumper",
+    "side": "L",
+    "xy": [
+      589,
+      442
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      585.6809076207828,
+      443.40655496497925
+    ],
+    "error_pixels": 3.604826083361769,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.3190923792171816,
+    "dy": 1.4065549649792501,
+    "category": "bumper",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 7,
+    "landmark": "q_rb_L",
+    "base": "q_rb",
+    "side": "L",
+    "xy": [
+      895,
+      218
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      891.9658058979012,
+      216.0829573014488
+    ],
+    "error_pixels": 3.589064858327258,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.034194102098809,
+    "dy": -1.9170426985511995,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 8,
+    "landmark": "rw_base_R",
+    "base": "rw_base",
+    "side": "R",
+    "xy": [
+      668,
+      251
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      670.1872344039201,
+      248.1641436646319
+    ],
+    "error_pixels": 3.581351070830561,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.1872344039201153,
+    "dy": -2.8358563353681063,
+    "category": "rw_base",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 10,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      275,
+      412
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      274.75680903930174,
+      415.5667773208673
+    ],
+    "error_pixels": 3.575058363162561,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.24319096069825719,
+    "dy": 3.5667773208672884,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "g_low_R",
+    "base": "g_low",
+    "side": "R",
+    "xy": [
+      180,
+      336
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      179.51605572511346,
+      339.43225430276556
+    ],
+    "error_pixels": 3.466204214994861,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.48394427488653946,
+    "dy": 3.432254302765557,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 7,
+    "landmark": "h_out_L",
+    "base": "h_out",
+    "side": "L",
+    "xy": [
+      227,
+      271
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      223.8770198854238,
+      272.4777709737199
+    ],
+    "error_pixels": 3.4549691528011297,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -3.122980114576194,
+    "dy": 1.4777709737198848,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "arch_R_L",
+    "base": "arch_R",
+    "side": "L",
+    "xy": [
+      778,
+      299
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      776.8540839918519,
+      302.25034909077954
+    ],
+    "error_pixels": 3.4464318808967414,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.145916008148106,
+    "dy": 3.2503490907795367,
+    "category": "arch_R",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 13,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      475,
+      481
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      475.9067933981959,
+      477.6797575457839
+    ],
+    "error_pixels": 3.4418431431125054,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.9067933981958731,
+    "dy": -3.3202424542160998,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "h_in_R",
+    "base": "h_in",
+    "side": "R",
+    "xy": [
+      890,
+      301
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      888.0102210358923,
+      303.74504904323743
+    ],
+    "error_pixels": 3.390356113417031,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -1.9897789641076997,
+    "dy": 2.7450490432374295,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      423,
+      480
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      425.55123552445696,
+      477.81576092597624
+    ],
+    "error_pixels": 3.3585269142502567,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.5512355244569562,
+    "dy": -2.1842390740237647,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "arch_F_L",
+    "base": "arch_F",
+    "side": "L",
+    "xy": [
+      423,
+      324
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      423.27778518183993,
+      327.33103409736367
+    ],
+    "error_pixels": 3.3425967099022342,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.2777851818399313,
+    "dy": 3.33103409736367,
+    "category": "arch_F",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 13,
+    "landmark": "wc_F_R",
+    "base": "wc_F",
+    "side": "R",
+    "xy": [
+      774,
+      351
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      773.5459685908917,
+      354.2911792074069
+    ],
+    "error_pixels": 3.322349333788439,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.4540314091083246,
+    "dy": 3.2911792074069126,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "arch_R_R",
+    "base": "arch_R",
+    "side": "R",
+    "xy": [
+      309,
+      266
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      306.08215258266824,
+      267.56905874298303
+    ],
+    "error_pixels": 3.312971308321443,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.917847417331757,
+    "dy": 1.5690587429830316,
+    "category": "arch_R",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 6,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      683,
+      474
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      685.9196487230556,
+      472.44268451504126
+    ],
+    "error_pixels": 3.3090149872329904,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.919648723055616,
+    "dy": -1.5573154849587354,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      414,
+      254
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      416.7457887873306,
+      255.84450095271563
+    ],
+    "error_pixels": 3.3077998472095063,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.745788787330582,
+    "dy": 1.8445009527156344,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "wc_R_L",
+    "base": "wc_R",
+    "side": "L",
+    "xy": [
+      513,
+      414
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      515.384299534524,
+      416.10005866222934
+    ],
+    "error_pixels": 3.1772835339540726,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.3842995345239615,
+    "dy": 2.100058662229344,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "rw_top_L",
+    "base": "rw_top",
+    "side": "L",
+    "xy": [
+      217,
+      166
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      214.17887623293143,
+      164.69282827263964
+    ],
+    "error_pixels": 3.1092502687833634,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.8211237670685705,
+    "dy": -1.3071717273603554,
+    "category": "rw_top",
+    "confidence": "C",
+    "confidence_reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+    "visibility": "far/grazing rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject current shared-point observation"
+  },
+  {
+    "camera": 2,
+    "landmark": "q_ft_L",
+    "base": "q_ft",
+    "side": "L",
+    "xy": [
+      774,
+      115
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      771.0367333867389,
+      114.0824385074032
+    ],
+    "error_pixels": 3.1020748079252463,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.963266613261112,
+    "dy": -0.9175614925968034,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 8,
+    "landmark": "rw_base_L",
+    "base": "rw_base",
+    "side": "L",
+    "xy": [
+      378,
+      250
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      375.00373762830094,
+      249.19768346457477
+    ],
+    "error_pixels": 3.101822048905519,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -2.9962623716990606,
+    "dy": -0.8023165354252342,
+    "category": "rw_base",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 6,
+    "landmark": "h_in_R",
+    "base": "h_in",
+    "side": "R",
+    "xy": [
+      466,
+      341
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      468.68103728480304,
+      342.51230279989034
+    ],
+    "error_pixels": 3.078152153656509,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.6810372848030397,
+    "dy": 1.5123027998903353,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "ws_base_L",
+    "base": "ws_base",
+    "side": "L",
+    "xy": [
+      659,
+      242
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      656.7343443555644,
+      243.9999507196099
+    ],
+    "error_pixels": 3.0220851046969157,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.265655644435583,
+    "dy": 1.999950719609899,
+    "category": "ws_base",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "q_rb_L",
+    "base": "q_rb",
+    "side": "L",
+    "xy": [
+      887,
+      169
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      889.4408469964008,
+      170.72141810726293
+    ],
+    "error_pixels": 2.986806716185577,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.440846996400751,
+    "dy": 1.7214181072629344,
+    "category": "q_rb",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 4,
+    "landmark": "tiretop_F_R",
+    "base": "tiretop_F",
+    "side": "R",
+    "xy": [
+      850,
+      286
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      851.3661423906285,
+      288.62875508803637
+    ],
+    "error_pixels": 2.9625492982141735,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.3661423906285108,
+    "dy": 2.628755088036371,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 2,
+    "landmark": "tl_low_L",
+    "base": "tl_low",
+    "side": "L",
+    "xy": [
+      878,
+      227
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      878.8008411164278,
+      224.14953606827828
+    ],
+    "error_pixels": 2.960826087396523,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.8008411164278186,
+    "dy": -2.8504639317217197,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "wc_R_R",
+    "base": "wc_R",
+    "side": "R",
+    "xy": [
+      309,
+      360
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      307.1041380834753,
+      362.2391409834153
+    ],
+    "error_pixels": 2.933946957621924,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.8958619165247228,
+    "dy": 2.239140983415325,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "h_in_R",
+    "base": "h_in",
+    "side": "R",
+    "xy": [
+      986,
+      264
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      984.7707633836494,
+      261.34119098988896
+    ],
+    "error_pixels": 2.9292128654682488,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -1.2292366163505903,
+    "dy": -2.6588090101110424,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 8,
+    "landmark": "hatch_low_L",
+    "base": "hatch_low",
+    "side": "L",
+    "xy": [
+      389,
+      353
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      386.6705384051711,
+      351.3210401641928
+    ],
+    "error_pixels": 2.871462598056339,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.3294615948288993,
+    "dy": -1.6789598358071771,
+    "category": "hatch_low",
+    "confidence": "C",
+    "confidence_reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+    "visibility": "closed but view-dependent seam pick",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current fixed-point correspondence; not open-panel contamination"
+  },
+  {
+    "camera": 4,
+    "landmark": "q_fb_R",
+    "base": "q_fb",
+    "side": "R",
+    "xy": [
+      281,
+      171
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      280.9457097933757,
+      168.1507638016271
+    ],
+    "error_pixels": 2.8497533824269285,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.054290206624273196,
+    "dy": -2.8492361983728927,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 7,
+    "landmark": "h_in_L",
+    "base": "h_in",
+    "side": "L",
+    "xy": [
+      164,
+      308
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      165.02016620000433,
+      305.3698235865933
+    ],
+    "error_pixels": 2.821093235125712,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": 1.0201662000043257,
+    "dy": -2.630176413406673,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "q_ft_L",
+    "base": "q_ft",
+    "side": "L",
+    "xy": [
+      783,
+      165
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      785.7110372050561,
+      165.6955746443391
+    ],
+    "error_pixels": 2.7988474079602326,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.7110372050560727,
+    "dy": 0.6955746443391035,
+    "category": "q_ft",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 4,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      309,
+      437
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      308.0813092679062,
+      434.36287180484663
+    ],
+    "error_pixels": 2.7925683123082066,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.9186907320938076,
+    "dy": -2.637128195153366,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "tiretop_F_R",
+    "base": "tiretop_F",
+    "side": "R",
+    "xy": [
+      562,
+      346
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      564.7729000501205,
+      345.97933714916064
+    ],
+    "error_pixels": 2.7729770358520804,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.7729000501204837,
+    "dy": -0.020662850839357816,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 11,
+    "landmark": "ws_base_R",
+    "base": "ws_base",
+    "side": "R",
+    "xy": [
+      329,
+      234
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      331.0030906167058,
+      232.11967507665605
+    ],
+    "error_pixels": 2.7473612496508637,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.0030906167057765,
+    "dy": -1.8803249233439487,
+    "category": "ws_base",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 9,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      282,
+      458
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      283.5003832479722,
+      455.7266085748047
+    ],
+    "error_pixels": 2.7238682903083205,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.500383247972195,
+    "dy": -2.273391425195314,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "h_out_R",
+    "base": "h_out",
+    "side": "R",
+    "xy": [
+      626,
+      288
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      624.0507734634768,
+      289.8510877815061
+    ],
+    "error_pixels": 2.6881238932622358,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.949226536523156,
+    "dy": 1.8510877815061235,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "tl_low_L",
+    "base": "tl_low",
+    "side": "L",
+    "xy": [
+      574,
+      300
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      571.4465699940486,
+      300.75776726596433
+    ],
+    "error_pixels": 2.6634969541300837,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -2.5534300059514408,
+    "dy": 0.7577672659643326,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "g_top_L",
+    "base": "g_top",
+    "side": "L",
+    "xy": [
+      649,
+      311
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      646.6498311404599,
+      312.0625952232569
+    ],
+    "error_pixels": 2.5792251310888448,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.3501688595400765,
+    "dy": 1.062595223256892,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 7,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      293,
+      458
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      295.3626757219161,
+      458.9514995222622
+    ],
+    "error_pixels": 2.5470743820699524,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.362675721916105,
+    "dy": 0.9514995222622247,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      778,
+      447
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      776.8837350925044,
+      449.27945894846005
+    ],
+    "error_pixels": 2.5381056797187966,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.1162649074956335,
+    "dy": 2.2794589484600465,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "ws_top_L",
+    "base": "ws_top",
+    "side": "L",
+    "xy": [
+      474,
+      163
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      471.9042215026283,
+      164.3869247779403
+    ],
+    "error_pixels": 2.513135063961032,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.0957784973717253,
+    "dy": 1.386924777940294,
+    "category": "ws_top",
+    "confidence": "B",
+    "confidence_reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+    "visibility": "partial/grazing static glass",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only in initial structural solve"
+  },
+  {
+    "camera": 7,
+    "landmark": "tiretop_R_L",
+    "base": "tiretop_R",
+    "side": "L",
+    "xy": [
+      778,
+      324
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      777.0625691575306,
+      321.7220355466135
+    ],
+    "error_pixels": 2.4633105032263987,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.9374308424694391,
+    "dy": -2.2779644533865167,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 8,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      377,
+      478
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      378.52676475395026,
+      476.09052157185806
+    ],
+    "error_pixels": 2.4448146108537974,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.5267647539502605,
+    "dy": -1.909478428141938,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "tiretop_R_L",
+    "base": "tiretop_R",
+    "side": "L",
+    "xy": [
+      764,
+      280
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      763.5825511625895,
+      282.37379665730543
+    ],
+    "error_pixels": 2.410222832455496,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.41744883741046124,
+    "dy": 2.3737966573054337,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 7,
+    "landmark": "tl_top_L",
+    "base": "tl_top",
+    "side": "L",
+    "xy": [
+      852,
+      230
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      854.370579464447,
+      229.61504230509718
+    ],
+    "error_pixels": 2.4016326580313674,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.370579464447019,
+    "dy": -0.3849576949028233,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      513,
+      484
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      514.5846168220879,
+      485.655890609666
+    ],
+    "error_pixels": 2.2919389573075724,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.5846168220879235,
+    "dy": 1.6558906096660166,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "arch_R_L",
+    "base": "arch_R",
+    "side": "L",
+    "xy": [
+      764,
+      258
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      763.1674438442711,
+      260.13438237578686
+    ],
+    "error_pixels": 2.2910124134346312,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.8325561557288665,
+    "dy": 2.1343823757868563,
+    "category": "arch_R",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 6,
+    "landmark": "ws_base_R",
+    "base": "ws_base",
+    "side": "R",
+    "xy": [
+      410,
+      244
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      412.01674945997115,
+      245.00349076455544
+    ],
+    "error_pixels": 2.2526145029369733,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 2.0167494599711517,
+    "dy": 1.003490764555437,
+    "category": "ws_base",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 3,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      329,
+      458
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      326.93815341982634,
+      458.73604601292857
+    ],
+    "error_pixels": 2.189286425601246,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -2.0618465801736647,
+    "dy": 0.7360460129285684,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      783,
+      416
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      782.4933659550563,
+      418.0989358901429
+    ],
+    "error_pixels": 2.1592151181450165,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.5066340449436666,
+    "dy": 2.0989358901429114,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "h_in_R",
+    "base": "h_in",
+    "side": "R",
+    "xy": [
+      716,
+      338
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      716.5492645466787,
+      335.92816677843325
+    ],
+    "error_pixels": 2.143404870813221,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.549264546678728,
+    "dy": -2.0718332215667488,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "bumper_R",
+    "base": "bumper",
+    "side": "R",
+    "xy": [
+      393,
+      423
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      391.35854694666773,
+      421.6302816160179
+    ],
+    "error_pixels": 2.1378719741164063,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.6414530533322704,
+    "dy": -1.3697183839821037,
+    "category": "bumper",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 13,
+    "landmark": "q_fb_R",
+    "base": "q_fb",
+    "side": "R",
+    "xy": [
+      447,
+      235
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      447.69567389843473,
+      233.0237151347056
+    ],
+    "error_pixels": 2.0951525103808173,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.6956738984347339,
+    "dy": -1.9762848652943887,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 11,
+    "landmark": "g_top_R",
+    "base": "g_top",
+    "side": "R",
+    "xy": [
+      184,
+      289
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      183.75223075183158,
+      291.0280501929357
+    ],
+    "error_pixels": 2.0431292630190017,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.24776924816842438,
+    "dy": 2.028050192935723,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 6,
+    "landmark": "ws_top_L",
+    "base": "ws_top",
+    "side": "L",
+    "xy": [
+      621,
+      165
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      619.8006058007692,
+      166.6123520865359
+    ],
+    "error_pixels": 2.0095337011618497,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.1993941992308237,
+    "dy": 1.612352086535907,
+    "category": "ws_top",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "tl_low_R",
+    "base": "tl_low",
+    "side": "R",
+    "xy": [
+      179,
+      271
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      177.50809679637814,
+      272.3253893464506
+    ],
+    "error_pixels": 1.9956031891791346,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.4919032036218596,
+    "dy": 1.3253893464506064,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "arch_F_R",
+    "base": "arch_F",
+    "side": "R",
+    "xy": [
+      562,
+      327
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      563.8018511179482,
+      327.8576047676617
+    ],
+    "error_pixels": 1.9955333594724345,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.8018511179482175,
+    "dy": 0.8576047676617122,
+    "category": "arch_F",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 12,
+    "landmark": "rw_base_R",
+    "base": "rw_base",
+    "side": "R",
+    "xy": [
+      850,
+      237
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      848.1735438335692,
+      236.20780350301635
+    ],
+    "error_pixels": 1.990858462504648,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.8264561664308303,
+    "dy": -0.7921964969836495,
+    "category": "rw_base",
+    "confidence": "C",
+    "confidence_reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+    "visibility": "far/grazing rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject current shared-point observation"
+  },
+  {
+    "camera": 11,
+    "landmark": "ws_base_L",
+    "base": "ws_base",
+    "side": "L",
+    "xy": [
+      472,
+      247
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      470.1145695876183,
+      246.37063136114972
+    ],
+    "error_pixels": 1.987700360593144,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.8854304123817087,
+    "dy": -0.6293686388502806,
+    "category": "ws_base",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "h_out_R",
+    "base": "h_out",
+    "side": "R",
+    "xy": [
+      405,
+      291
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      406.4871409095071,
+      292.30093852528637
+    ],
+    "error_pixels": 1.9758616174479153,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.4871409095071044,
+    "dy": 1.3009385252863694,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "tiretop_R_R",
+    "base": "tiretop_R",
+    "side": "R",
+    "xy": [
+      475,
+      343
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      476.3007012653335,
+      344.4383035663713
+    ],
+    "error_pixels": 1.9392114197984043,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.3007012653334868,
+    "dy": 1.438303566371303,
+    "category": "tiretop_R",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 7,
+    "landmark": "tiretop_F_L",
+    "base": "tiretop_F",
+    "side": "L",
+    "xy": [
+      293,
+      332
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      292.45242299797815,
+      330.1545123677303
+    ],
+    "error_pixels": 1.9250104347778463,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.5475770020218533,
+    "dy": -1.8454876322696805,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 2,
+    "landmark": "h_in_L",
+    "base": "h_in",
+    "side": "L",
+    "xy": [
+      82,
+      264
+    ],
+    "sigma": 6,
+    "heldout": true,
+    "projected": [
+      80.21155631978286,
+      264.7018857208729
+    ],
+    "error_pixels": 1.9212429212553779,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -1.7884436802171422,
+    "dy": 0.7018857208728946,
+    "category": "h_in",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "tiretop_F_L",
+    "base": "tiretop_F",
+    "side": "L",
+    "xy": [
+      423,
+      343
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      422.3631203659342,
+      344.73679208814565
+    ],
+    "error_pixels": 1.8498817329043225,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.6368796340657923,
+    "dy": 1.7367920881456484,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 11,
+    "landmark": "q_fb_L",
+    "base": "q_fb",
+    "side": "L",
+    "xy": [
+      788,
+      199
+    ],
+    "sigma": 7,
+    "heldout": true,
+    "projected": [
+      786.4065551569545,
+      199.92656516421306
+    ],
+    "error_pixels": 1.8432551292106927,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": true,
+    "dx": -1.5934448430455177,
+    "dy": 0.9265651642130592,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 8,
+    "landmark": "rw_top_L",
+    "base": "rw_top",
+    "side": "L",
+    "xy": [
+      397,
+      179
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      397.9075231014783,
+      180.5966633438271
+    ],
+    "error_pixels": 1.8365543861366935,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.9075231014783185,
+    "dy": 1.596663343827089,
+    "category": "rw_top",
+    "confidence": "B",
+    "confidence_reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+    "visibility": "rounded static glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only; initial frame solve excludes this ambiguity"
+  },
+  {
+    "camera": 1,
+    "landmark": "g_top_R",
+    "base": "g_top",
+    "side": "R",
+    "xy": [
+      294,
+      320
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      295.7286482768526,
+      319.3863917131767
+    ],
+    "error_pixels": 1.8343227618725344,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.7286482768525957,
+    "dy": -0.6136082868233075,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 13,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      774,
+      412
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      772.3683268632487,
+      411.33725762322376
+    ],
+    "error_pixels": 1.7611316484495734,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.6316731367512602,
+    "dy": -0.6627423767762366,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "g_low_R",
+    "base": "g_low",
+    "side": "R",
+    "xy": [
+      738,
+      356
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      737.4487106695506,
+      357.63605566210134
+    ],
+    "error_pixels": 1.726440863557523,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.5512893304494355,
+    "dy": 1.6360556621013416,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 9,
+    "landmark": "h_out_R",
+    "base": "h_out",
+    "side": "R",
+    "xy": [
+      836,
+      265
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      837.0855246845103,
+      266.26486421737144
+    ],
+    "error_pixels": 1.6668069261519016,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.0855246845103466,
+    "dy": 1.2648642173714393,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "arch_F_R",
+    "base": "arch_F",
+    "side": "R",
+    "xy": [
+      772,
+      306
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      770.95316991631,
+      307.2860490256591
+    ],
+    "error_pixels": 1.6582446503809847,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.046830083689997,
+    "dy": 1.2860490256591106,
+    "category": "arch_F",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 3,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      644,
+      458
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      645.1869147550208,
+      456.84362348771435
+    ],
+    "error_pixels": 1.6570978467947974,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.18691475502078,
+    "dy": -1.1563765122856466,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "h_out_R",
+    "base": "h_out",
+    "side": "R",
+    "xy": [
+      246,
+      299
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      244.5911981949837,
+      298.12971691312634
+    ],
+    "error_pixels": 1.6559333250815238,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.40880180501631,
+    "dy": -0.8702830868736555,
+    "category": "h_out",
+    "confidence": "A",
+    "confidence_reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "wc_R_R",
+    "base": "wc_R",
+    "side": "R",
+    "xy": [
+      282,
+      391
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      283.4133859709728,
+      390.18371861053964
+    ],
+    "error_pixels": 1.6321688667910708,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.4133859709727972,
+    "dy": -0.8162813894603573,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 3,
+    "landmark": "tl_low_L",
+    "base": "tl_low",
+    "side": "L",
+    "xy": [
+      307,
+      258
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      305.5628181298242,
+      258.7709903679164
+    ],
+    "error_pixels": 1.6309254659186012,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.4371818701757775,
+    "dy": 0.7709903679163972,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "ws_top_R",
+    "base": "ws_top",
+    "side": "R",
+    "xy": [
+      431,
+      167
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      432.59884018924186,
+      166.86833456062774
+    ],
+    "error_pixels": 1.6042523924432903,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.5988401892418551,
+    "dy": -0.13166543937225583,
+    "category": "ws_top",
+    "confidence": "A",
+    "confidence_reason": "closed visible windshield border; corrected V01 semantic definition",
+    "visibility": "closed glass structural border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "wc_F_L",
+    "base": "wc_F",
+    "side": "L",
+    "xy": [
+      218,
+      355
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      217.76849085731453,
+      356.5443438536963
+    ],
+    "error_pixels": 1.5615999556853721,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.23150914268546785,
+    "dy": 1.5443438536963185,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "wc_F_L",
+    "base": "wc_F",
+    "side": "L",
+    "xy": [
+      293,
+      396
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      293.9122046889088,
+      394.75903353137613
+    ],
+    "error_pixels": 1.54016725413702,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.9122046889087869,
+    "dy": -1.240966468623867,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "wc_F_R",
+    "base": "wc_F",
+    "side": "R",
+    "xy": [
+      562,
+      416
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      563.4072808387733,
+      415.3770410073151
+    ],
+    "error_pixels": 1.5389987867914436,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.4072808387733176,
+    "dy": -0.6229589926849144,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 6,
+    "landmark": "g_low_R",
+    "base": "g_low",
+    "side": "R",
+    "xy": [
+      482,
+      365
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      483.4540980870421,
+      365.3730692035428
+    ],
+    "error_pixels": 1.5011934843222396,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.454098087042098,
+    "dy": 0.3730692035427978,
+    "category": "g_low",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 4,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      850,
+      435
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      850.2169303703449,
+      433.5514438145047
+    ],
+    "error_pixels": 1.4647094620144634,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.2169303703449259,
+    "dy": -1.4485561854953062,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "arch_F_L",
+    "base": "arch_F",
+    "side": "L",
+    "xy": [
+      293,
+      312
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      293.1333829878675,
+      313.42451648093675
+    ],
+    "error_pixels": 1.4307474361021473,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.13338298786749192,
+    "dy": 1.4245164809367452,
+    "category": "arch_F",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 11,
+    "landmark": "q_rt_L",
+    "base": "q_rt",
+    "side": "L",
+    "xy": [
+      811,
+      150
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      811.9339409230138,
+      148.94379936504242
+    ],
+    "error_pixels": 1.4098955383164449,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.933940923013779,
+    "dy": -1.0562006349575768,
+    "category": "q_rt",
+    "confidence": "C",
+    "confidence_reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+    "visibility": "view-dependent rounded glazing",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point identity until a stable feature is verified"
+  },
+  {
+    "camera": 13,
+    "landmark": "arch_F_R",
+    "base": "arch_F",
+    "side": "R",
+    "xy": [
+      774,
+      283
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      774.9718300560221,
+      282.0563203147927
+    ],
+    "error_pixels": 1.3546161840391888,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.9718300560220996,
+    "dy": -0.9436796852073144,
+    "category": "arch_F",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 1,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      564,
+      503
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      565.1534575277237,
+      502.36936732293157
+    ],
+    "error_pixels": 1.3145956951279891,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.153457527723731,
+    "dy": -0.6306326770684336,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 13,
+    "landmark": "wc_R_R",
+    "base": "wc_R",
+    "side": "R",
+    "xy": [
+      475,
+      412
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      476.1029639948998,
+      411.3239984623741
+    ],
+    "error_pixels": 1.2936412381019518,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.1029639948998238,
+    "dy": -0.6760015376258934,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "arch_F_L",
+    "base": "arch_F",
+    "side": "L",
+    "xy": [
+      304,
+      283
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      303.7463102743708,
+      281.75973894456075
+    ],
+    "error_pixels": 1.2659407421080595,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.253689725629215,
+    "dy": -1.2402610554392481,
+    "category": "arch_F",
+    "confidence": "C",
+    "confidence_reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption"
+  },
+  {
+    "camera": 7,
+    "landmark": "wc_R_L",
+    "base": "wc_R",
+    "side": "L",
+    "xy": [
+      778,
+      385
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      776.9728689371185,
+      385.7027373925701
+    ],
+    "error_pixels": 1.2445232272851685,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.0271310628814945,
+    "dy": 0.7027373925700999,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "tl_top_L",
+    "base": "tl_top",
+    "side": "L",
+    "xy": [
+      849,
+      182
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      848.6271252169414,
+      180.82171016293282
+    ],
+    "error_pixels": 1.2358812823150938,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.3728747830585917,
+    "dy": -1.178289837067183,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "contact_R_L",
+    "base": "contact_R",
+    "side": "L",
+    "xy": [
+      764,
+      429
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      764.7239744395258,
+      428.0946745013492
+    ],
+    "error_pixels": 1.1592037127244235,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.7239744395258185,
+    "dy": -0.905325498650825,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "tl_top_R",
+    "base": "tl_top",
+    "side": "R",
+    "xy": [
+      216,
+      187
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      217.1318789524159,
+      187.057815888927
+    ],
+    "error_pixels": 1.1333545958500846,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 1.1318789524158888,
+    "dy": 0.05781588892699574,
+    "category": "tl_top",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "wc_F_L",
+    "base": "wc_F",
+    "side": "L",
+    "xy": [
+      304,
+      351
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      303.9891195179812,
+      352.1134084768645
+    ],
+    "error_pixels": 1.1134616388734149,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.010880482018819748,
+    "dy": 1.1134084768644925,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 11,
+    "landmark": "wc_F_L",
+    "base": "wc_F",
+    "side": "L",
+    "xy": [
+      423,
+      411
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      423.96246638474906,
+      411.4970276554808
+    ],
+    "error_pixels": 1.0832257530564282,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.9624663847490638,
+    "dy": 0.4970276554807924,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "wc_F_R",
+    "base": "wc_F",
+    "side": "R",
+    "xy": [
+      850,
+      362
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      850.7898915690661,
+      361.29752026598453
+    ],
+    "error_pixels": 1.057074485352903,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.7898915690660715,
+    "dy": -0.7024797340154691,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      244,
+      503
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      242.97384334011647,
+      503.04228303014196
+    ],
+    "error_pixels": 1.027027431601172,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -1.026156659883526,
+    "dy": 0.04228303014195944,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 1,
+    "landmark": "g_top_L",
+    "base": "g_top",
+    "side": "L",
+    "xy": [
+      513,
+      320
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      512.6068476908717,
+      319.09375153128565
+    ],
+    "error_pixels": 0.987853746877536,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.3931523091282543,
+    "dy": -0.9062484687143524,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 11,
+    "landmark": "wc_R_L",
+    "base": "wc_R",
+    "side": "L",
+    "xy": [
+      783,
+      359
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      782.1365900542442,
+      359.4414309161208
+    ],
+    "error_pixels": 0.9697102598907363,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.8634099457558477,
+    "dy": 0.4414309161207939,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 2,
+    "landmark": "wc_R_L",
+    "base": "wc_R",
+    "side": "L",
+    "xy": [
+      764,
+      356
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      764.1523249905483,
+      355.1145091172491
+    ],
+    "error_pixels": 0.8984970818987205,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.1523249905483226,
+    "dy": -0.8854908827509007,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 8,
+    "landmark": "contact_R_R",
+    "base": "contact_R",
+    "side": "R",
+    "xy": [
+      672,
+      475
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      672.7228884000111,
+      475.44005962202345
+    ],
+    "error_pixels": 0.8462978847935734,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.7228884000111293,
+    "dy": 0.4400596220234547,
+    "category": "contact_R",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "tiretop_F_R",
+    "base": "tiretop_F",
+    "side": "R",
+    "xy": [
+      772,
+      325
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      771.9177152635916,
+      324.21754625650306
+    ],
+    "error_pixels": 0.7867684783709747,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.08228473640838274,
+    "dy": -0.7824537434969443,
+    "category": "tiretop_F",
+    "confidence": "C",
+    "confidence_reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+    "visibility": "view-dependent tangent",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "reject fixed-point assumption; retain as visual tire reference"
+  },
+  {
+    "camera": 6,
+    "landmark": "g_top_R",
+    "base": "g_top",
+    "side": "R",
+    "xy": [
+      461,
+      313
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      460.27444099112296,
+      313.2742133493054
+    ],
+    "error_pixels": 0.7756473659466134,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.7255590088770418,
+    "dy": 0.2742133493053984,
+    "category": "g_top",
+    "confidence": "B",
+    "confidence_reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+    "visibility": "static facade reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only in structural solve"
+  },
+  {
+    "camera": 2,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      218,
+      431
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      217.4362066155008,
+      430.556259219424
+    ],
+    "error_pixels": 0.7174739443012889,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.5637933844992062,
+    "dy": -0.443740780575979,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 9,
+    "landmark": "wc_F_R",
+    "base": "wc_F",
+    "side": "R",
+    "xy": [
+      772,
+      389
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      771.9013534427397,
+      389.64024979129516
+    ],
+    "error_pixels": 0.6478047070783015,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.09864655726028104,
+    "dy": 0.6402497912951617,
+    "category": "wc_F",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 8,
+    "landmark": "tl_low_R",
+    "base": "tl_low",
+    "side": "R",
+    "xy": [
+      683,
+      299
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      683.428402343412,
+      299.48464432532256
+    ],
+    "error_pixels": 0.6468451823336634,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.4284023434120172,
+    "dy": 0.48464432532256296,
+    "category": "tl_low",
+    "confidence": "A",
+    "confidence_reason": "fixed outer body lamp segment only; moving hatch segments absent",
+    "visibility": "static body lamp",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 4,
+    "landmark": "arch_F_R",
+    "base": "arch_F",
+    "side": "R",
+    "xy": [
+      850,
+      270
+    ],
+    "sigma": 6,
+    "heldout": false,
+    "projected": [
+      850.4024248110521,
+      269.80705531754774
+    ],
+    "error_pixels": 0.4462884482450183,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.40242481105212846,
+    "dy": -0.19294468245226426,
+    "category": "arch_F",
+    "confidence": "B",
+    "confidence_reason": "near-profile opening apex, uncertain relation to physical crown",
+    "visibility": "near-profile apparent contour",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "validation only"
+  },
+  {
+    "camera": 10,
+    "landmark": "wc_R_R",
+    "base": "wc_R",
+    "side": "R",
+    "xy": [
+      275,
+      357
+    ],
+    "sigma": 3,
+    "heldout": false,
+    "projected": [
+      275.0815516811554,
+      357.37657015341557
+    ],
+    "error_pixels": 0.38529956805413307,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.08155168115541755,
+    "dy": 0.376570153415571,
+    "category": "wc_R",
+    "confidence": "A",
+    "confidence_reason": "visible rim/hub center",
+    "visibility": "static wheel reference",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 12,
+    "landmark": "contact_F_L",
+    "base": "contact_F",
+    "side": "L",
+    "xy": [
+      304,
+      408
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      304.04470987729815,
+      407.66351316504336
+    ],
+    "error_pixels": 0.33944419751581517,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.04470987729814624,
+    "dy": -0.336486834956645,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 10,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      562,
+      484
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      562.0508563926699,
+      484.30748752891975
+    ],
+    "error_pixels": 0.3116648089158692,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.05085639266985709,
+    "dy": 0.30748752891975073,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": false,
+    "v02_initial_use": false,
+    "decision": "core eligible"
+  },
+  {
+    "camera": 7,
+    "landmark": "q_fb_L",
+    "base": "q_fb",
+    "side": "L",
+    "xy": [
+      798,
+      213
+    ],
+    "sigma": 7,
+    "heldout": false,
+    "projected": [
+      798.0942377826168,
+      213.10813375986316
+    ],
+    "error_pixels": 0.14343524565000088,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": 0.09423778261680127,
+    "dy": 0.10813375986316487,
+    "category": "q_fb",
+    "confidence": "B",
+    "confidence_reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+    "visibility": "rounded fixed glazing border",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": false,
+    "decision": "validation/detail only; do not fit initial core"
+  },
+  {
+    "camera": 9,
+    "landmark": "contact_F_R",
+    "base": "contact_F",
+    "side": "R",
+    "xy": [
+      772,
+      455
+    ],
+    "sigma": 5,
+    "heldout": false,
+    "projected": [
+      771.8849985322615,
+      455.0353222118674
+    ],
+    "error_pixels": 0.1203037664963514,
+    "outlier_over_12px": false,
+    "robust_downweighted": false,
+    "excluded_from_training": false,
+    "dx": -0.11500146773846609,
+    "dy": 0.0353222118674239,
+    "category": "contact_F",
+    "confidence": "A",
+    "confidence_reason": "visible tire/floor contact with finite-width patch uncertainty",
+    "visibility": "static contact measurement",
+    "static_or_moving": "STATIC / viewpoint-dependent if noted",
+    "core_camera": true,
+    "v02_initial_use": true,
+    "decision": "core eligible"
+  }
+]

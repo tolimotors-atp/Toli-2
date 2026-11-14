@@ -1,0 +1,119 @@
+{
+  "retained_components": 113,
+  "exterior_objects": 43,
+  "wheels": {
+    "WHEEL_FL": [
+      "WHEEL_FL hub",
+      "WHEEL_FL rim barrel",
+      "WHEEL_FL rim lip",
+      "WHEEL_FL split spoke",
+      "WHEEL_FL split spoke.001",
+      "WHEEL_FL split spoke.002",
+      "WHEEL_FL split spoke.003",
+      "WHEEL_FL split spoke.004",
+      "WHEEL_FL split spoke.005",
+      "WHEEL_FL split spoke.006",
+      "WHEEL_FL split spoke.007",
+      "WHEEL_FL split spoke.008",
+      "WHEEL_FL split spoke.009",
+      "WHEEL_FL split spoke.010",
+      "WHEEL_FL split spoke.011",
+      "WHEEL_FL tire"
+    ],
+    "WHEEL_FR": [
+      "WHEEL_FR hub",
+      "WHEEL_FR rim barrel",
+      "WHEEL_FR rim lip",
+      "WHEEL_FR split spoke",
+      "WHEEL_FR split spoke.001",
+      "WHEEL_FR split spoke.002",
+      "WHEEL_FR split spoke.003",
+      "WHEEL_FR split spoke.004",
+      "WHEEL_FR split spoke.005",
+      "WHEEL_FR split spoke.006",
+      "WHEEL_FR split spoke.007",
+      "WHEEL_FR split spoke.008",
+      "WHEEL_FR split spoke.009",
+      "WHEEL_FR split spoke.010",
+      "WHEEL_FR split spoke.011",
+      "WHEEL_FR tire"
+    ],
+    "WHEEL_RL": [
+      "WHEEL_RL hub",
+      "WHEEL_RL rim barrel",
+      "WHEEL_RL rim lip",
+      "WHEEL_RL split spoke",
+      "WHEEL_RL split spoke.001",
+      "WHEEL_RL split spoke.002",
+      "WHEEL_RL split spoke.003",
+      "WHEEL_RL split spoke.004",
+      "WHEEL_RL split spoke.005",
+      "WHEEL_RL split spoke.006",
+      "WHEEL_RL split spoke.007",
+      "WHEEL_RL split spoke.008",
+      "WHEEL_RL split spoke.009",
+      "WHEEL_RL split spoke.010",
+      "WHEEL_RL split spoke.011",
+      "WHEEL_RL tire"
+    ],
+    "WHEEL_RR": [
+      "WHEEL_RR hub",
+      "WHEEL_RR rim barrel",
+      "WHEEL_RR rim lip",
+      "WHEEL_RR split spoke",
+      "WHEEL_RR split spoke.001",
+      "WHEEL_RR split spoke.002",
+      "WHEEL_RR split spoke.003",
+      "WHEEL_RR split spoke.004",
+      "WHEEL_RR split spoke.005",
+      "WHEEL_RR split spoke.006",
+      "WHEEL_RR split spoke.007",
+      "WHEEL_RR split spoke.008",
+      "WHEEL_RR split spoke.009",
+      "WHEEL_RR split spoke.010",
+      "WHEEL_RR split spoke.011",
+      "WHEEL_RR tire"
+    ]
+  },
+  "cameras": {
+    "CAM_COMPARE_FRONT": {
+      "location": [
+        -9.0,
+        0.0,
+        1.25
+      ],
+      "rotation": [
+        1.537475347518921,
+        -3.0294685871012916e-08,
+        -1.5707963705062866
+      ]
+    },
+    "CAM_COMPARE_SIDE": {
+      "location": [
+        0.0,
+        -9.0,
+        1.0
+      ],
+      "rotation": [
+        1.5652410984039307,
+        -4.930472696784705e-10,
+        -0.00888865627348423
+      ]
+    }
+  },
+  "materials": [
+    "Brushed bright metal",
+    "Charcoal seat upholstery",
+    "Graphite polymer",
+    "Infotainment screen",
+    "Interior graphite",
+    "Neutral lamp element",
+    "Rear red lens",
+    "Reservoir polymer -1.25",
+    "Reservoir polymer -1.92",
+    "Silver metallic paint",
+    "Smoked automotive glass",
+    "STUDIO matte floor",
+    "Tire rubber"
+  ]
+}

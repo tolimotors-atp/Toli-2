@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "prior_files_hashed": 1301,
+  "intentional_existing_updates": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/MULTIVIEW_RECONSTRUCTION.md",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/REFERENCE_AUDIT.md"
+  ],
+  "new_files": 53,
+  "reference_images": 34,
+  "usable_images": 26,
+  "excluded_images": 8,
+  "gate": "FAIL; stopped after regions 1/2",
+  "V01_V02_preserved": true,
+  "website_src_public_config_unchanged": true,
+  "protected_project_src_config_unchanged": true,
+  "coverage": "Static website src/public/root config and all prior MU-X research files; both protected projects src/root config. Not every dependency or protected binary asset.",
+  "GLB": false,
+  "deployment": false
+}

@@ -1,0 +1,8 @@
+{
+  "src/components/three/mux/MuxVehicle.ts": "e3bcba52106e4219c5c637d4284c79f639c9125c8be5efe86aca2c65bdbde85e",
+  "src/components/three/mux/MuxGeometry.ts": "2ef5fcad4a520b728b882b11ae9eae9b05c5e5032b6ef46970f38d6970ca17b2",
+  "src/components/three/mux/MuxReferencePatches.ts": "e6d3805bb7c81edbefe0cb776a9e6f0982d3a15b93dd14e55d56f0e1d931a8f1",
+  "src/components/three/mux/MuxReferenceData.ts": "12a93d42d19e35a51effa63c2f4b6aa720dd235d0fdff13e8f6979086034cae9",
+  "src/components/three/mux/MuxExteriorDetails.ts": "a314c0a54a44d3c16af8a1cb063890abe232a2b706de3fb2405d92a3a407bd20",
+  "src/components/three/mux/MuxWheels.ts": "1706a816879dc451165cd1549fe499d3ba526f2b4b5df6d559aa091daaf93326"
+}

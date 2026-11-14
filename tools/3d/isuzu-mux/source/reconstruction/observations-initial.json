@@ -1,0 +1,1080 @@
+{
+  "annotation_method": "Manual pixel picks after image-grid inspection. Approximate; uncertainty 3px hubs, 5px tire tangencies, 6\u20138px body/glass corners. No automated feature matching.",
+  "scale": "Wheelbase=1 gauge; no manufacturer dimensions. Track/radius jointly estimated.",
+  "initial_landmarks": {
+    "h_out": [
+      0.73,
+      0.32,
+      0.4
+    ],
+    "h_in": [
+      0.8,
+      0.2,
+      0.33
+    ],
+    "g_top": [
+      0.82,
+      0.2,
+      0.375
+    ],
+    "g_low": [
+      0.835,
+      0.17,
+      0.265
+    ],
+    "bumper": [
+      0.82,
+      0.31,
+      0.14
+    ],
+    "ws_base": [
+      0.33,
+      0.27,
+      0.445
+    ],
+    "ws_top": [
+      0.1,
+      0.235,
+      0.625
+    ],
+    "q_ft": [
+      -0.46,
+      0.265,
+      0.62
+    ],
+    "q_fb": [
+      -0.49,
+      0.3,
+      0.455
+    ],
+    "q_rt": [
+      -0.7,
+      0.26,
+      0.61
+    ],
+    "q_rb": [
+      -0.78,
+      0.3,
+      0.44
+    ],
+    "tl_top": [
+      -0.77,
+      0.33,
+      0.435
+    ],
+    "tl_low": [
+      -0.81,
+      0.32,
+      0.34
+    ],
+    "rw_top": [
+      -0.7,
+      0.245,
+      0.605
+    ],
+    "rw_base": [
+      -0.82,
+      0.285,
+      0.45
+    ],
+    "hatch_low": [
+      -0.83,
+      0.27,
+      0.2
+    ],
+    "arch_F": [
+      0.5,
+      0.335,
+      0.315
+    ],
+    "arch_R": [
+      -0.5,
+      0.335,
+      0.315
+    ]
+  },
+  "camera_initialization": {
+    "1": [
+      0,
+      3.2,
+      0.08
+    ],
+    "2": [
+      85,
+      3.8,
+      0.06
+    ],
+    "3": [
+      180,
+      3.6,
+      0.07
+    ],
+    "4": [
+      -85,
+      3.8,
+      0.06
+    ],
+    "6": [
+      -3,
+      4.3,
+      0.08
+    ],
+    "7": [
+      80,
+      4.1,
+      0.07
+    ],
+    "8": [
+      180,
+      4.3,
+      0.08
+    ],
+    "9": [
+      -80,
+      4.1,
+      0.07
+    ],
+    "10": [
+      -47,
+      4.5,
+      0.13
+    ],
+    "11": [
+      47,
+      4.5,
+      0.13
+    ],
+    "12": [
+      140,
+      4.5,
+      0.13
+    ],
+    "13": [
+      -140,
+      4.5,
+      0.13
+    ]
+  },
+  "images": [
+    {
+      "image": 1,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-21.png",
+      "exists": true,
+      "view": "Front, bonnet and four doors open; engine bay partial",
+      "role": "canonical"
+    },
+    {
+      "image": 2,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-40.png",
+      "exists": true,
+      "view": "Left profile, doors/bonnet/tailgate open",
+      "role": "canonical"
+    },
+    {
+      "image": 3,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-09-48.png",
+      "exists": true,
+      "view": "Rear, tailgate and rear doors open; cargo aperture",
+      "role": "canonical"
+    },
+    {
+      "image": 4,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-10-06.png",
+      "exists": true,
+      "view": "Right profile, doors/bonnet/tailgate open",
+      "role": "canonical"
+    },
+    {
+      "image": 5,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-11-39.png",
+      "exists": true,
+      "view": "Right-hand-drive dashboard, steering, front cabin and door cards",
+      "role": "interior reference"
+    },
+    {
+      "image": 6,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-10.png",
+      "exists": true,
+      "view": "Closed front",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 7,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-14.png",
+      "exists": true,
+      "view": "Closed left profile",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 8,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-18.png",
+      "exists": true,
+      "view": "Closed rear",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 9,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-21.png",
+      "exists": true,
+      "view": "Closed right profile",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 10,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-25.png",
+      "exists": true,
+      "view": "Closed front three-quarter, right side",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 11,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-27.png",
+      "exists": true,
+      "view": "Closed front three-quarter, left side",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 12,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-31.png",
+      "exists": true,
+      "view": "Closed rear three-quarter, left side",
+      "role": "secondary \u2014 use only compatible details"
+    },
+    {
+      "image": 13,
+      "path": "/home/thunder/Pictures/Screenshots/Screenshot From 2026-11-06 18-17-35.png",
+      "exists": true,
+      "view": "Closed rear three-quarter, right side",
+      "role": "secondary \u2014 use only compatible details"
+    }
+  ],
+  "observations": {
+    "1": {
+      "h_out_R": [
+        246,
+        299
+      ],
+      "h_in_R": [
+        309,
+        351
+      ],
+      "g_top_R": [
+        294,
+        320
+      ],
+      "g_low_R": [
+        321,
+        384
+      ],
+      "bumper_R": [
+        218,
+        442
+      ],
+      "contact_F_R": [
+        244,
+        503
+      ],
+      "h_out_L": [
+        558,
+        299
+      ],
+      "h_in_L": [
+        500,
+        351
+      ],
+      "g_top_L": [
+        513,
+        320
+      ],
+      "g_low_L": [
+        487,
+        384
+      ],
+      "bumper_L": [
+        589,
+        442
+      ],
+      "contact_F_L": [
+        564,
+        503
+      ]
+    },
+    "2": {
+      "wc_F_L": [
+        218,
+        355
+      ],
+      "wc_R_L": [
+        764,
+        356
+      ],
+      "tiretop_F_L": [
+        218,
+        279
+      ],
+      "contact_F_L": [
+        218,
+        431
+      ],
+      "tiretop_R_L": [
+        764,
+        280
+      ],
+      "contact_R_L": [
+        764,
+        429
+      ],
+      "h_out_L": [
+        142,
+        225
+      ],
+      "h_in_L": [
+        82,
+        264
+      ],
+      "q_ft_L": [
+        774,
+        115
+      ],
+      "q_fb_L": [
+        791,
+        159
+      ],
+      "q_rt_L": [
+        848,
+        112
+      ],
+      "q_rb_L": [
+        887,
+        169
+      ],
+      "tl_top_L": [
+        849,
+        182
+      ],
+      "tl_low_L": [
+        878,
+        227
+      ],
+      "arch_F_L": [
+        218,
+        268
+      ],
+      "arch_R_L": [
+        764,
+        258
+      ]
+    },
+    "3": {
+      "contact_R_L": [
+        329,
+        458
+      ],
+      "tl_top_L": [
+        315,
+        211
+      ],
+      "tl_low_L": [
+        307,
+        258
+      ],
+      "contact_R_R": [
+        644,
+        458
+      ],
+      "tl_top_R": [
+        649,
+        211
+      ],
+      "tl_low_R": [
+        672,
+        258
+      ]
+    },
+    "4": {
+      "wc_F_R": [
+        850,
+        362
+      ],
+      "wc_R_R": [
+        309,
+        360
+      ],
+      "tiretop_F_R": [
+        850,
+        286
+      ],
+      "contact_F_R": [
+        850,
+        435
+      ],
+      "tiretop_R_R": [
+        309,
+        285
+      ],
+      "contact_R_R": [
+        309,
+        437
+      ],
+      "h_out_R": [
+        930,
+        225
+      ],
+      "h_in_R": [
+        986,
+        264
+      ],
+      "q_ft_R": [
+        293,
+        119
+      ],
+      "q_fb_R": [
+        281,
+        171
+      ],
+      "q_rt_R": [
+        214,
+        114
+      ],
+      "q_rb_R": [
+        169,
+        178
+      ],
+      "tl_top_R": [
+        216,
+        187
+      ],
+      "tl_low_R": [
+        178,
+        232
+      ],
+      "arch_F_R": [
+        850,
+        270
+      ],
+      "arch_R_R": [
+        309,
+        266
+      ]
+    },
+    "6": {
+      "contact_F_R": [
+        399,
+        478
+      ],
+      "h_out_R": [
+        405,
+        291
+      ],
+      "h_in_R": [
+        466,
+        341
+      ],
+      "g_top_R": [
+        461,
+        313
+      ],
+      "g_low_R": [
+        482,
+        365
+      ],
+      "bumper_R": [
+        393,
+        423
+      ],
+      "ws_base_R": [
+        410,
+        244
+      ],
+      "ws_top_R": [
+        431,
+        167
+      ],
+      "contact_F_L": [
+        683,
+        474
+      ],
+      "h_out_L": [
+        692,
+        289
+      ],
+      "h_in_L": [
+        644,
+        340
+      ],
+      "g_top_L": [
+        649,
+        311
+      ],
+      "g_low_L": [
+        621,
+        364
+      ],
+      "bumper_L": [
+        700,
+        421
+      ],
+      "ws_base_L": [
+        659,
+        242
+      ],
+      "ws_top_L": [
+        621,
+        165
+      ]
+    },
+    "7": {
+      "wc_F_L": [
+        293,
+        396
+      ],
+      "wc_R_L": [
+        778,
+        385
+      ],
+      "tiretop_F_L": [
+        293,
+        332
+      ],
+      "contact_F_L": [
+        293,
+        458
+      ],
+      "tiretop_R_L": [
+        778,
+        324
+      ],
+      "contact_R_L": [
+        778,
+        447
+      ],
+      "h_out_L": [
+        227,
+        271
+      ],
+      "h_in_L": [
+        164,
+        308
+      ],
+      "ws_base_L": [
+        419,
+        221
+      ],
+      "ws_top_L": [
+        487,
+        154
+      ],
+      "q_ft_L": [
+        783,
+        165
+      ],
+      "q_fb_L": [
+        798,
+        213
+      ],
+      "q_rt_L": [
+        865,
+        160
+      ],
+      "q_rb_L": [
+        895,
+        218
+      ],
+      "tl_top_L": [
+        852,
+        230
+      ],
+      "tl_low_L": [
+        872,
+        271
+      ],
+      "arch_F_L": [
+        293,
+        312
+      ],
+      "arch_R_L": [
+        778,
+        299
+      ]
+    },
+    "8": {
+      "contact_R_L": [
+        377,
+        478
+      ],
+      "tl_top_L": [
+        366,
+        251
+      ],
+      "tl_low_L": [
+        367,
+        299
+      ],
+      "rw_top_L": [
+        408,
+        183
+      ],
+      "rw_base_L": [
+        380,
+        249
+      ],
+      "hatch_low_L": [
+        389,
+        353
+      ],
+      "contact_R_R": [
+        672,
+        475
+      ],
+      "tl_top_R": [
+        682,
+        251
+      ],
+      "tl_low_R": [
+        683,
+        299
+      ],
+      "rw_top_R": [
+        626,
+        181
+      ],
+      "rw_base_R": [
+        653,
+        250
+      ],
+      "hatch_low_R": [
+        654,
+        353
+      ]
+    },
+    "9": {
+      "wc_F_R": [
+        772,
+        389
+      ],
+      "wc_R_R": [
+        282,
+        391
+      ],
+      "tiretop_F_R": [
+        772,
+        325
+      ],
+      "contact_F_R": [
+        772,
+        455
+      ],
+      "tiretop_R_R": [
+        282,
+        328
+      ],
+      "contact_R_R": [
+        282,
+        458
+      ],
+      "h_out_R": [
+        836,
+        265
+      ],
+      "h_in_R": [
+        890,
+        301
+      ],
+      "ws_base_R": [
+        664,
+        224
+      ],
+      "ws_top_R": [
+        562,
+        155
+      ],
+      "q_ft_R": [
+        280,
+        166
+      ],
+      "q_fb_R": [
+        269,
+        212
+      ],
+      "q_rt_R": [
+        207,
+        160
+      ],
+      "q_rb_R": [
+        163,
+        218
+      ],
+      "tl_top_R": [
+        209,
+        235
+      ],
+      "tl_low_R": [
+        179,
+        271
+      ],
+      "arch_F_R": [
+        772,
+        306
+      ],
+      "arch_R_R": [
+        282,
+        311
+      ]
+    },
+    "10": {
+      "wc_F_R": [
+        562,
+        416
+      ],
+      "wc_R_R": [
+        275,
+        357
+      ],
+      "tiretop_F_R": [
+        562,
+        346
+      ],
+      "contact_F_R": [
+        562,
+        484
+      ],
+      "tiretop_R_R": [
+        275,
+        307
+      ],
+      "contact_R_R": [
+        275,
+        412
+      ],
+      "ws_base_R": [
+        535,
+        246
+      ],
+      "ws_top_R": [
+        487,
+        163
+      ],
+      "h_out_R": [
+        626,
+        288
+      ],
+      "h_in_R": [
+        716,
+        338
+      ],
+      "g_top_R": [
+        714,
+        309
+      ],
+      "g_low_R": [
+        738,
+        356
+      ],
+      "q_ft_R": [
+        297,
+        156
+      ],
+      "q_fb_R": [
+        296,
+        200
+      ],
+      "q_rt_R": [
+        255,
+        150
+      ],
+      "q_rb_R": [
+        237,
+        191
+      ],
+      "arch_F_R": [
+        562,
+        327
+      ],
+      "arch_R_R": [
+        275,
+        286
+      ],
+      "ws_base_L": [
+        708,
+        235
+      ],
+      "ws_top_L": [
+        650,
+        160
+      ],
+      "g_top_L": [
+        833,
+        292
+      ],
+      "g_low_L": [
+        835,
+        339
+      ]
+    },
+    "11": {
+      "wc_F_L": [
+        423,
+        411
+      ],
+      "wc_R_L": [
+        783,
+        359
+      ],
+      "tiretop_F_L": [
+        423,
+        343
+      ],
+      "contact_F_L": [
+        423,
+        480
+      ],
+      "tiretop_R_L": [
+        783,
+        305
+      ],
+      "contact_R_L": [
+        783,
+        416
+      ],
+      "ws_base_L": [
+        472,
+        247
+      ],
+      "ws_top_L": [
+        535,
+        163
+      ],
+      "h_out_L": [
+        360,
+        286
+      ],
+      "h_in_L": [
+        268,
+        338
+      ],
+      "g_top_L": [
+        278,
+        309
+      ],
+      "g_low_L": [
+        259,
+        351
+      ],
+      "q_ft_L": [
+        778,
+        155
+      ],
+      "q_fb_L": [
+        788,
+        199
+      ],
+      "q_rt_L": [
+        811,
+        150
+      ],
+      "q_rb_L": [
+        833,
+        190
+      ],
+      "arch_F_L": [
+        423,
+        324
+      ],
+      "arch_R_L": [
+        783,
+        287
+      ],
+      "ws_base_R": [
+        329,
+        234
+      ],
+      "ws_top_R": [
+        421,
+        158
+      ],
+      "g_top_R": [
+        184,
+        289
+      ],
+      "g_low_R": [
+        180,
+        336
+      ]
+    },
+    "12": {
+      "wc_R_L": [
+        513,
+        414
+      ],
+      "wc_F_L": [
+        304,
+        351
+      ],
+      "tiretop_R_L": [
+        513,
+        344
+      ],
+      "contact_R_L": [
+        513,
+        484
+      ],
+      "tiretop_F_L": [
+        304,
+        302
+      ],
+      "contact_F_L": [
+        304,
+        408
+      ],
+      "rw_top_L": [
+        644,
+        181
+      ],
+      "rw_base_L": [
+        611,
+        253
+      ],
+      "tl_top_L": [
+        570,
+        254
+      ],
+      "tl_low_L": [
+        574,
+        300
+      ],
+      "q_ft_L": [
+        550,
+        181
+      ],
+      "q_fb_L": [
+        546,
+        234
+      ],
+      "q_rt_L": [
+        613,
+        177
+      ],
+      "q_rb_L": [
+        613,
+        251
+      ],
+      "hatch_low_L": [
+        629,
+        354
+      ],
+      "arch_R_L": [
+        513,
+        321
+      ],
+      "arch_F_L": [
+        304,
+        283
+      ],
+      "rw_top_R": [
+        785,
+        176
+      ],
+      "rw_base_R": [
+        848,
+        246
+      ],
+      "hatch_low_R": [
+        852,
+        331
+      ]
+    },
+    "13": {
+      "wc_R_R": [
+        475,
+        412
+      ],
+      "wc_F_R": [
+        774,
+        351
+      ],
+      "tiretop_R_R": [
+        475,
+        343
+      ],
+      "contact_R_R": [
+        475,
+        481
+      ],
+      "tiretop_F_R": [
+        774,
+        304
+      ],
+      "contact_F_R": [
+        774,
+        412
+      ],
+      "rw_top_R": [
+        342,
+        183
+      ],
+      "rw_base_R": [
+        377,
+        253
+      ],
+      "tl_top_R": [
+        414,
+        254
+      ],
+      "tl_low_R": [
+        410,
+        300
+      ],
+      "q_ft_R": [
+        442,
+        181
+      ],
+      "q_fb_R": [
+        447,
+        235
+      ],
+      "q_rt_R": [
+        376,
+        176
+      ],
+      "q_rb_R": [
+        376,
+        250
+      ],
+      "hatch_low_R": [
+        359,
+        354
+      ],
+      "arch_R_R": [
+        475,
+        320
+      ],
+      "arch_F_R": [
+        774,
+        283
+      ],
+      "rw_top_L": [
+        219,
+        181
+      ],
+      "rw_base_L": [
+        159,
+        247
+      ],
+      "hatch_low_L": [
+        157,
+        333
+      ]
+    }
+  },
+  "excluded_image": {
+    "5": "Interior panorama; no reliable common exterior anchors"
+  },
+  "excluded_features": [
+    "Open door glass/handles",
+    "Raised bonnet/hatch contours",
+    "Moving hatch-mounted lamp segments",
+    "Occluded hubs",
+    "View-dependent roof extrema",
+    "Reflections, badges and UI overlays"
+  ]
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 568,
+        "w": 320
+      }
+    ],
+    "height": 568,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 640,
+        "w": 360
+      }
+    ],
+    "height": 640,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 667,
+        "w": 375
+      }
+    ],
+    "height": 667,
+    "overflow": false,
+    "width": 375
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 844,
+        "w": 390
+      }
+    ],
+    "height": 844,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 852,
+        "w": 393
+      }
+    ],
+    "height": 852,
+    "overflow": false,
+    "width": 393
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 915,
+        "w": 412
+      }
+    ],
+    "height": 915,
+    "overflow": false,
+    "width": 412
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 932,
+        "w": 430
+      }
+    ],
+    "height": 932,
+    "overflow": false,
+    "width": 430
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 375,
+        "w": 667
+      }
+    ],
+    "height": 375,
+    "overflow": false,
+    "width": 667
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 388.0499877929687,
+        "w": 839.780029296875
+      }
+    ],
+    "height": 390,
+    "overflow": false,
+    "width": 844
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 960,
+        "w": 600
+      }
+    ],
+    "height": 960,
+    "overflow": false,
+    "width": 600
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 1018.8800048828124,
+        "w": 764.1600341796875
+      }
+    ],
+    "height": 1024,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 578.0625,
+        "w": 798.71875
+      }
+    ],
+    "height": 768,
+    "overflow": false,
+    "width": 1024
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 578.0625,
+        "w": 1000
+      }
+    ],
+    "height": 900,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "body": [],
+    "dialog": [
+      {
+        "h": 578.0625,
+        "w": 1000
+      }
+    ],
+    "height": 1080,
+    "overflow": false,
+    "width": 1920
+  }
+]

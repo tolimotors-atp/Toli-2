@@ -1,0 +1,1 @@
+Immutable source snapshot of MU-X Coded Reference Car V01 before Section 03/05 correction work. The original diagnostic index now imports this snapshot, so V01 remains inspectable. Current editable geometry is src/components/three/mux/. Original V01 renders/reports are unchanged.

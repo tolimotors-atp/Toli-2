@@ -1,0 +1,238 @@
+{
+  "accuracy": "semantic reconciliation and visual estimates only; no calibrated triangulation",
+  "landmarks": [
+    {
+      "name": "headlightInnerUpper",
+      "observations": {
+        "front": [
+          644,
+          319
+        ],
+        "front34": [
+          252,
+          319
+        ]
+      },
+      "surface": "frontFace",
+      "yz": [
+        0.54,
+        1.025
+      ],
+      "relation": "forward of outer tip; near grille upper end"
+    },
+    {
+      "name": "headlightOuterUpper",
+      "observations": {
+        "front": [
+          689,
+          290
+        ],
+        "front34": [
+          358,
+          286
+        ]
+      },
+      "surface": "frontFace",
+      "yz": [
+        0.865,
+        1.115
+      ],
+      "relation": "higher and rearward, wrapping toward front fender"
+    },
+    {
+      "name": "headlightInnerLower",
+      "observations": {
+        "front": [
+          653,
+          350
+        ],
+        "front34": [
+          252,
+          335
+        ]
+      },
+      "surface": "frontFace",
+      "yz": [
+        0.64,
+        0.935
+      ],
+      "relation": "outboard of upper inner corner"
+    },
+    {
+      "name": "headlightOuterLower",
+      "observations": {
+        "front": [
+          699,
+          334
+        ],
+        "front34": [
+          334,
+          327
+        ]
+      },
+      "surface": "frontFace",
+      "yz": [
+        0.875,
+        0.965
+      ],
+      "relation": "lower return on same body corner"
+    },
+    {
+      "name": "rearLampInnerUpper",
+      "observations": {
+        "rear": [
+          429,
+          280
+        ],
+        "rear34": [
+          666,
+          281
+        ]
+      },
+      "surface": "rearFace",
+      "yz": [
+        0.49,
+        1.205
+      ],
+      "relation": "near hatch; rearward of outer quarter tip"
+    },
+    {
+      "name": "rearLampOuterUpper",
+      "observations": {
+        "rear": [
+          365,
+          257
+        ],
+        "rear34": [
+          569,
+          254
+        ]
+      },
+      "surface": "rearFace",
+      "yz": [
+        0.86,
+        1.265
+      ],
+      "relation": "upper corner wraps into quarter"
+    },
+    {
+      "name": "rearLampInnerLower",
+      "observations": {
+        "rear": [
+          414,
+          299
+        ],
+        "rear34": [
+          650,
+          301
+        ]
+      },
+      "surface": "rearFace",
+      "yz": [
+        0.59,
+        1.065
+      ],
+      "relation": "diagonal taper toward hatch"
+    },
+    {
+      "name": "rearGlassLower",
+      "observations": {
+        "rear": [
+          640,
+          248
+        ],
+        "rear34": [
+          804,
+          246
+        ]
+      },
+      "surface": "rearFrame",
+      "yz": [
+        0.75,
+        1.33
+      ],
+      "relation": "forward at side relative to centre; shares D-pillar shell"
+    },
+    {
+      "name": "quarterGlassRear",
+      "observations": {
+        "side": [
+          874,
+          218
+        ],
+        "rear34": [
+          613,
+          240
+        ]
+      },
+      "worldEstimate": [
+        2.04,
+        0.78,
+        1.33
+      ],
+      "relation": "just forward of D-pillar outer return"
+    },
+    {
+      "name": "rearArchCrown",
+      "observations": {
+        "side": [
+          804,
+          300
+        ],
+        "rear34": [
+          549,
+          316
+        ]
+      },
+      "worldEstimate": [
+        1.475,
+        0.93,
+        0.819
+      ],
+      "relation": "same rear axle, fixed .437 arch radius"
+    },
+    {
+      "name": "frontArchCrown",
+      "observations": {
+        "side": [
+          280,
+          312
+        ],
+        "front34": [
+          430,
+          324
+        ]
+      },
+      "worldEstimate": [
+        -1.37,
+        0.93,
+        0.819
+      ],
+      "relation": "fixed front axle; outer skin controls surround, wheel does not move"
+    },
+    {
+      "name": "bumperCorner",
+      "observations": {
+        "rear": [
+          671,
+          374
+        ],
+        "rear34": [
+          623,
+          381
+        ]
+      },
+      "surface": "rearFace",
+      "yz": [
+        0.86,
+        0.63
+      ],
+      "relation": "gradual face-to-corner-to-side ellipse; no independent protruding layer"
+    }
+  ],
+  "unresolved": [
+    "camera pitch and lens calibration",
+    "exact tangent/normal field across unobserved body corners",
+    "rear-quarter crown depth between visible contours"
+  ]
+}

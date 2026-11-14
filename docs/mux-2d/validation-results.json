@@ -1,0 +1,18 @@
+{
+  "typescript": "PASS: app/node/qa, exit 0",
+  "lint": "PASS: exit 0",
+  "build": "PASS: 13.47 seconds",
+  "tests": {
+    "files": 55,
+    "passed": 374,
+    "failed": 0
+  },
+  "responsiveChecks": 28,
+  "responsiveAllPass": true,
+  "productionConsoleWarnings": 0,
+  "productionConsoleErrors": 0,
+  "deployment": "NOT PERFORMED",
+  "gitCommit": "NOT PERFORMED",
+  "physicalDevicePerformance": "NOT MEASURED",
+  "tallDesktopVisualReview": "PASS: normal chapter navigation; prior capture scrolled into following sticky-panel transition. See screenshots/tall-desktop-correction.json."
+}

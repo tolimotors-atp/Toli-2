@@ -1,0 +1,14 @@
+{
+  "sideMirrors": "NEEDS WORK",
+  "headlightShape": "NEEDS WORK",
+  "headlightFenderIntegration": "FAIL",
+  "rearLightShape": "NEEDS WORK",
+  "rearLightBodyIntegration": "NEEDS WORK",
+  "doors": "NEEDS WORK",
+  "doorHandles": "NEEDS WORK",
+  "frontPlate": "PASS",
+  "rearPlate": "PASS",
+  "overallSameCar": "FAIL",
+  "activation": "DEFERRED",
+  "note": "Detail construction/presence tests do not certify MU-X visual identity. Mirror/profile and door/handle placement still depend on the inaccurate underlying body."
+}

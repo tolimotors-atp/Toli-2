@@ -1,0 +1,36 @@
+{
+  "front": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-10.png",
+    "support": [
+      "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-08-46.png",
+      "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/20250902050117_Isuzu_mu-X_Silver_Metallic[1].avif"
+    ]
+  },
+  "front34": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-27.png",
+    "support": []
+  },
+  "side": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-14.png",
+    "support": []
+  },
+  "rear": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-18.png",
+    "support": []
+  },
+  "rear34": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-31.png",
+    "support": [
+      "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213459.png",
+      "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot 2026-11-08 213502.png"
+    ]
+  },
+  "oppositeFront": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-25.png",
+    "support": []
+  },
+  "oppositeRear": {
+    "primary": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-35.png",
+    "support": []
+  }
+}

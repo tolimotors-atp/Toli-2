@@ -1,0 +1,9 @@
+{
+  "checked_existing_files": 1600,
+  "permitted_research_changes": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/GENERATED_MODEL_REPORT.md"
+  ],
+  "unexpected_changes": [],
+  "prior_models_references_application_and_protected_projects_unchanged": true,
+  "scope": "Paths in v04-preservation-before.json; not all dependencies/caches."
+}

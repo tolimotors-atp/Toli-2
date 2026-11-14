@@ -1,0 +1,17 @@
+{
+  "checked": 375,
+  "modified": [
+    "src/lib/vehicle-scene.ts",
+    "src/test/phase2-services.test.tsx",
+    "src/test/experience.test.tsx",
+    "src/test/default-selections.test.tsx",
+    "src/test/mux-activation.test.ts",
+    "src/test/fixtures/separation-protected.json",
+    "src/components/journey/JourneyProvider.tsx",
+    "src/components/journey/JourneyDock.tsx"
+  ],
+  "missing": [],
+  "originalReferencesChecked": 43,
+  "originalReferencesChanged": 0,
+  "codedModelSourceFilesPreserved": 14
+}

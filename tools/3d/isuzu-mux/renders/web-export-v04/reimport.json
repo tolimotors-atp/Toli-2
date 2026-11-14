@@ -1,0 +1,23 @@
+{
+  "reimport": "PASS",
+  "vertices": 28623,
+  "triangles": 34005,
+  "materials": 10,
+  "objects": 161,
+  "mesh_objects": 156,
+  "bounds_min": [
+    -2.327500104904175,
+    -0.9350000023841858,
+    0.0
+  ],
+  "bounds_max": [
+    2.497499942779541,
+    0.9350000023841858,
+    1.8175209760665894
+  ],
+  "bytes": 1056516,
+  "normals_finite": true,
+  "wheels": 4,
+  "glass_geometry": true,
+  "textures": 0
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 844,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 844,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 568,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 568,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 800,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 800,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 915,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 412
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 915,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 412
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 1024,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 1024,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 900,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 900,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 900,
+    "id": "process",
+    "opacity": "1",
+    "overflow": false,
+    "width": 1000
+  },
+  {
+    "canvas": true,
+    "covered": false,
+    "height": 900,
+    "id": "booking",
+    "opacity": "1",
+    "overflow": false,
+    "width": 1000
+  }
+]

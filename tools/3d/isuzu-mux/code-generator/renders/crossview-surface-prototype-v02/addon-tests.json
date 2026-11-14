@@ -1,0 +1,12 @@
+{
+  "registered_generator": "PASS",
+  "delete_and_regenerate": "PASS",
+  "fixed_V04_constraints": "PASS",
+  "fixed_wheel_transforms": "PASS",
+  "dimension_rejection_preserves_candidate": "PASS",
+  "zone_and_control_visibility": "PASS",
+  "cage_only_mode": "PASS",
+  "three_zones_only": "PASS",
+  "strict_base_symmetry": "PASS",
+  "topology_and_overlap_checks": "PASS"
+}

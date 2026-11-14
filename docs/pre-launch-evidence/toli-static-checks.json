@@ -1,0 +1,66 @@
+{
+  "secretPatternFiles": [],
+  "missingBuildAssets": [],
+  "legalPlaceholders": [
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[DATE OF LAST UPDATE]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[LEGAL BUSINESS NAME]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[Any discounts or promotions shown are subject to change and may be withdrawn without\n        notice. Confirm current offers with the workshop.]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[The business should confirm its warehousing /\n        bailment terms with legal counsel.]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[Any warranty offered on parts or labour is subject to the manufacturer's terms and to\n      Toli Motors' own policy. Confirm warranty terms in writing when you book.]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[CITY OF REGISTRATION \u2014 e.g., Anantapur, Andhra Pradesh]"
+    },
+    {
+      "file": "TermsAndConditions.tsx",
+      "field": "[PLACEHOLDER]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[DATE OF LAST UPDATE]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[LEGAL BUSINESS NAME]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[LEGAL BUSINESS NAME]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[BUSINESS ADDRESS \u2014 please confirm: the site currently displays 6-2-806, Ram Nagar, Kovur\n      Nagar, Anantapur, Andhra Pradesh 515004]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[RETENTION PERIOD \u2014 e.g., \"12 months\" \u2014 to be confirmed by the business]"
+    },
+    {
+      "file": "PrivacyPolicy.tsx",
+      "field": "[PLACEHOLDER]"
+    },
+    {
+      "file": "CookiePolicy.tsx",
+      "field": "[DATE OF LAST UPDATE]"
+    },
+    {
+      "file": "CookiePolicy.tsx",
+      "field": "[PLACEHOLDER]"
+    }
+  ]
+}

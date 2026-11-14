@@ -1,0 +1,44 @@
+{
+  "PREVIEW": {
+    "vertices": 5166,
+    "triangles": 10296,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.824999809265137,
+      1.859998345375061,
+      1.8599379115106252
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "Body, greenhouse and wheels are deliberately separate closed milestone volumes; joins require visual review, not a watertight assembled shell.",
+    "scope": "Legacy soft-body regression only; V04 remains a curve cage"
+  },
+  "QUALITY": {
+    "vertices": 12638,
+    "triangles": 25240,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.824999809265137,
+      1.8600000143051147,
+      1.859996324062505
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "Body, greenhouse and wheels are deliberately separate closed milestone volumes; joins require visual review, not a watertight assembled shell.",
+    "scope": "Legacy soft-body regression only; V04 remains a curve cage"
+  }
+}

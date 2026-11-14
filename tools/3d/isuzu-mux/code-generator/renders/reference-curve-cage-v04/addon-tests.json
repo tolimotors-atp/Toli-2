@@ -1,0 +1,14 @@
+{
+  "no_added_structural_curves_or_controls": "PASS",
+  "reference_evidence_all_seven_regions": "PASS",
+  "reproducibility": "PASS",
+  "j03_exact_endpoint_handle_preservation": "PASS",
+  "side_window_and_primary_silhouette_preservation": "PASS",
+  "fixed_wheels": "PASS",
+  "five_bonnet_sections": "PASS",
+  "join_debug_all_eight_and_restore": "PASS",
+  "curvature_combs_toggle": "PASS",
+  "finite_curvature_sampling": "PASS",
+  "symmetry_m": 0.0,
+  "surfaces": "NOT STARTED"
+}

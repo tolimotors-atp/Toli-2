@@ -1,0 +1,80 @@
+[
+  {
+    "image": 1,
+    "role": "DETAIL ONLY \u2014 WEAK DIAGNOSTIC POSE",
+    "included_in_core": false,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 2,
+    "role": "CALIBRATION ONLY \u2014 EXTERNAL VALIDATION",
+    "included_in_core": false,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 3,
+    "role": "DETAIL ONLY \u2014 WEAK DIAGNOSTIC POSE",
+    "included_in_core": false,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 4,
+    "role": "CALIBRATION ONLY \u2014 EXTERNAL VALIDATION",
+    "included_in_core": false,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 5,
+    "role": "EXCLUDED",
+    "included_in_core": false,
+    "confidence": "INTERIOR NOT USED"
+  },
+  {
+    "image": 6,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 7,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 8,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 9,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 10,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 11,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 12,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  },
+  {
+    "image": 13,
+    "role": "CALIBRATION + DETAIL",
+    "included_in_core": true,
+    "confidence": "GLOBAL CALIBRATION FAILED"
+  }
+]

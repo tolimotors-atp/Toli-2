@@ -1,0 +1,30 @@
+{
+  "toli-static-website": {
+    "count": 391,
+    "changed": [
+      "src/workshop-surfaces.css",
+      "src/assets/hero/workshop-depth-dark.svg",
+      "src/assets/hero/workshop-depth.svg",
+      "src/components/journey/hero-caption.css",
+      "src/components/journey/navbar-brand.css",
+      "src/components/journey/hero-corner-visibility.css"
+    ],
+    "added": [
+      "src/assets/hero/garage-grounded-wide-960.webp",
+      "src/assets/hero/garage-grounded-wide-1600.webp"
+    ],
+    "removed": []
+  },
+  "toli-3d-website": {
+    "count": 1393,
+    "changed": [],
+    "added": [],
+    "removed": []
+  },
+  "tolimotors-main": {
+    "count": 2948,
+    "changed": [],
+    "added": [],
+    "removed": []
+  }
+}

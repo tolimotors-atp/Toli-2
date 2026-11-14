@@ -1,0 +1,1545 @@
+{
+  "zones": {
+    "A": {
+      "base": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 132,
+        "triangles": 208,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 54,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "evaluated": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 1773,
+        "triangles": 3328,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 216,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "base_control_symmetry_m": 0.0,
+      "constraints": {
+        "finite": true,
+        "x_within_dimensions": true,
+        "y_within_dimensions": true,
+        "z_within_dimensions": true
+      },
+      "boundary_cracks": 0,
+      "shared_boundary_max_gap_m": 0.0,
+      "shared_boundary_normal_diagnostics": [
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 42.83482445515587,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.2354111339869,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.102075438613081,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 61.046413971254744,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 3.9863933784142214,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.7077590361138248,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.7077590361138248,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 3.9863933784142214,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 61.046413971254744,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.102075438613081,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.2354111339869,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 42.83482445515587,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 55.09669082677,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.62869171884894,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.325448664568709,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 61.07487536952619,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.0749164720389945,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.728736521406491,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.728736521406491,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.0749164720389945,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 61.07487536952619,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.325448664568709,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.62869171884894,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 55.09669082677,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 48.18718950011506,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.970059617889515,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.134531612789868,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 58.832715510307764,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.057240796240648,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6943616200568449,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6943616200568449,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.057240796240648,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 58.832715510307764,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.134531612789868,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.970059617889515,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 48.18718950011506,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 43.19625416037085,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 35.72571768019648,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.158102595615583,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 56.680037959405674,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.066304884156078,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6952064824406637,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6952064824406637,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.066304884156078,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 56.680037959405674,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.158102595615583,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 35.72571768019648,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 43.19625416037085,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 43.76153086136486,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 33.25382782333926,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 5.141251581676909,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 56.950609073186556,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.089691878761025,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6991358689258309,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.6991358689258309,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.089691878761025,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 56.950609073186556,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 5.141251581676909,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 33.25382782333926,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 43.76153086136486,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 85.29549797776761,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 63.0914545710266,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.03551012250943,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.417374370630423,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 2.0087656785333317,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.590218813310138,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 1.6370966659788566,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 58.34449358843525,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 2.028447082070135,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.15374069704235,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 8.511377908735213,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.7099673750107075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 16.316013945934404,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 16.316013945934404,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 0.7099673750107075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 8.511377908735213,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.15374069704235,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 2.028447082070135,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 58.34449358843525,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 1.6370966659788566,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 4.590218813310138,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 2.0087656785333317,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.417374370630423,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 4.03551012250943,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 63.0914545710266,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 85.29549797776761,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 39.36735597959384,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 39.36735597959384,
+          "position_gap_m": 0
+        }
+      ],
+      "boundary_note": "Open prototype construction cuts and window/lamp apertures are intentional; counted separately from interior non-manifold edges."
+    },
+    "B": {
+      "base": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 124,
+        "triangles": 200,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 50,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "evaluated": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 1699,
+        "triangles": 3200,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 200,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "base_control_symmetry_m": 0.0,
+      "constraints": {
+        "finite": true,
+        "x_within_dimensions": true,
+        "y_within_dimensions": true,
+        "z_within_dimensions": true
+      },
+      "boundary_cracks": 0,
+      "shared_boundary_max_gap_m": 0.0,
+      "shared_boundary_normal_diagnostics": [
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 3.9887015554668626,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 21.578206833471082,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 16.346729306631953,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 16.346729306631953,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 3.9887015554668626,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 21.578206833471082,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 8.460347857898755,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 8.460347857898755,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 22.176160867001727,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 22.176160867001727,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 35.04557427283578,
+          "position_gap_m": 0
+        },
+        {
+          "type": "DEFINED",
+          "base_normal_angle_deg": 35.04557427283578,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 117.66495290737362,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 125.48666697881879,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 109.40223401178825,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 52.9309881051207,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.07895882085859,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 16.024564651408085,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 12.725493636059069,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 12.99149620705886,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 15.41353422071145,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.34884395850018,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 40.6588422988057,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 104.38098629250753,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 60.337727203352564,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 53.157805027078474,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 103.0405889886492,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 112.07203884513034,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 104.69661616424298,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 100.67825878117357,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.742411661755177,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 24.509006855377706,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 117.66495290737362,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 125.48666697881879,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 109.40223401178825,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 52.9309881051207,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 25.07895882085859,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 16.024564651408085,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 12.725493636059069,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 12.99149620705886,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 15.41353422071145,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.34884395850018,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 40.6588422988057,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 104.38098629250753,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 60.337727203352564,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 53.157805027078474,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 103.0405889886492,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 112.07203884513034,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 104.69661616424298,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 100.67825878117357,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.742411661755177,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 24.509006855377706,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.687824789908436,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 28.09874596236672,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 28.09874596236672,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.687824789908436,
+          "position_gap_m": 0
+        }
+      ],
+      "boundary_note": "Open prototype construction cuts and window/lamp apertures are intentional; counted separately from interior non-manifold edges."
+    },
+    "C": {
+      "base": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 214,
+        "triangles": 336,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 92,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "evaluated": {
+        "nonadjacent_triangle_overlap_pairs": 0,
+        "vertices": 2872,
+        "triangles": 5376,
+        "degenerate_faces": 0,
+        "open_boundary_edges": 368,
+        "interior_nonmanifold_edges": 0,
+        "boundary_t_junctions": []
+      },
+      "base_control_symmetry_m": 0.0,
+      "constraints": {
+        "finite": true,
+        "x_within_dimensions": true,
+        "y_within_dimensions": true,
+        "z_within_dimensions": true
+      },
+      "boundary_cracks": 0,
+      "shared_boundary_max_gap_m": 0.0,
+      "shared_boundary_normal_diagnostics": [
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 75.29608054230144,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 72.10292612418546,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 94.89847757342791,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 88.33117555437978,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 78.84400181609705,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 79.90027008067202,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 89.70311467182522,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 100.22226169180519,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 131.52286031819588,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 133.49790513935346,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 133.1456722838559,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 128.81422585942227,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 1.1044672020004493,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.30646706624218134,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4159008106913752,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 1.755688706929259,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4652018364920413,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.6670530296512529,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4784723604408471,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.42658458725502385,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.16785879574329948,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.0,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.05233915597547922,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.2790645340550753,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.190215583772044,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 11.358358702921084,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.375653199771847,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 96.17073007993702,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 86.04289825788543,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 70.81100950305589,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.50464594655786,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.393076637954865,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.92179408611962,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 29.019554500227404,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.692889375177998,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 15.737645479848773,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 32.77252488309597,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 28.96089342054075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.387135956982377,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 19.22444339076194,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.460611466530974,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 27.17427644311091,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 36.002545247257096,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 13.691323365833892,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.588520419117803,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 27.232158881232184,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 35.051957084615154,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 11.515687841584096,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 33.714479686627016,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 28.867408621370785,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 52.851016835223604,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 49.373019623055995,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 20.73006126309558,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 76.16824105779871,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.10553117092889,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 68.41525917997139,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 10.00415673297652,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 72.98849430102347,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 5.458297437004677,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 77.32028223491558,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 41.62808712316553,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 16.954450510675713,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 23.952175683292417,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9450187837040289,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.306624372309075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.19796801544522,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 20.90228960565933,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9757846237684109,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.133581477189663,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.68450869004305,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 15.673100192192152,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9179189409549455,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 75.29608054230144,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 72.10292612418546,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 94.89847757342791,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 88.33117555437978,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 78.84400181609705,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 79.90027008067202,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 89.70311467182522,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 100.22226169180519,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 131.52286031819588,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 133.49790513935346,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 133.1456722838559,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 128.81422585942227,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 1.1044672020004493,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.30646706624218134,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4159008106913752,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 1.755688706929259,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4652018364920413,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.6670530296512529,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.4784723604408471,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.42658458725502385,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.16785879574329948,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.0,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.05233915597547922,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.2790645340550753,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.190215583772044,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 11.358358702921084,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.375653199771847,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 96.17073007993702,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 86.04289825788543,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 70.81100950305589,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.50464594655786,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.393076637954865,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 31.92179408611962,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 29.019554500227404,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.692889375177998,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 15.737645479848773,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 32.77252488309597,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 28.96089342054075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 30.387135956982377,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 19.22444339076194,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.460611466530974,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 27.17427644311091,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 36.002545247257096,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 13.691323365833892,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 21.588520419117803,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 27.232158881232184,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 35.051957084615154,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 11.515687841584096,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 33.714479686627016,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 28.867408621370785,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 52.851016835223604,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 49.373019623055995,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 20.73006126309558,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 76.16824105779871,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.10553117092889,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 68.41525917997139,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 10.00415673297652,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 72.98849430102347,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 5.458297437004677,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 77.32028223491558,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 41.62808712316553,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 16.954450510675713,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 23.952175683292417,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9450187837040289,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.306624372309075,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 14.19796801544522,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 20.90228960565933,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9757846237684109,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 7.133581477189663,
+          "position_gap_m": 0
+        },
+        {
+          "type": "SOFT",
+          "base_normal_angle_deg": 8.68450869004305,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 15.673100192192152,
+          "position_gap_m": 0
+        },
+        {
+          "type": "CONTROLLED",
+          "base_normal_angle_deg": 0.9179189409549455,
+          "position_gap_m": 0
+        }
+      ],
+      "boundary_note": "Open prototype construction cuts and window/lamp apertures are intentional; counted separately from interior non-manifold edges."
+    }
+  },
+  "total": {
+    "base_vertices": 470,
+    "evaluated_vertices": 6344,
+    "evaluated_triangles": 11904
+  }
+}

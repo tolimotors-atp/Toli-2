@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "size": [
+      990,
+      891
+    ],
+    "pixelIdentical": false,
+    "meanAbsoluteRGB": 0.000543406379545549,
+    "changedPixels": 455
+  },
+  "navigation": {
+    "size": [
+      990,
+      64
+    ],
+    "pixelIdentical": false,
+    "meanAbsoluteRGB": 0.007565235690235691,
+    "changedPixels": 455
+  },
+  "heroBelowNavbarPixelIdentical": true
+}

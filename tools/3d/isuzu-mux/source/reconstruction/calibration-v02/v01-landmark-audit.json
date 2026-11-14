@@ -1,0 +1,1826 @@
+[
+  {
+    "landmark": "h_out_L",
+    "observations": 5,
+    "v01_rms": 5.280718204398093,
+    "v01_max": 6.74296513669267,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "h_out_R",
+    "observations": 5,
+    "v01_rms": 2.8329597596942393,
+    "v01_max": 4.845400426922371,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "h_in_L",
+    "observations": 5,
+    "v01_rms": 4.207957682389174,
+    "v01_max": 5.785673879377551,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "h_in_R",
+    "observations": 5,
+    "v01_rms": 3.2991040037083326,
+    "v01_max": 4.5029355345293105,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "fixed lamp envelope corner, visually identifiable; annotation uncertainty remains",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "g_top_L",
+    "observations": 4,
+    "v01_rms": 3.996039880484389,
+    "v01_max": 5.825301424334125,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "g_top_R",
+    "observations": 4,
+    "v01_rms": 3.299005224404532,
+    "v01_max": 5.949201279681619,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "g_low_L",
+    "observations": 4,
+    "v01_rms": 7.633293646234711,
+    "v01_max": 9.81041222863455,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "g_low_R",
+    "observations": 4,
+    "v01_rms": 3.0563126311606665,
+    "v01_max": 4.48502352332605,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "bumper_L",
+    "observations": 2,
+    "v01_rms": 6.200678885339597,
+    "v01_max": 7.993876793327957,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "bumper_R",
+    "observations": 2,
+    "v01_rms": 3.901290719940884,
+    "v01_max": 5.086220795962494,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 1,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "B",
+        "reason": "fixed fascia/bumper but trim/curvature-boundary definition is less certain",
+        "decision": "validation/detail only in structural solve"
+      }
+    ]
+  },
+  {
+    "landmark": "ws_base_L",
+    "observations": 4,
+    "v01_rms": 5.8264046150748285,
+    "v01_max": 10.079029468777334,
+    "confidence_classes": [
+      "A",
+      "B"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "ws_base_R",
+    "observations": 4,
+    "v01_rms": 4.722610724532483,
+    "v01_max": 7.498328964243595,
+    "confidence_classes": [
+      "A",
+      "B"
+    ],
+    "v02_structural_observations": 1,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "ws_top_L",
+    "observations": 4,
+    "v01_rms": 4.551474306068816,
+    "v01_max": 6.900681102543887,
+    "confidence_classes": [
+      "A",
+      "B"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "ws_top_R",
+    "observations": 4,
+    "v01_rms": 5.475368071959774,
+    "v01_max": 8.81483024046649,
+    "confidence_classes": [
+      "A",
+      "B"
+    ],
+    "v02_structural_observations": 1,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "grazing or far windshield/cowl corner; possible trim/occlusion ambiguity",
+        "decision": "validation only in initial structural solve"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "closed visible windshield border; corrected V01 semantic definition",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "q_ft_L",
+    "observations": 4,
+    "v01_rms": 4.980303260012504,
+    "v01_max": 7.614303235384842,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 12,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 2,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      }
+    ]
+  },
+  {
+    "landmark": "q_ft_R",
+    "observations": 4,
+    "v01_rms": 5.250115547005321,
+    "v01_max": 7.054975196281752,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 4,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 13,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      }
+    ]
+  },
+  {
+    "landmark": "q_fb_L",
+    "observations": 4,
+    "v01_rms": 4.414559659688032,
+    "v01_max": 7.441409433641017,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 2,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 12,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 11,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      }
+    ]
+  },
+  {
+    "landmark": "q_fb_R",
+    "observations": 4,
+    "v01_rms": 10.980679504287602,
+    "v01_max": 20.002685504098803,
+    "confidence_classes": [
+      "B"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 4,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      },
+      {
+        "camera": 13,
+        "class": "B",
+        "reason": "quarter-glass fillet/trim transition has no subpixel corner; small in oblique views",
+        "decision": "validation/detail only; do not fit initial core"
+      }
+    ]
+  },
+  {
+    "landmark": "q_rt_L",
+    "observations": 4,
+    "v01_rms": 4.088289238262583,
+    "v01_max": 6.112414681532355,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 7,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 2,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      }
+    ]
+  },
+  {
+    "landmark": "q_rt_R",
+    "observations": 4,
+    "v01_rms": 6.862802209065166,
+    "v01_max": 8.844564799271268,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 9,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 4,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      }
+    ]
+  },
+  {
+    "landmark": "q_rb_L",
+    "observations": 4,
+    "v01_rms": 8.250676926614403,
+    "v01_max": 13.215710829976018,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 7,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 2,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      }
+    ]
+  },
+  {
+    "landmark": "q_rb_R",
+    "observations": 4,
+    "v01_rms": 7.712428626960816,
+    "v01_max": 9.056069520871617,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 4,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      },
+      {
+        "camera": 9,
+        "class": "C",
+        "reason": "rounded rear glass/seal silhouette; camera-dependent tangent location",
+        "decision": "reject fixed-point identity until a stable feature is verified"
+      }
+    ]
+  },
+  {
+    "landmark": "tl_top_L",
+    "observations": 5,
+    "v01_rms": 5.066204424769997,
+    "v01_max": 8.83459744732466,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tl_top_R",
+    "observations": 5,
+    "v01_rms": 5.363433015698463,
+    "v01_max": 9.336533395837673,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tl_low_L",
+    "observations": 5,
+    "v01_rms": 4.748939594994594,
+    "v01_max": 8.731800071216243,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tl_low_R",
+    "observations": 5,
+    "v01_rms": 5.770876155951119,
+    "v01_max": 9.622529711591186,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "fixed outer body lamp segment only; moving hatch segments absent",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "rw_top_L",
+    "observations": 3,
+    "v01_rms": 4.028582867975052,
+    "v01_max": 5.970600516301434,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 12,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+        "decision": "reject current shared-point observation"
+      },
+      {
+        "camera": 8,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      }
+    ]
+  },
+  {
+    "landmark": "rw_top_R",
+    "observations": 3,
+    "v01_rms": 5.480012668895738,
+    "v01_max": 6.555467012326324,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+        "decision": "reject current shared-point observation"
+      },
+      {
+        "camera": 8,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      },
+      {
+        "camera": 13,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      }
+    ]
+  },
+  {
+    "landmark": "rw_base_L",
+    "observations": 3,
+    "v01_rms": 16.21472122526064,
+    "v01_max": 26.82618069403629,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+        "decision": "reject current shared-point observation"
+      },
+      {
+        "camera": 12,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      },
+      {
+        "camera": 8,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      }
+    ]
+  },
+  {
+    "landmark": "rw_base_R",
+    "observations": 3,
+    "v01_rms": 3.253989627850816,
+    "v01_max": 3.869851752227274,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      },
+      {
+        "camera": 8,
+        "class": "B",
+        "reason": "outer ceramic/glazing corner definition remains rounded/partially under spoiler",
+        "decision": "validation only; initial frame solve excludes this ambiguity"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "far rounded black-glazing border lacks an identifiable corresponding physical corner; perspective/partial visibility",
+        "decision": "reject current shared-point observation"
+      }
+    ]
+  },
+  {
+    "landmark": "hatch_low_L",
+    "observations": 3,
+    "v01_rms": 16.32208641471015,
+    "v01_max": 26.2672036314757,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      },
+      {
+        "camera": 8,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      }
+    ]
+  },
+  {
+    "landmark": "hatch_low_R",
+    "observations": 3,
+    "v01_rms": 6.971976895557164,
+    "v01_max": 9.230020987999454,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      },
+      {
+        "camera": 8,
+        "class": "C",
+        "reason": "rounded closed hatch seam changes apparent corner with perspective; no exact repeatable physical point established",
+        "decision": "reject current fixed-point correspondence; not open-panel contamination"
+      }
+    ]
+  },
+  {
+    "landmark": "arch_F_L",
+    "observations": 4,
+    "v01_rms": 2.9699105500147023,
+    "v01_max": 4.523149096245149,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 2,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      },
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      }
+    ]
+  },
+  {
+    "landmark": "arch_F_R",
+    "observations": 4,
+    "v01_rms": 1.480378929056876,
+    "v01_max": 1.9955333594724345,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 4,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      }
+    ]
+  },
+  {
+    "landmark": "arch_R_L",
+    "observations": 4,
+    "v01_rms": 3.6890246403758282,
+    "v01_max": 4.612371852487392,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 7,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      },
+      {
+        "camera": 2,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      }
+    ]
+  },
+  {
+    "landmark": "arch_R_R",
+    "observations": 4,
+    "v01_rms": 5.050224035162938,
+    "v01_max": 6.584172101981227,
+    "confidence_classes": [
+      "B",
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 9,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      },
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "oblique arch apex is an apparent contour, not assured identical physical point",
+        "decision": "reject fixed-point assumption"
+      },
+      {
+        "camera": 4,
+        "class": "B",
+        "reason": "near-profile opening apex, uncertain relation to physical crown",
+        "decision": "validation only"
+      }
+    ]
+  },
+  {
+    "landmark": "wc_F_L",
+    "observations": 4,
+    "v01_rms": 1.3438642459005914,
+    "v01_max": 1.5615999556853721,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "contact_F_L",
+    "observations": 6,
+    "v01_rms": 2.275779141045266,
+    "v01_max": 3.3585269142502567,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 4,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tiretop_F_L",
+    "observations": 4,
+    "v01_rms": 3.711192979668691,
+    "v01_max": 5.80307901155076,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 2,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 7,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      }
+    ]
+  },
+  {
+    "landmark": "wc_F_R",
+    "observations": 4,
+    "v01_rms": 1.93284633168075,
+    "v01_max": 3.322349333788439,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 1,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "contact_F_R",
+    "observations": 6,
+    "v01_rms": 2.525198296603024,
+    "v01_max": 5.643262074111426,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 6,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 1,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tiretop_F_R",
+    "observations": 4,
+    "v01_rms": 4.143322310272763,
+    "v01_max": 7.1821566707323825,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 4,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 9,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      }
+    ]
+  },
+  {
+    "landmark": "wc_R_L",
+    "observations": 4,
+    "v01_rms": 1.8297270091946671,
+    "v01_max": 3.1772835339540726,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 3,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "contact_R_L",
+    "observations": 6,
+    "v01_rms": 2.1783411629889042,
+    "v01_max": 2.5381056797187966,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 4,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 7,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 12,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 11,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 2,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tiretop_R_L",
+    "observations": 4,
+    "v01_rms": 3.47194092978778,
+    "v01_max": 4.721259154523577,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 11,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 12,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 7,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 2,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      }
+    ]
+  },
+  {
+    "landmark": "wc_R_R",
+    "observations": 4,
+    "v01_rms": 1.8092804764547732,
+    "v01_max": 2.933946957621924,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 1,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "visible rim/hub center",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "contact_R_R",
+    "observations": 6,
+    "v01_rms": 2.6866154714101484,
+    "v01_max": 3.575058363162561,
+    "confidence_classes": [
+      "A"
+    ],
+    "v02_structural_observations": 2,
+    "status": "CORE CANDIDATE",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 13,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 4,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 9,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 3,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      },
+      {
+        "camera": 8,
+        "class": "A",
+        "reason": "visible tire/floor contact with finite-width patch uncertainty",
+        "decision": "core eligible"
+      }
+    ]
+  },
+  {
+    "landmark": "tiretop_R_R",
+    "observations": 4,
+    "v01_rms": 5.336194105934772,
+    "v01_max": 8.155551915686965,
+    "confidence_classes": [
+      "C"
+    ],
+    "v02_structural_observations": 0,
+    "status": "VALIDATION/DETAIL ONLY OR REJECTED FIXED-POINT IDENTITY",
+    "per_observation_decisions": [
+      {
+        "camera": 10,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 4,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 9,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      },
+      {
+        "camera": 13,
+        "class": "C",
+        "reason": "apparent tire silhouette tangent is view-dependent, not a verified fixed 3D surface point",
+        "decision": "reject fixed-point assumption; retain as visual tire reference"
+      }
+    ]
+  }
+]

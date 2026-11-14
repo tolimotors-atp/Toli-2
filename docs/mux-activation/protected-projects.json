@@ -1,0 +1,9 @@
+{
+  "checked": 7781,
+  "authorizedChanges": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/lib/vehicle-scene.ts"
+  ],
+  "unexpectedChanges": [],
+  "missing": [],
+  "note": "The prior protection manifest also contains the shared vehicle scene. Its one modification is explicitly authorized for this activation; other protected files/projects remain unchanged."
+}

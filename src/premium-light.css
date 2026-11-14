@@ -1,0 +1,99 @@
+/* Light-only finish. Protected Hero artwork/layout and all dark rules stay unchanged. */
+:root[data-theme=light] {
+ --light-page:#f4f3f0;--light-pearl:#faf9f6;--light-white:#ffffff;
+ --light-metal:#e5e5e2;--light-silver:#c7c8c6;
+ --light-ink:#24272b;--light-deep:#17191c;--light-body:#454b52;--light-muted:#60656c;
+ --light-edge:#b7bbc0;--light-control-border:#74777b;--light-red:#b51b29;
+ --light-shadow-low:inset 0 1px 0 #fff,0 3px 9px -6px #24272b30;
+ --light-shadow-medium:inset 0 1px 0 #fff,0 12px 26px -20px #24272b55;
+ --light-shadow-high:inset 0 1px 0 #fff,0 24px 70px -25px #24272b55;
+ --modal-backdrop:#24272b70;--modal-shadow:#24272b40;
+}
+html[data-theme=light] {background:var(--light-page)!important;scrollbar-color:#8b9096 var(--light-page);}
+html[data-theme=light] body {background:var(--light-page);}
+html[data-theme=light] ::selection {background:#f4c8ce;color:var(--light-deep);}
+html[data-theme=light] ::-webkit-scrollbar-track {background:var(--light-page);}
+html[data-theme=light] ::-webkit-scrollbar-thumb {background:#8b9096;border-color:var(--light-page);}
+html[data-theme=light] ::-webkit-scrollbar-thumb:hover {background:var(--light-red);}
+/* Navigation changes material only; dimensions, artwork and control placement are untouched. */
+html[data-theme=light] .journey-root .experience-navigation {background:radial-gradient(ellipse at 35% 0%,#fff,transparent 65%),linear-gradient(110deg,#faf9f6,#e5e5e2 68%,#d4d6d8 87%,#e9cdd1);color:var(--light-ink);border-bottom-color:#b51b2966;box-shadow:inset 0 1px #fff,0 5px 16px -12px #24272b66;}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions>button:not(.nav-book),
+html[data-theme=light] .journey-root .experience-navigation .nav-actions>.nav-support>button {background:linear-gradient(180deg,#ffffffee,#e5e5e2);border-color:var(--light-control-border);color:var(--light-ink);}
+html[data-theme=light] .journey-root .experience-navigation .nav-actions :is(button,a):focus-visible {outline-color:var(--ui-focus);}
+/* Fullscreen tablet dialogs need the same stationary fade as mobile. */
+@media(max-width:900px) {
+ html[data-theme=light] .request-dialog {animation-name:request-backdrop-in;}
+}
+
+html[data-theme=light] .journey-root .reference-hero .hero-info-pill:is(.hero-brand-phones,.hero-location-text) {
+ --info-lacquer: linear-gradient(108deg, var(--light-pearl), var(--light-metal));
+ border-color: var(--light-control-border);
+ color: var(--light-ink);
+ text-shadow: none;
+ backdrop-filter:none;
+}
+html[data-theme=light] .journey-root .reference-hero .hero-info-pill.hero-brand-phones > svg {
+ color: var(--brand-primary);
+}
+
+html[data-theme=light] .journey-root .reference-hero .hero-info-pill.hero-location-text :is(strong,span) {
+ color:var(--light-ink);
+ text-shadow:none;
+}
+html[data-theme=light] .journey-root .reference-hero .hero-info-pill.hero-location-text strong {color:var(--brand-primary);}
+
+/* Keep the daylight photo visible through the softened layer behind the copy. */
+html[data-theme=light] .journey-root .reference-hero {
+ --hero-daylight: url('./assets/hero/garage-daylight-wide-1600.webp');
+}
+html[data-theme=light] .journey-root .reference-hero > .hero-workshop-atmosphere {
+ background: #e9ebeb;
+}
+html[data-theme=light] .journey-root .reference-hero > .hero-workshop-atmosphere > img {
+ display: none;
+}
+@media (min-width: 901px) {
+ html[data-theme=light] .journey-root .reference-hero > .hero-workshop-atmosphere::before {
+  inset: -380px 0 calc(-16px - 1.12 * clamp(24px, 2.35vw, 42px));
+  background: radial-gradient(ellipse 28% 118px at 50% 550px, #faf9f69e, #faf9f680 56%, transparent),
+    radial-gradient(ellipse 140px 30px at 90% 490px, #faf9f6bb, transparent),
+    linear-gradient(180deg, transparent 72%, #e9ebebaa),
+    var(--hero-daylight) center bottom / cover no-repeat fixed;
+ }
+}
+@media (max-width: 1100px) {
+ html[data-theme=light] .journey-root .reference-hero {
+  --hero-daylight: url('./assets/hero/garage-daylight-wide-960.webp');
+ }
+}
+@media (max-width: 900px) {
+ html[data-theme=light] .journey-root .reference-hero {
+  --hero-daylight-copy: radial-gradient(ellipse 42% 23% at 50% 47%, #faf9f699, #faf9f67a 54%, transparent);
+ }
+ html[data-theme=light] .journey-root .reference-hero .entry-composition::before {
+  background: var(--hero-daylight-copy),
+    linear-gradient(180deg, transparent 85%, #e9ebeb),
+    var(--hero-daylight) center bottom / cover no-repeat fixed;
+ }
+ html[data-theme=light] .journey-root .reference-hero .hero-three-cars::before {
+  content: '';
+  position: absolute;
+  inset: auto 0 0;
+  aspect-ratio: 1600 / 372;
+  background: radial-gradient(ellipse 19% 7% at 18% 76%, #24272b40, transparent),
+    radial-gradient(ellipse 22% 8% at 53% 94%, #24272b66, transparent),
+    radial-gradient(ellipse 17% 7% at 85% 80%, #24272b40, transparent);
+ }
+ html[data-theme=light] .journey-root .reference-hero .hero-three-cars img {
+  position: relative;
+ }
+}
+@media (max-width: 767px) {
+ html[data-theme=light] .journey-root .reference-hero .entry-composition::before { background-attachment: scroll; }
+}
+@media (max-width: 599px) {
+ html[data-theme=light] .journey-root .reference-hero {
+  --hero-daylight: url('./assets/hero/garage-daylight-portrait-640.webp');
+  --hero-daylight-copy: radial-gradient(ellipse 53% 25% at 50% 54%, #faf9f699, #faf9f67a 54%, transparent);
+ }
+}

@@ -1,0 +1,10 @@
+{
+  "checked_existing_files": 7397,
+  "unexpected_changes": [],
+  "authorized_status_update": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/RECONSTRUCTION_STATUS.md",
+  "historical_freeze_copy": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/existing-photo-production-v01/pre-authorization-status.md",
+  "old_models_references_diagnostics": "UNCHANGED",
+  "website_src_public": "UNCHANGED",
+  "controlled_capture": "PRESERVED",
+  "protected_projects": "UNCHANGED (prior manifest scope; runtime/dependency directories excluded)"
+}

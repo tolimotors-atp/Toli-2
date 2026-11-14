@@ -1,0 +1,216 @@
+{
+  "dark": [
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 640,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 360
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 844,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 390
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 932,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 430
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 960,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 600
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 1024,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 720
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 1024,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 768
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 768,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 1024
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 768,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 1366
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 900,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 1440
+    },
+    {
+      "chapters": [
+        "01 Entry",
+        "02 Services",
+        "03 Journey",
+        "04 Toli Motors",
+        "05 Request",
+        "06 Contact"
+      ],
+      "destinations": true,
+      "height": 1080,
+      "overflow": false,
+      "preceding": "section-stack",
+      "removed": true,
+      "width": 1920
+    }
+  ],
+  "light": [
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 360
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 430
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 600
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 720
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 1366
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "removed": true,
+      "width": 1920
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "G01",
+    "region": "windscreen base/cowl",
+    "x": -0.405,
+    "roof_halfwidth": 0.287,
+    "upper_z": 0.438,
+    "lower_halfwidth": 0.306,
+    "lower_z": 0.421,
+    "crown": 0.006,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G02",
+    "region": "lower A-pillar",
+    "x": -0.29,
+    "roof_halfwidth": 0.27,
+    "upper_z": 0.522,
+    "lower_halfwidth": 0.305,
+    "lower_z": 0.426,
+    "crown": 0.017,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G03",
+    "region": "upper A-pillar",
+    "x": -0.155,
+    "roof_halfwidth": 0.25,
+    "upper_z": 0.592,
+    "lower_halfwidth": 0.306,
+    "lower_z": 0.431,
+    "crown": 0.021,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G04",
+    "region": "front roof",
+    "x": -0.075,
+    "roof_halfwidth": 0.25,
+    "upper_z": 0.609,
+    "lower_halfwidth": 0.307,
+    "lower_z": 0.435,
+    "crown": 0.015,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G05",
+    "region": "front-door cabin",
+    "x": 0.015,
+    "roof_halfwidth": 0.251,
+    "upper_z": 0.612,
+    "lower_halfwidth": 0.308,
+    "lower_z": 0.439,
+    "crown": 0.014,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G06",
+    "region": "B-pillar",
+    "x": 0.092,
+    "roof_halfwidth": 0.252,
+    "upper_z": 0.613,
+    "lower_halfwidth": 0.309,
+    "lower_z": 0.442,
+    "crown": 0.014,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G07",
+    "region": "rear-door cabin",
+    "x": 0.255,
+    "roof_halfwidth": 0.253,
+    "upper_z": 0.612,
+    "lower_halfwidth": 0.309,
+    "lower_z": 0.451,
+    "crown": 0.014,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G08",
+    "region": "C-pillar",
+    "x": 0.438,
+    "roof_halfwidth": 0.251,
+    "upper_z": 0.607,
+    "lower_halfwidth": 0.307,
+    "lower_z": 0.462,
+    "crown": 0.014,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G09",
+    "region": "quarter glass",
+    "x": 0.535,
+    "roof_halfwidth": 0.247,
+    "upper_z": 0.6,
+    "lower_halfwidth": 0.304,
+    "lower_z": 0.468,
+    "crown": 0.014,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G10",
+    "region": "D-pillar",
+    "x": 0.63,
+    "roof_halfwidth": 0.244,
+    "upper_z": 0.58,
+    "lower_halfwidth": 0.3,
+    "lower_z": 0.465,
+    "crown": 0.016,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  },
+  {
+    "id": "G11",
+    "region": "rear glass",
+    "x": 0.72,
+    "roof_halfwidth": 0.28,
+    "upper_z": 0.447,
+    "lower_halfwidth": 0.296,
+    "lower_z": 0.445,
+    "crown": 0.006,
+    "confidence": "manual reference-constrained estimate; not calibrated"
+  }
+]

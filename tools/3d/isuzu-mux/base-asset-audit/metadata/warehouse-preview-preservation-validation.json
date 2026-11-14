@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-09",
+  "viewer_access": "PARTIAL",
+  "actual_angles_captured": 1,
+  "five_priority_views_completed": false,
+  "reason": "Interactive 3D viewer requires sign-in; no bypass/login/model download attempted",
+  "baseline_files_verified_unchanged": 7735,
+  "authorized_change": "FREE_BASE_ASSET_AUDIT.md append only; original bytes preserved and verified",
+  "unexpected_changes": [],
+  "original_images_hash_verified": 43,
+  "license_inventory_and_decision": "UNCHANGED \u2014 L2 / M3 provisional / BASE-X / NOT CLEARED",
+  "production_and_protected_projects": "UNCHANGED",
+  "preview_integrity_checks": "PASS",
+  "model_downloaded": false,
+  "GLB_exported": false,
+  "deployment_or_commit": false
+}

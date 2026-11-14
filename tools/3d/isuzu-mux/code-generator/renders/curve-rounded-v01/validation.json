@@ -1,0 +1,43 @@
+{
+  "preview": {
+    "vertices": 5684,
+    "triangles": 11332,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.825042486190796,
+      1.8600000143051147,
+      1.8599379115106252
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "One closed joined body/cabin shell, plus eight intentionally separate tire/rim meshes. Self-intersection and automotive continuity are not certified."
+  },
+  "quality": {
+    "vertices": 12453,
+    "triangles": 24870,
+    "objects": 9,
+    "materials": 3,
+    "dimensions": [
+      4.824999809265137,
+      1.8600001335144043,
+      1.859996324062505
+    ],
+    "wheelbase": 2.845,
+    "ground_z": -5.245366363482162e-09,
+    "symmetry": true,
+    "symmetry_max_error_m": 5.960464477539063e-08,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "negative_volume_objects": 0,
+    "finite": true,
+    "boundary_note": "One closed joined body/cabin shell, plus eight intentionally separate tire/rim meshes. Self-intersection and automotive continuity are not certified."
+  },
+  "regeneration": "PASS"
+}

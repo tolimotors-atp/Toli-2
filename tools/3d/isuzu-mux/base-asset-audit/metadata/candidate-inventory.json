@@ -1,0 +1,564 @@
+{
+  "audit_date": "2026-11-09",
+  "search_status": "COMPLETED — bounded public-source search; access limitations recorded",
+  "final_decision": "B — PROMISING CANDIDATE FOUND, BUT LICENSE OR BODY MATCH REQUIRES REVIEW",
+  "success_condition_met": false,
+  "candidate_count": 13,
+  "counting_note": "Listing/package leads, not thirteen independent meshes. Arte cross-listings and language pages counted once. Related Hum3D exterior/HQ packages counted separately and marked related. Supplemental unresolved/accessory/mirror results excluded from these totals.",
+  "price_counts": {
+    "FREE_ADVERTISED": 3,
+    "PRICE_UNKNOWN_VIEWER_ONLY": 1,
+    "PAID": 8,
+    "CONDITIONAL_FREE_OR_PAID": 1
+  },
+  "license_counts": {
+    "L3": 0,
+    "L2": 3,
+    "L1": 1,
+    "L0": 9
+  },
+  "provisional_body_counts": {
+    "M3": 3,
+    "M1": 2,
+    "M0": 1,
+    "M2": 2,
+    "UNASSESSED": 5
+  },
+  "technically_validated_body_count": 0,
+  "downloaded_count": 0,
+  "best_unapproved_lead": "C01",
+  "candidates": [
+    {
+      "id": "C01",
+      "title": "2018 Isuzu MU-X",
+      "creator": "Ghøst (uploader); underlying geometry author unverified",
+      "source": "https://3dwarehouse.sketchup.com/model/9eceae96-0797-456b-aa14-50812f84f5e6/2018-Isuzu-MU-X",
+      "price_category": "FREE_ADVERTISED",
+      "license_label": "3D Warehouse General Model License",
+      "license_confidence": "L2",
+      "body_match": "M3",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Older MU-X facelift family; listing year 2018, exact trim unverified",
+      "formats_listed": [
+        "SketchUp/Warehouse listing; exact export format/version not verified"
+      ],
+      "download_availability": "Download control visible; package/login requirements not exercised",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "Promising correct-family preview, but provenance chain and the intended publicly retrievable converted GLB delivery are not cleared. Do not use.",
+      "source_evidence": [
+        "Direct public browser listing and front-3Q preview inspected; uploader and model info visible.",
+        "https://3dwarehouse.sketchup.com/tou#license",
+        "Terms of Use https://3dwarehouse.sketchup.com/tou viewed; no agreement accepted."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "published_metadata": {
+        "polygons": 135779,
+        "materials": 11,
+        "file_size": "9 MB",
+        "units": "inches",
+        "bounds": [
+          185,
+          81,
+          72
+        ],
+        "modified": "2022-06-24",
+        "note": "Publisher metadata, not imported mesh statistics or measured vehicle dimensions. Search index file size 0 conflicts with direct listing 9 MB; direct listing used."
+      },
+      "attribution": "Exact required wording unresolved. Preserve proprietary notices; identify title, uploader and source, without claiming uploader is verified geometry author.",
+      "rank": "BEST UNAPPROVED LEAD"
+    },
+    {
+      "id": "C02",
+      "title": "2022 Isuzu Mu-X triple turbo tuned",
+      "creator": "Ayo850850; credits base model to Raysh",
+      "source": "https://sketchfab.com/3d-models/2022-isuzu-mu-x-triple-turbo-tuned-40c8a181941f461696d8bb1e628bc995",
+      "price_category": "FREE_ADVERTISED",
+      "license_label": "CC BY 4.0 label",
+      "license_confidence": "L2",
+      "body_match": "M1",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Newer generation / tuned 2022 listing",
+      "formats_listed": [
+        "Exact downloadable source formats unverified"
+      ],
+      "download_availability": "Free download control visible; not activated",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "Newer MU-X greenhouse/body family is not the canonical older target. Base-author permission to relicense the derivative was not verified. No download.",
+      "source_evidence": [
+        "Direct listing/preview inspected; description credits Raysh and tuning by Ayo850850.",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "published_metadata": {
+        "triangles_rounded": 115700,
+        "vertices_rounded": 62600
+      },
+      "attribution": "If rights were cleared: title, Raysh (base credit), Ayo850850 (tuning), source URL, CC BY 4.0 URL and modification notice. This conditional credit does not establish permission."
+    },
+    {
+      "id": "C03",
+      "title": "2022 Isuzu MU-X Base Spec",
+      "creator": "Raysh",
+      "source": "https://sketchfab.com/3d-models/2022-isuzu-mu-x-base-spec-58956e0c15b246c391ba478fe8489a19",
+      "price_category": "PRICE_UNKNOWN_VIEWER_ONLY",
+      "license_label": "No public reuse license verified",
+      "license_confidence": "L1",
+      "body_match": "M1",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Newer MU-X generation; 2022 listing",
+      "formats_listed": [
+        "No authorized downloadable format verified"
+      ],
+      "download_availability": "Viewer only; creator directs acquisition to Discord",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "No public download or reuse terms verified; newer body-family mismatch. Did not join Discord or contact creator.",
+      "source_evidence": [
+        "Direct public browser listing and preview inspected. No Download control or license displayed; external acquisition invitation."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "published_metadata": {
+        "triangles_rounded": 107900,
+        "vertices_rounded": 57500
+      },
+      "attribution": "Unknown; no use permitted by this audit."
+    },
+    {
+      "id": "C04",
+      "title": "Isuzu",
+      "creator": "Qqs_Ch (uploader); ownership contested in page comments",
+      "source": "https://sketchfab.com/3d-models/isuzu-58234153e62847afb25640e9e2b7ab8c",
+      "price_category": "FREE_ADVERTISED",
+      "license_label": "CC BY 4.0 label; unresolved ownership claim",
+      "license_confidence": "L0",
+      "body_match": "M0",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Pickup / D-Max-style cab and open bed; NOT MU-X SUV",
+      "formats_listed": [
+        "Exact downloadable formats unverified"
+      ],
+      "download_availability": "Free download control visible; not activated",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "Wrong vehicle. A page commenter claims authorship/origin in Roblox; unresolved statement, not an independently proven infringement finding. Reject without downloading.",
+      "source_evidence": [
+        "Direct public browser listing, pickup preview and ownership-claim comment inspected.",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "published_metadata": {
+        "triangles_rounded": 46700,
+        "vertices_rounded": 24800
+      },
+      "attribution": "Not applicable; rejected vehicle/provenance."
+    },
+    {
+      "id": "C05",
+      "title": "Isuzu MU-X 2014",
+      "creator": "Arte 3D",
+      "source": "https://www.turbosquid.com/3d-models/isuzu-mu-x-2014-3d-3ds/892842",
+      "price_category": "PAID",
+      "license_label": "Editorial Uses Only / marketplace terms",
+      "license_confidence": "L0",
+      "body_match": "M2",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Older pre-facelift family; earlier trim",
+      "formats_listed": [
+        "3DS",
+        "C4D",
+        "MAX",
+        "MA",
+        "OBJ"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT; editorial restriction also does not clear this commercial site workflow.",
+      "source_evidence": [
+        "Primary listing $189 and Editorial Uses Only observed; Free3D cross-listing is the same candidate. Earlier BASE_ASSET_RESEARCH.md records preview inspection."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "cross_listings": [
+        "https://free3d.com/3d-model/isuzu-mu-x-2014-342.html"
+      ],
+      "price_observation": "US$189 listing; no checkout or current-price guarantee"
+    },
+    {
+      "id": "C06",
+      "title": "Isuzu MU-X 2017",
+      "creator": "3DModels.org / Hum3D-branded publisher",
+      "source": "https://3dmodels.org/3d-models/isuzu-mu-x-2017/",
+      "price_category": "PAID",
+      "license_label": "Vendor Standard/Extended terms; not a free license",
+      "license_confidence": "L0",
+      "body_match": "M3",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Older facelift family; 2017 listing",
+      "formats_listed": [
+        "BLEND",
+        "FBX",
+        "OBJ",
+        "GLB/glTF",
+        "other vendor formats"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT.",
+      "source_evidence": [
+        "Current indexed vendor listing confirms commercial package; direct English fetch failed. Family/formats supported by preserved 2026-11-07 vendor-preview audit; no current numeric price repeated."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C07",
+      "title": "Isuzu MU-X with HQ interior 2020",
+      "creator": "3DModels.org / Hum3D-branded publisher",
+      "source": "https://3dmodels.org/3d-models/isuzu-mu-x-with-hq-interior-2017/",
+      "price_category": "PAID",
+      "license_label": "Vendor commercial package; not free",
+      "license_confidence": "L0",
+      "body_match": "M3",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Older target-family exterior; title 2020, URL retains 2017",
+      "formats_listed": [
+        "BLEND",
+        "FBX",
+        "OBJ",
+        "GLB/glTF",
+        "other vendor formats"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT.",
+      "source_evidence": [
+        "Current indexed listing found; direct fetch unavailable. Preserved vendor-preview audit supplies provisional family/formats. Related package to C06, not independent exterior proof."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C08",
+      "title": "Isuzu MU-X 2016",
+      "creator": "3DModels.org / Hum3D-branded publisher",
+      "source": "https://3dmodels.org/3d-models/isuzu-mu-x-2013/",
+      "price_category": "PAID",
+      "license_label": "Vendor Standard/Extended package",
+      "license_confidence": "L0",
+      "body_match": "M2",
+      "body_match_basis": "PREVIEW / LISTING SCREEN ONLY; NOT TECHNICALLY VALIDATED",
+      "generation_year": "Older pre-facelift family; title 2016, URL 2013",
+      "formats_listed": [
+        "BLEND",
+        "FBX",
+        "OBJ",
+        "other vendor formats"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT.",
+      "source_evidence": [
+        "Direct vendor text shows paid $95 regular / sale text $92; earlier preview audit supports older-family screening. Sale not treated as free."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C09",
+      "title": "2021 Isuzu MuX",
+      "creator": "Creator not verified in this bounded listing read",
+      "source": "https://www.cgtrader.com/3d-print-models/hobby-diy/automotive/2021-isuzu-mux",
+      "price_category": "PAID",
+      "license_label": "Royalty Free License (listing)",
+      "license_confidence": "L0",
+      "body_match": null,
+      "body_match_basis": "NOT ASSESSED",
+      "generation_year": "Listing year 2021; family not inferred from year alone",
+      "formats_listed": [
+        "3D-print package; exact formats not verified"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT. No geometry evaluation.",
+      "source_evidence": [
+        "Primary listing shows US$22, 1/14 RC model, 240 mm wheelbase, no interior."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C10",
+      "title": "Isuzu Mu-X 2018.",
+      "creator": "carshowroom",
+      "source": "https://cults3d.com/en/3d-model/home/isuzu-mu-x-2018",
+      "price_category": "PAID",
+      "license_label": "CULTS PU / private-use label",
+      "license_confidence": "L0",
+      "body_match": null,
+      "body_match_basis": "NOT ASSESSED",
+      "generation_year": "2018 title; exact family not technically assessed",
+      "formats_listed": [
+        "ZIP",
+        "STL"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT; private-use labeling also does not clear commercial digital delivery.",
+      "source_evidence": [
+        "Primary listing shows AU$4.46 in fetched locale and CULTS PU; STL body/no-wheel/wheel package. No checkout."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C11",
+      "title": "Isuzu MU-X 2018",
+      "creator": "luckyzuck",
+      "source": "https://cults3d.com/en/3d-model/home/isuzu-mu-x-2018-luckyzuck",
+      "price_category": "PAID",
+      "license_label": "Specific full license not independently verified",
+      "license_confidence": "L0",
+      "body_match": null,
+      "body_match_basis": "NOT ASSESSED",
+      "generation_year": "2018 title; exact body not technically assessed",
+      "formats_listed": [
+        "OBJ"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT.",
+      "source_evidence": [
+        "Indexed primary listing shows US$4.65+ and OBJ; direct fetch failed."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C12",
+      "title": "Isuzu MU-X 2013",
+      "creator": "Motor_head (current indexed primary listing)",
+      "source": "https://cults3d.com/es/modelo-3d/juegos/isuzu-mu-x-2013",
+      "price_category": "PAID",
+      "license_label": "Private use; commercial/public digital sharing and AI use/modification disallowed in displayed description",
+      "license_confidence": "L0",
+      "body_match": null,
+      "body_match_basis": "NOT ASSESSED",
+      "generation_year": "2013 title; exact body not evaluated",
+      "formats_listed": [
+        "STL",
+        "ZIP",
+        "MAX",
+        "OBJ",
+        "MTL"
+      ],
+      "download_availability": "Purchase required",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "PAID — REJECTED BY ZERO-COST REQUIREMENT; explicit private-use/digital-sharing restrictions. No processing or model download.",
+      "source_evidence": [
+        "Current indexed primary listing shows US$17.54, Motor_head and restrictive description. Earlier aggregate naming 3DCARSALON is not assumed the same author/asset."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null
+    },
+    {
+      "id": "C13",
+      "title": "Isuzu Mu-X (2020), code 140046",
+      "creator": "Frazier Rodriguez (uploader); source author unverified",
+      "source": "https://www.3dcadbrowser.com/3d-model/isuzu-mu-x-2020",
+      "price_category": "CONDITIONAL_FREE_OR_PAID",
+      "license_label": "Site royalty-free claim; source redistribution restriction in indexed page; full terms unavailable",
+      "license_confidence": "L2",
+      "body_match": null,
+      "body_match_basis": "NOT ASSESSED",
+      "generation_year": "2020 title; body family unvalidated",
+      "formats_listed": [
+        "MAX",
+        "FBX",
+        "OBJ",
+        "BLEND",
+        "C4D",
+        "DXF"
+      ],
+      "download_availability": "Requires Free with uploads or Paid account; no unconditional zero-cost access established",
+      "downloaded": false,
+      "asset_classification": "BASE-X",
+      "decision_reason": "Upload-credit acquisition, source provenance and intended public converted-file delivery unresolved. No uploads, account creation or download.",
+      "source_evidence": [
+        "Primary listing confirms access gate; Terms Of Use link returned 404. Indexed page mentions no source redistribution."
+      ],
+      "checked_date": "2026-11-09",
+      "download_date": null,
+      "original_filename": null,
+      "original_sha256": null,
+      "measured_geometry": null,
+      "normalized_dimensions": null,
+      "published_metadata": {
+        "polygons": 1006799,
+        "vertices": 535539,
+        "objects": 23,
+        "materials": 10,
+        "textures": 0,
+        "uv_mapped": false
+      },
+      "attribution": "Unknown; must resolve author and applicable terms before use."
+    }
+  ],
+  "supplemental_screened_leads": [
+    {
+      "lead": "2019 Isuzu Mu-x Twin Turbo Thaispec",
+      "source": "https://tanakritkhajornkovit.com/en/cars/audi",
+      "finding": "Search index credits Ayo850850 / CC BY 4.0 / modified by PREEDA NEXT. Direct browser navigation redirects to homepage with no catalog/model link. No primary asset URL, package, permission chain or body validated. Not counted as a qualified free candidate."
+    },
+    {
+      "lead": "MU-X 2013 STL, purported free Creality listing",
+      "source": "https://www.yeggi.com/q/isuzu%2Bmu%2Bx/",
+      "finding": "Aggregate-only lead, no independently verified creator-specific free model/license page. Public direct aggregate retrieval presents bot check; not bypassed. Not downloaded or presumed identical to paid Cults listing."
+    },
+    {
+      "lead": "Printables / Thingiverse MU-X search results",
+      "source": "https://www.printables.com/model/1823628-isuzu-cup-holder-spacer-for-d-max-or-mux-models",
+      "finding": "Verified result is a cup-holder spacer, not a complete MU-X shell. Other indexed hits are accessories or paid models. Parts are not relabeled as a vehicle."
+    },
+    {
+      "lead": "Meshy Isuzu tag",
+      "source": "https://www.meshy.ai/tags/isuzu",
+      "finding": "AI/generic generation catalog is not evidence of correct MU-X geometry/provenance; no generated replacement used."
+    },
+    {
+      "lead": "Model-copy / miscellaneous mirrors",
+      "source": "https://model-copy.info/product_info.php?products_id=63576",
+      "finding": "No verified rights chain to original geometry. Rejected as acquisition route; no archive downloaded. No definitive infringement claim made."
+    },
+    {
+      "lead": "TurboSquid free mu-x search landing page",
+      "source": "https://www.turbosquid.com/Search/3D-Models/free/collection/mu-x/obj",
+      "finding": "Returned Xbox/X-ray/other unrelated results despite generated heading mentioning mu-x. Not counted as ten vehicle candidates."
+    }
+  ],
+  "sources": [
+    {
+      "source": "Sketchfab",
+      "status": "Primary pages, previews and credits inspected; no model download"
+    },
+    {
+      "source": "3D Warehouse",
+      "status": "Primary listing/preview and Terms/General Model License inspected in ordinary browser; search fetch 403 fallback succeeded"
+    },
+    {
+      "source": "Free3D / TurboSquid",
+      "status": "Primary/index listing screening; cross-listed Arte model deduplicated"
+    },
+    {
+      "source": "3DModels.org",
+      "status": "Current indexed listings and 2016 primary page; failed direct reads documented; historical preview evidence labeled"
+    },
+    {
+      "source": "CGTrader",
+      "status": "Primary paid RC listing read"
+    },
+    {
+      "source": "Cults",
+      "status": "Primary and indexed paid/private-use listings screened; one failed direct read"
+    },
+    {
+      "source": "3DCADBrowser",
+      "status": "Primary listing read; terms link 404"
+    },
+    {
+      "source": "Creality / Yeggi / Printables / Thingiverse",
+      "status": "Source-directed discovery; accessory/aggregate-only/unresolved free leads not promoted"
+    },
+    {
+      "source": "BlendSwap / BlendKit / Poly Haven / OpenGameArt / GitHub",
+      "status": "Domain-directed search only; no qualifying MU-X asset surfaced. OpenGameArt robots limitation; not a claim each catalog is empty."
+    },
+    {
+      "source": "Creative Commons",
+      "status": "Primary CC BY 4.0 deed read"
+    },
+    {
+      "source": "Tanakrit vehicle catalog",
+      "status": "Index-only 2019 lead; direct page redirects without model listing"
+    }
+  ],
+  "search_query_families": [
+    "Isuzu MU-X 3d model free download license",
+    "Isuzu MU-X 2017 free 3d model Sketchfab",
+    "Isuzu MU-X free model obj fbx sketchup",
+    "site:sketchfab.com \"mu-x\" \"License\"",
+    "site:3dwarehouse.sketchup.com \"MU-X\"",
+    "Isuzu MU-X CC0 / CC-BY / Creative Commons free download",
+    "Isuzu MU-X 2018 free 3D model",
+    "Isuzu MU-X Printables",
+    "Isuzu MU-X github model",
+    "2019 Isuzu Mu-x Twin Turbo Thaispec",
+    "MU-X BlendSwap / BlendKit / OpenGameArt / Poly Haven",
+    "MU-X Printables / Thingiverse / Creality model-detail",
+    "2018 Isuzu MU-X Ghøst model-ID author/license",
+    "Official SketchUp 3D Warehouse model use / web / game licensing"
+  ],
+  "download_gate": "Only L3 may proceed. None reached L3. All technical fields remain null; no Blender import, normalization, comparison renders, repair or export.",
+  "legal_interpretation_note": "This is a conservative asset-clearance gate, not a judicial determination. A public ownership claim is not independently proven infringement; a license label alone does not settle the rights chain."
+}

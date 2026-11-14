@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "preexisting_files_unchanged": 1389,
+  "new_files_saved": 37,
+  "V02_preserved": true,
+  "stance_preserved": true,
+  "website_src_public_config_unchanged": true,
+  "protected_project_src_config_unchanged": true,
+  "coverage": "All prior MU-X research; website src/public/config; protected projects src/config. Not every dependency or protected binary asset.",
+  "G1": "FAIL",
+  "G2_to_G6": "NOT REACHED",
+  "manual_reconstruction_limit_reached": true,
+  "GLB": false,
+  "integration": false,
+  "deployment": false
+}

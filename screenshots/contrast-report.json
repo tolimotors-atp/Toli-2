@@ -1,0 +1,119 @@
+[
+  {
+    "theme": "dark",
+    "route": "/",
+    "checked": 219,
+    "failures": []
+  },
+  {
+    "theme": "dark",
+    "route": "/enquire-now/",
+    "checked": 19,
+    "failures": []
+  },
+  {
+    "theme": "dark",
+    "route": "/privacy-policy/",
+    "checked": 69,
+    "failures": []
+  },
+  {
+    "theme": "light",
+    "route": "/",
+    "checked": 219,
+    "failures": [
+      {
+        "chain": [
+          "a",
+          "div.hero-contact-actions",
+          "div.hero-copy",
+          "div.cinematic-hero-inner.entry-composition"
+        ],
+        "ident": "a",
+        "text": "WhatsApp",
+        "color": "rgb(45, 47, 53)",
+        "size": 12,
+        "need": 4.5,
+        "ratio": 3.03,
+        "bg": [
+          120,
+          120,
+          119
+        ],
+        "atY": 700
+      },
+      {
+        "chain": [
+          "p.hero-description",
+          "div.hero-copy",
+          "div.cinematic-hero-inner.entry-composition",
+          "section.journey-section.cinematic-hero"
+        ],
+        "ident": "p.hero-description",
+        "text": "Professional servicing, genuine parts and skilled technician",
+        "color": "rgb(80, 84, 91)",
+        "size": 13,
+        "need": 4.5,
+        "ratio": 3.2,
+        "bg": [
+          169,
+          168,
+          166
+        ],
+        "atY": 700
+      },
+      {
+        "chain": [
+          "button.hero-enquiry",
+          "div.hero-contact-actions",
+          "div.hero-copy",
+          "div.cinematic-hero-inner.entry-composition"
+        ],
+        "ident": "button.hero-enquiry",
+        "text": "Service Enquiry",
+        "color": "rgb(45, 47, 53)",
+        "size": 12,
+        "need": 4.5,
+        "ratio": 3.67,
+        "bg": [
+          134,
+          134,
+          133
+        ],
+        "atY": 700
+      },
+      {
+        "chain": [
+          "a",
+          "div.hero-contact-actions",
+          "div.hero-copy",
+          "div.cinematic-hero-inner.entry-composition"
+        ],
+        "ident": "a",
+        "text": "Call Us",
+        "color": "rgb(45, 47, 53)",
+        "size": 12,
+        "need": 4.5,
+        "ratio": 3.71,
+        "bg": [
+          134,
+          135,
+          133
+        ],
+        "atY": 700
+      }
+    ]
+  },
+  {
+    "theme": "light",
+    "route": "/enquire-now/",
+    "checked": 19,
+    "failures": []
+  },
+  {
+    "theme": "light",
+    "route": "/privacy-policy/",
+    "checked": 69,
+    "failures": []
+  }
+]

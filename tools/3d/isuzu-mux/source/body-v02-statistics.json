@@ -1,0 +1,38 @@
+{
+  "stage": "body cage, not approved",
+  "vertices": 5726,
+  "triangles": 9908,
+  "materials": 6,
+  "texture_images": 6,
+  "texture_dimensions": {
+    "Render Result": [
+      0,
+      0
+    ],
+    "Screenshot From 2026-11-06 18-09-21.png": [
+      819,
+      595
+    ],
+    "Screenshot From 2026-11-06 18-09-40.png": [
+      1060,
+      522
+    ],
+    "Screenshot From 2026-11-06 18-09-48.png": [
+      1060,
+      522
+    ],
+    "Screenshot From 2026-11-06 18-10-06.png": [
+      1148,
+      492
+    ],
+    "Viewer Node": [
+      256,
+      256
+    ]
+  },
+  "textures_note": "Packed reference images only; no production textures",
+  "meshes": 28,
+  "production_textures": 0,
+  "reference_images": 4,
+  "texture_images_note": "Six Blender image datablocks include Render Result and Viewer Node; only four are packed photographic references."
+}

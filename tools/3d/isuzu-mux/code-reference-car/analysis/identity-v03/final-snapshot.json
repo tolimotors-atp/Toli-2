@@ -1,0 +1,13 @@
+{
+  "files": {
+    "MuxWheels.ts": "1706a816879dc451165cd1549fe499d3ba526f2b4b5df6d559aa091daaf93326",
+    "MuxReferenceData.ts": "02ff294f4346f819fc5e987e5f96bb6513e525ac566c9e703238e669e1eb84b2",
+    "MuxValidation.ts": "293b4ec5631bdd371d39b353e879cbb1799c16491252ae92d2b14727a9014a4f",
+    "mux-coded-reference.test.ts": "6dcb02707f5633ff9d39eed902175d0b0b6cdc716f587c15d8fd24044d315f4b",
+    "MuxVehicle.ts": "c4f5a378186410dfd3a986460ca2431070abb20ebb5ab0e8b96a94ef40af12eb",
+    "MuxGeometry.ts": "f84d6eb9eec851f0f847eb0bd065b590741a58773d247618fd433b5bdf3361fd",
+    "validation.ts": "6a1c80fac7d3667245ef6e2b2ef2a2307131406490404249d2a11804473f9afe"
+  },
+  "cameraUnchanged": true,
+  "v02FrozenMatchesBaseline": true
+}

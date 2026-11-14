@@ -1,0 +1,62 @@
+[
+  {
+    "region": "Windscreen",
+    "primary": "O06",
+    "secondary": "O11",
+    "validation": "O10"
+  },
+  {
+    "region": "A-pillar",
+    "primary": "O07",
+    "secondary": "O06",
+    "validation": "O09"
+  },
+  {
+    "region": "Roof",
+    "primary": "O07",
+    "secondary": "O11",
+    "validation": "O12"
+  },
+  {
+    "region": "Front side glass",
+    "primary": "O07",
+    "secondary": "O09",
+    "validation": "O11"
+  },
+  {
+    "region": "B-pillar",
+    "primary": "O07",
+    "secondary": "O09",
+    "validation": "O11"
+  },
+  {
+    "region": "Rear side glass",
+    "primary": "O07",
+    "secondary": "O09",
+    "validation": "O12"
+  },
+  {
+    "region": "C-pillar",
+    "primary": "O07",
+    "secondary": "O12",
+    "validation": "O09"
+  },
+  {
+    "region": "Quarter glass",
+    "primary": "O07",
+    "secondary": "O12",
+    "validation": "S21"
+  },
+  {
+    "region": "D-pillar",
+    "primary": "O12",
+    "secondary": "O08",
+    "validation": "O13"
+  },
+  {
+    "region": "Rear glass",
+    "primary": "O08",
+    "secondary": "O12",
+    "validation": "S19"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "toli-static-website": {
+    "changed": [
+      "src/main.tsx"
+    ],
+    "added": [
+      "src/workshop-surfaces.css"
+    ],
+    "removed": []
+  },
+  "toli-3d-website": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  },
+  "tolimotors-main": {
+    "changed": [],
+    "added": [],
+    "removed": []
+  }
+}

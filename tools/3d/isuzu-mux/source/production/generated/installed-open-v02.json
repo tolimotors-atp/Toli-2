@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/milestones/isuzu-mux-generated-v01.blend",
+      "opened": true,
+      "sha256": "f08a9eff7ab377abe47bfb9f97fd6e14dda3f9e3ee4bbd8e32c06252847d47e2"
+    },
+    {
+      "path": "/home/thunder/shared/tolimotors-main1/toli-static-website/tools/3d/isuzu-mux/source/production/isuzu-mux-generated-master.blend",
+      "opened": true,
+      "sha256": "16e9e8be48885bb09fbe74bbcd9fe51233cf7d8d3ff4c64fb1bb13a55965ebe0"
+    }
+  ],
+  "closed_master": true,
+  "fixed_camera_count": 5,
+  "six_animation_actions_present": true
+}

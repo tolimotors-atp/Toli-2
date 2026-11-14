@@ -1,0 +1,85 @@
+{
+  "sources": [
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-27.png",
+      "crop": [
+        485,
+        205,
+        584,
+        265
+      ],
+      "purpose": "mirror / front quarter"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-14.png",
+      "crop": [
+        385,
+        215,
+        464,
+        274
+      ],
+      "purpose": "mirror / side"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-31.png",
+      "crop": [
+        310,
+        205,
+        376,
+        250
+      ],
+      "purpose": "mirror / rear quarter"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-14.png",
+      "crop": [
+        320,
+        145,
+        760,
+        410
+      ],
+      "purpose": "doors / handles / sill"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-10.png",
+      "crop": [
+        395,
+        281,
+        708,
+        360
+      ],
+      "purpose": "headlight / grille"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-31.png",
+      "crop": [
+        563,
+        246,
+        677,
+        310
+      ],
+      "purpose": "rear lamp / body wrap"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-10.png",
+      "crop": [
+        468,
+        393,
+        621,
+        431
+      ],
+      "purpose": "front plate mount"
+    },
+    {
+      "file": "/home/thunder/shared/tolimotors-main1/Isuzu MU-X/Screenshot From 2026-11-06 18-17-18.png",
+      "crop": [
+        460,
+        284,
+        589,
+        327
+      ],
+      "purpose": "rear plate mount"
+    }
+  ],
+  "method": "Source pixel comparisons and approximate feature ratios; no CAD accuracy. Mirrors approximately .22m lateral span / .15m height relative to .764m tyres; handles approximately .17m long. Plates use TOLI MOTORS only, never copied registration."
+}

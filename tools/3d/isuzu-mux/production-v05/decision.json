@@ -1,0 +1,12 @@
+{
+  "decision": "C \u2014 V05 REGRESSED",
+  "activated": false,
+  "activeVersion": "V04 exterior details",
+  "stoppedGeometryWork": true,
+  "reason": [
+    "Rear bumper valance intersects the body surface, producing visible cutout artifacts.",
+    "Rear lamp side/face wrap is discontinuous.",
+    "Primary greenhouse/fender/rear-quarter identity errors remain."
+  ],
+  "responsiveAfterActivation": "NOT RUN \u2014 activation rejected"
+}

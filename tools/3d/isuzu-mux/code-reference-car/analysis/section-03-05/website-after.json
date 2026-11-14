@@ -1,0 +1,18 @@
+{
+  "checked": 368,
+  "changed": [
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/test/mux-coded-reference.test.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxReferenceData.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxVehicle.ts",
+    "/home/thunder/shared/tolimotors-main1/toli-static-website/src/components/three/mux/MuxGeometry.ts"
+  ],
+  "missing": [],
+  "snapshotMatchesOriginals": {
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/MuxWheels.ts": true,
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/MuxReferenceData.ts": true,
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/MuxValidation.ts": true,
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/MuxVehicle.ts": true,
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/MuxGeometry.ts": true,
+    "tools/3d/isuzu-mux/code-reference-car/source-snapshots/v01/validation.ts": true
+  }
+}

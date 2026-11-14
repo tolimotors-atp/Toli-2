@@ -1,0 +1,346 @@
+{
+  "experiment": "Four constrained per-camera focal offsets; +/-12% bounds, sigma 5% prior, locked principal centers; no point deletion",
+  "baseline_training": {
+    "n": 60,
+    "rms": 2.2911700971155144,
+    "median": 1.5594487444178964,
+    "max": 6.778485732825121
+  },
+  "baseline_heldout": {
+    "n": 8,
+    "rms": 9.39274032957527,
+    "median": 5.381261140851878,
+    "max": 18.635551355894602
+  },
+  "flex_training": {
+    "n": 60,
+    "rms": 2.286263162459502,
+    "median": 1.5579607631176264,
+    "max": 6.686084626841351
+  },
+  "flex_heldout": {
+    "n": 8,
+    "rms": 9.38673807713579,
+    "median": 5.3923002135051314,
+    "max": 18.62999769515991
+  },
+  "common_focal_mm": 78.59242684953962,
+  "camera_focal_mm": {
+    "7": 78.51324941701701,
+    "9": 78.62356477121628,
+    "10": 78.21696239623509,
+    "11": 79.31485736989549
+  },
+  "accepted": false,
+  "decision": "Rejected: held-out target not met; do not add degrees of freedom just to lower training loss",
+  "image9_pose_multistart": {
+    "protocol": "Select by anchor loss plus declared priors only; independent test pixels NEVER select the pose",
+    "anchors": [
+      "contact_F_R",
+      "contact_R_R",
+      "h_out_R",
+      "wc_F_R",
+      "wc_R_R"
+    ],
+    "geometry_fit_images": [
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13
+    ],
+    "candidates": [
+      {
+        "init_yaw_offset": -0.12,
+        "init_height_offset": -0.12,
+        "anchor_objective_with_priors": 0.7919362302338671,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096950178720217,
+          "median": 0.9400504406611959,
+          "max": 1.7777983593781412
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.342031158096454,
+          "median": 8.567619088497327,
+          "max": 68.59474090629604
+        },
+        "camera_parameters": [
+          -1.590063096032575,
+          0.04736330369904016,
+          -0.0019364771307858793,
+          -0.09928225516666225,
+          -4.54049526874238,
+          0.5318841155020207
+        ]
+      },
+      {
+        "init_yaw_offset": -0.12,
+        "init_height_offset": 0,
+        "anchor_objective_with_priors": 0.7919362302424817,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096945675703738,
+          "median": 0.9400552282935193,
+          "max": 1.7777953429461535
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.34204070944405,
+          "median": 8.567603059930583,
+          "max": 68.59476404691078
+        },
+        "camera_parameters": [
+          -1.5900636012188611,
+          0.04736353639445318,
+          -0.0019364278422839313,
+          -0.09928444233141119,
+          -4.5404950545613305,
+          0.5318850966514375
+        ]
+      },
+      {
+        "init_yaw_offset": -0.12,
+        "init_height_offset": 0.12,
+        "anchor_objective_with_priors": 0.7919362302328661,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096950694727945,
+          "median": 0.9400498202036407,
+          "max": 1.7777986747076042
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.3420298068911,
+          "median": 8.567621101546719,
+          "max": 68.59473767494178
+        },
+        "camera_parameters": [
+          -1.5900630340160264,
+          0.04736326077470603,
+          -0.0019364833517524142,
+          -0.09928198682837051,
+          -4.540495300387725,
+          0.5318839338193008
+        ]
+      },
+      {
+        "init_yaw_offset": 0,
+        "init_height_offset": -0.12,
+        "anchor_objective_with_priors": 0.7919362302356887,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096949194542012,
+          "median": 0.9400515735089819,
+          "max": 1.7777977311804556
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.34203353517398,
+          "median": 8.567615352277205,
+          "max": 68.59474662232392
+        },
+        "camera_parameters": [
+          -1.5900632121758536,
+          0.04736337191181908,
+          -0.0019364656058662535,
+          -0.09928275784135718,
+          -4.540495214045865,
+          0.531884403823937
+        ]
+      },
+      {
+        "init_yaw_offset": 0,
+        "init_height_offset": 0,
+        "anchor_objective_with_priors": 0.7919362302313381,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.109694969928445,
+          "median": 0.9400504708708098,
+          "max": 1.7777978766068758
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.342030608749507,
+          "median": 8.567618690156907,
+          "max": 68.59473980187938
+        },
+        "camera_parameters": [
+          -1.5900631172531317,
+          0.04736323604695821,
+          -0.0019364760981749342,
+          -0.09928234786700882,
+          -4.540495288415951,
+          0.5318838265472033
+        ]
+      },
+      {
+        "init_yaw_offset": 0,
+        "init_height_offset": 0.12,
+        "anchor_objective_with_priors": 0.7919362302526803,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096944065387917,
+          "median": 0.9400574843173587,
+          "max": 1.7777944595672488
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.34204594452357,
+          "median": 8.567595855396243,
+          "max": 68.59477646034092
+        },
+        "camera_parameters": [
+          -1.5900638181961024,
+          0.04736372847366468,
+          -0.0019364054525237507,
+          -0.0992853807283466,
+          -4.540494928435598,
+          0.5318859109652947
+        ]
+      },
+      {
+        "init_yaw_offset": 0.12,
+        "init_height_offset": -0.12,
+        "anchor_objective_with_priors": 0.7919362302311991,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.109695111632855,
+          "median": 0.9400490832496369,
+          "max": 1.7777988858114202
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.342028067513017,
+          "median": 8.567623451000511,
+          "max": 68.59473356446134
+        },
+        "camera_parameters": [
+          -1.590062964462087,
+          0.04736319332960336,
+          -0.0019364906893386234,
+          -0.0992816860549011,
+          -4.540495342846517,
+          0.5318836477756318
+        ]
+      },
+      {
+        "init_yaw_offset": 0.12,
+        "init_height_offset": 0,
+        "anchor_objective_with_priors": 0.7919362302322225,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.10969512454254,
+          "median": 0.9400491862670162,
+          "max": 1.7777990261674226
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.342028476523552,
+          "median": 8.567623192067888,
+          "max": 68.59473447595347
+        },
+        "camera_parameters": [
+          -1.5900629690316062,
+          0.04736322258143093,
+          -0.001936489800287892,
+          -0.09928170557241679,
+          -4.540495331001576,
+          0.5318837723828108
+        ]
+      },
+      {
+        "init_yaw_offset": 0.12,
+        "init_height_offset": 0.12,
+        "anchor_objective_with_priors": 0.7919362302287387,
+        "anchor_result": {
+          "n": 5,
+          "rms": 1.1096952394761346,
+          "median": 0.9400473270618325,
+          "max": 1.7777995817748542
+        },
+        "independent_test": {
+          "n": 5,
+          "rms": 31.342023960294245,
+          "median": 8.567629035768881,
+          "max": 68.59472383295149
+        },
+        "camera_parameters": [
+          -1.5900627963426623,
+          0.04736304096276249,
+          -0.0019365080329669475,
+          -0.09928095901624301,
+          -4.540495441984786,
+          0.5318830017152881
+        ]
+      }
+    ],
+    "selected": {
+      "init_yaw_offset": 0.12,
+      "init_height_offset": 0.12,
+      "anchor_objective_with_priors": 0.7919362302287387,
+      "anchor_result": {
+        "n": 5,
+        "rms": 1.1096952394761346,
+        "median": 0.9400473270618325,
+        "max": 1.7777995817748542
+      },
+      "independent_test": {
+        "n": 5,
+        "rms": 31.342023960294245,
+        "median": 8.567629035768881,
+        "max": 68.59472383295149
+      },
+      "camera_parameters": [
+        -1.5900627963426623,
+        0.04736304096276249,
+        -0.0019365080329669475,
+        -0.09928095901624301,
+        -4.540495441984786,
+        0.5318830017152881
+      ]
+    }
+  },
+  "distortion_screen": {
+    "per_camera": {
+      "6": {
+        "radial_error_vs_radius_squared_correlation": 0.2925806695996386,
+        "observations": 10
+      },
+      "7": {
+        "radial_error_vs_radius_squared_correlation": -0.005854034447420026,
+        "observations": 10
+      },
+      "9": {
+        "radial_error_vs_radius_squared_correlation": -0.8099284418083456,
+        "observations": 10
+      },
+      "8": {
+        "radial_error_vs_radius_squared_correlation": 0.5466443361845149,
+        "observations": 6
+      },
+      "10": {
+        "radial_error_vs_radius_squared_correlation": 0.17155235859828538,
+        "observations": 10
+      },
+      "11": {
+        "radial_error_vs_radius_squared_correlation": -0.43432559373483365,
+        "observations": 10
+      },
+      "12": {
+        "radial_error_vs_radius_squared_correlation": 0.6637098654263387,
+        "observations": 6
+      },
+      "13": {
+        "radial_error_vs_radius_squared_correlation": 0.32402710314153055,
+        "observations": 6
+      }
+    },
+    "exif_focal_available": false,
+    "radial_model_applied": false,
+    "reason": "Sparse annotated vehicle features do not provide independent straight-line distortion controls. Cropped screenshots and uncertain corners confound radial residual correlation. Opposing camera signs are not proof of a common barrel/pincushion model. No extra distortion fitted to force acceptance."
+  }
+}
