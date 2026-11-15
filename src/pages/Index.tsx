@@ -1,5 +1,6 @@
 import AdPlacement from '@/components/ads/AdPlacement';
 import AIChatWidget from '@/components/AIChatWidget';
+import WhatsAppButton from '@/components/WhatsAppButton';
 import SkipToMainContent from '@/components/SkipToMainContent';
 import { takeRequestReturn } from '@/lib/service-request';
 import { JourneyProvider } from "@/components/journey/JourneyProvider";
@@ -44,6 +45,7 @@ const Index = () => {
         <ScrollProgress />
         <Hero />
         <AIChatWidget/>
+        <WhatsAppButton/>
         <Suspense fallback={<LoadingFallback />}>
           <SectionStack>
             <Services />

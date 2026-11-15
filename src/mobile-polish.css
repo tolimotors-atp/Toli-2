@@ -1,0 +1,62 @@
+/* Loaded last. Floating tools, equal hero pills, offer strip glass and request dialog surface. */
+
+/* 1. TOLI AI and WhatsApp float bottom-left on every screen, side by side. */
+html body a[aria-label="Chat on WhatsApp"] {left:12px!important;right:auto!important;bottom:max(12px,env(safe-area-inset-bottom))!important;z-index:40!important;}
+html body .journey-root .phase9-experience>.toli-ai:not([hidden]) {display:contents;}
+html[data-theme] body .journey-root .phase9-experience>.toli-ai .toli-ai-launcher {position:fixed;left:68px;right:auto;bottom:max(12px,env(safe-area-inset-bottom));min-height:48px;z-index:40;}
+html body .toli-ai-panel {right:auto;left:20px;}
+html body .toli-ai-loading {right:auto;left:20px;}
+@media(min-width:768px){
+ html body a[aria-label="Chat on WhatsApp"] {left:20px!important;bottom:max(20px,env(safe-area-inset-bottom))!important;}
+ html[data-theme] body .journey-root .phase9-experience>.toli-ai .toli-ai-launcher {left:86px;bottom:max(24px,calc(env(safe-area-inset-bottom) + 4px));}
+}
+@media(max-width:767px){html body .toli-ai-panel {left:8px;}}
+
+/* 3. Location and contact pills share one size. */
+.reference-hero .hero-corner-info>.hero-brand.hero-location {display:flex;align-items:stretch;align-self:start!important;height:var(--hero-pill-h,72px);}
+html[data-theme] body .journey-root .reference-hero .hero-corner-info .hero-info-pill:is(.hero-location-text,.hero-brand-phones) {box-sizing:border-box;width:100%;height:var(--hero-pill-h,72px);min-height:0!important;margin:0!important;display:flex!important;align-items:center;justify-content:center;padding:0 14px!important;}
+html[data-theme] body .journey-root .reference-hero .hero-corner-info .hero-info-pill.hero-location-text {flex-direction:column;text-align:center;flex:1;}
+html[data-theme] body .journey-root .reference-hero .hero-corner-info .hero-info-pill.hero-brand-phones {display:grid!important;grid-template-columns:auto auto;justify-content:center;column-gap:10px!important;}
+html[data-theme] body .journey-root .reference-hero .hero-corner-info .hero-info-pill.hero-brand-phones>a {justify-content:center!important;min-height:0!important;}
+@media(min-width:601px){
+ .journey-root .phase9-experience .reference-hero .hero-corner-info>.hero-brand.hero-location {width:clamp(210px,15vw,250px);}
+ html[data-theme] body .journey-root .reference-hero .hero-corner-info>.hero-info-pill.hero-brand-phones {width:clamp(210px,15vw,250px)!important;}
+ .journey-root .phase9-experience .reference-hero .hero-corner-info {align-items:stretch;padding-left:8px;box-sizing:border-box;}
+}
+@media(max-width:900px){
+ .journey-root .phase9-experience .reference-hero .hero-corner-info {grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:10px;align-items:stretch;}
+ .journey-root .phase9-experience .reference-hero .hero-corner-info>.hero-brand.hero-location {grid-column:1;justify-self:stretch;}
+ html[data-theme] body .journey-root .reference-hero .hero-corner-info>.hero-info-pill.hero-brand-phones {grid-column:2;justify-self:stretch;width:100%;}
+}
+
+/* 4. Offer strip sits on a light glass: 20% opaque fill, backdrop blur. */
+.reference-hero .hero-corner-offers .journey-offers {background:rgba(10,11,14,.2);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.18);border-radius:999px;overflow:hidden;}
+html[data-theme=light] .reference-hero .hero-corner-offers .journey-offers {background:rgba(255,255,255,.2);border-color:rgba(0,0,0,.12);}
+
+/* 5. Service request surface is solid in the dark theme, the page behind no longer shows through. */
+html[data-theme=dark] body .request-direct {background:#1d1e22!important;}
+html[data-theme=dark] body .request-dialog-overlay {background:rgba(8,8,10,.4);-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);}
+
+/* 6. Phone tap targets: contact numbers and footer links reach 44px without changing the layout. */
+@media(max-width:767px){
+ html[data-theme] body .journey-root .reference-hero .hero-corner-info .hero-info-pill.hero-brand-phones>a {min-height:32px!important;padding-block:0;}
+ .journey-footer a,footer a {display:inline-flex;align-items:center;min-height:44px;}
+}
+
+/* TOLI AI launcher: frosted glass instead of a see-through button. */
+html[data-theme] body .toli-ai-launcher {background:rgba(28,29,34,.55)!important;-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border-color:rgba(255,255,255,.22)!important;}
+html[data-theme=light] body .toli-ai-launcher {background:rgba(255,255,255,.6)!important;border-color:rgba(0,0,0,.14)!important;color:#222329;}
+
+/* Selected services stay legible on the light theme. */
+html[data-theme=light] body .request-service-options button[aria-pressed=true] {color:#7d1220!important;font-weight:600;}
+html[data-theme=light] body .request-service-options button[aria-pressed=true] svg {color:#b61b2e!important;}
+
+/* Frosted glass: TOLI AI panel and service request dialog, both themes. */
+html[data-theme] body :is(.toli-ai-panel,.request-dialog) {background:rgba(24,25,30,.68)!important;-webkit-backdrop-filter:blur(30px) saturate(1.4);backdrop-filter:blur(30px) saturate(1.4);border-color:rgba(255,255,255,.2);box-shadow:0 24px 80px rgba(0,0,0,.45),inset 0 1px 0 rgba(255,255,255,.14);}
+html[data-theme=light] body :is(.toli-ai-panel,.request-dialog) {background:rgba(255,255,255,.66)!important;border-color:rgba(255,255,255,.75);box-shadow:0 24px 70px rgba(40,20,26,.28),inset 0 1px 0 #fff;}
+html[data-theme] body .toli-ai-panel {border-top-color:#e52238;}
+html[data-theme] body .request-dialog :is(.request-dialog-header,.request-actions) {background:transparent!important;}
+html[data-theme=dark] body .toli-ai-panel :is(.toli-ai-message,.toli-ai-quick button) {background:rgba(255,255,255,.09)!important;}
+html[data-theme=dark] body .toli-ai-panel .toli-ai-message.user {background:rgba(255,255,255,.16)!important;}
+html[data-theme=dark] body .toli-ai-panel input {background:rgba(8,8,10,.45)!important;}
+html[data-theme=light] body .toli-ai-panel :is(.toli-ai-message,.toli-ai-quick button,input) {background:rgba(255,255,255,.6)!important;}

@@ -16,6 +16,8 @@ import "./mobile-responsive.css";
 import "./workshop-surfaces.css";
 import "./components/journey/hero-corner-visibility.css";
 import "./premium-light.css";
+import "./mobile-polish.css";
+import "./menu-motion.css";
 import { initializeTheme } from "./lib/site-theme";
 const disposeTheme=initializeTheme();
 if(import.meta.hot)import.meta.hot.dispose(disposeTheme);
