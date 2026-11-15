@@ -11,7 +11,7 @@ const PrivacyPolicy = () => (
 
     <h2>1. Who we are</h2>
     <p>
-      Toli Motors is a multi-brand car workshop at 6-2-806, Ram Nagar, Kovur Nagar, Anantapur, Andhra Pradesh 515004. For privacy-related requests, contact us at{" "}
+      Toli Motors is a multi-brand car workshop at 6-2-806, Ram Nagar, Kovur Nagar, opposite DMart, Anantapur, Andhra Pradesh 515004. For privacy-related requests, contact us at{" "}
       <a href="mailto:tolimotorsatp@gmail.com">tolimotorsatp@gmail.com</a>.
     </p>
 

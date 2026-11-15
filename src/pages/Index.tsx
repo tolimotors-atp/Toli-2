@@ -7,6 +7,7 @@ import { JourneyProvider } from "@/components/journey/JourneyProvider";
 import { lazy, Suspense, useEffect, useState } from "react";
 
 import SectionStack from "@/components/journey/SectionStack";
+import SharedVehicle from "@/components/journey/SharedVehicle";
 import Gallery from "@/components/Gallery";
 import Testimonials from "@/components/Testimonials";
 import Hero from "@/components/Hero";
@@ -50,6 +51,7 @@ const Index = () => {
           <SectionStack>
             <Services />
             <HowItWorks />
+            <SharedVehicle />
             <TrustChapter />
           </SectionStack>
         </Suspense>

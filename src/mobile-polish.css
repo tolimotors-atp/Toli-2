@@ -60,3 +60,71 @@ html[data-theme=dark] body .toli-ai-panel :is(.toli-ai-message,.toli-ai-quick bu
 html[data-theme=dark] body .toli-ai-panel .toli-ai-message.user {background:rgba(255,255,255,.16)!important;}
 html[data-theme=dark] body .toli-ai-panel input {background:rgba(8,8,10,.45)!important;}
 html[data-theme=light] body .toli-ai-panel :is(.toli-ai-message,.toli-ai-quick button,input) {background:rgba(255,255,255,.6)!important;}
+
+/* Brand tiles now show logo + name; drop the old small caption under the name. */
+.journey-brands .brand-logo-item {padding-bottom:12px;}
+.journey-brands .brand-logo-item::after {content:none;}
+
+/* Light theme: frosted glass for the location and contact pills. */
+html[data-theme=light] body .journey-root .reference-hero .hero-corner-info .hero-info-pill:is(.hero-location-text,.hero-brand-phones) {background:rgba(255,255,255,.3)!important;-webkit-backdrop-filter:blur(16px) saturate(1.4);backdrop-filter:blur(16px) saturate(1.4);border:1px solid rgba(255,255,255,.65)!important;box-shadow:0 8px 26px rgba(40,20,26,.2),inset 0 1px 0 rgba(255,255,255,.85)!important;}
+
+/* Light theme: offer strip uses the same frosted glass as the location and contact pills. */
+html[data-theme=light] body .reference-hero .hero-corner-offers .journey-offers {background:rgba(255,255,255,.3)!important;-webkit-backdrop-filter:blur(16px) saturate(1.4);backdrop-filter:blur(16px) saturate(1.4);border:1px solid rgba(255,255,255,.65)!important;box-shadow:0 8px 26px rgba(40,20,26,.2),inset 0 1px 0 rgba(255,255,255,.85)!important;}
+
+/* Light theme: Services copy sits on frosted panels so the busy workshop photo cannot wash it out. */
+html[data-theme=light] body .journey-root #services :is(.chapter-heading,.matrix-selector,.selected-service-module) {background:rgba(255,255,255,.66);-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border:1px solid rgba(255,255,255,.75);border-radius:16px;padding:18px 24px;box-shadow:0 10px 30px rgba(40,20,26,.12);}
+html[data-theme=light] body .journey-root #services .chapter-heading {width:fit-content;max-width:100%;}
+html[data-theme=light] body .journey-root #services :is(.chapter-heading,.selected-service-module) :is(h2,h3,p,strong,small) {color:#1b1d21;}
+html[data-theme=light] body .journey-root #services .system-label {color:#7a1c28;font-weight:600;}
+html[data-theme=light] body .journey-root #services .service-node {color:#1b1d21;font-weight:500;}
+
+/* Choose a service: same clear frosted glass as the selected-service panel (no white tint). */
+html[data-theme=light] body .journey-root #services .matrix-selector {background:transparent;}
+
+/* Services: remove the vehicle caption, the overview sentence and the workshop link. */
+#services .vehicle-stage-bottom,#process .vehicle-stage-bottom,#services .component-explainer,#services .services-trust-link {display:none;}
+
+/* Service journey: heading moves into the right column so the shared car never covers it. */
+@media(min-width:1100px){html body .journey-root #process .chapter-heading {margin-left:calc((100% - 50px) * 1.15 / 2.15 + 50px);}}
+
+/* Arrows stay plain text glyphs instead of coloured emoji boxes. */
+.service-node span:last-child,.experience-menu>button span:last-child {font-family:"Segoe UI Symbol","Arial Unicode MS",sans-serif;font-variant-emoji:text;}
+
+/* Service journey (light): heading box like Services; step list and description use the clear frosted glass of Choose a service. */
+html[data-theme=light] body .journey-root #process .chapter-heading {width:fit-content;max-width:100%;background:rgba(255,255,255,.66);-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border:1px solid rgba(255,255,255,.75);border-radius:16px;padding:18px 24px;box-shadow:0 10px 30px rgba(40,20,26,.12);}
+html[data-theme=light] body .journey-root #process :is(.process-selector,.process-description) {background:transparent;-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border:1px solid rgba(255,255,255,.75);border-radius:16px;padding:18px 24px;box-shadow:0 10px 30px rgba(40,20,26,.12);}
+html[data-theme=light] body .journey-root #process :is(.chapter-heading,.process-description,.process-selector) :is(h2,h3,p,strong,small,button) {color:#1b1d21;}
+html[data-theme=light] body .journey-root #process .system-label {color:#7a1c28;font-weight:600;}
+
+/* No vehicle caption over the Services car. */
+#services .vehicle-stage-label,#process .vehicle-stage-label {display:none;}
+
+/* 02: panels slide in from the left while the section scrolls into view (driven by --journey-p). */
+@media(min-width:900px) and (prefers-reduced-motion:no-preference){html body .journey-root #services :is(.matrix-selector,.selected-service-module) {transform:translateX(calc(-160px * (1 - min(1, var(--journey-p, 1) / .25))));}}
+
+/* Red line at the top of 03: sweeps left to right with scroll, only in the space right of the car. */
+@media(min-width:1100px){html body .journey-root #process::after {left:calc(var(--car-right, 0px) + (100% - var(--car-right, 0px) - 180px) * min(1, var(--journey-p, 0) / .45));}}
+
+/* Hero: no 01 / TOLI MOTORS label. */
+.reference-hero .system-label.entry-index {display:none;}
+
+/* Hero: remove the bottom strip text (01 / EXPLORE... and SERVICES - REQUEST - CONTACT) and the illustrative caption. */
+.reference-hero .hero-journey-link {display:none;}
+html body .journey-root .reference-hero>.hero-workshop-atmosphere::after {content:none;}
+
+/* 05: no dock caption or vehicle note. */
+#booking .vehicle-stage-label,#booking .vehicle-stage-bottom {display:none;}
+
+/* 05 request box (light): clear frosted glass like Choose a service, with readable dark text. */
+html[data-theme=light] body .journey-root #booking .request-console {background:transparent;-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);border:1px solid rgba(255,255,255,.75);border-radius:16px;padding:18px 24px;box-shadow:0 10px 30px rgba(40,20,26,.12);}
+html[data-theme=light] body .journey-root #booking .request-console :is(dt,dd,p:not(.system-label),small) {color:#1b1d21;}
+html[data-theme=light] body .journey-root #booking .request-console :is(dt,dd) {font-weight:500;}
+html[data-theme=light] body .journey-root #booking .request-console .system-label {color:#7a1c28;font-weight:600;}
+
+/* Phones: Service Journey has no car of its own, Services already shows it. */
+@media(max-width:767px){#process .journey-dock {display:none;}}
+
+/* 02 heading: travels from the right edge to the far left edge as the section scrolls up (--hp 100 to 0). */
+#services {--svc-pad:70px;}
+@media(min-width:1101px){#services {--svc-pad:clamp(40px,8vw,150px);}}
+@media(min-width:900px) and (prefers-reduced-motion:no-preference){html body .journey-root #services .chapter-heading {--hp:calc(100 * (1 - min(1, var(--journey-p, 1) / .3)));width:fit-content;max-width:calc(100vw - 32px);margin-left:calc(16px - var(--svc-pad));left:calc(var(--hp) * (100vw - 32px) / 100);transform:translateX(calc(var(--hp) * -1%));}}

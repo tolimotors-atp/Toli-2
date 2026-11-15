@@ -24,12 +24,9 @@ it('reserves a gallery slot without rendering a broken img before its deferred s
  rerender(<GalleryImage alt="Workshop" width={600} height={400} src="two.webp"/>);
  expect(screen.getByAltText('Workshop')).toHaveAttribute('src','two.webp');
 });
-it('keeps contact usable with blocked storage and allows map consent to be revoked',()=>{
+it('renders contact without an embedded map even when storage is blocked',()=>{
  vi.spyOn(Storage.prototype,'getItem').mockImplementation(()=>{throw new Error('blocked');});
- vi.spyOn(Storage.prototype,'setItem').mockImplementation(()=>{throw new Error('blocked');});
- vi.spyOn(Storage.prototype,'removeItem').mockImplementation(()=>{throw new Error('blocked');});
  render(<MemoryRouter><Contact/></MemoryRouter>);
- expect(document.querySelector('iframe')).toBeNull();fireEvent.click(screen.getByRole('button',{name:'LOAD MAP'}));
- expect(screen.getByTitle('Toli Motors location on Google Maps')).toBeInTheDocument();
- fireEvent.click(screen.getByRole('button',{name:'REMOVE MAP CONSENT'}));expect(document.querySelector('iframe')).toBeNull();
+ expect(document.querySelector('iframe')).toBeNull();expect(screen.queryByRole('button',{name:'LOAD MAP'})).toBeNull();
+ expect(screen.getByRole('link',{name:/GET DIRECTIONS/})).toBeInTheDocument();
 });

@@ -2,10 +2,11 @@ import JourneyTrim from "@/components/journey/JourneyTrim";
 import { useSectionEntrance } from "@/hooks/use-section-entrance";
 import { useRef } from "react";
 import Reveal from "@/components/motion/Reveal";
+import { brandLogos } from "@/lib/brand-logos";
 const brands = [
   "Maruti Suzuki", "Hyundai", "Tata", "Toyota", "Mahindra", "Kia", "Honda",
-  "MG", "Renault", "Nissan", "Volkswagen", "Škoda", "Ford", "Jeep", "Citroën", "Isuzu",
-  "Volvo", "Audi", "BMW", "Mercedes-Benz", "Lexus"
+  "MG", "Renault", "Nissan", "Volkswagen", "Škoda", "Ford", "Jeep", "Isuzu",
+  "Volvo", "Audi", "BMW", "Mercedes-Benz"
 ];
 
 const BrandPartners = () => {
@@ -31,8 +32,11 @@ const BrandPartners = () => {
             <div
               key={brand}
               data-brand={brand}
-              className="brand-logo-item flex items-center justify-center min-h-16 w-full text-center text-sm font-medium px-2 sm:px-4 rounded-xl border border-border/60 bg-background/60 backdrop-blur-sm hover:border-primary/30 hover:bg-primary/5 hover:shadow-sm transition-all duration-300 cursor-default break-words"
+              className="brand-logo-item flex flex-col items-center justify-center gap-2 min-h-24 w-full text-center text-sm font-medium px-2 sm:px-4 py-3 rounded-xl border border-border/60 bg-background/60 backdrop-blur-sm hover:border-primary/30 hover:bg-primary/5 hover:shadow-sm transition-all duration-300 cursor-default break-words"
             >
+              <svg viewBox={brandLogos[brand]?.viewBox ?? "0 0 24 24"} className={`brand-logo-mark h-8 text-foreground/85 ${brandLogos[brand]?.viewBox ? "w-20" : "w-12"}`} fill="currentColor" aria-hidden="true" focusable="false">
+                {brandLogos[brand]?.path && <path d={brandLogos[brand].path} />}
+              </svg>
               {brand}
             </div>
           ))}

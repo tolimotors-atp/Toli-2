@@ -13,7 +13,7 @@ it.each([false,true])('keeps brand tiles visible without observers or animations
  vi.stubGlobal('IntersectionObserver',undefined);
  vi.stubGlobal('matchMedia',()=>({matches:reduced,addEventListener:vi.fn(),removeEventListener:vi.fn()}));
  const {container}=render(<main className="phase9-experience"><BrandPartners/><ServiceArea/></main>);
- const tiles=container.querySelectorAll<HTMLElement>('.brand-logo-item');expect(tiles).toHaveLength(21);
+ const tiles=container.querySelectorAll<HTMLElement>('.brand-logo-item');expect(tiles).toHaveLength(19);
  tiles.forEach(tile=>{expect(tile).toBeVisible();expect(tile.style.opacity).not.toBe('0');});container.querySelectorAll<HTMLElement>('.area-pin').forEach(item=>expect(item).toBeVisible());
 });
 it('marks blank optional steps honestly and shows the full phone in private Review',()=>{

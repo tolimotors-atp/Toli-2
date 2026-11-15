@@ -4,19 +4,15 @@ import { useRef } from "react";
 import { MapPin } from "lucide-react";
 import Reveal from "@/components/motion/Reveal";
 
-const areas = [
-  { name: "Anantapur", primary: true },
-  { name: "Hindupur", primary: false },
-  { name: "Tadipatri", primary: false },
-  { name: "Kadiri", primary: false },
-  { name: "Rayadurg", primary: false },
-  { name: "Kalyandurg", primary: false },
-  { name: "Penukonda", primary: false },
-  { name: "Madakasira", primary: false },
-  { name: "Gooty", primary: false },
-  { name: "Guntakal", primary: false },
-  { name: "Bellary", primary: false },
-  { name: "Dharmavaram", primary: false },
+// What comes to your door, drawn around the Anantapur hub. Wording matches the offers strip.
+const highlights = [
+  "Doorstep Pickup",
+  "Doorstep Drop",
+  "75-Point Health Check",
+  "Genuine Parts",
+  "Premium Detailing",
+  "AMC Plans",
+  "Battery Care",
 ];
 
 const ServiceArea = () => {
@@ -38,14 +34,12 @@ const ServiceArea = () => {
             WE COME TO YOU
           </h3>
           <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-            Doorstep pickup and drop across Anantapur district and surrounding areas.
+            Doorstep pickup and drop across Anantapur and surrounding areas.
           </p>
         </Reveal>
 
-        <div ref={sectionRef} className="grid lg:grid-cols-2 gap-10 items-center">
-          {/* Map visual */}
+        <div ref={sectionRef} className="max-w-xl mx-auto">
           <div className="relative bg-secondary/30 rounded-2xl border border-border p-6 sm:p-8 overflow-hidden">
-            {/* Simplified map grid */}
             <div className="absolute inset-0 opacity-[0.04]">
               <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
                 <defs>
@@ -69,16 +63,16 @@ const ServiceArea = () => {
                 </span>
               </div>
 
-              {/* Surrounding area pins — positioned around the hub */}
-              {areas.filter((a) => !a.primary).map((area, i) => {
-                const angle = (i / (areas.length - 1)) * Math.PI * 2 - Math.PI / 2;
-                const radius = 35 + (i % 3) * 8; // percent
+              {/* Highlights positioned around the hub */}
+              {highlights.map((label, i) => {
+                const angle = (i / highlights.length) * Math.PI * 2 - Math.PI / 2;
+                const radius = 38;
                 const x = 50 + Math.cos(angle) * radius;
                 const y = 50 + Math.sin(angle) * radius;
 
                 return (
                   <div
-                    key={area.name}
+                    key={label}
                     className="area-pin absolute"
                     style={{
                       left: `${x}%`,
@@ -89,7 +83,7 @@ const ServiceArea = () => {
                     <div className="flex items-center gap-1.5 group">
                       <div className="w-2.5 h-2.5 rounded-full bg-primary/60 border-2 border-primary/30 group-hover:bg-primary group-hover:border-primary transition-colors" />
                       <span className="text-[11px] font-medium text-muted-foreground group-hover:text-primary transition-colors whitespace-nowrap">
-                        {area.name}
+                        {label}
                       </span>
                     </div>
                   </div>
@@ -103,41 +97,15 @@ const ServiceArea = () => {
             </div>
           </div>
 
-          {/* Area list */}
-          <div>
-            <Reveal variant="fade">
-              <h4 className="font-display text-2xl sm:text-3xl tracking-wider mb-2 text-reveal">
-                SERVICE AREAS
-              </h4>
-              <p className="text-muted-foreground mb-8 text-reveal" style={{ "--motion-delay": "60ms" } as React.CSSProperties}>
-                We cover Anantapur and surrounding towns within 100km radius.
-              </p>
-            </Reveal>
-
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-              {areas.map((area) => (
-                <div
-                  key={area.name}
-                  className="flex items-center gap-2.5 px-4 py-3 rounded-xl border border-border/60 bg-background/50 hover:border-primary/30 hover:bg-primary/5 transition-all duration-200"
-                >
-                  <MapPin className={`w-3.5 h-3.5 shrink-0 ${area.primary ? "text-primary" : "text-muted-foreground"}`} />
-                  <span className={`text-sm font-medium ${area.primary ? "text-primary" : ""}`}>
-                    {area.name}
-                  </span>
-                </div>
-              ))}
-            </div>
-
-            <Reveal variant="fade" className="mt-8">
-              <p className="text-sm text-muted-foreground/70 text-reveal">
-                Don't see your area?{" "}
-                <a href="tel:+918074946335" className="text-primary hover:underline font-medium">
-                  Call us
-                </a>{" "}
-                — we often accommodate requests outside our standard coverage.
-              </p>
-            </Reveal>
-          </div>
+          <Reveal variant="fade" className="mt-8 text-center">
+            <p className="text-sm text-muted-foreground/70 text-reveal">
+              Want a pickup?{" "}
+              <a href="tel:+918074946335" className="text-primary hover:underline font-medium">
+                Call us
+              </a>{" "}
+              to confirm availability for your location.
+            </p>
+          </Reveal>
         </div>
       </div>
     </section>

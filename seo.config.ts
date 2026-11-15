@@ -91,7 +91,7 @@ export function pageMetadata(path: PagePath | undefined, site?: string) {
     telephone: '+91-8074946335',
     email: 'tolimotorsatp@gmail.com',
     address: {
-      '@type': 'PostalAddress', streetAddress: '6-2-806, Ram Nagar, Kovur Nagar',
+      '@type': 'PostalAddress', streetAddress: '6-2-806, Ram Nagar, Kovur Nagar, opposite DMart',
       addressLocality: 'Anantapur', addressRegion: 'Andhra Pradesh', postalCode: '515004', addressCountry: 'IN',
     },
     ...(site && { '@id': site + '#workshop', url: site, image: site + 'social-share.jpg' }),

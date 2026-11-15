@@ -22,8 +22,8 @@ export function observeJourney(root:HTMLElement, update:(frame:JourneyFrame)=>vo
       if(!visible) return;
       const p=storyProgress(top,b.height,innerHeight);
       node.style.setProperty('--journey-p',p.toFixed(3));
-      node.style.setProperty('--journey-shift',reduced.matches?'0px':`${((p-.5)*(innerWidth<768?6:18)).toFixed(2)}px`);
-      node.style.setProperty('--journey-angle',reduced.matches?'0deg':`${((p-.5)*2).toFixed(2)}deg`);
+      node.style.setProperty('--journey-shift',reduced.matches?'0px':`${((p-.5)*(innerWidth<768?3:9)).toFixed(2)}px`);
+      node.style.setProperty('--journey-angle',reduced.matches?'0deg':`${((p-.5)*1).toFixed(2)}deg`);
       node.style.setProperty('--journey-line',`${(p*100).toFixed(1)}%`);
     });
     sections.forEach(node=>node.classList.toggle('journey-current',node===active));

@@ -16,9 +16,9 @@ export default function Hero() {
   let frame=0;
   const apply=()=>{
    frame=0;
-   // The cars fade out gradually as the hero scrolls away; 0.7 of the hero is the ramp.
+   // The cars fade out gradually as the hero scrolls away; 1.1 hero heights is the ramp.
    const box=node.getBoundingClientRect();
-   const progress=Math.min(1,Math.max(0,-box.top/(box.height*0.7||1)));
+   const progress=Math.min(1,Math.max(0,-box.top/(box.height*1.1||1)));
    node.style.setProperty('--hero-cars-fade',(1-progress).toFixed(3));
    if(!desktop.matches){node.style.removeProperty('--hero-pin');return;}
    const pin=Math.min(scrollY,node.offsetHeight);
@@ -55,7 +55,7 @@ export default function Hero() {
      {label:'Complete Vehicle Inspection',note:'Ask about your vehicle',Icon:ClipboardCheck,service:'Vehicle Inspection'},
     ].map(({label,note,Icon,service},index)=><ServiceRequestLink key={label} defaultService={service}><button type="button" className="hero-reference-service" aria-label={`Enquire about ${label} — ${note}`}><span className={`hero-service-photo hero-service-photo-${index}`} aria-hidden="true"/><span className="hero-service-label"><Icon size={28} strokeWidth={1.6} aria-hidden="true"/><span>{label}<small>{note}</small></span></span><ArrowDownRight className="hero-service-arrow" size={16} aria-hidden="true"/></button></ServiceRequestLink>)}
    </div>
-   <div className="hero-reference-location"><MapPin size={20} aria-hidden="true"/><p><strong>TOLI MOTORS</strong><span>6-2-806, Ram Nagar, Kovur Nagar, Anantapur, Andhra Pradesh 515004</span></p><a href="tel:+919908303888"><Phone size={16} aria-hidden="true"/>99083 03888</a></div>
+   <div className="hero-reference-location"><MapPin size={20} aria-hidden="true"/><p><strong>TOLI MOTORS</strong><span>6-2-806, Ram Nagar, Kovur Nagar, opposite DMart, Anantapur, Andhra Pradesh 515004</span></p><a href="tel:+919908303888"><Phone size={16} aria-hidden="true"/>99083 03888</a></div>
    <div className="hero-journey-link"><span>01 / EXPLORE YOUR CAR’S CARE</span><span>SERVICES → REQUEST → CONTACT <ArrowDownRight size={16}/></span></div>
   </div>
  </section>;

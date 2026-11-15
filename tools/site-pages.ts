@@ -68,7 +68,7 @@ export function sitePages(site?: string): Plugin {
       }
       const links = routes.map(route => `- [${pages[route].label}](${pageHref(site ?? config.base, route)}): ${pages[route].description}`);
       const summary = ['# Toli Motors', '', '> Multi-brand car workshop in Anantapur, Andhra Pradesh, India.', '',
-        '6-2-806, Ram Nagar, Kovur Nagar, Anantapur 515004. Phone +91-8074946335. Email tolimotorsatp@gmail.com.',
+        '6-2-806, Ram Nagar, Kovur Nagar, opposite DMart, Anantapur 515004. Phone +91-8074946335. Email tolimotorsatp@gmail.com.',
         '', '## Pages', '', ...links, ''].join('\n');
       for (const name of ['llms.txt', 'lms.txt']) writeFileSync(join(out, name), summary);
     },

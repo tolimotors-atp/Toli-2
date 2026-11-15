@@ -1,0 +1,5 @@
+/* The shared car sits above Services and Journey, below the next chapter and the navigation. */
+.shared-vehicle {position:fixed;left:0;top:0;z-index:2;pointer-events:none;will-change:transform;visibility:hidden;}
+.section-stack[data-shared-car=on] .shared-vehicle {visibility:visible;}
+.section-stack[data-shared-car=on] :is(#services,#process) .mux-photography {visibility:hidden;}
+.section-stack[data-shared-car=on] .shared-vehicle .mux-photography {visibility:visible;}

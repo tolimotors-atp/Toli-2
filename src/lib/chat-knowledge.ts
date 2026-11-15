@@ -58,7 +58,7 @@ export const knowledgeBase: KBEntry[] = [
   // Location
   {
     keywords: ["location", "address", "where", "find", "map", "direction", "reach", "situated", "anantapur", "shop", "workshop"],
-    response: "We're located at:\n\n**Toli Motors**\n6-2-806, Ram Nagar, Kovur Nagar, Anantapur, Andhra Pradesh 515004\n\n📞 Call: +91-8074946335\n📧 Email: tolimotorsatp@gmail.com\n\nYou can find us on Google Maps — just search \"Toli Motors Anantapur\"!",
+    response: "We're located at:\n\n**Toli Motors**\n6-2-806, Ram Nagar, Kovur Nagar, opposite DMart, Anantapur, Andhra Pradesh 515004\n\n📞 Call: +91-8074946335\n📧 Email: tolimotorsatp@gmail.com\n\nYou can find us on Google Maps — just search \"Toli Motors Anantapur\"!",
   },
 
   // Contact
@@ -76,10 +76,10 @@ export const knowledgeBase: KBEntry[] = [
   // Brands
   {
     keywords: ["brand", "brands", "which car", "car brand", "multi-brand", "vehicle", "cars"],
-    response: "We service **21+ multi-brand vehicles** including:\n\nMaruti Suzuki, Hyundai, Tata, Toyota, Mahindra, Kia, Honda, MG, Renault, Nissan, Volkswagen, Skoda, Ford, Jeep, Citroen, Isuzu, Volvo, Audi, BMW, Mercedes-Benz, and Lexus.\n\nAnd many more! We have expertise across all major car brands.",
+    response: "We service **19+ multi-brand vehicles** including:\n\nMaruti Suzuki, Hyundai, Tata, Toyota, Mahindra, Kia, Honda, MG, Renault, Nissan, Volkswagen, Skoda, Ford, Jeep, Isuzu, Volvo, Audi, BMW, and Mercedes-Benz.\n\nAnd many more! We have expertise across all major car brands.",
   },
   {
-    keywords: ["toyota", "hyundai", "maruti", "suzuki", "tata", "mahindra", "kia", "honda", "ford", "volkswagen", "vw", "skoda", "nissan", "renault", "mg", "jeep", "bmw", "audi", "mercedes", "volvo", "lexus"],
+    keywords: ["toyota", "hyundai", "maruti", "suzuki", "tata", "mahindra", "kia", "honda", "ford", "volkswagen", "vw", "skoda", "nissan", "renault", "mg", "jeep", "bmw", "audi", "mercedes", "volvo"],
     response: "Share your vehicle make, model and the service you need. Our team will confirm availability for your vehicle. Call +91-8074946335.",
   },
 
@@ -102,7 +102,7 @@ export const knowledgeBase: KBEntry[] = [
   // About
   {
     keywords: ["about", "who", "about toli", "tell me about", "company", "workshop"],
-    response: "**Toli Motors** is a multi-brand car workshop with **20+ years of hands-on automotive experience**, situated in Anantapur, Andhra Pradesh.\n\nWe focus on:\n- Multi-brand service expertise across major car brands\n- Genuine parts and attention to quality\n- Affordable, transparent pricing\n- Doorstep pickup and delivery\n\nVisit us at 6-2-806, Ram Nagar, Kovur Nagar, Anantapur, Andhra Pradesh 515004.",
+    response: "**Toli Motors** is a multi-brand car workshop with **20+ years of hands-on automotive experience**, situated in Anantapur, Andhra Pradesh.\n\nWe focus on:\n- Multi-brand service expertise across major car brands\n- Genuine parts and attention to quality\n- Affordable, transparent pricing\n- Doorstep pickup and delivery\n\nVisit us at 6-2-806, Ram Nagar, Kovur Nagar, opposite DMart, Anantapur, Andhra Pradesh 515004.",
   },
 
   // Spare parts

@@ -19,8 +19,11 @@ import "./premium-light.css";
 import "./mobile-polish.css";
 import "./menu-motion.css";
 import { initializeTheme } from "./lib/site-theme";
+import { installScrollDamping } from "./lib/scroll-damping";
 const disposeTheme=initializeTheme();
 if(import.meta.hot)import.meta.hot.dispose(disposeTheme);
+const disposeScroll=installScrollDamping();
+if(import.meta.hot)import.meta.hot.dispose(disposeScroll);
 if(import.meta.env.VITE_PERFORMANCE_AUDIT==='1')import('./lib/performance-audit').then(({observePerformance})=>observePerformance());
 
 import { installSectionLinks } from "./lib/section-links";

@@ -1,6 +1,6 @@
-import { useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, ExternalLink, Star } from 'lucide-react';
-import { GOOGLE_REVIEWS_URL } from '@/lib/google-reviews';
+import { GOOGLE_REVIEWS_URL, fetchLiveReviews, type LiveReviews } from '@/lib/google-reviews';
 import './testimonials.css';
 
 const verifiedStories = [
@@ -14,10 +14,19 @@ const verifiedStories = [
 ];
 
 export default function Testimonials({
-  stories = verifiedStories,
+  stories: storiesProp,
   reviewUrl = GOOGLE_REVIEWS_URL,
 }: { stories?: typeof verifiedStories; reviewUrl?: string | null } = {}) {
   const rail = useRef<HTMLUListElement>(null);
+  const [live, setLive] = useState<LiveReviews | null>(null);
+  // Live Google data replaces the saved snapshot when the review endpoint is configured and answers.
+  useEffect(() => {
+    if (storiesProp) return;
+    const controller = new AbortController();
+    fetchLiveReviews(controller.signal).then(setLive);
+    return () => controller.abort();
+  }, [storiesProp]);
+  const stories = live?.reviews ?? storiesProp ?? verifiedStories;
   const scrollReviews = (direction: number) => {
     const list = rail.current;
     if (!list) return;
@@ -34,8 +43,13 @@ export default function Testimonials({
         <div className="customer-rating-summary">
           <h3>Google Reviews</h3>
           {stories.length > 0 && <>
-            <p className="customer-rating"><Star size={16} aria-hidden="true" /> <strong>4.1 out of 5</strong> · 83 reviews</p>
-            <p className="customer-rating-date">Google Maps snapshot, 13 November 2026</p>
+            {live ? <>
+              {live.rating !== null && <p className="customer-rating"><Star size={16} aria-hidden="true" /> <strong>{live.rating.toFixed(1)} out of 5</strong>{live.count !== null && <> · {live.count} reviews</>}</p>}
+              <p className="customer-rating-date">Live from Google{live.fetchedAt ? `, updated ${new Date(live.fetchedAt).toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' })}` : ''}</p>
+            </> : <>
+              <p className="customer-rating"><Star size={16} aria-hidden="true" /> <strong>4.1 out of 5</strong> · 83 reviews</p>
+              <p className="customer-rating-date">Google Maps snapshot, 13 November 2026</p>
+            </>}
           </>}
         </div>
       </header>
@@ -43,8 +57,8 @@ export default function Testimonials({
       {stories.length > 0 ? (
         <>
           <ul id="google-review-rail" ref={rail} className="customer-story-list" aria-label="Google review excerpts" tabIndex={0}>
-            {stories.map(({ author, stars, excerpt }) => (
-              <li className="customer-story" key={author}>
+            {stories.map(({ author, stars, excerpt }, index) => (
+              <li className="customer-story" key={`${author}-${index}`}>
                 <span className="customer-stars" aria-label={`${stars} out of 5 stars`} role="img">
                   {Array.from({ length: 5 }, (_, position) => <Star key={position} size={14} fill={position < stars ? 'currentColor' : 'none'} aria-hidden="true" />)}
                 </span>

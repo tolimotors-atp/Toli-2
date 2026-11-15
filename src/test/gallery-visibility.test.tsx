@@ -13,6 +13,7 @@ vi.mock('@/components/Hero',()=>({default:()=> <section id="hero"/>}));
 vi.mock('@/components/Services',()=>({default:()=> <section id="services"/>}));
 vi.mock('@/components/journey/ComponentExperience',()=>({default:()=> <section id="components"/>}));
 vi.mock('@/components/HowItWorks',()=>({default:()=> <section id="process"/>}));
+vi.mock('@/components/journey/SharedVehicle',()=>({default:()=>null}));
 vi.mock('@/components/CtaBanner',()=>({default:()=> <section id="booking"/>}));
 vi.mock('@/components/Contact',()=>({default:()=>null}));
 vi.mock('@/components/Footer',()=>({default:()=>null}));
