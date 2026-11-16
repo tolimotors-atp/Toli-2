@@ -6,6 +6,6 @@
   "assets": {
     "directory": "./dist",
     // The build writes 404.html; unknown addresses must return a real 404, not the home page.
-    "not_found_handling": "404-page"
+    "not_found_handling": "single-page-application"
   }
 }
