@@ -32,3 +32,4 @@ dist-ssr
 release-dist/
 release-artifacts/
 .release-input/
+!.env.production
