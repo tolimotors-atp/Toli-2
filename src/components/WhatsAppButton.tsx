@@ -1,4 +1,3 @@
-import { contact, waDigits } from "@/content";
 import { useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import { animate } from "animejs";
@@ -38,7 +37,7 @@ const WhatsAppButton = () => {
   return createPortal(
     <a
       ref={btnRef}
-      href={`https://wa.me/${waDigits(contact.whatsapp)}?text=Hi%2C%20I%20would%20like%20to%20enquire%20about%20your%20services.`}
+      href="https://wa.me/918074946335?text=Hi%2C%20I%20would%20like%20to%20enquire%20about%20your%20services."
       target="_blank"
       rel="noopener noreferrer"
       /* Secondary support tool: 48px on phones (still a comfortable target),
