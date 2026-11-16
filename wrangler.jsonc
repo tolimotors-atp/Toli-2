@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers Builds: serve the Vite build output (dist) as static files.
+  // Having this file stops "wrangler deploy" from trying to auto-configure Vite, which needs Vite 6+.
+  "name": "tolimotors",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    // The build writes 404.html; unknown addresses must return a real 404, not the home page.
+    "not_found_handling": "404-page"
+  }
+}
