@@ -10,6 +10,7 @@ const TermsAndConditions = lazy(() => import("./pages/TermsAndConditions"));
 const CookiePolicy = lazy(() => import("./pages/CookiePolicy"));
 import NotFound from "./pages/NotFound.tsx";
 import PageTransition from "@/components/motion/PageTransition";
+import ConsentBanner from "@/components/ads/ConsentBanner";
 
 import { pageInfo, pageMetadata, pagePath, publicSiteUrl } from '../seo.config';
 
@@ -30,6 +31,7 @@ const App = () => (
   <BrowserRouter basename={import.meta.env.BASE_URL} future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
     <RouteMetadata />
     <Sonner />
+    <ConsentBanner />
     <ServiceRequestDialogProvider>
       <PageTransition>
         <Suspense fallback={<div role="status" className="p-8">Loading page…</div>}>

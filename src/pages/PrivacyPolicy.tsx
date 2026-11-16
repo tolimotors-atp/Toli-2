@@ -3,6 +3,7 @@ import LegalPageShell from "@/components/LegalPageShell";
 
 const PrivacyPolicy = () => (
   <LegalPageShell kicker="Legal" title="Privacy Policy">
+    <p><strong>Last updated: 16 November 2026</strong></p>
     <p>
       This Privacy Policy explains how <strong>Toli Motors</strong> collects, uses, shares, and protects your personal information when
       you use this website. We respect your privacy and are committed to handling your data lawfully,
@@ -31,8 +32,9 @@ const PrivacyPolicy = () => (
       </li>
     </ul>
     <p>
-      We do <strong>not</strong> use cookies set by this website, and we do <strong>not</strong> run
-      analytics, advertising, or tracking scripts.
+      This website does not set its own cookies and runs no analytics. If advertising is switched on, Google
+      advertising technology may use cookies as described in section 3 and in our <Link to="/cookie-policy/">Cookie Policy</Link>.
+      Nothing from Google is loaded until you accept advertising.
     </p>
 
     <h2>3. Third-party services</h2>
@@ -43,16 +45,18 @@ const PrivacyPolicy = () => (
         control how WhatsApp processes your data.
       </li>
       <li>
-        <strong>Google Maps:</strong> our contact page embeds a Google Map. By choosing to load the map,
-        your device communicates with Google, which may set cookies. See our{" "}
-        <Link to="/cookie-policy/">Cookie Policy</Link>.
+        <strong>Google AdSense (advertising):</strong> when advertising is switched on and you choose “Accept all”, Google and its partners
+        may use cookies and similar technology to show ads and measure them, including ads based on your earlier visits to this and other websites.
+        Google receives standard request data such as your IP address and browser details. Learn more:
+        <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">how Google uses information from sites that use its services</a>, <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ads Settings</a> and the <a href="https://optout.aboutads.info" target="_blank" rel="noopener noreferrer">industry opt-out page (aboutads.info)</a>. If you choose “Reject non-essential”, no advertising request is made to Google. You can change your choice at any time with the “Privacy choices” link in the footer.
+        See our <Link to="/cookie-policy/">Cookie Policy</Link>.
       </li>
       <li>
         <strong>Google Fonts:</strong> the current release serves its font files from the same website origin; it does not request them from Google Fonts.
       </li>
     </ul>
 
-    <h2>Browser preferences and advertising</h2><p>The website stores your theme preference and optional map consent choice in localStorage. Enquiry drafts and assistant conversation state are held in page memory. Clearing site data removes saved preferences. Live advertisements and advertising scripts are disabled in the current release. Any future advertising release requires updated disclosures and an appropriate consent mechanism before activation.</p>
+    <h2>Browser preferences and advertising choices</h2><p>The website stores your theme preference and your advertising choice in your browser’s localStorage. Enquiry drafts and assistant conversation state are held in page memory. Clearing site data removes saved preferences and shows the choice again. Visitors in the European Economic Area, the United Kingdom and Switzerland are shown Google’s certified consent message where advertising is enabled.</p>
     <h2>4. How we use your information</h2>
     <p>We use the information you provide only to:</p>
     <ul>
@@ -117,6 +121,11 @@ const PrivacyPolicy = () => (
       <a href="mailto:tolimotorsatp@gmail.com">tolimotorsatp@gmail.com</a>.
     </p>
 
+
+    <h2>Trademarks</h2>
+    <p>
+      Toli Motors is an independent multi-brand workshop. It is not owned by, affiliated with or endorsed by any car manufacturer. Car brand names and logos shown on this website belong to their respective owners and are used only to say which makes of vehicle we service.
+    </p>
   </LegalPageShell>
 );
 

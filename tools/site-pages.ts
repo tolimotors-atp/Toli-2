@@ -1,9 +1,9 @@
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Plugin, ResolvedConfig } from 'vite';
-import { escapeHtml, pageHref, pageInfo, pageMetadata, pagePath, pages, type PagePath } from '../seo.config';
+import { adsenseMeta, adsTxt, escapeHtml, pageHref, pageInfo, pageMetadata, pagePath, pages, type PagePath } from '../seo.config';
 
-export function sitePages(site?: string): Plugin {
+export function sitePages(site?: string, adsenseId?: string): Plugin {
   let config: ResolvedConfig;
 
   function render(html: string, path?: PagePath) {
@@ -20,7 +20,7 @@ export function sitePages(site?: string): Plugin {
       <nav aria-label="Workshop links" class="flex flex-wrap gap-4 underline">${links.map(([label, href]) => `<a href="${href}">${label}</a>`).join('')}</nav>
     </main>`;
     return html.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`)
-      .replace('<!-- page-metadata -->', () => pageMetadata(path, site))
+      .replace('<!-- page-metadata -->', () => [pageMetadata(path, site), adsenseMeta(adsenseId)].filter(Boolean).join('\n'))
       .replace('<div id="root"></div>', () => `<div id="root">${body}</div>`);
   }
 
@@ -61,7 +61,8 @@ export function sitePages(site?: string): Plugin {
       }
       writeFileSync(join(out, '404.html'), render(template));
       const sitemap = site && `Sitemap: ${site}sitemap.xml\n`;
-      writeFileSync(join(out, 'robots.txt'), site ? `User-agent: *\nAllow: /\n\n${sitemap}` : 'User-agent: *\nDisallow: /\n');
+      writeFileSync(join(out, 'robots.txt'), site ? `User-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: *\nAllow: /\n\n${sitemap}` : 'User-agent: *\nDisallow: /\n');
+      if (adsenseId) writeFileSync(join(out, 'ads.txt'), adsTxt(adsenseId));
       if (site) {
         const urls = routes.map(route => `  <url><loc>${escapeHtml(pageHref(site, route))}</loc></url>`);
         writeFileSync(join(out, 'sitemap.xml'), ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', ...urls, '</urlset>', ''].join('\n'));
