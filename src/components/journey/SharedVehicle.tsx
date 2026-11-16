@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import MuxPhotography from './MuxPhotography';
 import { useJourney } from './journey-context';
 import { sharedCarTop } from '@/lib/shared-vehicle';
+import { storyProgress } from '@/lib/vehicle-policy';
 import './shared-vehicle.css';
 
 /** One car for Services and Journey on wide screens: it holds still while their content scrolls, then leaves with Journey. */
@@ -16,6 +17,11 @@ export default function SharedVehicle() {
     let frame = 0;
     const place = () => {
       frame = 0;
+      // The journey timeline only runs in development, so the scroll progress the 02 heading and the 03 red line use is set here.
+      for (const id of ['services', 'process']) {
+        const section = document.getElementById(id);
+        if (section) { const r = section.getBoundingClientRect(); section.style.setProperty('--journey-p', storyProgress(r.top, r.height, innerHeight).toFixed(3)); }
+      }
       const el = box.current, dock = document.querySelector<HTMLElement>('#services .journey-dock'), journey = document.getElementById('process');
       const active = wide.matches && !!dock && !!journey;
       setOn(prev => (prev === active ? prev : active));
