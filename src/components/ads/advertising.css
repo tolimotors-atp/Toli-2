@@ -5,3 +5,9 @@
 .ad-layout-small .ad-layout-placeholder {min-height:100px;}
 .ad-layout-large .ad-layout-placeholder,.ad-layout-slow .ad-layout-placeholder,.ad-layout-multiple .ad-layout-placeholder {min-height:280px;}
 @media(max-width:600px){.ad-layout-region {margin-block:48px;}.ad-layout-large .ad-layout-placeholder,.ad-layout-slow .ad-layout-placeholder,.ad-layout-multiple .ad-layout-placeholder{min-height:320px;}}
+
+/* Live ad slot: fixed reserved height (no layout shift), clipped so it never spills over other content. */
+.ad-slot{box-sizing:border-box;width:100%;max-width:1100px;margin:64px auto;padding:0 16px;color:hsl(var(--muted-foreground));}
+.ad-slot-label{font:600 11px/1.5 Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-align:center;margin:0 0 8px;}
+.ad-slot-box{height:280px;overflow:hidden;contain:layout paint;border-block:1px solid hsl(var(--border));background:hsl(var(--secondary)/.5);}
+@media(max-width:600px){.ad-slot{margin-block:48px}.ad-slot-box{height:320px}}

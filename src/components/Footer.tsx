@@ -5,6 +5,8 @@ import { navigateExperience } from "@/lib/experience-navigation";
 import { useSectionEntrance } from "@/hooks/use-section-entrance";
 import { useRef } from "react";
 import { Link } from "react-router-dom";
+import { adsConfigured, advertising } from "@/lib/advertising";
+import { reopenConsent } from "@/lib/consent";
 import { Phone, Mail, MapPin, Star } from "lucide-react";
 import Reveal from "@/components/motion/Reveal";
 import { stagger } from "animejs";
@@ -116,6 +118,7 @@ const Footer = () => {
             <Link to="/privacy-policy/" className="hover:text-primary transition-colors">Privacy</Link>
             <Link to="/terms-and-conditions/" className="hover:text-primary transition-colors">Terms</Link>
             <Link to="/cookie-policy/" className="hover:text-primary transition-colors">Cookies</Link>
+            {adsConfigured(advertising) && <button type="button" onClick={reopenConsent} className="hover:text-primary transition-colors">Privacy choices</button>}
           </nav>
           <p>&copy; {new Date().getFullYear()} Toli Motors (Multi-brand Car Workshop). All rights reserved.</p>
         </div>

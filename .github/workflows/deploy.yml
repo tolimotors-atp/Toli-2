@@ -19,6 +19,13 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          VITE_SITE_URL: ${{ vars.VITE_SITE_URL }}
+          VITE_ADSENSE_PUBLISHER_ID: ${{ vars.VITE_ADSENSE_PUBLISHER_ID || 'ca-pub-4857877397305724' }}
+          VITE_ADSENSE_SLOT_AFTER_GALLERY: ${{ vars.VITE_ADSENSE_SLOT_AFTER_GALLERY }}
+          VITE_ADSENSE_SLOT_BEFORE_FOOTER: ${{ vars.VITE_ADSENSE_SLOT_BEFORE_FOOTER }}
+          VITE_ADS_ENABLED: ${{ vars.VITE_ADS_ENABLED }}
+          VITE_ADS_LIVE_AUTHORIZED: ${{ vars.VITE_ADS_LIVE_AUTHORIZED }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

@@ -2,6 +2,7 @@ import LegalPageShell from "@/components/LegalPageShell";
 
 const TermsAndConditions = () => (
   <LegalPageShell kicker="Legal" title="Terms & Conditions">
+    <p><strong>Last updated: 16 November 2026</strong></p>
     <p>
       These Terms &amp; Conditions govern your use of the Toli Motors website and the services offered by{" "}
       <strong>Toli Motors</strong>. By using this website or submitting an enquiry, you agree to
@@ -97,6 +98,11 @@ const TermsAndConditions = () => (
       <a href="mailto:tolimotorsatp@gmail.com">tolimotorsatp@gmail.com</a>.
     </p>
 
+
+    <h2>Trademarks</h2>
+    <p>
+      Toli Motors is an independent multi-brand workshop. It is not owned by, affiliated with or endorsed by any car manufacturer. Car brand names and logos shown on this website belong to their respective owners and are used only to say which makes of vehicle we service.
+    </p>
   </LegalPageShell>
 );
 

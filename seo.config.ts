@@ -11,6 +11,12 @@ export function publicSiteUrl(value?: string): string | undefined {
   }
 }
 
+/** AdSense publisher id (ca-pub-0000000000000000), or undefined when unset/invalid. */
+export const adsensePublisherId = (value?: string) => value && /^ca-pub-\d{16}$/.test(value) ? value : undefined;
+export const adsTxt = (id: string) => `google.com, ${id.replace('ca-', '')}, DIRECT, f08c47fec0942fa0
+`;
+export const adsenseMeta = (id?: string) => id ? `<meta name="google-adsense-account" content="${id}">` : '';
+
 export const pages = {
   '/': {
     label: 'Home',
@@ -28,7 +34,7 @@ export const pages = {
     label: 'Privacy Policy',
     heading: 'Privacy Policy',
     title: 'Privacy Policy | Toli Motors',
-    description: 'Learn what information Toli Motors uses when you prepare an enquiry, open WhatsApp, use the local assistant or choose to load Google Maps.',
+    description: 'Learn what information Toli Motors uses when you prepare an enquiry, open WhatsApp, use the local assistant or see advertising.',
   },
   '/terms-and-conditions': {
     label: 'Terms & Conditions',
@@ -40,7 +46,7 @@ export const pages = {
     label: 'Cookie Policy',
     heading: 'Cookie Policy',
     title: 'Cookie Policy | Toli Motors',
-    description: 'Find out how this website stores theme and map preferences and how to control optional Google Maps cookies.',
+    description: 'Find out how this website stores preferences, how advertising cookies work and how to manage your consent choices.',
   },
 } as const;
 
