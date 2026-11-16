@@ -37,7 +37,7 @@ export default function Hero() {
     <ToliLogoPill size="hero"/>
     <p className="hero-workshop-subtitle">MULTI BRAND CAR WORKSHOP</p>
    </div><p className="system-label entry-index">01 / TOLI MOTORS</p>
-    <div className="hero-corner-info"><div className="hero-brand hero-location"><p className="hero-location-text toli-logo-pill hero-info-pill"><strong>ANANTAPUR</strong><span> SERVICE · REPAIR · CARE</span></p></div><div className="hero-corner-offers"><OffersStrip/></div><div className="hero-brand-phones toli-logo-pill hero-info-pill"><Phone size={15} aria-hidden="true"/><a href="tel:+919908303888">99083 03888</a><span aria-hidden="true">/</span><a href="tel:+918074946335">80749 46335</a></div></div>
+    <div className="hero-corner-info"><div className="hero-brand hero-location"><p className="hero-location-text toli-logo-pill hero-info-pill"><strong>ANANTAPUR</strong><span> SERVICE · REPAIR · SPARES</span></p></div><div className="hero-corner-offers"><OffersStrip/></div><div className="hero-brand-phones toli-logo-pill hero-info-pill"><Phone size={15} aria-hidden="true"/><a href="tel:+919908303888">99083 03888</a><span aria-hidden="true">/</span><a href="tel:+918074946335">80749 46335</a></div></div>
     <h1 id="hero-title">Expert car care.<br/>{' '}<span>You can trust.</span></h1>
     <BrandCaption className="hero-brand-caption"/>
     <p className="hero-description">Professional servicing, genuine parts and skilled technicians to keep your car running at its best.</p>

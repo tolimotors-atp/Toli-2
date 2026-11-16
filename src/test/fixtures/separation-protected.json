@@ -34,7 +34,7 @@
   "src/components/Navbar.tsx": "ff800239263eaa3052089c5e66c150e8a6df2b8bfa869c38bcc5aee3d7176888",
   "src/components/OffersStrip.tsx": "7da5a66bd913450881343260799c440cf5497acd9623c91a1938519b317d6fc0",
   "src/components/VehicleCombobox.tsx": "9e8979b9104a2360568e7a80e67ab37ca2b128a0419dd3a90e46bc1dd665435d",
-  "src/components/Hero.tsx": "7c1f653ee29ccc5223ef6076448ab6704db37798b15d5184f55e73c93094b838",
+  "src/components/Hero.tsx": "c13ff731219f2c329988fd2653b07f00193e5269739c40a8c7e216e05427811f",
   "src/components/GalleryImage.tsx": "47a85f27ec72d60c0e7c5b253d694f7d8fa487de460ce12a8c7ba10e7a213947",
   "src/components/Contact.tsx": "468f4759c3714e50520aaef1bbd4d361428d9329d7f850148be85d6e99ed2d96",
   "src/components/Stats.tsx": "5202dba6c6a2887a3aea2a9ba6305a11ace4ce9a9261f726a0961bd598e533a3",

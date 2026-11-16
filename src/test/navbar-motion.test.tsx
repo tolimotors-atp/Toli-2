@@ -8,7 +8,7 @@ afterEach(cleanup);
 it('keeps the header identity and logo with one approved vehicle artwork',()=>{
  const {container}=render(<MemoryRouter><ExperienceNavigation/></MemoryRouter>);
  expect(screen.getByRole('img',{name:'Toli Motors'})).toBeVisible();
- expect(screen.queryByText('ANANTAPUR SERVICE · REPAIR · CARE')).not.toBeInTheDocument();
+ expect(screen.queryByText('ANANTAPUR SERVICE · REPAIR · SPARES')).not.toBeInTheDocument();
  expect(container.querySelectorAll('.navbar-performance-car')).toHaveLength(1);expect(container.querySelectorAll('.nav-wheel')).toHaveLength(2);
  expect(container.querySelectorAll('.nav-campaign-body')).toHaveLength(1);
  expect(screen.queryByText(/Your Car, Our Care/)).not.toBeInTheDocument();
@@ -32,7 +32,7 @@ it('cleans up the navbar visibility listener on unmount',()=>{
 it('places the exact location label in the Hero before its heading',()=>{
  const {container}=render(<MemoryRouter><Hero/></MemoryRouter>);
  const label=container.querySelector('.hero-location-text')!;
- expect(label).toHaveTextContent('ANANTAPUR SERVICE · REPAIR · CARE');
+ expect(label).toHaveTextContent('ANANTAPUR SERVICE · REPAIR · SPARES');
  const heading=screen.getByRole('heading',{name:'Expert car care. You can trust.'});
  expect(label.closest('#hero')).not.toBeNull();
  expect(label.compareDocumentPosition(heading)&Node.DOCUMENT_POSITION_FOLLOWING).toBeTruthy();

@@ -13,7 +13,7 @@ it('uses the replacement three-car presentation while preserving official identi
  expect(screen.getByText('MULTI BRAND CAR WORKSHOP')).toBeVisible();
  expect(container.querySelector('canvas')).toBeNull();
  expect(container.querySelector('#hero-title')?.nextElementSibling).toHaveClass('hero-brand-caption');
- expect(container.querySelector('.hero-corner-info .hero-location-text')).toHaveTextContent('ANANTAPUR SERVICE · REPAIR · CARE');
+ expect(container.querySelector('.hero-corner-info .hero-location-text')).toHaveTextContent('ANANTAPUR SERVICE · REPAIR · SPARES');
  expect(container.querySelectorAll('.hero-corner-info a[href^="tel:"]')).toHaveLength(2);
  expect(container.querySelector('.hero-reference-brand .hero-brand-phones')).toBeNull();
  for(let i=0;i<4;i++) expect(container.querySelectorAll(`.hero-service-photo-${i}`)).toHaveLength(1);
